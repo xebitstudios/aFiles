@@ -1,0 +1,554 @@
+import React, { useEffect, useMemo, useRef, useState } from "react";
+
+/**
+ * Accessible Patient Intake Form
+ * - Uses native semantics + ARIA where helpful
+ * - Skip link, landmark roles, headings
+ * - Keyboard friendly (no custom widgets that break tab/shift+tab)
+ * - Validation with focus sent to first error
+ * - Live region for announcements
+ */
+export default function App() {
+  const [formData, setFormData] = useState({
+    firstName: "",
+    lastName: "",
+    dob: "",
+    gender: "",
+    phone: "",
+    email: "",
+    address: "",
+    city: "",
+    state: "",
+    zip: "",
+    insuranceProvider: "",
+    memberId: "",
+    primaryPhysician: "",
+    allergies: [] as string[],
+    symptoms: "",
+    consent: false,
+  });
+
+  const [errors, setErrors] = useState<Record<string, string>>({});
+  const [announce, setAnnounce] = useState("");
+
+  // Section refs for quick keyboard navigation between sections
+  const sectionRefs = {
+    personal: useRef<HTMLDivElement | null>(null),
+    contact: useRef<HTMLDivElement | null>(null),
+    insurance: useRef<HTMLDivElement | null>(null),
+    medical: useRef<HTMLDivElement | null>(null),
+    consent: useRef<HTMLDivElement | null>(null),
+  } as const;
+
+  const firstErrorRef = useRef<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement | null>(null);
+  const liveRegionRef = useRef<HTMLDivElement | null>(null);
+
+  useEffect(() => {
+    if (announce && liveRegionRef.current) {
+      // Move focus to the live region when there are errors so screen reader users hear it immediately
+      liveRegionRef.current.focus();
+    }
+  }, [announce]);
+
+  function update<K extends keyof typeof formData>(key: K, value: (typeof formData)[K]) {
+    setFormData(prev => ({ ...prev, [key]: value }));
+  }
+
+  function toggleAllergy(value: string) {
+    setFormData(prev => {
+      const exists = prev.allergies.includes(value);
+      return { ...prev, allergies: exists ? prev.allergies.filter(a => a !== value) : [...prev.allergies, value] };
+    });
+  }
+
+  function validate() {
+    const e: Record<string, string> = {};
+    const emailRe = /\S+@\S+\.[A-Za-z]{2,}/;
+    const phoneRe = /^[0-9\-()\s]{7,}$/;
+
+    if (!formData.firstName.trim()) e.firstName = "First name is required.";
+    if (!formData.lastName.trim()) e.lastName = "Last name is required.";
+    if (!formData.dob) e.dob = "Date of birth is required.";
+    if (!formData.gender) e.gender = "Select a gender option.";
+
+    if (!formData.phone.trim()) e.phone = "Phone is required.";
+    else if (!phoneRe.test(formData.phone)) e.phone = "Enter a valid phone number.";
+
+    if (!formData.email.trim()) e.email = "Email is required.";
+    else if (!emailRe.test(formData.email)) e.email = "Enter a valid email address.";
+
+    if (!formData.address.trim()) e.address = "Address is required.";
+    if (!formData.city.trim()) e.city = "City is required.";
+    if (!formData.state.trim()) e.state = "State is required.";
+    if (!formData.zip.trim()) e.zip = "ZIP code is required.";
+
+    if (!formData.insuranceProvider) e.insuranceProvider = "Select your insurance provider.";
+    if (!formData.memberId.trim()) e.memberId = "Member ID is required.";
+
+    if (!formData.consent) e.consent = "You must agree before submitting.";
+
+    return e;
+  }
+
+  function onSubmit(ev: React.FormEvent) {
+    ev.preventDefault();
+    const e = validate();
+    setErrors(e);
+
+    if (Object.keys(e).length > 0) {
+      // announce errors
+      const msg = `${Object.keys(e).length} error${Object.keys(e).length > 1 ? "s" : ""} found. Please review.`;
+      setAnnounce(msg);
+      // focus first error control
+      const firstKey = Object.keys(e)[0];
+      const id = controlId(firstKey);
+      const el = document.getElementById(id) as HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement | null;
+      if (el) {
+        el.focus();
+        firstErrorRef.current = el;
+      }
+    } else {
+      setAnnounce("Form submitted successfully. Thank you.");
+      alert("? Submitted! (This demo just shows an alert)\n\n" + JSON.stringify(formData, null, 2));
+    }
+  }
+
+  function controlId(name: string) {
+    return `ctrl-${name}`;
+  }
+
+  const required = (name: keyof typeof formData) => (
+    <span aria-hidden="true" className="text-red-700">*</span>
+  );
+
+  const hasError = (name: string) => !!errors[name];
+  const errId = (name: string) => (hasError(name) ? `err-${name}` : undefined);
+
+  // Simple styling to make focus visible and layout tidy without external libs
+  const styles = `
+    :root { --max: 860px; }
+    * { box-sizing: border-box; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.4; }
+    a.skip-link { position: absolute; left: -999px; top: auto; width:1px; height:1px; overflow:hidden; }
+    a.skip-link:focus { position: static; width:auto; height:auto; padding: .5rem .75rem; background:#eef; display:inline-block; }
+    header, main, footer { margin: 0 auto; max-width: var(--max); padding: 1rem; }
+    header { border-bottom: 3px solid #eef; }
+    h1 { margin: 0 0 .5rem; }
+    form { display: grid; gap: 1rem; }
+    .card { border: 1px solid #ddd; border-radius: .75rem; padding: 1rem; }
+    .row { display: grid; gap: .75rem; grid-template-columns: repeat(12, 1fr); }
+    .col-6 { grid-column: span 6; }
+    .col-4 { grid-column: span 4; }
+    .col-8 { grid-column: span 8; }
+    .col-12 { grid-column: span 12; }
+    label { display:block; font-weight: 600; margin-bottom: .25rem; }
+    input, select, textarea { width: 100%; padding: .6rem .7rem; border: 1px solid #aaa; border-radius: .5rem; font-size: 1rem; }
+    fieldset { border: 1px solid #ccc; border-radius: .5rem; padding: .75rem; }
+    legend { font-weight: 600; padding: 0 .25rem; }
+    .hint { color: #444; font-size: .9rem; }
+    .error { color: #7a0019; font-weight: 600; margin-top: .35rem; }
+    [aria-invalid="true"] { border-color: #b00020; }
+    button { border: none; border-radius: .6rem; padding: .7rem 1rem; font-size: 1rem; cursor: pointer; }
+    .btn-primary { background: #0d6efd; color: white; }
+    .btn-secondary { background: #e9ecef; }
+    .toolbar { display:flex; gap: .5rem; justify-content: flex-end; }
+    .sr-only { position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden; }
+    :focus-visible { outline: 3px solid #0d6efd; outline-offset: 2px; }
+  `;
+
+  const providers = useMemo(() => ["Select...", "Aetna", "Blue Cross", "Cigna", "Kaiser", "Medicare", "UnitedHealthcare", "Other"], []);
+
+  function goToSection(key: keyof typeof sectionRefs) {
+    const node = sectionRefs[key].current;
+    if (node) {
+      node.setAttribute("tabindex", "-1");
+      (node as HTMLElement).focus();
+    }
+  }
+
+  return (
+    <>
+      <style>{styles}</style>
+
+      {/* Skip to content for keyboard users */}
+      <a href="#main" className="skip-link">Skip to main content</a>
+
+      <header role="banner">
+        <h1>Patient Intake Form</h1>
+        <p id="app-desc">Fields marked with <span aria-hidden>*</span> are required.</p>
+        <nav aria-label="Form sections">
+          <div className="toolbar" role="toolbar" aria-label="Quick section navigation">
+            <button type="button" className="btn-secondary" onClick={() => goToSection("personal")}>Personal</button>
+            <button type="button" className="btn-secondary" onClick={() => goToSection("contact")}>Contact</button>
+            <button type="button" className="btn-secondary" onClick={() => goToSection("insurance")}>Insurance</button>
+            <button type="button" className="btn-secondary" onClick={() => goToSection("medical")}>Medical</button>
+            <button type="button" className="btn-secondary" onClick={() => goToSection("consent")}>Consent</button>
+          </div>
+        </nav>
+      </header>
+
+      <main id="main" role="main" aria-describedby="app-desc">
+        {/* Live region for validation announcements */}
+        <div
+          ref={liveRegionRef}
+          tabIndex={-1}
+          aria-live="polite"
+          aria-atomic="true"
+          role="status"
+          style={{ position: "absolute", left: -9999, height: 1, width: 1, overflow: "hidden" }}
+        >
+          {announce}
+        </div>
+
+        <form noValidate onSubmit={onSubmit} aria-labelledby="form-title">
+          <h2 id="form-title" className="sr-only">Clinic patient intake form</h2>
+
+          {/* Personal Information */}
+          <section className="card" aria-labelledby="sec-personal-h">
+            <div ref={sectionRefs.personal}>
+              <h3 id="sec-personal-h">Personal information</h3>
+            </div>
+            <div className="row">
+              <div className="col-6">
+                <label htmlFor={controlId("firstName")}>
+                  First name {required("firstName")}
+                </label>
+                <input
+                  id={controlId("firstName")}
+                  name="firstName"
+                  type="text"
+                  autoComplete="given-name"
+                  value={formData.firstName}
+                  onChange={(e) => update("firstName", e.target.value)}
+                  aria-invalid={hasError("firstName")}
+                  aria-describedby={errId("firstName")}
+                  required
+                />
+                {hasError("firstName") && (
+                  <p id={errId("firstName")!} className="error" role="alert">{errors.firstName}</p>
+                )}
+              </div>
+              <div className="col-6">
+                <label htmlFor={controlId("lastName")}>
+                  Last name {required("lastName")}
+                </label>
+                <input
+                  id={controlId("lastName")}
+                  name="lastName"
+                  type="text"
+                  autoComplete="family-name"
+                  value={formData.lastName}
+                  onChange={(e) => update("lastName", e.target.value)}
+                  aria-invalid={hasError("lastName")}
+                  aria-describedby={errId("lastName")}
+                  required
+                />
+                {hasError("lastName") && (
+                  <p id={errId("lastName")!} className="error" role="alert">{errors.lastName}</p>
+                )}
+              </div>
+              <div className="col-4">
+                <label htmlFor={controlId("dob")}>
+                  Date of birth {required("dob")}
+                </label>
+                <input
+                  id={controlId("dob")}
+                  name="dob"
+                  type="date"
+                  value={formData.dob}
+                  onChange={(e) => update("dob", e.target.value)}
+                  aria-invalid={hasError("dob")}
+                  aria-describedby={errId("dob")}
+                  required
+                />
+                {hasError("dob") && (
+                  <p id={errId("dob")!} className="error" role="alert">{errors.dob}</p>
+                )}
+              </div>
+              <div className="col-8">
+                <fieldset aria-describedby={errId("gender")}>
+                  <legend>Gender {required("gender")}</legend>
+                  <div role="group" aria-label="Gender options" className="row">
+                    {[
+                      { value: "female", label: "Female" },
+                      { value: "male", label: "Male" },
+                      { value: "nonbinary", label: "Non-binary" },
+                      { value: "preferNot", label: "Prefer not to say" },
+                    ].map(opt => (
+                      <label key={opt.value} className="col-4" style={{ fontWeight: 500 }}>
+                        <input
+                          type="radio"
+                          name="gender"
+                          value={opt.value}
+                          checked={formData.gender === opt.value}
+                          onChange={(e) => update("gender", e.target.value)}
+                          aria-invalid={hasError("gender")}
+                        /> {opt.label}
+                      </label>
+                    ))}
+                  </div>
+                  {hasError("gender") && (
+                    <p id={errId("gender")!} className="error" role="alert">{errors.gender}</p>
+                  )}
+                </fieldset>
+              </div>
+            </div>
+          </section>
+
+          {/* Contact Information */}
+          <section className="card" aria-labelledby="sec-contact-h">
+            <div ref={sectionRefs.contact}><h3 id="sec-contact-h">Contact information</h3></div>
+            <div className="row">
+              <div className="col-4">
+                <label htmlFor={controlId("phone")}>
+                  Phone {required("phone")}
+                </label>
+                <input
+                  id={controlId("phone")}
+                  name="phone"
+                  type="tel"
+                  inputMode="tel"
+                  autoComplete="tel"
+                  value={formData.phone}
+                  onChange={(e) => update("phone", e.target.value)}
+                  aria-invalid={hasError("phone")}
+                  aria-describedby={errId("phone")}
+                  required
+                />
+                {hasError("phone") && (
+                  <p id={errId("phone")!} className="error" role="alert">{errors.phone}</p>
+                )}
+              </div>
+              <div className="col-8">
+                <label htmlFor={controlId("email")}>
+                  Email {required("email")}
+                </label>
+                <input
+                  id={controlId("email")}
+                  name="email"
+                  type="email"
+                  autoComplete="email"
+                  value={formData.email}
+                  onChange={(e) => update("email", e.target.value)}
+                  aria-invalid={hasError("email")}
+                  aria-describedby={errId("email")}
+                  required
+                />
+                {hasError("email") && (
+                  <p id={errId("email")!} className="error" role="alert">{errors.email}</p>
+                )}
+              </div>
+              <div className="col-12">
+                <label htmlFor={controlId("address")}>
+                  Street address {required("address")}
+                </label>
+                <input
+                  id={controlId("address")}
+                  name="address"
+                  type="text"
+                  autoComplete="street-address"
+                  value={formData.address}
+                  onChange={(e) => update("address", e.target.value)}
+                  aria-invalid={hasError("address")}
+                  aria-describedby={errId("address")}
+                  required
+                />
+                {hasError("address") && (
+                  <p id={errId("address")!} className="error" role="alert">{errors.address}</p>
+                )}
+              </div>
+              <div className="col-4">
+                <label htmlFor={controlId("city")}>
+                  City {required("city")}
+                </label>
+                <input
+                  id={controlId("city")}
+                  name="city"
+                  type="text"
+                  autoComplete="address-level2"
+                  value={formData.city}
+                  onChange={(e) => update("city", e.target.value)}
+                  aria-invalid={hasError("city")}
+                  aria-describedby={errId("city")}
+                  required
+                />
+                {hasError("city") && (
+                  <p id={errId("city")!} className="error" role="alert">{errors.city}</p>
+                )}
+              </div>
+              <div className="col-4">
+                <label htmlFor={controlId("state")}>
+                  State {required("state")}
+                </label>
+                <input
+                  id={controlId("state")}
+                  name="state"
+                  type="text"
+                  inputMode="text"
+                  autoComplete="address-level1"
+                  value={formData.state}
+                  onChange={(e) => update("state", e.target.value)}
+                  aria-invalid={hasError("state")}
+                  aria-describedby={errId("state")}
+                  required
+                />
+                {hasError("state") && (
+                  <p id={errId("state")!} className="error" role="alert">{errors.state}</p>
+                )}
+              </div>
+              <div className="col-4">
+                <label htmlFor={controlId("zip")}>
+                  ZIP {required("zip")}
+                </label>
+                <input
+                  id={controlId("zip")}
+                  name="zip"
+                  type="text"
+                  inputMode="numeric"
+                  autoComplete="postal-code"
+                  value={formData.zip}
+                  onChange={(e) => update("zip", e.target.value)}
+                  aria-invalid={hasError("zip")}
+                  aria-describedby={errId("zip")}
+                  required
+                />
+                {hasError("zip") && (
+                  <p id={errId("zip")!} className="error" role="alert">{errors.zip}</p>
+                )}
+              </div>
+            </div>
+          </section>
+
+          {/* Insurance */}
+          <section className="card" aria-labelledby="sec-insurance-h">
+            <div ref={sectionRefs.insurance}><h3 id="sec-insurance-h">Insurance</h3></div>
+            <div className="row">
+              <div className="col-8">
+                <label htmlFor={controlId("insuranceProvider")}>
+                  Provider {required("insuranceProvider")}
+                </label>
+                <select
+                  id={controlId("insuranceProvider")} 
+                  name="insuranceProvider"
+                  value={formData.insuranceProvider}
+                  onChange={(e) => update("insuranceProvider", e.target.value)}
+                  aria-invalid={hasError("insuranceProvider")}
+                  aria-describedby={errId("insuranceProvider")}
+                  required
+                >
+                  {providers.map(p => (
+                    <option key={p} value={p === "Select..." ? "" : p}>{p}</option>
+                  ))}
+                </select>
+                {hasError("insuranceProvider") && (
+                  <p id={errId("insuranceProvider")!} className="error" role="alert">{errors.insuranceProvider}</p>
+                )}
+                <p className="hint">If you don't see your provider, choose "Other" and we'll confirm during check-in.</p>
+              </div>
+              <div className="col-4">
+                <label htmlFor={controlId("memberId")}>
+                  Member ID {required("memberId")}
+                </label>
+                <input
+                  id={controlId("memberId")}
+                  name="memberId"
+                  type="text"
+                  value={formData.memberId}
+                  onChange={(e) => update("memberId", e.target.value)}
+                  aria-invalid={hasError("memberId")}
+                  aria-describedby={errId("memberId")}
+                  required
+                />
+                {hasError("memberId") && (
+                  <p id={errId("memberId")!} className="error" role="alert">{errors.memberId}</p>
+                )}
+              </div>
+            </div>
+          </section>
+
+          {/* Medical */}
+          <section className="card" aria-labelledby="sec-medical-h">
+            <div ref={sectionRefs.medical}><h3 id="sec-medical-h">Medical information</h3></div>
+            <div className="row">
+              <div className="col-6">
+                <label htmlFor={controlId("primaryPhysician")}>Primary care physician</label>
+                <input
+                  id={controlId("primaryPhysician")}
+                  name="primaryPhysician"
+                  type="text"
+                  value={formData.primaryPhysician}
+                  onChange={(e) => update("primaryPhysician", e.target.value)}
+                />
+              </div>
+              <div className="col-6">
+                <fieldset>
+                  <legend>Allergies (select all that apply)</legend>
+                  <div role="group" aria-label="Allergies" className="row">
+                    {["Penicillin", "Latex", "Peanuts", "Shellfish", "Other"].map(a => (
+                      <label key={a} className="col-4" style={{ fontWeight: 500 }}>
+                        <input
+                          type="checkbox"
+                          checked={formData.allergies.includes(a)}
+                          onChange={() => toggleAllergy(a)}
+                        /> {a}
+                      </label>
+                    ))}
+                  </div>
+                </fieldset>
+              </div>
+              <div className="col-12">
+                <label htmlFor={controlId("symptoms")}>Describe your current symptoms</label>
+                <textarea
+                  id={controlId("symptoms")}
+                  name="symptoms"
+                  rows={5}
+                  value={formData.symptoms}
+                  onChange={(e) => update("symptoms", e.target.value)}
+                  aria-describedby="symptoms-hint"
+                />
+                <p id="symptoms-hint" className="hint">Include onset date, triggers, and pain scale (1–10) if relevant.</p>
+              </div>
+            </div>
+          </section>
+
+          {/* Consent */}
+          <section className="card" aria-labelledby="sec-consent-h">
+            <div ref={sectionRefs.consent}><h3 id="sec-consent-h">Consent & privacy</h3></div>
+            <div className="row">
+              <div className="col-12">
+                <label style={{ fontWeight: 500 }}>
+                  <input
+                    id={controlId("consent")}
+                    type="checkbox"
+                    checked={formData.consent}
+                    onChange={(e) => update("consent", e.target.checked)}
+                    aria-invalid={hasError("consent")}
+                    aria-describedby={errId("consent")}
+                  />
+                  <span style={{ marginLeft: ".5rem" }}>
+                    I consent to the clinic's privacy policy and the use of my information for treatment, payment, and healthcare operations.
+                  </span>
+                </label>
+                {hasError("consent") && (
+                  <p id={errId("consent")!} className="error" role="alert">{errors.consent}</p>
+                )}
+              </div>
+            </div>
+          </section>
+
+          <div className="toolbar" role="toolbar" aria-label="Form actions">
+            <button type="submit" className="btn-primary">Submit form</button>
+            <button type="reset" className="btn-secondary" onClick={() => { setFormData({
+              firstName: "", lastName: "", dob: "", gender: "", phone: "", email: "", address: "", city: "", state: "", zip: "",
+              insuranceProvider: "", memberId: "", primaryPhysician: "", allergies: [], symptoms: "", consent: false,
+            }); setErrors({}); setAnnounce("Form cleared."); }}>Clear</button>
+          </div>
+        </form>
+      </main>
+
+      <footer role="contentinfo" aria-label="Clinic information">
+        <small>Accessible demo · No data is stored or sent.</small>
+      </footer>
+    </>
+  );
+}
