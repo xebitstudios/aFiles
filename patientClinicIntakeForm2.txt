@@ -1,0 +1,187 @@
+// index.js
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './App';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
+
+// App.js
+import React from 'react';
+import PatientIntakeForm from './PatientIntakeForm';
+
+function App() {
+  return (
+    <div className="App">
+      <PatientIntakeForm />
+    </div>
+  );
+}
+
+export default App;
+
+// PatientIntakeForm.js
+import React, { useState } from 'react';
+
+export default function PatientIntakeForm() {
+  const [formData, setFormData] = useState({
+    name: '',
+    age: '',
+    gender: '',
+    symptoms: '',
+    consent: false,
+  });
+  const [errors, setErrors] = useState({});
+  const [status, setStatus] = useState('');
+
+  const handleChange = (e) => {
+    const { name, value, type, checked } = e.target;
+    setFormData({
+      ...formData,
+      [name]: type === 'checkbox' ? checked : value,
+    });
+  };
+
+  const validate = () => {
+    const newErrors = {};
+    if (!formData.name) newErrors.name = 'Name is required.';
+    if (!formData.age) newErrors.age = 'Age is required.';
+    if (!formData.gender) newErrors.gender = 'Gender is required.';
+    if (!formData.consent) newErrors.consent = 'Consent is required.';
+    return newErrors;
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const validationErrors = validate();
+    setErrors(validationErrors);
+
+    if (Object.keys(validationErrors).length > 0) {
+      setStatus(`There are ${Object.keys(validationErrors).length} errors in the form.`);
+    } else {
+      setStatus('Form submitted successfully!');
+    }
+  };
+
+  return (
+    <div>
+      <a href="#main" className="skip-link">Skip to main content</a>
+      <header role="banner">
+        <h1>Medical Clinic Patient Intake Form</h1>
+      </header>
+
+      <nav role="toolbar" aria-label="Form navigation">
+        <a href="#personal-info">Personal Info</a> |
+        <a href="#medical-info">Medical Info</a>
+      </nav>
+
+      <main id="main" role="main">
+        <form onSubmit={handleSubmit}>
+          <section id="personal-info">
+            <h2>Personal Information</h2>
+
+            <div>
+              <label htmlFor="name">Full Name</label>
+              <input
+                id="name"
+                name="name"
+                type="text"
+                value={formData.name}
+                onChange={handleChange}
+                aria-invalid={errors.name ? 'true' : 'false'}
+                aria-describedby={errors.name ? 'name-error' : undefined}
+              />
+              {errors.name && <div id="name-error">{errors.name}</div>}
+            </div>
+
+            <div>
+              <label htmlFor="age">Age</label>
+              <input
+                id="age"
+                name="age"
+                type="number"
+                value={formData.age}
+                onChange={handleChange}
+                aria-invalid={errors.age ? 'true' : 'false'}
+                aria-describedby={errors.age ? 'age-error' : undefined}
+              />
+              {errors.age && <div id="age-error">{errors.age}</div>}
+            </div>
+
+            <fieldset>
+              <legend>Gender</legend>
+              <label>
+                <input
+                  type="radio"
+                  name="gender"
+                  value="male"
+                  checked={formData.gender === 'male'}
+                  onChange={handleChange}
+                /> Male
+              </label>
+              <label>
+                <input
+                  type="radio"
+                  name="gender"
+                  value="female"
+                  checked={formData.gender === 'female'}
+                  onChange={handleChange}
+                /> Female
+              </label>
+              <label>
+                <input
+                  type="radio"
+                  name="gender"
+                  value="other"
+                  checked={formData.gender === 'other'}
+                  onChange={handleChange}
+                /> Other
+              </label>
+              {errors.gender && <div>{errors.gender}</div>}
+            </fieldset>
+          </section>
+
+          <section id="medical-info">
+            <h2>Medical Information</h2>
+
+            <div>
+              <label htmlFor="symptoms">Describe your symptoms</label>
+              <textarea
+                id="symptoms"
+                name="symptoms"
+                value={formData.symptoms}
+                onChange={handleChange}
+              />
+            </div>
+
+            <div>
+              <label>
+                <input
+                  type="checkbox"
+                  name="consent"
+                  checked={formData.consent}
+                  onChange={handleChange}
+                  aria-invalid={errors.consent ? 'true' : 'false'}
+                  aria-describedby={errors.consent ? 'consent-error' : undefined}
+                /> I consent to treatment
+              </label>
+              {errors.consent && <div id="consent-error">{errors.consent}</div>}
+            </div>
+          </section>
+
+          <button type="submit">Submit</button>
+          <div aria-live="polite">{status}</div>
+        </form>
+      </main>
+
+      <footer role="contentinfo">
+        <p>&copy; 2025 Medical Clinic</p>
+      </footer>
+    </div>
+  );
+}
