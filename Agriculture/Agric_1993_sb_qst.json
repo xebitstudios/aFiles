@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Land tenure system is a process of",
+		"opts": {
+			"q0": "A. conserving soil types",
+			"q1": "B. determining the suitability of soil for agriculture",
+			"q2": "C. acquiring land for agricultural purposes",
+			"q3": "D. determining mineral deficiencies of a soil",
+			"q4": "E. developing land for building industries."
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The disadvantages of land fragmentation include the following except",
+		"opts": {
+			"q0": "A. difficulty in effecting soil conservation practices",
+			"q1": "B. unsuitability of mechanising such land",
+			"q2": "C. facilitating the use of simple and cheap tools",
+			"q3": "D. enhancing wastage of labour",
+			"q4": "E. wastage of time in moving from one plot to another."
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Which of the following is not a component of soil?",
+		"opts": {
+			"q0": "A. Air ",
+			"q1": "B. Water ",
+			"q2": "C. Organic matter",
+			"q3": "D. Microorganism",
+			"q4": "E.  Texture."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The soil nutrient which is important as a constituent of plant proteins and hormones is",
+		"opts": {
+			"q0": "A. calcium",
+			"q1": "B. magnesium ",
+			"q2": "C. iron ",
+			"q3": "D. potassium ",
+			"q4": "E. sulphur"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Which of the following statements about crop rotation is not correct?",
+		"opts": {
+			"q0": "A. It involves alternating legumes with non-legumes",
+			"q1": "B. The use of legumes in rotation helps to maintain soil fertility",
+			"q2": "C. It encourages the build up of pests and diseases of crops",
+			"q3": "D. A. good rotation system minimizes exposure of soil to erosion",
+			"q4": "E. It reduces infestation of land on rotation by weeds."
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the following is the best way to reduce surface run-off on farmlands?",
+		"opts": {
+			"q0": "A. Adding more clay to the soil",
+			"q1": "B. Providing adequate plant cover ",
+			"q2": "C. Planting across the slope",
+			"q3": "D. Planting annual crops",
+			"q4": "E. Erecting strong fences round the farm."
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	In the process of recycling carbon in nature, carbondioxide is used by crops during",
+		"opts": {
+			"q0": "A. respiration",
+			"q1": "B. decomposition ",
+			"q2": "C. burning ",
+			"q3": "D. fruiting ",
+			"q4": "E. photosynthesis"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Which of the following is a day-neutral crop?",
+		"opts": {
+			"q0": "A. Millet ",
+			"q1": "B. Maize ",
+			"q2": "C. Coffee ",
+			"q3": "D. Tomato ",
+			"q4": "E. Cocoa"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	During the processes of soil formation, the cracks or crevices that are first noticed on the rocks are normally caused by",
+		"opts": {
+			"q0": "A. ice ",
+			"q1": "B. man ",
+			"q2": "C. wind ",
+			"q3": "D. temperature ",
+			"q4": "E. solution"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The major climatic factors influencing agricultural activities in the tropics include the following except",
+		"opts": {
+			"q0": "A. rainfall ",
+			"q1": "B. temperature ",
+			"q2": "C. sunlight ",
+			"q3": "D. pressure ",
+			"q4": "E. wind"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following is not a way of maintaining soil fertility?",
+		"opts": {
+			"q0": "A. Cover cropping",
+			"q1": "B. manuring",
+			"q2": "C. Mulching ",
+			"q3": "D. Mixed farming",
+			"q4": "E. Monocropping"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A soil with the pH range of 6.1 to 6.9 can be described as",
+		"opts": {
+			"q0": "A. alkaline ",
+			"q1": "B. very acidic",
+			"q2": "C. slightly alkaline",
+			"q3": "D. slightly acidic",
+			"q4": "E. neutral"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Which of the following statements is not correct about micronutrients? They",
+		"opts": {
+			"q0": "A. are required in small quantities by plants",
+			"q1": "B. are harmful when present in large quantities in a soil",
+			"q2": "C. are derived from the parent rocks",
+			"q3": "D. are the most abundant elements in plant leaves",
+			"q4": "E. act as catalysts and co-enzymes in growing plants."
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	A soil which consists of a mixture of sand, silt and clay in equal quantities is described as",
+		"opts": {
+			"q0": "A. humus",
+			"q1": "B. alluvial soil",
+			"q2": "C. sandy clay",
+			"q3": "D. loam ",
+			"q4": "E. clayey loam."
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following processes will not lead to the loss of nutrients from the soil?",
+		"opts": {
+			"q0": "A. Erosion ",
+			"q1": "B. Mulching ",
+			"q2": "C. Harvesting ",
+			"q3": "D. Burning ",
+			"q4": "E. Leaching"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The physical properties of soil include the following except",
+		"opts": {
+			"q0": "A. bulk density",
+			"q1": "B. colour ",
+			"q2": "C. moisture content",
+			"q3": "D. porosity ",
+			"q4": "E. pH"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following problems wili not be considered before installing irrigation equipment in a farm?",
+		"opts": {
+			"q0": "A. High cost of equipment and maintenance",
+			"q1": "B. Concentration of salt",
+			"q2": "C. Source of power",
+			"q3": "D. Availability of water",
+			"q4": "E. Build-up of pests and diseases"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Which of the following is the source of energy used by green plants for photosynthesis?",
+		"opts": {
+			"q0": "A. Electricity",
+			"q1": "B. Water ",
+			"q2": "C. Wind ",
+			"q3": "D. Sun ",
+			"q4": "E. Machine"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	One of the limitations of mechanization of farms is",
+		"opts": {
+			"q0": "A. reduction in the cost of production",
+			"q1": "B. exposure of soil to the effects of climate",
+			"q2": "C. increase in yield of crops",
+			"q3": "D. reduction of farm labour",
+			"q4": "E. cultivation of more area of land."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following farm operations cannot be mechanized?",
+		"opts": {
+			"q0": "A. Weed control",
+			"q1": "B. Fertilizer application",
+			"q2": "C. Transportation and handling",
+			"q3": "D. Seed-germination",
+			"q4": "E. Crop processing."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following is not a disadvantage of wind power?",
+		"opts": {
+			"q0": "A. Its supply is sporadic",
+			"q1": "B. Its source is the wind",
+			"q2": "C. It is very expensive",
+			"q3": "D. The supply is uncertain",
+			"q4": "E. the amount of power produced is small."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following is not an effect of badly arranged farm?",
+		"opts": {
+			"q0": "A. Efficient management",
+			"q1": "B. Time wastages",
+			"q2": "C. Expensive labour",
+			"q3": "D. Low output",
+			"q4": "E. Low profit."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following should be checked daily before using a tractor?",
+		"opts": {
+			"q0": "A. Engine oil",
+			"q1": "B. Spark plug",
+			"q2": "C. Distributor",
+			"q3": "D. Air cleaner",
+			"q4": "E. Battery."
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24. The botanical name of giant star grass is",
+		"opts": {
+			"q0": "A. Andropogon tectorus",
+			"q1": "B. Pennisetum purpureum",
+			"q2": "C. Panicum maximum",
+			"q3": "D. Cynodon plectostachyum",
+			"q4": "E. Chloris gayana"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25. Cassava mosaic virus can be controlled by",
+		"opts": {
+			"q0": "A. spraying of fungicides",
+			"q1": "B. inoculation of the plant",
+			"q2": "C. spraying with insecticides",
+			"q3": "D. treatment of stem cuttings",
+			"q4": "E. growing resistant varieties."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26. Which of tne following crops does not require nursery preparation?",
+		"opts": {
+			"q0": "A. Rice ",
+			"q1": "B. Tobacco ",
+			"q2": "C. Tomato",
+			"q3": "D. Okra ",
+			"q4": "E. Pepper"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27. To which of the following crops does the term ginning apply?",
+		"opts": {
+			"q0": "A. Oil palm",
+			"q1": "B. Cocoa ",
+			"q2": "C. Groundnut",
+			"q3": "D. Cotton ",
+			"q4": "E. Coconut"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28. The symptoms of coffee leaf rust are",
+		"opts": {
+			"q0": "A. leaf spots, loss of vigour and death of the leaves",
+			"q1": "B. wilting and death of plant",
+			"q2": "C. damping off and etiolation",
+			"q3": "D. leaf spots and damping off",
+			"q4": "E. etiolation and death of plant"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29. Breeding in self-pollinated crops can be regarded as",
+		"opts": {
+			"q0": "A. line breeding",
+			"q1": "B. cross-breeding",
+			"q2": "C. inbreeding",
+			"q3": "D. hybridization ",
+			"q4": "E. back-crossing."
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30. An effective control method of the citrus moth is",
+		"opts": {
+			"q0": "A. hand-picking of the moth",
+			"q1": "B. spraying with fungicide",
+			"q2": "C. use of predators",
+			"q3": "D. delayed planting",
+			"q4": "E. timely harvesting or ripe fruits."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31. Cassava and sugarcane are mainly propagated by",
+		"opts": {
+			"q0": "A. seeding ",
+			"q1": "B. layering ",
+			"q2": "C. budding ",
+			"q3": "D. cutting ",
+			"q4": "E. grafting"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32. Control of weeds of forage crops can be carried out by tne following methods except",
+		"opts": {
+			"q0": "A. cutting ",
+			"q1": "B. burning ",
+			"q2": "C. use of herbicide",
+			"q3": "D. biological control",
+			"q4": "E. grazing"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33. The aim of a plant breeder in producing a crop variety which is tolerant to extremes of cold, drought, wind and heat is based on the",
+		"opts": {
+			"q0": "A. adaptation of the variety to climatic conditions",
+			"q1": "B. enhancing the resistance of the variety to diseases",
+			"q2": "C. meeting the needs of the consumers",
+			"q3": "D. enhancing the resistance of the variety to pests",
+			"q4": "E. meeting the needs of different farmers."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34. The crops which can be processed into powered form for effective preservation include the following except",
+		"opts": {
+			"q0": "A. maize ",
+			"q1": "B. yam ",
+			"q2": "C. pepper ",
+			"q3": "D. soya bean",
+			"q4": "E. kolanut"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35. The popular pasture crops in Nigeria include the following except",
+		"opts": {
+			"q0": "A. giant star",
+			"q1": "B. stylo ",
+			"q2": "C. elephant grass",
+			"q3": "D. kudzu ",
+			"q4": "E. carpet grass."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36. parboiling is carried out in the processing of rice in order to",
+		"opts": {
+			"q0": "A. decrease the amount of waste products",
+			"q1": "B. improve the taste of the rice",
+			"q2": "C. facilitate the polishing of rice",
+			"q3": "D. reduce percentage of breakage",
+			"q4": "E. increase the protein content of rice."
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37. Which of the following is not a leafy vegetable?",
+		"opts": {
+			"q0": "A. Lycopersicon esculentum",
+			"q1": "B. Amaranthus spp",
+			"q2": "C. Celosia spp",
+			"q3": "D. Corchorus spp.",
+			"q4": "E. Telfaria occidentals."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38. Which of the following is not a control measure of cowpea weevil?",
+		"opts": {
+			"q0": "A. Fumigation of stored seeds",
+			"q1": "B. Storage of seeds in air-tight containers",
+			"q2": "C. Timely harvesting",
+			"q3": "D. Dusting seeds with 0.5% lindane dust",
+			"q4": "E. Innoculation of seeds."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39. A pasture legume mixture cut and preserved but not dried for dry season feeding of livestock is referred to as",
+		"opts": {
+			"q0": "A. hay ",
+			"q1": "B. soilage ",
+			"q2": "C. fodder ",
+			"q3": "D. silage ",
+			"q4": "E. creep feed."
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40. The sites of microbial activities along the gastro-instestinal tract of ruminants include the following except",
+		"opts": {
+			"q0": "A. rumen ",
+			"q1": "B. reticulum ",
+			"q2": "C. large intestine",
+			"q3": "D. abomasum",
+			"q4": "E. colon"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41. The gestation period of a cow is approximately",
+		"opts": {
+			"q0": "A. 483 days",
+			"q1": "B. 423 days",
+			"q2": "C. 383 days",
+			"q3": "D. 283 days",
+			"q4": "E. 183 days."
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42. The following are important management practices in the husbandry of piglets except ",
+		"opts": {
+			"q0": "A. castration of male piglets not needed for breeding",
+			"q1": "B. administration of drugs containing iron to piglets ",
+			"q2": "C. provision of grass beddings for the piglets",
+			"q3": "D. cutting of the needle-teeth of piglets.",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43. Liming of fish pond is carried out in order to",
+		"opts": {
+			"q0": "A. increase pH of the water",
+			"q1": "B. provide more food for fishes",
+			"q2": "C. provide the soil nutrients for fishes",
+			"q3": "D. correct both acidity and alkalinity of water",
+			"q4": "E. maintain the water level of the pond."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44. The general symptoms of malnutrition in animals include the following except",
+		"opts": {
+			"q0": "A. retarded growth",
+			"q1": "B. low production",
+			"q2": "C. susceptibility to diseases",
+			"q3": "D. high mortality",
+			"q4": "E. increase in body size."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45. The nymphs of lice reach maturity in about",
+		"opts": {
+			"q0": "A. one week",
+			"q1": "B. two week",
+			"q2": "C. three weeks",
+			"q3": "D. four weeks",
+			"q4": "E. five weeks"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46. The interval from the beginning of one heat period to the beginning of another is known as",
+		"opts": {
+			"q0": "A. gestation period",
+			"q1": "B. fertilization ",
+			"q2": "C. incubation period",
+			"q3": "D. heat period",
+			"q4": "E. oestrus cycle"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47. Which of the following pond maintenance operations will ensure adequate supply of oxygen and hygienic conditions for fish in a pond?",
+		"opts": {
+			"q0": "A. Deweeding  ",
+			"q1": "B. Distilling ",
+			"q2": "C. Fertilization ",
+			"q3": "D. Eradication of predators",
+			"q4": "E. Supplementary feeding."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48. The part of the egg that prevents the yolk from being damaged by keeping the yolk at the centre of the egg is the",
+		"opts": {
+			"q0": "A. germ spot",
+			"q1": "B. albumen ",
+			"q2": "C. airspace ",
+			"q3": "D. chalaza ",
+			"q4": "E. egg membrane."
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49. The aims of breeding in farm animals include the following except",
+		"opts": {
+			"q0": "A. increasing production potential of farm animals",
+			"q1": "B. improving the quality of animal products",
+			"q2": "C. improving adaptability of farm animals to a new environment",
+			"q3": "D. evolving new breeds of animals suitable for all purposes",
+			"q4": "E. increasing tolerance of animals to diseases and pests."
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50. Which of the following statements about ticks is not correct?",
+		"opts": {
+			"q0": "A. Its body is divided into two parts",
+			"q1": "B. It has six pairs of legs",
+			"q2": "C. It can be controlled by regular dipping of animals",
+			"q3": "D. It is an external parasite",
+			"q4": "E. It can be found on goats."
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51. Cracking of eggs laid by a flock of layers in a farm can be corrected by",
+		"opts": {
+			"q0": "A. addition of iodine to the water supply",
+			"q1": "B. increasing the level of vitamin D in mash",
+			"q2": "C. increasing the quantity of calcium in mash",
+			"q3": "D. increasing the amount of calcium, phosphorus and vitamin D in their feed",
+			"q4": "E. increasing carotene and calcium level of the mash"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52. Bull calves intended for breeding are sometimes nose-ringed in order to",
+		"opts": {
+			"q0": "A. improve their sense of detecting heat in cows",
+			"q1": "B. minimize the incidence of respiratory diseases",
+			"q2": "C. decrease the time of reaching maturity",
+			"q3": "D. decrease the space requirement of the bull",
+			"q4": "E. facilitate easy handling of the bull."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53. Which of the following contains the highest crude protein level for grazing animals?",
+		"opts": {
+			"q0": "A. ",
+			"q1": "B. ",
+			"q2": "C. ",
+			"q3": "D. ",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54. The hormone that prevents abortion or expulsion of the foetus during pregnancy is",
+		"opts": {
+			"q0": "A. insulin ",
+			"q1": "B. progesterone ",
+			"q2": "C. estrogen ",
+			"q3": "D. adrenalin ",
+			"q4": "E. oxytocin"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55. Which of the following ingredients is required for the formation of egg-shell in poultry?",
+		"opts": {
+			"q0": "A. Bone meal",
+			"q1": "B. Blood meal",
+			"q2": "C. Maize meal",
+			"q3": "D. Rice bran",
+			"q4": "E. Groundnut cake."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56. One of the sexually-transmitted diseases in livestock is",
+		"opts": {
+			"q0": "A. brucellosis",
+			"q1": "B. rinderpest ",
+			"q2": "C. scabies",
+			"q3": "D. ringworm ",
+			"q4": "E. redwater"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57. The quantity of balanced diet supplied to an animal per day is described as ",
+		"opts": {
+			"q0": "A. succulent ",
+			"q1": "B. supplement",
+			"q2": "C. silage ",
+			"q3": "D. ratio ",
+			"q4": "E. concentrate"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58. The number of animals that can be conveniently fed on a hectare of pasture is known as",
+		"opts": {
+			"q0": "A. biological value",
+			"q1": "B. carrying capacity",
+			"q2": "C. nutritive value",
+			"q3": "D. livestock quality",
+			"q4": "E. zero grazing."
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59. Which of the following is not a problem of agricultural marketing in Nigeria?",
+		"opts": {
+			"q0": "A. Lack of transport facilities",
+			"q1": "B. Scattered sources of supply",
+			"q2": "C. High quantity of farm produce",
+			"q3": "D. Lack of good packaging and processing facilities",
+			"q4": "E. Instability of prices."
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60. When there i large quantity of food items in the market with other factors remaining constant, demand",
+		"opts": {
+			"q0": "A. will increase thus stabilising the price",
+			"q1": "B. will decrease and price will increase",
+			"q2": "C. will increase and price will decrease",
+			"q3": "D. and price will increase",
+			"q4": "E. and price will decrease."
+		},
+		"ans": "C",
+		"sel": ""
+	}
+};

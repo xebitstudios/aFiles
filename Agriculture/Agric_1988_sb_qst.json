@@ -1,0 +1,663 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1. A piece of land is said to be on lease to a farmer when the land is",
+		"opts": {
+			"q0": "A. inherited from his father",
+			"q1": "B. given to him as a gift",
+			"q2": "C. given as compensation",
+			"q3": "D. purchased on credit",
+			"q4": "E. given for a specified period on rental basis."
+		},
+		"ans": "E"
+	},
+	"Q2": {
+		"qs": "2. The problems associated with land tenure through inheritance include the following except",
+		"opts": {
+			"q0": "A. small land holdings for family members",
+			"q1": "B. hatred among family members arising from land sharing",
+			"q2": "C. right of individuals to free use and control of inherited land",
+			"q3": "D. individuals being restricted to their plots",
+			"q4": "E. difficulty to sell part of the inherited land."
+		},
+		"ans": "C"
+	},
+	"Q3": {
+		"qs": "3. Soil texture is described as the",
+		"opts": {
+			"q0": "A. distribution of the different sizes of soil particles",
+			"q1": "B. arrangement of soil particles in a soil sample",
+			"q2": "C. rate at which water moves through the soil",
+			"q3": "D. degree to which air spaces aerate the soil",
+			"q4": "E. distribution of soil particles in a sample."
+		},
+		"ans": "A"
+	},
+	"Q4": {
+		"qs": "4. The alternate heating and cooling of rocks result in",
+		"opts": {
+			"q0": "A. sublimation",
+			"q1": "B. volatilization",
+			"q2": "C. fragmentation",
+			"q3": "D. solidification",
+			"q4": "E. sedimentation."
+		},
+		"ans": "C"
+	},
+	"Q5": {
+		"qs": "5. Which of the following factors influencing agricultural production is biotic factor?",
+		"opts": {
+			"q0": "A. Parasite",
+			"q1": "B. Soil pH",
+			"q2": "C. Topography",
+			"q3": "D. Soil texture",
+			"q4": "E. Temperature."
+		},
+		"ans": "A"
+	},
+	"Q6": {
+		"qs": "6. Granite is",
+		"opts": {
+			"q0": "A. a sedimentary rock",
+			"q1": "B. a wealtered rock",
+			"q2": "C. metamorphic rock",
+			"q3": "D. an igneous rock",
+			"q4": "E. a plutonic rock."
+		},
+		"ans": "D"
+	},
+	"Q7": {
+		"qs": "7. In which layer of the soil profile does most biological activity occur?",
+		"opts": {
+			"q0": "A. Parent materia",
+			"q1": "B. D - horizon",
+			"q2": "C. C-horizon",
+			"q3": "D. B-horizon",
+			"q4": "E. A-horizon."
+		},
+		"ans": "E"
+	},
+	"Q8": {
+		"qs": "8. When leaves of crop plants show brownish colouration from the tips of the mid-ribs backward they are showing deficiency symptom of",
+		"opts": {
+			"q0": "A. magnesium",
+			"q1": "B. zinc",
+			"q2": "C. nitrogen",
+			"q3": "D. copper",
+			"q4": "E. phosphorus."
+		},
+		"ans": "E"
+	},
+	"Q9": {
+		"qs": "9. Which of the following farm practices can prevent excessive evaporation from soil surfaces?",
+		"opts": {
+			"q0": "A. Liming",
+			"q1": "B. Mulching",
+			"q2": "C. Weeding",
+			"q3": "D. Harrowing",
+			"q4": "E. Ploughing."
+		},
+		"ans": "B"
+	},
+	"Q10": {
+		"qs": "10. Which of the following is not associated with surface irrigation?",
+		"opts": {
+			"q0": "A. Natural flooding",
+			"q1": "B. Check flooding",
+			"q2": "C. Sprinkler irrigation",
+			"q3": "D. Mole drains",
+			"q4": "E. Tiles."
+		},
+		"ans": "D"
+	},
+	"Q11": {
+		"qs": "11. Which of the following types of soil contains particles of diameter between 0.02 mm and 2.0 mm?",
+		"opts": {
+			"q0": "A. Sand",
+			"q1": "B. Silt",
+			"q2": "C. Gravel",
+			"q3": "D. Clay",
+			"q4": "E. Stone."
+		},
+		"ans": "A"
+	},
+	"Q12": {
+		"qs": "12. A farmer cultivating leafy vegetables will require fertilizers with a relatively high content of",
+		"opts": {
+			"q0": "A. calcium",
+			"q1": "B. magnesium",
+			"q2": "C. potassium",
+			"q3": "D. nitrogen",
+			"q4": "E. phosphorus."
+		},
+		"ans": "D"
+	},
+	"Q13": {
+		"qs": "13. The earthworm is important to the farmer because it",
+		"opts": {
+			"q0": "A. improves soil structure",
+			"q1": "B. improves soil texture",
+			"q2": "C. destroys soil pathogens",
+			"q3": "D. adds nutrients to the soil",
+			"q4": "E. prevents soil erosion."
+		},
+		"ans": "A"
+	},
+	"Q14": {
+		"qs": "14. The type of rocks formed from the molten magma is known as",
+		"opts": {
+			"q0": "A. sedimentary",
+			"q1": "B. igneous",
+			"q2": "C. metamorphic",
+			"q3": "D. schist",
+			"q4": "E. sandstone."
+		},
+		"ans": "B"
+	},
+	"Q15": {
+		"qs": "15. The relationship between the microorganisms and plants in the nitrogen cycle is best described as",
+		"opts": {
+			"q0": "A. parasitism",
+			"q1": "B. commensalism",
+			"q2": "C. competition",
+			"q3": "D. symbiosis",
+			"q4": "E. saprophytism."
+		},
+		"ans": "D"
+	},
+	"Q16": {
+		"qs": "16. The type of energy obtained from the sun for agricultural uses is known as",
+		"opts": {
+			"q0": "A. potential energy",
+			"q1": "B. mechanical energy",
+			"q2": "C. nuclear energy",
+			"q3": "D. solar energy",
+			"q4": "E. kinetic energy."
+		},
+		"ans": "D"
+	},
+	"Q17": {
+		"qs": "17. Which of the following implements will be used for the next farm operation after clearing a new farmland?",
+		"opts": {
+			"q0": "A. Harrow",
+			"q1": "B. Ridger",
+			"q2": "C. Cultivator",
+			"q3": "D. Planter",
+			"q4": "E. Plough."
+		},
+		"ans": "E"
+	},
+	"Q18": {
+		"qs": "18. Which of the following cannot be used to rub the metal parts of farm tools before storage?",
+		"opts": {
+			"q0": "A. Grease",
+			"q1": "B. Palm oil",
+			"q2": "C. Water",
+			"q3": "D. Petroleum jelly",
+			"q4": "E. Spent engine oil."
+		},
+		"ans": "C"
+	},
+	"Q19": {
+		"qs": "19. The common surveying equipment for farmland include the following except",
+		"opts": {
+			"q0": "A. ranging pole",
+			"q1": "B. prismatic compass",
+			"q2": "C. measuring tape",
+			"q3": "D. Gunter’s chain",
+			"q4": "E. spade."
+		},
+		"ans": "E"
+	},
+	"Q20": {
+		"qs": "20. An example of fungal disease of stored grains is",
+		"opts": {
+			"q0": "A. rosette",
+			"q1": "B. wilt",
+			"q2": "C. soft rot",
+			"q3": "D. damping off",
+			"q4": "E. mould."
+		},
+		"ans": "E"
+	},
+	"Q21": {
+		"qs": "21. A small plot of land'where intensive cultivation is practised to produce vegetables is generally referred to as",
+		"opts": {
+			"q0": "A. an orchard",
+			"q1": "B. a plantation",
+			"q2": "C. a nursery",
+			"q3": "D. a garden",
+			"q4": "E. a pasture."
+		},
+		"ans": "D"
+	},
+	"Q22": {
+		"qs": "22. Which of the following plants is not classified as forage grass?",
+		"opts": {
+			"q0": "A. Giant star",
+			"q1": "B. guinea grass",
+			"q2": "C. Elephant grass",
+			"q3": "D. Gamba grass",
+			"q4": "E. Stylo."
+		},
+		"ans": "E"
+	},
+	"Q23": {
+		"qs": "23. The plant-a-tree-campaign of the Federal Government of Nigeria is a way of encouraging forest",
+		"opts": {
+			"q0": "A. regulation",
+			"q1": "B. exploration",
+			"q2": "C. exploitation",
+			"q3": "D. integration",
+			"q4": "E. regeneration."
+		},
+		"ans": "E"
+	},
+	"Q24": {
+		"qs": "24. Which of the following is not a method of controlling pests?",
+		"opts": {
+			"q0": "A. Quarantine",
+			"q1": "B. Crop rotation",
+			"q2": "C. Fumigation",
+			"q3": "D. Trapping",
+			"q4": "E. Mulching."
+		},
+		"ans": "E"
+	},
+	"Q25": {
+		"qs": "25. The most effective method of controlling or preventing viral diseases in plants is by",
+		"opts": {
+			"q0": "A. planting resistant varieties",
+			"q1": "B. spraying crops regularly",
+			"q2": "C. burning affected crops",
+			"q3": "D. practising crop rotation",
+			"q4": "E. treating seeds with chemicals."
+		},
+		"ans": "A"
+	},
+	"Q26": {
+		"qs": "26. Reduction of ten seedlings of pawpaw to two per stand is referred to as",
+		"opts": {
+			"q0": "A. pruning",
+			"q1": "B. thinning",
+			"q2": "C. uprooting",
+			"q3": "D. weeding",
+			"q4": "E. spacing."
+		},
+		"ans": "B"
+	},
+	"Q27": {
+		"qs": "27. Which of the following describes the steps in making hay?",
+		"opts": {
+			"q0": "A. Cut-sun-bale",
+			"q1": "B. Dry-silage-silo",
+			"q2": "C. Soilage-ferment-cut",
+			"q3": "D. Cut-graze-paddock",
+			"q4": "E. Bale-dry-silage."
+		},
+		"ans": "A"
+	},
+	"Q28": {
+		"qs": "28. A situation where only specified trees in a forest reserve are cut down is known as",
+		"opts": {
+			"q0": "A. selection",
+			"q1": "B. afforestation",
+			"q2": "C. reforestation",
+			"q3": "D. selective exploitation",
+			"q4": "E. deforestation."
+		},
+		"ans": "D"
+	},
+	"Q29": {
+		"qs": "29. The causative organism of maize rust is",
+		"opts": {
+			"q0": "A. a fungus",
+			"q1": "B. a virus",
+			"q2": "C. a bacterium",
+			"q3": "D. an insect",
+			"q4": "E. a nematode."
+		},
+		"ans": "A"
+	},
+	"Q30": {
+		"qs": "30. The reproductive cells of crops are called",
+		"opts": {
+			"q0": "A. gametes",
+			"q1": "B. genes",
+			"q2": "C. chromosomes",
+			"q3": "D. anthers",
+			"q4": "E. zygotes."
+		},
+		"ans": "A"
+	},
+	"Q31": {
+		"qs": "31. Which of the following fruits is a capsule? ",
+		"opts": {
+			"q0": "A. Okra",
+			"q1": "B. Groundnut",
+			"q2": "C. Mango",
+			"q3": "D. Coconut",
+			"q4": "E. Apple."
+		},
+		"ans": "A"
+	},
+	"Q32": {
+		"qs": "32. Birds are important pests of",
+		"opts": {
+			"q0": "A. tree crops",
+			"q1": "B. legumes",
+			"q2": "C. cereal",
+			"q3": "D. vegetable crops",
+			"q4": "E. stored produce."
+		},
+		"ans": "C"
+	},
+	"Q33": {
+		"qs": "33. The agent of controlled pollination in plants",
+		"opts": {
+			"q0": "A. wind",
+			"q1": "B. insect",
+			"q2": "C. man",
+			"q3": "D. bird",
+			"q4": "E. water."
+		},
+		"ans": "C"
+	},
+	"Q34": {
+		"qs": "34. Ginning is the process of",
+		"opts": {
+			"q0": "A. extracting cotton seed oil",
+			"q1": "B. separating fibres from the bark of kena",
+			"q2": "C. grinding cotton seeds",
+			"q3": "D. separating cotton fibre from its seed",
+			"q4": "E. converting cotton lint into yarn."
+		},
+		"ans": "D"
+	},
+	"Q35": {
+		"qs": "35. The groundnut rosette virus is transmitted by",
+		"opts": {
+			"q0": "A. aphid",
+			"q1": "B. mealy bug ",
+			"q2": "C. wind",
+			"q3": "D. rainsplash",
+			"q4": "E. soil."
+		},
+		"ans": "A"
+	},
+	"Q36": {
+		"qs": "36. Which of the following farm animals possess a pair of caeca?",
+		"opts": {
+			"q0": "A. Pigs",
+			"q1": "B. Cattle",
+			"q2": "C. Sheep",
+			"q3": "D. Rabbits",
+			"q4": "E. Fowls."
+		},
+		"ans": "E"
+	},
+	"Q37": {
+		"qs": "37. The head of the tapeworm is known as the",
+		"opts": {
+			"q0": "A. sucker",
+			"q1": "B. rostellum",
+			"q2": "C. scolex",
+			"q3": "D. hook",
+			"q4": "E. segment."
+		},
+		"ans": "C"
+	},
+	"Q38": {
+		"qs": "38. Which of the following is not a function of the ruminal microorganism?",
+		"opts": {
+			"q0": "A. Digestion of cellulose",
+			"q1": "B. Conversion of plant proteins into microbial protein",
+			"q2": "C. Production of vitamin B",
+			"q3": "D. Production of gas in the rumen",
+			"q4": "E. Eructation of the ruminal gas."
+		},
+		"ans": "E"
+	},
+	"Q39": {
+		"qs": "39. Which of the following factors would you consider the least important for the successful incubation of eggs?",
+		"opts": {
+			"q0": "A. Light",
+			"q1": "B. Temperature",
+			"q2": "C. Ventilation",
+			"q3": "D. Relative humidity",
+			"q4": "E. Turning of the eggs."
+		},
+		"ans": "A"
+	},
+	"Q40": {
+		"qs": "40. In which area of Nigeria is the Kuri breed of cattle commonly found?",
+		"opts": {
+			"q0": "A. Borno",
+			"q1": "B. Sokoto",
+			"q2": "C. Plateau",
+			"q3": "D. Obudu",
+			"q4": "E. Oyo North."
+		},
+		"ans": "A"
+	},
+	"Q41": {
+		"qs": "41. Which of the following feeding stuff should be increased in the diet of laying birds?",
+		"opts": {
+			"q0": "A. Palm kernel meal",
+			"q1": "B. Bone meal",
+			"q2": "C. Groundnut cake",
+			"q3": "D. Vitamin supplement",
+			"q4": "E. Wheat offal."
+		},
+		"ans": "B"
+	},
+	"Q42": {
+		"qs": "42. Crops grown primarily for feeding animals are known as",
+		"opts": {
+			"q0": "A. vegetables",
+			"q1": "B. cereal",
+			"q2": "C. foraqe",
+			"q3": "D. legumes",
+			"q4": "E. shrubs."
+		},
+		"ans": "C"
+	},
+	"Q43": {
+		"qs": "43. The following livestock diseases are caused by viruses except",
+		"opts": {
+			"q0": "A. anthrax",
+			"q1": "B. foot and mouth disease",
+			"q2": "C. rinderpest",
+			"q3": "D. newcastle disease",
+			"q4": "E. fowl pox."
+		},
+		"ans": "A"
+	},
+	"Q44": {
+		"qs": "44. Fingerlings refer to the young of",
+		"opts": {
+			"q0": "A. rabbit",
+			"q1": "B. guinea pig",
+			"q2": "C. fish",
+			"q3": "D. turkey",
+			"q4": "E. duck."
+		},
+		"ans": "C"
+	},
+	"Q45": {
+		"qs": "45. The practice of progeny selection involves selecting breading stock on the basis of the",
+		"opts": {
+			"q0": "A. performance of offspring",
+			"q1": "B. parental characteristics",
+			"q2": "C. sire-dam relationships",
+			"q3": "D. individual merits of each animal",
+			"q4": "E. characteristics of adult and young animals."
+		},
+		"ans": "A"
+	},
+	"Q46": {
+		"qs": "46. The most important symptom of brucellosis in cattle is",
+		"opts": {
+			"q0": "A. abortion",
+			"q1": "B. swollen testes",
+			"q2": "C. lameness",
+			"q3": "D. swollen joints",
+			"q4": "E. retained placenta."
+		},
+		"ans": "A"
+	},
+	"Q47": {
+		"qs": "47. Which of the following is not a sign of heat in animals?",
+		"opts": {
+			"q0": "A. Mounting of other animals",
+			"q1": "B. Mucous discharge from the vulva",
+			"q2": "C. Restlessness",
+			"q3": "D. Grunting sound",
+			"q4": "E. Mucous discharge from the rectum."
+		},
+		"ans": "E"
+	},
+	"Q48": {
+		"qs": "48. Which of the following practices would a farmer not likely adopt in pig management?",
+		"opts": {
+			"q0": "A. Ear notching",
+			"q1": "B. Deworming",
+			"q2": "C. Castration",
+			"q3": "D. Feeding iron supplement",
+			"q4": "E. Dehorning."
+		},
+		"ans": "E"
+	},
+	"Q49": {
+		"qs": "49. Feeds with high amount of fibre are classified as",
+		"opts": {
+			"q0": "A. concentrates",
+			"q1": "B. roughages",
+			"q2": "C. hay",
+			"q3": "D. silage",
+			"q4": "E. soilage."
+		},
+		"ans": "B"
+	},
+	"Q50": {
+		"qs": "50. In birds, loss of appetite, respiratory difficulties and nervous paralysis are symptoms of",
+		"opts": {
+			"q0": "A. coccidiosis",
+			"q1": "B. fowl pox",
+			"q2": "C. newcastle disease",
+			"q3": "D. fowl typhoid",
+			"q4": "E. fowl cholera."
+		},
+		"ans": "C"
+	},
+	"Q51": {
+		"qs": "51. In which of the following ways can fish be processed and preserved?",
+		"opts": {
+			"q0": "A. Saiting and smoking",
+			"q1": "B. Salting and fermentation",
+			"q2": "C. Smoking and fermentation",
+			"q3": "D. Smoking and pasteurization",
+			"q4": "E. Pasteurization and salting."
+		},
+		"ans": "A"
+	},
+	"Q52": {
+		"qs": "52. The incubation period for turkey is",
+		"opts": {
+			"q0": "A. 15 days",
+			"q1": "B. 21 days",
+			"q2": "C. 27 days",
+			"q3": "D. 35 days",
+			"q4": "E. 42 days."
+		},
+		"ans": "C"
+	},
+	"Q53": {
+		"qs": "53. Which of the following is commonly used as a source of plant protein in livestock ration?",
+		"opts": {
+			"q0": "A. Maize",
+			"q1": "B. Rice bran",
+			"q2": "C. Wheat bran",
+			"q3": "D. Groundnut cake",
+			"q4": "E. Molasses."
+		},
+		"ans": "D"
+	},
+	"Q54": {
+		"qs": "54. The brownish flattened and leaf-like parasites found in cattle are called",
+		"opts": {
+			"q0": "A. tapeworms",
+			"q1": "B. liver flukes",
+			"q2": "C. ticks",
+			"q3": "D. roundworms",
+			"q4": "E. lice."
+		},
+		"ans": "B"
+	},
+	"Q55": {
+		"qs": "55. Which of the following decisions will not benefit a farmer?",
+		"opts": {
+			"q0": "A. What method o. production to use",
+			"q1": "B. What to produce",
+			"q2": "C. How and where to dispose of outputs",
+			"q3": "D. Diversification of production from the beginning",
+			"q4": "E. How and where to obtain inputs."
+		},
+		"ans": "D"
+	},
+	"Q56": {
+		"qs": "56. Exposing farmer to scientific knowledge is the responsibility of the",
+		"opts": {
+			"q0": "A. research institutes",
+			"q1": "B. farm settlers",
+			"q2": "C. agro-service centres",
+			"q3": "D. extension personnel",
+			"q4": "E. agricultural development project."
+		},
+		"ans": "D"
+	},
+	"Q57": {
+		"qs": "57. Which of the following is not a source of farm credit?",
+		"opts": {
+			"q0": "A. Cooperative societies",
+			"q1": "B. Government agencies",
+			"q2": "C. Commercial banks",
+			"q3": "D. Agricultural banks",
+			"q4": "E. Mortgage banks."
+		},
+		"ans": "E"
+	},
+	"Q58": {
+		"qs": "58. The efficiency of agricultural production is not usually improved by the",
+		"opts": {
+			"q0": "A. use of improved crop varieties and breeds of livestock",
+			"q1": "B. increased used of manure and fertilizers",
+			"q2": "C. control of pests, diseases and weeds",
+			"q3": "D. use of better farm equipment and tools",
+			"q4": "E. improved sales of crop and livestock."
+		},
+		"ans": "E"
+	},
+	"Q59": {
+		"qs": "259. Which of the following is a reason for often marketing harvested crops immediately after harvest?",
+		"opts": {
+			"q0": "A. There is the lack of storage facilities for harvest crops",
+			"q1": "B. Crops cannot be processed immediately",
+			"q2": "C. Much more income is generated by early sale",
+			"q3": "D. Pests attack only harvested crops",
+			"q4": "E. The crops will get spoilt soon after harvest."
+		},
+		"ans": "A"
+	},
+	"Q60": {
+		"qs": "60. The best method of introducing a new herbicide to rural farmers is through",
+		"opts": {
+			"q0": "A. mass media",
+			"q1": "B. circular letters",
+			"q2": "C. farmers’ cooperative",
+			"q3": "D. group meeting with farmers",
+			"q4": "E. demonstration."
+		},
+		"ans": "E"
+	}
+};

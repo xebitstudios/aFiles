@@ -1,0 +1,735 @@
+"qst": {
+	"headd": "Use the diagram below to answer questions 1 to 3.",
+	"Q1": {
+		"qs": "The most weathered and leached area is labelled",
+		"img": "img**Agric_1991_sectionb_qst1_1.jpg",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. III",
+			"q3": "D. IV",
+			"q4": "E. V "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Which of the following areas has a significant influence on the properties of soils formed from it?",
+		"img": "img**Agric_1991_sectionb_qst1_1.jpg",
+		"opts": {
+			"q0": "A. V",
+			"q1": "B. IV",
+			"q2": "C. III",
+			"q3": "D. II",
+			"q4": "E. I"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The part that is mostly rich is minerals is labelled",
+		"img": "img**Agric_1991_sectionb_qst1_1.jpg",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. III",
+			"q3": "D. IV",
+			"q4": "E. V"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The most important soil micro-organisms concerned with decay and nutrient-recycling are",
+		"opts": {
+			"q0": "A. bacteria and fungi",
+			"q1": "B. fungi and algae",
+			"q2": "C. algae and actinomyces",
+			"q3": "D. actinomyces and bacteria",
+			"q4": "E. bacteria and algae"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The nutrient content of soil may be influenced by the following except",
+		"opts": {
+			"q0": "A. harrowing",
+			"q1": "B. topography",
+			"q2": "C. cropping",
+			"q3": "D. fallowing",
+			"q4": "E. grazing"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	What happens to the nitrogen and sulphur contents of vegetation when burning is used as a means of land clearing? They",
+		"opts": {
+			"q0": "A. are released by burning and lost as gases",
+			"q1": "B. remain in ash as nitrates and sulphates",
+			"q2": "C. raise the pH of an acid soil",
+			"q3": "D. are released into the soil thus increasing the nutrients of the soil",
+			"q4": "E. activate the soil microbes after burning."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7. Which of the following does not occur as a result of poorly drained soil?",
+		"opts": {
+			"q0": "A. Mottling near the top",
+			"q1": "B. Decrease in rooting depth",
+			"q2": "C. Change in colour or the subsoil",
+			"q3": "D. Decrease In organic matter content",
+			"q4": "E. Increase in oxygen level of the soil."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8. The different types of soil are determined by the relative amounts of each of the following components except",
+		"opts": {
+			"q0": "A. rocks ",
+			"q1": "B. air ",
+			"q2": "C. water ",
+			"q3": "D. minerals ",
+			"q4": "E. organic matter."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9. Fertilizers that usually contain one nutrient which can be used directly by plants are commonly called",
+		"opts": {
+			"q0": "A. organic fertilizers",
+			"q1": "B. mixed fertilizers",
+			"q2": "C. inorganic fertilizers",
+			"q3": "D. compound fertilizers",
+			"q4": "E. straight fertilizers."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10. A soil with particles of less than 0.002 mm in diameter is referred to as",
+		"opts": {
+			"q0": "A. clay ",
+			"q1": "B. siit",
+			"q2": "C. sand ",
+			"q3": "D. gravel ",
+			"q4": "E. humus"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11. Which of the following factors does not bring about soil formation?",
+		"opts": {
+			"q0": "A. Climate ",
+			"q1": "B. Time ",
+			"q2": "C. parent material",
+			"q3": "D. Sunshine",
+			"q4": "E. Topography."
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12. Plant micro-nutrients include the following except",
+		"opts": {
+			"q0": "A. sulphur ",
+			"q1": "B. copper ",
+			"q2": "C. iron ",
+			"q3": "D. zinc ",
+			"q4": "E. chlorine"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13. Most crop plants do not survive in water-logged soils because",
+		"opts": {
+			"q0": "A. the dissolved nutrients are too diluted for crop plants",
+			"q1": "B. the plants will not photosynthesize",
+			"q2": "C. their leaves are turgid for respiration",
+			"q3": "D. their physiological processes will be increased",
+			"q4": "E. oxygen has been displaced leading to its deficiency for crops."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14. A farmland was surveyed and mapped as shown in the diagram below. If AB is 10 metres, DC is 8 metres and EF is 5 metres, what is tne area of the farm?",
+		"img": "img**Agric_1991_sectionb_qst14_1.jpg",
+		"opts": {
+			"q0": "A. 40m2 ",
+			"q1": "B. 45m2 ",
+			"q2": "C. 50m2 ",
+			"q3": "D. 80m2 ",
+			"q4": "E. 90m2"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"headd": "Use the diagram below to answer questions 15 to 17.",
+	"Q15": {
+		"qs": "15. On which of the labelled parts can more weight be added to increase soil penetration by the implement?",
+		"img": "img**Agric_1991_sectionb_qst15_1.jpg",
+		"opts": {
+			"q0": "A. V",
+			"q1": "B. IV",
+			"q2": "C. III",
+			"q3": "D. II",
+			"q4": "E. I"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16. The part that is kept in touch with the ground at the rear end during operation is labelled",
+		"img": "img**Agric_1991_sectionb_qst15_1.jpg",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. III",
+			"q3": "D. IV",
+			"q4": "E. V"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17. Which of the labelled structure carries out the functions of the share, coulter and mouldboard in a mouldboard plough?",
+		"img": "img**Agric_1991_sectionb_qst15_1.jpg",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. III",
+			"q3": "D. IV",
+			"q4": "E. V"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18. What does tne following conventional sign represent in farm surveying or mapping?",
+		"opts": {
+			"q0": "A. Bridge ",
+			"q1": "B. Barn",
+			"q2": "C. Gate ",
+			"q3": "D. Survey station",
+			"q4": "E. Bench mark."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19. If the ginning percentage of the Samaru variety of cotton is 35, what will be the amount of raw cotton obtained from a 6 hectare farm with a yield of 330 kg seed cotton per hectare?",
+		"opts": {
+			"q0": "A. 46 kg",
+			"q1": "B. 96.3 kg",
+			"q2": "C. 114 kg",
+			"q3": "D. 693 kg",
+			"q4": "E. 6930 kg."
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20. Which of the following factors does not affect the distribution of pasture grasses?",
+		"opts": {
+			"q0": "A. Type of species",
+			"q1": "B. Temperature",
+			"q2": "C. Soil ",
+			"q3": "D. Pests and diseases",
+			"q4": "E. Rainfall"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21. Which of the following is not a reason for the government to encourage the planting of trees",
+		"opts": {
+			"q0": "A. Controlling erosion",
+			"q1": "B. Increasing soil fertility",
+			"q2": "C. Preventing desert encroachment",
+			"q3": "D. Reducing effects of enviromental pollution",
+			"q4": "E. Increasing output of mineral oil."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22. Which of the following crops does not require nursery?",
+		"opts": {
+			"q0": "A. Rice ",
+			"q1": "B. Tobacco ",
+			"q2": "C. Tomato ",
+			"q3": "D. Oil palm",
+			"q4": "E. Maize"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23. The causal organism of damping - oil disease of okra is a",
+		"opts": {
+			"q0": "A. bacterium ",
+			"q1": "B. virus ",
+			"q2": "C. nematode ",
+			"q3": "D. aphid ",
+			"q4": "E. fungus"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24. Which of the following crops cannot be easily improved by cross-breeding?",
+		"opts": {
+			"q0": "A. Groundnut ",
+			"q1": "B. Cowpea",
+			"q2": "C. Oil palm",
+			"q3": "D. Maize ",
+			"q4": "E. Yam"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25. The commonest method of vegetative propagation is by",
+		"opts": {
+			"q0": "A. layering ",
+			"q1": "B. budding ",
+			"q2": "C. cutting ",
+			"q3": "D. grafting ",
+			"q4": "E. tillering"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"headd": "Use the information below to answer question 26.",
+	"Q26": {
+		"qs": "26. I. spreading and perennial plant with long and rapid growing stems. II. Height of plant about 1.2 m III. Resistance to dry weather. 20.	Which of the following pasture grasses has the description given above?",
+		"opts": {
+			"q0": "A. Northern gamba grass",
+			"q1": "B. Bahama grass",
+			"q2": "C. Guinea grass",
+			"q3": "D. Elephant grass",
+			"q4": "E. Giant star grass."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27. The annual burning of forest areas encourages",
+		"opts": {
+			"q0": "A. afforestation ",
+			"q1": "B. deforestation ",
+			"q2": "C. regeneration",
+			"q3": "D. selective exploitation",
+			"q4": "E. taungya farming."
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28. Which of following crops is not correctly grouped with its industrial product?",
+		"opts": {
+			"q0": "A. Cocoa-chocolate",
+			"q1": "B. Rubber-boots",
+			"q2": "C. Coconut-oil",
+			"q3": "D. Cotton-textile",
+			"q4": "E. Orange-margarine."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29. The objective of crop improvement programmes is to produce the following except",
+		"opts": {
+			"q0": "A. crop types with improved taste and processing",
+			"q1": "B. disease-resistant crops",
+			"q2": "C. high-yielding crops",
+			"q3": "D. crops adapted to adverse enviromental conditions",
+			"q4": "E. crops resistant to all pests."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30. The bacterial blight of cotton is also known as",
+		"opts": {
+			"q0": "A. black arm",
+			"q1": "B. leaf spot",
+			"q2": "C. damping off",
+			"q3": "D. twister ",
+			"q4": "E. leaf rust."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31. Staking is very essential in the cultivation of",
+		"opts": {
+			"q0": "A. tomato and pepper",
+			"q1": "B. cassava and cowpea",
+			"q2": "C. cowpea and spinach",
+			"q3": "D. tomato and yam",
+			"q4": "E. spinach and pepper."
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32. Vetox 85 is used to control",
+		"opts": {
+			"q0": "A. rodents ",
+			"q1": "B. birds ",
+			"q2": "C. stem borers",
+			"q3": "D. reptiles ",
+			"q4": "E. nematodes"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33. What symptom can be used to identify maize rust?",
+		"opts": {
+			"q0": "A. Yellow colouration of the leaves",
+			"q1": "B. Raised brown spots on the leaves",
+			"q2": "C. Infected leaves showing stripes of yeilow and green",
+			"q3": "D. Drying up of the leaves",
+			"q4": "E. Shedding of leaves."
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"headd": "Use the information below to answer question 34.",
+	"Q34": {
+		"qs": "34. I. Pale leaves II. Shrunken new leaves III. Water-soaked bark which peels off IV. Gum-like exudation from the cracks on the bark. 1.	Which of the following diseases of citrus has the symptoms listed above?",
+		"opts": {
+			"q0": "A. Die-bark",
+			"q1": "B. Gum-mosis",
+			"q2": "C. Blight",
+			"q3": "D. Tristeza ",
+			"q4": "E. Citrus scab."
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35. Which of the following is not a breed of cattle?",
+		"opts": {
+			"q0": "A. Ndama ",
+			"q1": "B. Sokoto Gudali",
+			"q2": "C. White Fulani",
+			"q3": "D. Sokoto Red",
+			"q4": "E. Muturu"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36. Which of the following may cause diseases in a fish pond?",
+		"opts": {
+			"q0": "A. Mixed stocking",
+			"q1": "B. Liming ",
+			"q2": "C. Poor management practices",
+			"q3": "D. Harvesting ",
+			"q4": "E. Fertilization"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37. The act of parturition in rabbits is called",
+		"opts": {
+			"q0": "A. kindling ",
+			"q1": "B. kidding ",
+			"q2": "C. farrowing ",
+			"q3": "D. lambing ",
+			"q4": "E. calving"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38. The factors affecting growth and development of young animals from birth to maturity include the following except",
+		"opts": {
+			"q0": "A. breed of animal",
+			"q1": "B. size of the head",
+			"q2": "C. nutritional status",
+			"q3": "D. health status",
+			"q4": "E. housing"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"headd": "Use the information below to answer question 39.",
+	"Q39": {
+		"qs": "39. If an animal ate 20 kg of feed containing 25% protein and excreted 15 kg of faeces containing 7.5% proteinbwhat will be the digestibility of protein in the feed?",
+		"img": "img**Agric_1991_sectionb_qst39_1.jpg",
+		"opts": {
+			"q0": "A. 67.5%",
+			"q1": "B. 77.5%",
+			"q2": "C. 82.5%",
+			"q3": "D. 87.5%",
+			"q4": "E. 92.5%"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40. Which of the following is not a sign of animals approaching parturition?",
+		"opts": {
+			"q0": "A. ",
+			"q1": "B. ",
+			"q2": "C. ",
+			"q3": "D. ",
+			"q4": "E. "
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41. Daily management routines in poultry include the following except",
+		"opts": {
+			"q0": "A. egg collection",
+			"q1": "B. record keeping",
+			"q2": "C. water and feed provision",
+			"q3": "D. health care",
+			"q4": "E. debeaking"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42. Basal feeds have a high proportion of easily digestible",
+		"opts": {
+			"q0": "A. minerals ",
+			"q1": "B. proteins ",
+			"q2": "C. fats ",
+			"q3": "D. vitamins ",
+			"q4": "E. carbohydrates"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43. The length of oestrus cycle (in days) in goat is",
+		"opts": {
+			"q0": "A. 16 - 17",
+			"q1": "B. 18 - 21",
+			"q2": "C. 19 - 20",
+			"q3": "D. 20 - 22",
+			"q4": "E. 20 - 24."
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44. When a cockerel is castrated, it becomes a",
+		"opts": {
+			"q0": "A. broiler ",
+			"q1": "B. cock ",
+			"q2": "C. layer ",
+			"q3": "D. capon ",
+			"q4": "E. pullet"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45. Forages cut fresh and preserved in silo or pit are referred to as",
+		"opts": {
+			"q0": "A. hay ",
+			"q1": "B. silage ",
+			"q2": "C. haylage ",
+			"q3": "D. soilage ",
+			"q4": "E. compost"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46. Which of the following is not a method of improving range land?",
+		"opts": {
+			"q0": "A. Controlled stocking",
+			"q1": "B. Rotational grazing",
+			"q2": "C. Use of fertilizers",
+			"q3": "D. Introduction of legumes",
+			"q4": "E. Overgrazing"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47. Which of the following characteristics is not correct of pigs? ",
+		"opts": {
+			"q0": "A. Prolific animals",
+			"q1": "B. Efficient feed converters",
+			"q2": "C. Source of meat",
+			"q3": "D. Source of land",
+			"q4": "E. Source of skin."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48. The best control measure for rinderpest disease in cattle is",
+		"opts": {
+			"q0": "A. sanitation ",
+			"q1": "B. isolation ",
+			"q2": "C. eradication of infected stock",
+			"q4": "E. vaccination"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49. Management practices of established pasture include the following except",
+		"opts": {
+			"q0": "A. fencing ",
+			"q1": "B. transplanting",
+			"q2": "C. replanting ",
+			"q3": "D. manuring ",
+			"q4": "E. re-seedinas"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50. Temperature is an important factor which is monitored in fish ponds because",
+		"opts": {
+			"q0": "A. it determines the feeding rate of fishes",
+			"q1": "B. its fluctuation retards fish reproduction",
+			"q2": "C. it affects the metabolic processes in fish",
+			"q3": "D. it decreases the reaction of fishes to other water organisms",
+			"q4": "E. it reduces the effect of decaying materials in ponds."
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51. Diarrhoea tainiea with blood is a symptom of",
+		"opts": {
+			"q0": "A. trypanosomiasis ",
+			"q1": "B. coccidiosis ",
+			"q2": "C. ketosis ",
+			"q3": "D. brucellosis",
+			"q4": "E. aspergilliosis"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52. The major cause of spoilage in fresh fish is",
+		"opts": {
+			"q0": "A. high humidity",
+			"q1": "B. fungal attack",
+			"q2": "C. high moisture content",
+			"q3": "D. bacterial attack",
+			"q4": "E. protozoa"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53. Selection of breeding males based on the performance of their female relatives is known as",
+		"opts": {
+			"q0": "A. sib- selection",
+			"q1": "B. individual selection",
+			"q2": "C. tandem-method",
+			"q3": "D. progeny testing",
+			"q4": "E. index selection."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	
+	"Q54": {
+		"qs": "54. A farmer uses his agricultural loans for the following except",
+		"opts": {
+			"q0": "A. paying labour wages",
+			"q1": "B. hiring machineries and tools",
+			"q2": "C. purchasing drugs for livestock",
+			"q3": "D. paying for seeds",
+			"q4": "E. marketing his crops."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55. What is the effect of stability of market price on a produce? The",
+		"opts": {
+			"q0": "A. profit OT the producer would be constant if there is no increase in cost of inputs",
+			"q1": "B. profit of the retailer will be decreased",
+			"q2": "C. wholesaler will earn more from his sales",
+			"q3": "D. consumers will willingly buy more of the produce",
+			"q4": "E. producer and wholesaler will benefit from the ecomomic of large scale production."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56. From which of the following sources can agricultural credits be more easily obtained by peasant farmers?",
+		"opts": {
+			"q0": "A. Commercial banks",
+			"q1": "B. Wholesalers ",
+			"q2": "C. Money lenders",
+			"q3": "D. Government agencies",
+			"q4": "E. Credit and thrift societies."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57. Net worth statement can be referred to as",
+		"opts": {
+			"q0": "A. balance sheet",
+			"q1": "B. farm record book",
+			"q2": "C. profit and loss account",
+			"q3": "D. farm trading account",
+			"q4": "E. depreciation"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58. Which of the following activities is correct about agricultural extension agent?",
+		"opts": {
+			"q0": "A. Teaching farmers the management of exotic breeds of animals and crops",
+			"q1": "B. Educating farmers on the use of improved inputs and techniques in agriculture",
+			"q2": "C. Training school leavers to become professional farmers",
+			"q3": "D. Encouraging graduates to take up agriculture as a profession",
+			"q4": "E. Understudy the researchers and recording their findings."
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59. The problems of agricultural development in Nigeria are caused by the following except",
+		"opts": {
+			"q0": "A. inadequate land",
+			"q1": "B. poor finance",
+			"q2": "C. poor transportation system",
+			"q3": "D. lack of basic amenities",
+			"q4": "E. substandard farm inputs."
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60. The climatic factors affecting agricultural production in Nigeria include the following except",
+		"opts": {
+			"q0": "A. temperature",
+			"q1": "B. rainfall ",
+			"q2": "C. relative humidity",
+			"q3": "D. sunlight ",
+			"q4": "E. topography."
+		},
+		"ans": "E",
+		"sel": ""
+	},
+};

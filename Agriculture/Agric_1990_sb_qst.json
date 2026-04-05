@@ -1,0 +1,675 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1. Subsistence farming can be appropriately described as planting of crops and rearing of livestock",
+		"opts": {
+			"q0": "A. for the benefit of the whole country",
+			"q1": "B. as export for earning foreign exchange",
+			"q2": "C. for the benefit of the community only",
+			"q3": "D. for the benefit of the farmer and his family",
+			"q4": "E. as raw materials for agro-based industries."
+		},
+		"ans": "D"
+	},
+	"Q2": {
+		"qs": "2. Which of the following is not the role of government in agricultural production?",
+		"opts": {
+			"q0": "A. Provision of loans and credits",
+			"q1": "B. Building of storage facilities",
+			"q2": "C. Establishment of efficient marketing outlets",
+			"q3": "D. Provision of subsidies",
+			"q4": "E. Provision of labour."
+		},
+		"ans": "E"
+	},
+	"Q3": {
+		"qs": "3. In encouraging farmers to produce more of a particular crop, the Nigerian government has helped farmers in marketing that crop through the establishment of ",
+		"opts": {
+			"q0": "A. rural schools of agriculture",
+			"q1": "B. markets for the sale of crops",
+			"q2": "C. marketing boards",
+			"q3": "D. rural extension offices",
+			"q4": "E. universities of agriculture."
+		},
+		"ans": "C"
+	},
+	"Q4": {
+		"qs": "4. Which of the following factors affecting land availability and use is a socio-economic factor?",
+		"opts": {
+			"q0": "A. Population pressure",
+			"q1": "B. Soil type",
+			"q2": "C. Topography",
+			"q3": "D. Farming systems",
+			"q4": "E. Climate."
+		},
+		"ans": "A"
+	},
+	"Q5": {
+		"qs": "5. A crop not requiring more than 750 mm annual rainfall is most suitable for cultivation in",
+		"opts": {
+			"q0": "A. swampy forest",
+			"q1": "B. sahel savanna",
+			"q2": "C. rain forest",
+			"q3": "D. sudan savanna",
+			"q4": "E. guinea savanna."
+		},
+		"ans": "B"
+	},
+	"Q6": {
+		"qs": "6. The major factors influencing the physical or mechanical breakdown of rocks into finer particles include the following except",
+		"opts": {
+			"q0": "A. man",
+			"q1": "B. animal",
+			"q2": "C. wind",
+			"q3": "D. water",
+			"q4": "E. solution."
+		},
+		"ans": "E"
+	},
+	"Q7": {
+		"qs": "7. The equation below represents the process of chemical weathering called",
+		"img": "img**Agric_1990_sectionb_qs-t7_1.jpg",
+		"opts": {
+			"q0": "A. hydrolysis ",
+			"q1": "B. solution ",
+			"q2": "C. carbonation ",
+			"q3": "D. oxidation ",
+			"q4": "E. hydration"
+		},
+		"ans": "A"
+	},
+	"Q8": {
+		"qs": "8. Which of the following nutrient elements is a micronutrient?",
+		"opts": {
+			"q0": "A. Phosphorus",
+			"q1": "B. Zinc",
+			"q2": "C. Iron",
+			"q3": "D. Manganese",
+			"q4": "E. Boron"
+		},
+		"ans": "A"
+	},
+	"Q9": {
+		"qs": "9. Which of the following is a disadvantage of using organic manure on the soil?",
+		"opts": {
+			"q0": "A. Spreading of pests and diseases",
+			"q1": "B. Reducing the rate of evaporation from soil surfaces",
+			"q2": "C. Improving the nitrogen content of soil",
+			"q3": "D. Increasing the humus content of soil",
+			"q4": "E. Preventing erosion and leaching"
+		},
+		"ans": "A"
+	},
+	"Q10": {
+		"qs": "10. Which of the following factors is not considered in the use of irrigation?",
+		"opts": {
+			"q0": "A. Weed seed distribution over the farm",
+			"q1": "B. Cost of maintenance",
+			"q2": "C. Availability of water",
+			"q3": "D. Build up of pests and diseases",
+			"q4": "E. Prevention of salt accumulation through adequate drainage."
+		},
+		"ans": "E"
+	},
+	"Q11": {
+		"qs": "11. By which of the following ways is the agricultural production in Nigeria affected by topography",
+		"opts": {
+			"q0": "A. Lowering of crop quality",
+			"q1": "B. Determining the manure requirement of a farm",
+			"q2": "C. Lowering the level of production",
+			"q3": "D. Increasing the pest incidence on crops",
+			"q4": "E. Influencing the area of land .actually available for agriculture. "
+		},
+		"ans": "E"
+	},
+	"Q12": {
+		"qs": "12. Which of the following will not contribute to soil formation in Nigeria?",
+		"opts": {
+			"q0": "A. Carbonation",
+			"q1": "B. Oxidation",
+			"q2": "C. Temperature",
+			"q3": "D. Hydrolysis",
+			"q4": "E. Glaciation."
+		},
+		"ans": "E"
+	},
+	"Q13": {
+		"qs": "13. The type of soil formed is affected by the following factors except",
+		"opts": {
+			"q0": "A. farming systems",
+			"q1": "B. climate",
+			"q2": "C. vegetation",
+			"q3": "D. topography",
+			"q4": "E. parent material."
+		},
+		"ans": "A"
+	},
+	"Q14": {
+		"qs": "14. Which of the following is the function of Nitrosomonas in the nitrogen cycle?",
+		"opts": {
+			"q0": "A. Ammonification",
+			"q1": "B. Volatilization ",
+			"q2": "C. Nitrification ",
+			"q3": "D. Denitrification ",
+			"q4": "E. Nitrogen fixation."
+		},
+		"ans": "C"
+	},
+	"Q15": {
+		"qs": "15. Which of the following farm practices does not have a very harmful effect on the soil?",
+		"opts": {
+			"q0": "A. Crop rotation",
+			"q1": "B. Land clearing",
+			"q2": "C. Overgrazing",
+			"q3": "D. Flooding.",
+			"q4": "E. Bush burning."
+		},
+		"ans": "A"
+	},
+	"Q16": {
+		"qs": "16. Soil can be drained by the use of the following except",
+		"opts": {
+			"q0": "A. sprinklers",
+			"q1": "B. channels",
+			"q2": "C. gutters",
+			"q3": "D. ditches",
+			"q4": "E. porous pipes."
+		},
+		"ans": "A"
+	},
+	"Q17": {
+		"qs": "17. Which of the following parts of a tractor need not be regularly checked before the tractor is put into use?",
+		"opts": {
+			"q0": "A. Engine oil and water level",
+			"q1": "B. Power take-off shaft",
+			"q2": "C. Tyres and tyre pressure",
+			"q3": "D. Brake and gear",
+			"q4": "E. Operator’s and adjustment."
+		},
+		"ans": "E"
+	},
+	"Q18": {
+		"qs": "18. What are give and take lines often used for in farm surveying?",
+		"opts": {
+			"q0": "A. Levelling measurements of farms",
+			"q1": "B. Chain measurements of farmlands",
+			"q2": "C. Measuring diversions or obstructions in a farmland",
+			"q3": "D. Measuring turning points during surveying",
+			"q4": "E. Measuring farms with irregular boundaries."
+		},
+		"ans": "E"
+	},
+	"Q19": {
+		"qs": "19. Which of the following is not a limitation of farm mechanization?",
+		"opts": {
+			"q0": "A. Technical know-how",
+			"q1": "B. Capital",
+			"q2": "C. Small holdings",
+			"q3": "D. Lack of spare parts",
+			"q4": "E. Labour."
+		},
+		"ans": "E"
+	},
+	"Q20": {
+		"qs": "20. Incubators are used to supply heat to",
+		"opts": {
+			"q0": "A. day-old chicks",
+			"q1": "B. sick fowls in cold weather ",
+			"q2": "C. cockerels to increase their libido",
+			"q3": "D. poultry attendants for protection against cold",
+			"q4": "E. fertilized ,eggs for chick development."
+		},
+		"ans": "E"
+	},
+	"Q21": {
+		"qs": "21. Root knot of tomato is caused by a",
+		"opts": {
+			"q0": "A. Fungus ",
+			"q1": "B. bacterium ",
+			"q2": "C. virus ",
+			"q3": "D. Protozoan ",
+			"q4": "E. nematode "
+		},
+		"ans": "E"
+	},
+	"Q22": {
+		"qs": "22. If the seed rate for guinea corn is 5.6 kg per hectare, what will be the amount of seeds required for planting 35 acre farm?",
+		"opts": {
+			"q0": "A. 75.1",
+			"q1": "B. 78.4",
+			"q2": "C. 568.2",
+			"q3": "D. 784.5",
+			"q4": "E. 960.3"
+		},
+		"ans": "B"
+	},
+	"Q23": {
+		"qs": "23. The most common weed of pastures in Nigeria is",
+		"opts": {
+			"q0": "A. spear grass",
+			"q1": "B. goat weed",
+			"q2": "C. water leaf",
+			"q3": "D. tridax ",
+			"q4": "E. sida"
+		},
+		"ans": "A"
+	},
+	"Q24": {
+		"qs": "24. The following are forestry crops except ",
+		"opts": {
+			"q0": "A. Tectona grandis",
+			"q1": "B. Gmelina arborea",
+			"q2": "C. Anarcadium",
+			"q3": "D. Pinus eliotis",
+			"q4": "E. Chforophora excelsa"
+		},
+		"ans": "C"
+	},
+	"Q25": {
+		"qs": "25. The pest designated as a national pest by the Nigerian Agricultural Advisory Council is",
+		"opts": {
+			"q0": "A. Variegated grasshopper",
+			"q1": "B. Thrips ",
+			"q2": "C. Capsid ",
+			"q3": "D. Cricket",
+			"q4": "E. Weevil"
+		},
+		"ans": "A"
+	},
+	"Q26": {
+		"qs": "26. Which of the following groups comprises only oil crops?",
+		"opts": {
+			"q0": "A. Groundnut, jute and cotton",
+			"q1": "B. Melon, coconut and sisal hemp",
+			"q2": "C. Coconut, cotton and sunflower",
+			"q3": "D. Sunflower, rubber and jute",
+			"q4": "E. Oil palm, sunflower and jute."
+		},
+		"ans": "C"
+	},
+	"Q27": {
+		"qs": "27. The mosaic symptom commonly associated with viral diseases of crops can be best observed on",
+		"opts": {
+			"q0": "A. roots ",
+			"q1": "B. stem ",
+			"q2": "C. leaves ",
+			"q3": "D. fruits ",
+			"q4": "E. flowers"
+		},
+		"ans": "C"
+	},
+	"Q28": {
+		"qs": "28.	The diagram explains the Mendel’s law of",
+		"img": "img**Agric_1990_sectionb_qs-t28_1.jpg",
+		"opts": {
+			"q0": "A. segregation",
+			"q1": "B. independent assortment",
+			"q2": "C. chromosomal mutation",
+			"q3": "D. homozygosity",
+			"q4": "E. heterozygosity"
+		},
+		"ans": "A"
+	},
+	"Q29": {
+		"qs": "29.	The component labelled II are the",
+		"img": "img**Agric_1990_sectionb_qs-t28_1.jpg",
+		"opts": {
+			"q0": "A. gametes",
+			"q1": "B. parents ",
+			"q2": "C. f 1 generation",
+			"q3": "D. zygotes ",
+			"q4": "E. phenotypes"
+		},
+		"ans": "A"
+	},
+	"Q30": {
+		"qs": "30. Which of the following is not true of the progenies labelled III? They are",
+		"opts": {
+			"q0": "A. the first filial generation",
+			"q1": "B. all tall pea plants",
+			"q2": "C. produced by a monohybrid cross",
+			"q3": "D. of the same genotype",
+			"q4": "E. different phenotypes."
+		},
+		"ans": "E"
+	},
+	"Q31": {
+		"qs": "31. If the individual crops obtained in III are crossed, the phenotypic ratio of tall to dwarf progenies would be",
+		"opts": {
+			"q0": "A. 3 : 1",
+			"q1": "B. 1 : 2 :1",
+			"q2": "C. 2 : 1",
+			"q3": "D. 1 : 2",
+			"q4": "E. 4 : 0"
+		},
+		"ans": "A"
+	},
+	"Q32": {
+		"qs": "32. Pests of crops that feed by piercing and sucking plants include the following except",
+		"opts": {
+			"q0": "A. stem borers",
+			"q1": "B. aphids ",
+			"q2": "C. cocoa mirids",
+			"q3": "D. cotton stainers",
+			"q4": "E. cassava mealy bugs."
+		},
+		"ans": "A"
+	},
+	"Q33": {
+		"qs": "33. Maize grows best on",
+		"opts": {
+			"q0": "A. sandy soil",
+			"q1": "B. sandy-clay soil",
+			"q2": "C. clayey-loam soil",
+			"q3": "D. loamy soil",
+			"q4": "E. silty-clay soil."
+		},
+		"ans": "D"
+	},
+	"Q34": {
+		"qs": "34. Soil may be exposed to erosion when a pasture is",
+		"opts": {
+			"q0": "A. unaergrazed",
+			"q1": "B. overgrazed",
+			"q2": "C. paadocked",
+			"q3": "D. weeded",
+			"q4": "E. fenced."
+		},
+		"ans": "B"
+	},
+	"Q35": {
+		"qs": "35.	Taungya farm involves the combination of",
+		"opts": {
+			"q0": "A. crop and animal husbandry",
+			"q1": "B. crop husbandry and forestry",
+			"q2": "C. forestry and animal husbandry",
+			"q3": "D. crop husbandry and fish farming",
+			"q4": "E. forestry and fisn farming."
+		},
+		"ans": "B"
+	},
+	"Q36": {
+		"qs": "36.	The destructive effects of variegated grasshoppers are conspicuously observed on",
+		"opts": {
+			"q0": "A. cassava and yam crops",
+			"q1": "B. cocoa and citrus crops",
+			"q2": "C. cowpea and maize crops",
+			"q3": "D. maize and cassava crops",
+			"q4": "E. citrus and weeds."
+		},
+		"ans": "D"
+	},
+	"headd": "Use the diagram below to answer questions 37-40.",
+	"Q37": {
+		"qs": "37. The site of milk synthesis and milk secretion is labelled",
+		"img": "img**Agric_1990_sectionb_qs-t37_1.jpg",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. IV",
+			"q3": "D. V",
+			"q4": "E. VII."
+		},
+		"ans": "A"
+	},
+	"Q38": {
+		"qs": "38.	Milk contents from large ducts are emptied into the part labelled",
+		"img": "img**Agric_1990_sectionb_qs-t37_1.jpg",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. IV",
+			"q3": "D. V",
+			"q4": "E. VI"
+		},
+		"ans": "C"
+	},
+	"Q39": {
+		"qs": "39.	Milk is discharged by attaching milking machine to the part labelled",
+		"img": "img**Agric_1990_sectionb_qs-t37_1.jpg",
+		"opts": {
+			"q0": "A. II",
+			"q1": "B. III",
+			"q2": "C. IV",
+			"q3": "D. VI",
+			"q4": "E. VII"
+		},
+		"ans": "E"
+	},
+	"Q40": {
+		"qs": "40. The ducts that arise from the alveoli are labelled",
+		"img": "img**Agric_1990_sectionb_qs-t37_1.jpg",
+		"opts": {
+			"q0": "A. II",
+			"q1": "B. III",
+			"q2": "C. IV",
+			"q3": "D. V",
+			"q4": "E. VI"
+		},
+		"ans": "B"
+	},
+	"headd": "Use the diagram by the side to answer questions 41-43",
+	"Q41": {
+		"qs": "41. The shell-producing region is labelled",
+		"img": "img**Agric_1990_sectionb_qs-t41_1.jpg",
+		"opts": {
+			"q0": "A. IV",
+			"q1": "B. V",
+			"q2": "C. VI",
+			"q3": "D. VII",
+			"q4": "E. VIII"
+		},
+		"ans": "C"
+	},
+	"Q42": {
+		"qs": "42.	The region where the sperm from the cock is deposited is labelled",
+		"img": "img**Agric_1990_sectionb_qs-t41_1.jpg",
+		"opts": {
+			"q0": "A. II",
+			"q1": "B. IV",
+			"q2": "C. V",
+			"q3": "D. VI",
+			"q4": "E. VIII"
+		},
+		"ans": "C"
+	},
+	"Q43": {
+		"qs": "43.	The oviduct is labelled",
+		"img": "img**Agric_1990_sectionb_qs-t41_1.jpg",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. III",
+			"q3": "D. IV",
+			"q4": "E. V"
+		},
+		"ans": "C"
+	},
+	"Q44": {
+		"qs": "44.	A castrated male fowl is known as",
+		"opts": {
+			"q0": "A. cock ",
+			"q1": "B. capon ",
+			"q2": "C. cockerel ",
+			"q3": "D. hen ",
+			"q4": "E. broiler"
+		},
+		"ans": "B"
+	},
+	"Q45": {
+		"qs": "45.	The type of feed which contains the essential nutrients in the right concentrations and proportions is known as",
+		"opts": {
+			"q0": "A. growers mash",
+			"q1": "B. weaners diet",
+			"q2": "C. creep feed",
+			"q3": "D. concentrate",
+			"q4": "E. balance diet."
+		},
+		"ans": "E"
+	},
+	"Q46": {
+		"qs": "46.	Which of the following is not a reason why planting a mixture of grass and legume on a pasture is economical to the farmer? The",
+		"opts": {
+			"q0": "A. mixture can harbour pests",
+			"q1": "B. mixture helps in preventing soil erosion",
+			"q2": "C. farmer will save on fertilizer",
+			"q3": "D. mixture provides a balanced feed for livestock",
+			"q4": "E. mixture increases the rate of production of livestock."
+		},
+		"ans": "A"
+	},
+	"Q47": {
+		"qs": "47.	The parts of the body affected by Newcastle disease of poultry are the",
+		"opts": {
+			"q0": "A. digestive and circulatory systems",
+			"q1": "B. reproductive and excretory tracts",
+			"q2": "C. nervous system and respiratory tract",
+			"q3": "D. air-sac ana the comb",
+			"q4": "E. comb and the legs."
+		},
+		"ans": "C"
+	},
+	"Q48": {
+		"qs": "48.	A fish pond is an enclosed body of water for",
+		"opts": {
+			"q0": "A. rearing fish for consumption",
+			"q1": "B. rearing aquatic organisms for feeding fish",
+			"q2": "C. storing fisn and other organisms",
+			"q3": "D. keeping ornamental fish and aquatic plants",
+			"q4": "E. rearing fish and other aquatic mammals."
+		},
+		"ans": "A"
+	},
+	"Q49": {
+		"qs": "49.	The breed of goat noted for its production of high quality Morocco leather is the",
+		"opts": {
+			"q0": "A. West African dwarf",
+			"q1": "B. Kano brown",
+			"q2": "C. Ouda ",
+			"q3": "D. Bornu red",
+			"q4": "E. Sokoto red"
+		},
+		"ans": "E"
+	},
+	"Q50": {
+		"qs": "50.	Which of the following is not a source of minerals in animal nutrition?",
+		"opts": {
+			"q0": "A. Green pastures",
+			"q1": "B. Fish meal",
+			"q2": "C. Blood meal",
+			"q3": "D. Cereal",
+			"q4": "E. Palm oil."
+		},
+		"ans": "E"
+	},
+	"Q51": {
+		"qs": "51.	The following are all leguminous forage crops except",
+		"opts": {
+			"q0": "A. Centrosema pubescens",
+			"q1": "B. Vigna sinensis",
+			"q2": "C. Stylodsnynrd htsvilid",
+			"q3": "D. Panicum Maximum",
+			"q4": "E. Pueraria phaseoloiaes"
+		},
+		"ans": "D"
+	},
+	"Q52": {
+		"qs": "52.	Which of the following livestock diseases is transmitted by ticks?",
+		"opts": {
+			"q0": "A. Red water",
+			"q1": "B. Coccidiosis",
+			"q2": "C. Aspergillosis",
+			"q3": "D. Trypanosomiasis",
+			"q4": "E. Brucellosis"
+		},
+		"ans": "A"
+	},
+	"Q53": {
+		"qs": "53.	Dissolved oxygen in fisn ponds is maintained at normal level in order to",
+		"opts": {
+			"q0": "A. accelerate decay of plant materials",
+			"q1": "B. prevent disease attacks",
+			"q2": "C. prevent acquatic plants from competing with fish",
+			"q3": "D. keep fish activities normal",
+			"q4": "E. improve the quality offish"
+		},
+		"ans": "D"
+	},
+	"Q54": {
+		"qs": "54.	Which of the following is not a quality for selecting livestock?",
+		"opts": {
+			"q0": "A. Feed consumption",
+			"q1": "B. Egg production",
+			"q2": "C. Mortality rate",
+			"q3": "D. Body weight",
+			"q4": "E. Litter size."
+		},
+		"ans": "A"
+	},
+	"Q55": {
+		"qs": "55.	Investments with long life span in agricultural economics are otherwise known as",
+		"opts": {
+			"q0": "A. labour",
+			"q1": "B. entrepreneurship",
+			"q2": "C. savings deposit",
+			"q3": "D. profit ",
+			"q4": "E. capital"
+		},
+		"ans": "E"
+	},
+	"Q56": {
+		"qs": "56.	Under normal circumstances, the concept of consumer sovereignty in agriculture implies that",
+		"opts": {
+			"q0": "A. the consumer and not the farmer determines what to produce",
+			"q1": "B. both the farmer and the consumer determine what to produce",
+			"q2": "C. the consumer and not the farmer owns the means of production",
+			"q3": "D. the environmental factors determine what to produce",
+			"q4": "E. the farmers determine what to produce."
+		},
+		"ans": "A"
+	},
+	"Q57": {
+		"qs": "57.	Agricultural credits given to farmers in form of cash are used by the farmer to",
+		"opts": {
+			"q0": "A. disseminate the latest technique in farming",
+			"q1": "B. implement new policies",
+			"q2": "C. investigate the cause of low agricultural production",
+			"q3": "D. make the total cash value of his crops greater than his expenses",
+			"q4": "E. pay for expenses in his farming business."
+		},
+		"ans": "E"
+	},
+	"Q58": {
+		"qs": "58.	Farm records and account help the farmer to",
+		"opts": {
+			"q0": "A. manage his farm as a business",
+			"q1": "B. repair his tools and machinery",
+			"q2": "C. transport his crop to the market",
+			"q3": "D. be less dependent on farming for an income",
+			"q4": "E. adopt modern techniques of farming."
+		},
+		"ans": "A"
+	},
+	"Q59": {
+		"qs": "59.	The disbanded produce marketing boards in Nigeria dealt with the following commodities except",
+		"opts": {
+			"q0": "A. oil palm",
+			"q1": "B. rubber",
+			"q2": "C. cocoa",
+			"q3": "D. groundnut",
+			"q4": "E. yam."
+		},
+		"ans": "E"
+	},
+	"Q60": {
+		"qs": "60.	Agricultural extension programme would succeed in disseminating new ideas to farmers except if the programme",
+		"opts": {
+			"q0": "A. is based on research tested on local conditions",
+			"q1": "B. involves the people for which the programme is planned",
+			"q2": "C. involved only the support to highly trained agricultural extension specialist",
+			"q3": "D. is not kept flexible to contemporary technology",
+			"q4": "E. is based on planned agricultural programmes."
+		},
+		"ans": "D"
+	}
+};

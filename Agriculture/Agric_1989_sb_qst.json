@@ -1,0 +1,664 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1. Peasant farmers sell almost all their produce immediately after harvesting because",
+		"opts": {
+			"q0": "A. stored produce would be lost to pests",
+			"q1": "B. there are inadequate storage facilities",
+			"q2": "C. stored produce lose their quality",
+			"q3": "D. the produce are perishable",
+			"q4": "E. the prices offered for stored produce are low."
+		},
+		"ans": "B"
+	},
+	"Q2": {
+		"qs": "2. The commonest method of land tenure in Nigeria is",
+		"opts": {
+			"q0": "A. lease",
+			"q1": "B. inheritance",
+			"q2": "C. outright purchase",
+			"q3": "D. pledge",
+			"q4": "E. state allocation."
+		},
+		"ans": "B"
+	},
+	"Q3": {
+		"qs": "3. Which of the following constitutes a direct monetary cash assistance from government to farmers?",
+		"opts": {
+			"q0": "A. Agricultural development programmes",
+			"q1": "B. Extension service",
+			"q2": "C. Supply of inputs",
+			"q3": "D. loans",
+			"q4": "E. Tractor hiring."
+		},
+		"ans": "D"
+	},
+	"Q4": {
+		"qs": "4. The cross-section of a segment of soil showing the horizons or layers is known as the soil",
+		"opts": {
+			"q0": "A. structure",
+			"q1": "B. texture",
+			"q2": "C. section",
+			"q3": "D. depth",
+			"q4": "E. profile."
+		},
+		"ans": "E"
+	},
+	"Q5": {
+		"qs": "5. If a crop requires 1.5 kg phosphorus per hectare, how many kg of manure will be required per hectare if 1 kg manure contains 0.49 kg of phosphorus?",
+		"opts": {
+			"q0": "A. 2.47",
+			"q1": "B. 2.97",
+			"q2": "C. 7.35",
+			"q3": "D. 12.39",
+			"q4": "E. 30.61."
+		},
+		"ans": "E"
+	},
+	"Q6": {
+		"qs": "6. The factor that does not influence land use is",
+		"opts": {
+			"q0": "A. topography",
+			"q1": "B. population pressure",
+			"q2": "C. population graph",
+			"q3": "D. forest establishment",
+			"q4": "E. soil type."
+		},
+		"ans": "C"
+	},
+	"Q7": {
+		"qs": "7. Which of the following environmental factors is likely to have the greatest influence on crop production in Nigeria?",
+		"opts": {
+			"q0": "A. Temperature",
+			"q1": "B. Vegetation",
+			"q2": "C. Air movement",
+			"q3": "D. Moisture",
+			"q4": "E. Pressure."
+		},
+		"ans": "D"
+	},
+	"Q8": {
+		"qs": "8. The process whereby rocks are broken down into small particles through both physical and chemical factors is known as",
+		"opts": {
+			"q0": "A. rock hydration",
+			"q1": "B. rock degradation",
+			"q2": "C. oxidation",
+			"q3": "D. erosion",
+			"q4": "E. weathering."
+		},
+		"ans": "E"
+	},
+	"Q9": {
+		"qs": "9. The parent material of a soil is formed from the disintegration of",
+		"opts": {
+			"q0": "A. sand",
+			"q1": "B. gravel",
+			"q2": "C. silt",
+			"q3": "D. rock",
+			"q4": "E. organic matter."
+		},
+		"ans": "D"
+	},
+	"Q10": {
+		"qs": "10. Nitrogen is made available to plants in the form of nitrates through the process of",
+		"opts": {
+			"q0": "A. deamination and nitrification",
+			"q1": "B. ammonification and denitrification",
+			"q2": "C. deamination and ammonification",
+			"q3": "D. nitrification and denitrification",
+			"q4": "E. nitrification and ammonification."
+		},
+		"ans": "E"
+	},
+	"Q11": {
+		"qs": "11. Which of the following is not an effect of burning on the soil?",
+		"opts": {
+			"q0": "A. Increasing the organic matter in the soil",
+			"q1": "B. Increasing the soil nutrients",
+			"q2": "C. Increasing the acidity of the soil",
+			"q3": "D. Exposing the soil to erosion",
+			"q4": "E. Sterilization of the soil."
+		},
+		"ans": "A"
+	},
+	"Q12": {
+		"qs": "12. The functions of soil micro-organisms include the following except",
+		"opts": {
+			"q0": "A. decomposition of dead plant and animal remains",
+			"q1": "B. recycling of nutrient",
+			"q2": "C. causing plant or animal diseases",
+			"q3": "D. living as parasites on crop plants",
+			"q4": "E. filtration of soil water for plant use."
+		},
+		"ans": "E"
+	},
+	"Q13": {
+		"qs": "13.	Slate is derived from",
+		"opts": {
+			"q0": "A. schist",
+			"q1": "B. sandstone",
+			"q2": "C. shale",
+			"q3": "D. gneiss",
+			"q4": "E. quartzite."
+		},
+		"ans": "C"
+	},
+	"Q14": {
+		"qs": "14. The following are advantages of the sprinkler method of irrigation except",
+		"opts": {
+			"q0": "A. rate of application of irrigation water can be controlled",
+			"q1": "B. portable nature of many sprinkler systems make them suitable for use",
+			"q2": "C. the sprinkler systems can be made automatic",
+			"q3": "D. method can be used where topography affects harrowing of land",
+			"q4": "E. method may be difficult for local farmers to use."
+		},
+		"ans": "E"
+	},
+	"Q15": {
+		"qs": "15. Rhizobium supplies nitrogen to leguminous plants by",
+		"opts": {
+			"q0": "A. changing some mineral salts to sulphate of ammonia",
+			"q1": "B. incorporating urea into its body",
+			"q2": "C. fixing atmospheric nitrogen",
+			"q3": "D. decomposing plant remains",
+			"q4": "E. Increasing the pH value of the soil."
+		},
+		"ans": "C"
+	},
+	"Q16": {
+		"qs": "16. The advantage of providing drainage ditches in farms is that it",
+		"opts": {
+			"q0": "A. requires periodic clearing",
+			"q1": "B. is inconvenient for farm mechanization",
+			"q2": "C. is labour intensive",
+			"q3": "D. is unsuitable for draining basement of farm buildings",
+			"q4": "E. is easily adopted by small scale farmers."
+		},
+		"ans": "E"
+	},
+	"Q17": {
+		"qs": "17. Which of the following sources of farm power cannot be effectively used for processing agricultural products?",
+		"opts": {
+			"q0": "A. animal",
+			"q1": "B. electricity",
+			"q2": "C. sun",
+			"q3": "D. machines",
+			"q4": "E. wind."
+		},
+		"ans": "A"
+	},
+	"Q18": {
+		"qs": "18. The instrument used to measure the relative humidity is",
+		"opts": {
+			"q0": "A. thermometer",
+			"q1": "B. anemometer",
+			"q2": "C. hygrometer",
+			"q3": "D. hydrometer",
+			"q4": "E. rain gauge."
+		},
+		"ans": "C"
+	},
+	"Q19": {
+		"qs": "19. The most important limitation of agricultural mechanization is",
+		"opts": {
+			"q0": "A. small holdings",
+			"q1": "B. lack of technical know-how",
+			"q2": "C. poor marketing system",
+			"q3": "D. inadequate storage facilities",
+			"q4": "E. pest attack."
+		},
+		"ans": "A"
+	},
+	"Q20": {
+		"qs": "20. The best tool(s) a farmer should use to measure out a large farm accurately include(s) the",
+		"opts": {
+			"q0": "A. garden line and measuring tape",
+			"q1": "B. measuring tape and ranging poles",
+			"q2": "C. measuring tape only",
+			"q3": "D. garden line only",
+			"q4": "E. ranging poles and garden line."
+		},
+		"ans": "B"
+	},
+	"Q21": {
+		"qs": "21. The distance between two successive yam mounds should be about",
+		"opts": {
+			"q0": "A. 0.10 m",
+			"q1": "B. 1.00 m ",
+			"q2": "C. 10.00 m",
+			"q3": "D. 100.00 m",
+			"q4": "E. 1000.00 m."
+		},
+		"ans": "B"
+	},
+	"Q22": {
+		"qs": "22. The desirable characteristics of forage crops include the following except",
+		"opts": {
+			"q0": "A. payability",
+			"q1": "B. dependability",
+			"q2": "C. high yield",
+			"q3": "D. resistance to trampling",
+			"q4": "E. poor reproductive ability."
+		},
+		"ans": "E"
+	},
+	"Q23": {
+		"qs": "23. The growing of both forest and agricultural crops on the same piece of land is termed",
+		"opts": {
+			"q0": "A. mixed cropping",
+			"q1": "B. mixed farming",
+			"q2": "C. forestry",
+			"q3": "D. taungya system",
+			"q4": "E. poor reproductive ability."
+		},
+		"ans": "D"
+	},
+	"Q24": {
+		"qs": "24. Which of the following is not an effect on man of the various preventive and control measures of diseases and pests of crops?",
+		"opts": {
+			"q0": "A. Air pollution",
+			"q1": "B. Water poisoning",
+			"q2": "C. Food contamination",
+			"q3": "D. Poor health",
+			"q4": "E. Poor utilization."
+		},
+		"ans": "E"
+	},
+	"Q25": {
+		"qs": "25. The units of inheritance which determine the various characteristics of crops are called",
+		"opts": {
+			"q0": "A. chromosomes",
+			"q1": "B. nuclei",
+			"q2": "C. genes",
+			"q3": "D. cytoplasm",
+			"q4": "E. membranes."
+		},
+		"ans": "C"
+	},
+	"Q26": {
+		"qs": "26. Which of the following crops is a raw material for the production of chocolate?",
+		"opts": {
+			"q0": "A. Kolanut",
+			"q1": "B. Coffee",
+			"q2": "C. Banana",
+			"q3": "D. Cocoa",
+			"q4": "E. Avocado pear."
+		},
+		"ans": "D"
+	},
+	"Q27": {
+		"qs": "27. In the establishment of pastures, it is best to",
+		"opts": {
+			"q0": "A. plant only grasses",
+			"q1": "B. plant only legumes",
+			"q2": "C. plant a mixture of grasses and legumes",
+			"q3": "D. let the natural grasses grow",
+			"q4": "E. allow weeds to mix with the forage crops."
+		},
+		"ans": "C"
+	},
+	"Q28": {
+		"qs": "28. A forest established for watershed management will perform the following functions except",
+		"opts": {
+			"q0": "A. reducing water pollution",
+			"q1": "B. controlling fish population",
+			"q2": "C. controlling erosion",
+			"q3": "D. maintaining a steady stream flow",
+			"q4": "E. reducing evaporation."
+		},
+		"ans": "B"
+	},
+	"Q29": {
+		"qs": "29. The disease which most often attacks groundnut is called",
+		"opts": {
+			"q0": "A. rosette",
+			"q1": "B. mosaic",
+			"q2": "C. soft rot",
+			"q3": "D. powdery mildew",
+			"q4": "E. brown rot."
+		},
+		"ans": "A"
+	},
+	"Q30": {
+		"qs": "30. The process of meiosis in plants ensures the production of reproductive cells with",
+		"opts": {
+			"q0": "A. the same number of chromosomes like the parent plant",
+			"q1": "B. half the number of chromosomes of the parent plant",
+			"q2": "C. no chromosome unlike the parent plants",
+			"q3": "D. thrice the number of chromosomes of the parent plant",
+			"q4": "E. twice the number of chromosomes of the parent plant."
+		},
+		"ans": "B"
+	},
+	"Q31": {
+		"qs": "31. Why should a seed-producing farmer spray an insecticide on his crops only when the bees are not around?",
+		"opts": {
+			"q0": "A. The bees would sting him and ne therefore avoids them",
+			"q1": "B. The farmer does not want to waste his chemicals",
+			"q2": "C. Bees are important for pollination of his crops",
+			"q3": "D. Bees produce honey for him in his farm",
+			"q4": "E. Bees are harmless insects."
+		},
+		"ans": "C"
+	},
+	"Q32": {
+		"qs": "32. The average seed rate for maize is 25 kg per hectare. Allowing for a seed wastage of 5 per cent,' how many kilogram of seeds would be reguired in planting 10 hectares of farmland?",
+		"opts": {
+			"q0": "A. 237.5",
+			"q1": "B. 238.0",
+			"q2": "C. 250.0",
+			"q3": "D. 255.0",
+			"q4": "E. 262.5."
+		},
+		"ans": "E"
+	},
+	"Q33": {
+		"qs": "33. Thrips cause serious mechanical damages to crops by their",
+		"opts": {
+			"q0": "A. feeding activities on flowers, leaves and fruits",
+			"q1": "B. laying eggs on plants",
+			"q2": "C. sucking of the sap of crops",
+			"q3": "D. burrowing activities causing damping off in crops",
+			"q4": "E. activities as vectors of bacterial diseases."
+		},
+		"ans": "A"
+	},
+	"Q34": {
+		"qs": "34. The expression of a gene in the phenotype irrespective of whether the cell is homozygous or heterozygous is known as",
+		"opts": {
+			"q0": "A. recessive",
+			"q1": "B. partial dominance",
+			"q2": "C. test-cross",
+			"q3": "D. segregation",
+			"q4": "E. dominance."
+		},
+		"ans": "E"
+	},
+	"Q35": {
+		"qs": "35. Vegetative propagation can be carried out through the following processes except",
+		"opts": {
+			"q0": "A. seedling",
+			"q1": "B. cutting",
+			"q2": "C. layering",
+			"q3": "D. grafting",
+			"q4": "E. budding."
+		},
+		"ans": "A"
+	},
+	"Q36": {
+		"qs": "36. Contact insecticides are used to control",
+		"opts": {
+			"q0": "A. pod borers of legumes",
+			"q1": "B. stem borers of cereal",
+			"q2": "C. leaf beetles of legumes",
+			"q3": "D. peel worm of legumes",
+			"q4": "E. bollworms of cotton."
+		},
+		"ans": "C"
+	},
+	"Q37": {
+		"qs": "37. The part of tne ruminant stomach from which digestive juices are secreted is the",
+		"opts": {
+			"q0": "A. rumen",
+			"q1": "B. reticulum",
+			"q2": "C. omasum",
+			"q3": "D. paunch",
+			"q4": "E. abomasum."
+		},
+		"ans": "E"
+	},
+	"Q38": {
+		"qs": "38. At which of the following ages are gilts normally mated?",
+		"opts": {
+			"q0": "A. 8-12 months",
+			"q1": "B. 14-15 months",
+			"q2": "C. 15 -20 months",
+			"q3": "D. 21 -24 months",
+			"q4": "E. over 25 months."
+		},
+		"ans": "A"
+	},
+	"Q39": {
+		"qs": "39. Which of the following breeds of cattle is regarded as the best dairy breed in Nigeria?",
+		"opts": {
+			"q0": "A. Red Bororo",
+			"q1": "B. Keteku",
+			"q2": "C. Sokoto Gudaii",
+			"q3": "D. Muturu",
+			"q4": "E. White Fulani."
+		},
+		"ans": "E"
+	},
+	"Q40": {
+		"qs": "40. The symptoms of vitamin deficiency diseases in livestock include the following except",
+		"opts": {
+			"q0": "A. scurvy",
+			"q1": "B. loss of appetite",
+			"q2": "C. poor blood clotting",
+			"q3": "D. improved fertility",
+			"q4": "E. rickets."
+		},
+		"ans": "D"
+	},
+	"Q41": {
+		"qs": "41. A protozoan disease of livestock not transmitted by a vector is",
+		"opts": {
+			"q0": "A. coccidiosis",
+			"q1": "B. babesiosis",
+			"q2": "C. trypanosomiasis",
+			"q3": "D. redwater",
+			"q4": "E. anaplasmosis."
+		},
+		"ans": "A"
+	},
+	"Q42": {
+		"qs": "42. The best method(s) of regulating fish capture is/are",
+		"opts": {
+			"q0": "A. gill netting and electro-fishing",
+			"q1": "B. quota and mesh- size control",
+			"q2": "C. beach seme method",
+			"q3": "D. active netting",
+			"q4": "E. passive netting."
+		},
+		"ans": "B"
+	},
+	"Q43": {
+		"qs": "43. Which of the following is not a factor of improvement in breeding cattle?",
+		"opts": {
+			"q0": "A. Fertility",
+			"q1": "B. Butter-fat percentage",
+			"q2": "C. Weaning weight",
+			"q3": "D. Feed efficiency",
+			"q4": "E. Back-fat thickness."
+		},
+		"ans": "E"
+	},
+	"Q44": {
+		"qs": "44. Which of the following is not a symptom of malnutrition in livestock?",
+		"opts": {
+			"q0": "A. Bloat",
+			"q1": "B. Night blindness",
+			"q2": "C. Milk fever",
+			"q3": "D. Infertility",
+			"q4": "E. Anaemia."
+		},
+		"ans": "A"
+	},
+	"Q45": {
+		"qs": "45. The act of giving birth in rabbits is known as",
+		"opts": {
+			"q0": "A. kidding",
+			"q1": "B. farrowing",
+			"q2": "C. kindling",
+			"q3": "D. calving",
+			"q4": "E. lambing."
+		},
+		"ans": "C"
+	},
+	"Q46": {
+		"qs": "46. The exoticbreeds of rabbits found in Nigeria include the following except",
+		"opts": {
+			"q0": "A. New Zealand white",
+			"q1": "B. Chinchila",
+			"q2": "C. American Albino",
+			"q3": "D. Flemish Giant",
+			"q4": "E. Rhode Island Red."
+		},
+		"ans": "E"
+	},
+	"Q47": {
+		"qs": "47. Minerals such as contained in oyster shell help animals to",
+		"opts": {
+			"q0": "A. build up their body tissue",
+			"q1": "B. develop their bones and teeth",
+			"q2": "C. have balanced diet",
+			"q3": "D. develop immunity against deficiency diseases",
+			"q4": "E. increase their blood mineral content."
+		},
+		"ans": "B"
+	},
+	"Q48": {
+		"qs": "48. Some of the by-products of fish include the following except",
+		"opts": {
+			"q0": "A. fish meal",
+			"q1": "B. fish silage",
+			"q2": "C. glue",
+			"q3": "D. oil",
+			"q4": "E. leather."
+		},
+		"ans": "E"
+	},
+	"Q49": {
+		"qs": "49. he commonest ectoparasites of birds are",
+		"opts": {
+			"q0": "A. lice",
+			"q1": "B. fleas",
+			"q2": "C. ticks",
+			"q3": "D. mites",
+			"q4": "E. houseflies."
+		},
+		"ans": "A"
+	},
+	"Q50": {
+		"qs": "50. The following factors should be considered when selecting a farm animal irrespective of the use management and cost except",
+		"opts": {
+			"q0": "A. heredity",
+			"q1": "B. age",
+			"q2": "C. health",
+			"q3": "D. fecundity",
+			"q4": "E. colour."
+		},
+		"ans": "C"
+	},
+	"Q51": {
+		"qs": "51. Which of the following is not a factor affecting fertility in farm animals?",
+		"opts": {
+			"q0": "A. Age",
+			"q1": "B. Ovulation rate",
+			"q2": "C. Number of ova fertilized",
+			"q3": "D. Number of offspring produced",
+			"q4": "E. Lactation rate."
+		},
+		"ans": "E"
+	},
+	"Q52": {
+		"qs": "52. Low fibre and high energy feeds are classified as",
+		"opts": {
+			"q0": "A.supplements",
+			"q1": "B. concentrates",
+			"q2": "C. roughages",
+			"q3": "D. additives",
+			"q4": "E. basal feeds."
+		},
+		"ans": "B"
+	},
+	"Q53": {
+		"qs": "53. Which of the following is not used for identification purpose in livestock?",
+		"opts": {
+			"q0": "A. Tattooing",
+			"q1": "B. Branding",
+			"q2": "C. Tagging",
+			"q3": "D. Notching",
+			"q4": "E. Shearing."
+		},
+		"ans": "E"
+	},
+	"Q54": {
+		"qs": "54. The factors that can predispose animals to diseases include the following except",
+		"opts": {
+			"q0": "A. poor housing",
+			"q1": "B. malnutrition",
+			"q2": "C. immunity",
+			"q3": "D. physical injuries",
+			"q4": "E. unfavourable weather."
+		},
+		"ans": "C"
+	},
+	"Q55": {
+		"qs": "55. The following are factors of agricultural production except",
+		"opts": {
+			"q0": "A. farmstead",
+			"q1": "B. land",
+			"q2": "C. labour",
+			"q3": "D. capital",
+			"q4": "E. management."
+		},
+		"ans": "A"
+	},
+	"Q56": {
+		"qs": "No question",
+		"opts": {
+			"q0": "A. ",
+			"q1": "B. ",
+			"q2": "C. ",
+			"q3": "D. ",
+			"q4": "E. "
+		},
+		"ans": "C"
+	},
+	"Q57": {
+		"qs": "57. Which of the following deduction is correct of the graph",
+		"img": "img**Agric_1989_sectionb_qst57_1.jpg",
+		"opts": {
+			"q0": "A. A change in price has a drastic effect on quantity demanded but does not affect quantity supplied",
+			"q1": "B. A change in price affects quantity demanded and supplied",
+			"q2": "C. A change in price does not affect quantity demanded but had drastic effect on supply",
+			"q3": "D. The quantity demanded or supplied does not change as prices change",
+			"q4": "E. The quantity demanded or supplied changes as price changes."
+		},
+		"ans": "A"
+	},
+	"Q58": {
+		"qs": "58. Farm credits given to farmers can be only in form of",
+		"opts": {
+			"q0": "A. cash",
+			"q1": "B. tractor hiring",
+			"q2": "C. insecticides application",
+			"q3": "D. fertilizer use",
+			"q4": "E. "
+		},
+		"ans": "E"
+	},
+	"Q59": {
+		"qs": "59. Which of the following is a day-to-day record of work on a farmer’s farm?",
+		"opts": {
+			"q0": "A. Crop yield book",
+			"q1": "B. Labour diary",
+			"q2": "C. Farm inventory",
+			"q3": "D. Produce account",
+			"q4": "E. Profit and loss account."
+		},
+		"ans": "B"
+	},
+	"Q60": {
+		"qs": "60. Most farmers in Nigeria are hesitant in adopting new farming techniques because they",
+		"opts": {
+			"q0": "A. are poor and cannot afford to take risks",
+			"q1": "B. do not trust the extension worker",
+			"q2": "C. do not accept anything that comes from the government",
+			"q3": "D. are too old-fashioned to adopt new ideas",
+			"q4": "E. are afraid of the market instability."
+		},
+		"ans": "A"
+	}
+};
