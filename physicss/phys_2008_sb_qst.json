@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	If the air inside a rigid box is heated, the I. average speed of the molecules increases II. pressure of the air increases III. average separation of the molecules increases. Which of the statements above are correct?",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. II and III only",
+			"q2": "C. I and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Which of the following sets of quantities is fundamental?",
+		"opts": {
+			"q0": "A. Length, mass and time",
+			"q1": "B. Speed, length and time",
+			"q2": "C. Speed, mass and distance",
+			"q3": "D. Distance, speed and time",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='phys_2008_sectionb_qst3.jpg'> The diagram above illustrates a Hare’s apparatus. <p>e<sub>1</sub><p> > <p>e<sub>2</sub><p> represent densities and <p>h<sub>1</sub><p>:<p>h<sub>2</sub><p> heights of columns of liquids. Which of the following equations is correct?",
+		"opts": {
+			"q0": "A. <img src='phys_2008_sectionb_qst3_1.jpg'>",
+			"q1": "B. <img src='phys_2008_sectionb_qst3_2.jpg'>",
+			"q2": "C. <img src='phys_2008_sectionb_qst3_3.jpg'>",
+			"q3": "D. <img src='phys_2008_sectionb_qst3_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following statements about Archimedes’ principle is correct? The upthrust on a body is a measure of the",
+		"opts": {
+			"q0": "A. mass of fluid displaced",
+			"q1": "B. weight of the body",
+			"q2": "C. volume of the body",
+			"q3": "D. weight of the fluid displaced",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Which of the following is/are in random motion? I. Pollen grains in water II. The molecules of hydrogen gas III. Fine chalk particles floating in air",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. I and III only",
+			"q2": "C. II and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A car travelling with a uniform velocity of 30 m<p>s<sup>-1</sup></p> along a horizontal road overcomes a constant frictional force of 600 N. Calculate the power of the engine of the car.",
+		"opts": {
+			"q0": "A. 18 kW",
+			"q1": "B. 20 kW",
+			"q2": "C. 180 kW",
+			"q3": "D. 200 kW",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	A rectangular block of dimensions 2.0m x 1.0m x 0.5m weighs 200 N. Calculate the maximum pressure exerted by the block on a horizontal floor",
+		"opts": {
+			"q0": "A. 100 N<p>m<sup>-2</sup></p>",
+			"q1": "B. 200 N<p>m<sup>-2</sup></p>",
+			"q2": "C. 300 N<p>m<sup>-2</sup></p>",
+			"q3": "D. 400 N<p>m<sup>-2</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='phys_2008_sectionb_qst8.jpg'> The diagram above represents the displacement-time graph of the motion of an object thrown upwards. The velocity of the object at the point P is",
+		"opts": {
+			"q0": "A. maximum",
+			"q1": "B. uniform",
+			"q2": "C. zero",
+			"q3": "D. terminal",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	A very sensitive spring balance was used to determine the weight of an object at the north pole. When the same spring balance was used to measure the weight of the same object at the equator, it was found to reduce. The explanation for this observation is that",
+		"opts": {
+			"q0": "A. it is very hot at the equator",
+			"q1": "B. the spring balance has expanded",
+			"q2": "C. the acceleration of free fall due to gravity varies with location",
+			"q3": "D. the mass of the body is reduced",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	A ship moving northward with speed <p>V<sub>s</sub></p> is acted upon by a wind blowing due west at a speed <p>V<sub>w</sub><p>. Which of the following diagrams correctly indicates the velocity <p>V<sub>r</sub><p> of the wind relative to the ship?",
+		"opts": {
+			"q0": "A. <img src='phys_2008_sectionb_qst10_1.jpg'>",
+			"q1": "B. <img src='phys_2008_sectionb_qst10_2.jpg'>",
+			"q2": "C. <img src='phys_2008_sectionb_qst10_3.jpg'>",
+			"q3": "D. <img src='phys_2008_sectionb_qst10_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	<img src='phys_2008_sectionb_qst11.jpg'> The diagram above shows three forces <p>F<sub>1</sub></p>, <p>F<sub>2</sub></p>, <p>F<sub>3</sub></p> which keep the bar AB in horizontal equilibrium. Which of the following equations is correct?",
+		"opts": {
+			"q0": "A. <p>F<sub>3</sub></p> = <p>F<sub>1</sub></p> + <p>F<sub>2</sub></p>",
+			"q1": "B. <p>F<sub>2</sub></p> = <p>F<sub>1</sub></p> + <p>F<sub>3</sub></p>",
+			"q2": "C. <p>F<sub>1</sub></p> = <p>F<sub>2</sub></p> - <p>F<sub>3</sub></p>",
+			"q3": "D. <p>F<sub>1</sub></p> = <p>F<sub>2</sub></p> + <p>F<sub>3</sub></p>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The mass attached to a string is moving in a circular path. If the speed is doubled, the tension in the string will be",
+		"opts": {
+			"q0": "A. doubled",
+			"q1": "B. halved",
+			"q2": "C. four times as great",
+			"q3": "D. one-fourth as much",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	An object of mass 2 kg moving with a velocity of 3 m<p>s<sup>-1</sup></p> collides head-on with another object of mass 1 kg moving in the opposite direction with a velocity of 4 m<p>s<sup>-1</sup></p>. If the objects stick together after collision, calculate their common speed",
+		"opts": {
+			"q0": "A. 0.60 m<p>s<sup>-1</sup></p>",
+			"q1": "B. 0.67 m<p>s<sup>-1</sup></p>",
+			"q2": "C. 2.00 m<p>s<sup>-1</sup></p>",
+			"q3": "D. 3.33 m<p>s<sup>-1</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Which of the following devices converts heat energy to electrical energy?",
+		"opts": {
+			"q0": "A. Transformer",
+			"q1": "B. Dynamo",
+			"q2": "C. Thermocouple",
+			"q3": "D. Thermostat",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	A ball is dropped and it hits the floor at a point A. It rebounds upwards to a point B. While moving from A to B its",
+		"opts": {
+			"q0": "A. kinetic energy is increasing",
+			"q1": "B. potential energy is increasing",
+			"q2": "C. potential energy is decreasing",
+			"q3": "D. kinetic energy remains constant",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	An object of mass 0.25 kg moves at a height h above the ground with a speed of 4 m<p>s<sup>-1</sup></p>. If its mechanical energy at this height is 12 J, determine the value of h. [g = 10 m<p>s<sup>-2</sup></p>]",
+		"opts": {
+			"q0": "A. 0.8 m",
+			"q1": "B. 4.0 m",
+			"q2": "C. 4.8 m",
+			"q3": "D. 5.6 m",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following equations for the efficiency of a machine is correct?",
+		"opts": {
+			"q0": "A. Efficiency = <p><sup>Velocity Ratio</sup>&frasl;<sub>Mechanical Advantage</sub></p> x 100%",
+			"q1": "B. Efficiency = <p><sup>Input</sup>&frasl;<sub>Output</sub></p> x 100%",
+			"q2": "C. Efficiency = <p><sup>Load distance</sup>&frasl;<sub>Effort distance</sub></p> x 100%",
+			"q3": "D. Efficiency = <p><sup>Mechanical Advantage</sup>&frasl;<sub>Velocity Ratio</sub></p> x 100%",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The design of the thermostat of an electric iron is based on the",
+		"opts": {
+			"q0": "A. emission of electrons from metals when heated",
+			"q1": "B. increase in size of metals when heated",
+			"q2": "C. increase in the density of metals when heated",
+			"q3": "D. change in the mass of metals when heated",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	A metal rod of length 50 cm is heated from <p>40&deg;</p> C to <p>80&deg;</p> C. If the linear expansivity of the material is <p>&prop;</p>, calculate the increase in length of the rod (in metres) in terms of <p>&prop;</p>.",
+		"opts": {
+			"q0": "A. 20 <p>&prop;</p>",
+			"q1": "B. 200 <p>&prop;</p>",
+			"q2": "C. 2000 <p>&prop;</p>",
+			"q3": "D. 20000 <p>&prop;</p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The cubic expansivity of a certain gas at constant pressure is <p><sup>1</sup>&frasl;<sub>273</sub></p> <p>K<sup>-1</sup></p>. If a given mass of the gas is held at constant pressure and its volume at <p>0&deg;</p> C is 273 <p>m<sup>3</sup></p>, determine the volume of the gas at <p>273&deg;</p> C",
+		"opts": {
+			"q0": "A. 273 <p>m<sup>3</sup></p>",
+			"q1": "B. 546 <p>m<sup>3</sup></p>",
+			"q2": "C. 819 <p>m<sup>3</sup></p>",
+			"q3": "D. 1092 <p>m<sup>3</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Water of mass 1.5 kg is heated from <p>30&deg;</p> C to <p>80&deg;</p> C using an electric kettle which is rated 5 A, 230 V. Calculate the time taken to reach the final temperature. [Specific heat capacity of water = 4200 J<p>kg<sup>-1</sup></p><p>K<sup>-1</sup></p>]",
+		"opts": {
+			"q0": "A. 4.57 minutes",
+			"q1": "B. 5.02 minutes",
+			"q2": "C. 7.30 minutes",
+			"q3": "D. 10.04 minutes",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The working principle of a pressure cooker is based on the",
+		"opts": {
+			"q0": "A. increase in the volume of steam inside it",
+			"q1": "B. complete trapping of heat inside it",
+			"q2": "C. increase in the pressure of the pot",
+			"q3": "D. decrease in the pressure of the pot",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	lt takes a shorter time for a liquid to boil at the top of a mountain than at the base because at the top, the",
+		"opts": {
+			"q0": "A. temperature is higher",
+			"q1": "B. pressure is lower",
+			"q2": "C. humidity is higher",
+			"q3": "D. temperature is constant",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Light is considered as a transverse wave because it travels",
+		"opts": {
+			"q0": "A. through materials without causing disturbance of the medium",
+			"q1": "B. through space with constant speed",
+			"q2": "C. in a direction parallel to the plane containing the electric and magnetic fields",
+			"q3": "D. in a direction perpendicular to the plane containing the electric and magnetic fields",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	<img src='phys_2008_sectionb_qst25.jpg'>The diagram above illustrates the sun, moon and earth in the same straight line during an eclipse. An observer at the point P on earth observes",
+		"opts": {
+			"q0": "A. annular eclipse",
+			"q1": "B. partial eclipse",
+			"q2": "C. total eclipse",
+			"q3": "D. no eclipse",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	<img src='phys_2008_sectionb_qst26.jpg'>",
+		"opts": {
+			"q0": "A. <img src='phys_2008_sectionb_qst26_1.jpg'>",
+			"q1": "B. <img src='phys_2008_sectionb_qst26_2.jpg'>",
+			"q2": "C. <img src='phys_2008_sectionb_qst26_3.jpg'>",
+			"q3": "D. <img src='phys_2008_sectionb_qst26_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	In the day time, it is possible to see under shady areas such as under a tree, because light has undergone",
+		"opts": {
+			"q0": "A. internal reflection",
+			"q1": "B. refraction",
+			"q2": "C. diffraction",
+			"q3": "D. diffuse reflection",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The distance between a concave mirror and an object placed in front of it is 1.0 m. If the radius of curvature of the mirror is 4.0 m, the image formed will be",
+		"opts": {
+			"q0": "A. 2.00 m behind the mirror",
+			"q1": "B. 2.00 m in front of the mirror",
+			"q2": "C. 1.25 m in front of the mirror",
+			"q3": "D. 1.25 m behind the mirror",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The image of an object formed by a convex mirror is",
+		"opts": {
+			"q0": "A. real, erect and enlarged",
+			"q1": "B. real, inverted and enlarged",
+			"q2": "C. virtual, erect and diminished",
+			"q3": "D. virtual, erect and enlarged",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	When viewed straight down, a fish in a pond is",
+		"opts": {
+			"q0": "A. farther below than it appears to be",
+			"q1": "B. nearer than it appears to be",
+			"q2": "C. found at exactly the same point it is seen",
+			"q3": "D. seen beside its image",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	A converging lens and a screen are placed 20 cm and 80 cm respectively from an object in a straight line so that a sharp image of the object is formed on the screen. If the object is 3 cm high, calculate the height of the image formed.",
+		"opts": {
+			"q0": "A. 1 cm",
+			"q1": "B. 9 cm",
+			"q2": "C. 12 cm",
+			"q3": "D. 15 cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following defects of vision is as a result of the eye ball being too long?",
+		"opts": {
+			"q0": "A. Long sight",
+			"q1": "B. Astigmatism",
+			"q2": "C. Short sight",
+			"q3": "D. Loss of accommodation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	A sound wave is produced from a source and an echo is heard t seconds afterwards. If d is the distance of the reflecting surface from the source, v the speed, <p>&lambda;</p> the wavelength and T the period of the wave, then",
+		"opts": {
+			"q0": "A. d = <p><sup>2t</sup>&frasl;<sub><p>&lambda;</p></sub></p>",
+			"q1": "B. d = <p><sup><p>&lambda;</p>t</sup>&frasl;<sub>2T</sub></p>",
+			"q2": "C. d = <p><sup>2T</sup>&frasl;<sub><p>&lambda;</p>t</sub></p>",
+			"q3": "D. d = <p><sup><p>&lambda;</p>T</sup>&frasl;<sub>2t</sub></p>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	A negatively charged rod is held close to an uncharged metal ball on an insulating stand. The ball will ",
+		"opts": {
+			"q0": "A. be negatively charged",
+			"q1": "B. be positively charged",
+			"q2": "C. have an excess of negative charges on the side nearest the rod",
+			"q3": "D. have an excess of positive charges on the side nearest the rod",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Two bodies each carrying a charge of 2.00 x <p>10<sup>-10</sup></p> C are 5 cm apart. Calculate the magnitude of the force between the charges <img src='phys_2008_sectionb_qst35.jpg'>",
+		"opts": {
+			"q0": "A. 1.44 x <p>10<sup>-7</sup></p> N",
+			"q1": "B. 7.20 x <p>10<sup>-9</sup></p> N",
+			"q2": "C. 7.20 x <p>10<sup>-11</sup></p> N",
+			"q3": "D. 1.44 x <p>10<sup>-11</sup></p> N",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	If the charge on an object is measured as 4.0 x <p>10<sup>-18</sup></p> C, how many excess electrons does the object possess, given that the charge of an electron is 1.6 x <p>10<sup>-19</sup></p> C?",
+		"opts": {
+			"q0": "A. 18",
+			"q1": "B. 19",
+			"q2": "C. 25",
+			"q3": "D. 37",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following is a unit of the time rate of flow of electric charges?",
+		"opts": {
+			"q0": "A. "Coulomb,
+			"q1": "B. Ampere",
+			"q2": "C. Volt",
+			"q3": "D. Watt",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	A wire, 1.0 m long and with cross-sectional area 2.0 x <p>10<sup>7</sup></p> <p>m<sup>2</sup></p> has a resistance of <p>0.1&ohm;</p>. Calculate the electrical conductivity of the wire",
+		"opts": {
+			"q0": "A. 2.0 x <p>10<sup>7</sup></p> <p><p>0.1&ohm;</p><sup>-1</sup></p> <p>m<sup>-1</sup></p>",
+			"q1": "B. 5.0 x <p>10<sup>7</sup></p> <p><p>0.1&ohm;</p><sup>-1</sup></p> <p>m<sup>-1</sup></p>",
+			"q2": "C. 2.0 x <p>10<sup>8</sup></p> <p><p>0.1&ohm;</p><sup>-1</sup></p> <p>m<sup>-1</sup></p>",
+			"q3": "D. 5.0 x <p>10<sup>8</sup></p> <p><p>0.1&ohm;</p><sup>-1</sup></p> <p>m<sup>-1</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Three capacitors each of capacitance 1.5<p>&micro;</p>F are connected in series. The total capacitance in the circuit is",
+		"opts": {
+			"q0": "A. 2.0<p>&micro;</p>F",
+			"q1": "B. 1.5<p>&micro;</p>F",
+			"q2": "C. 0.6<p>&micro;</p>F",
+			"q3": "D. 0.5<p>&micro;</p>F",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	A voltmeter is a device that",
+		"opts": {
+			"q0": "A. draws high current",
+			"q1": "B. has a very low resistance",
+			"q2": "C. has a very high resistance",
+			"q3": "D. is able to measure both voltage and current",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following actions will not increase the sensitivity of a moving coil galvanometer?",
+		"opts": {
+			"q0": "A. Using a strong temporary magnet",
+			"q1": "B. Increasing the area and number of turns of the coil",
+			"q2": "C. Using a weak hair spring",
+			"q3": "D. Using a light pointer",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Fleming’s right hand rule is also called the",
+		"opts": {
+			"q0": "A. motor rule",
+			"q1": "B. dynamo rule",
+			"q2": "C. screw rule",
+			"q3": "D. thumb rule",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	A transformer is required to supply 12 <p>V<sub>rms</sup></p> to operate a toy train set from a 240 <p>V<sub>rms</sup></p>. If the number of turns in the secondary coil is 100, calculate the number of turns required in the primary coil.",
+		"opts": {
+			"q0": "A. 5",
+			"q1": "B. 12",
+			"q2": "C. 2000",
+			"q3": "D. 2400",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	<img src='phys_2008_sectionb_qst44.jpg'> The diagram above illustrates a bar magnet near a coil connected to a galvanometer. When the magnet is rapidly moved towards the coil I. an e.m.f. is induced in the coil. II. the galvanometer needle deflects. III. the magnet is attracted by the coil. Which of the statements above are correct?",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. II and III only",
+			"q2": "C. I and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	A direct current of 5 A flows through a 0.2 H inductor. Calculate the energy stored in the inductor",
+		"opts": {
+			"q0": "A. 0.5 J",
+			"q1": "B. 1.0 J",
+			"q2": "C. 2.5 J",
+			"q3": "D. 5.0 J",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Both <p>&gamma;</p> rays and X-rays I. can be produced by thermionic emission II. have low frequencies III. have short wavelengths. Which of the statements above is/ are correct?",
+		"opts": {
+			"q0": "A. I only ",
+			"q1": "B. II only",
+			"q2": "C. III only",
+			"q3": "D. I and III only",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	When a radioactive substance undergoes a beta decay, its ",
+		"opts": {
+			"q0": "A. mass number decreases by 1",
+			"q1": "B. atomic number decreases by 1",
+			"q2": "C. mass number increases by 1",
+			"q3": "D. atomic number increases by 1",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Nuclear fission is preferred to nuclear fusion in the generation of energy because",
+		"opts": {
+			"q0": "A. very high temperatures are required for fusion",
+			"q1": "B. the raw materials for fusion are easily obtained",
+			"q2": "C. energy obtained from fusion is relatively smaller",
+			"q3": "D. the by¬products of fusion are very dangerous",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Control in nuclear reactors is effected with boron rods because the rods have the ability to",
+		"opts": {
+			"q0": "A. absorb electrons",
+			"q1": "B. absorb neutrons",
+			"q2": "C. accelerate electrons",
+			"q3": "D. slow down neutrons",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	A radioactive element has a decay constant of 0.077 <p>s<sub>-1</sup></p>. Calculate its half-life",
+		"opts": {
+			"q0": "A. 13.0 s",
+			"q1": "B. 9.0 s",
+			"q2": "C. 5.1 s",
+			"q3": "D. 0.5 s",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

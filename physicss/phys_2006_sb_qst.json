@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following phenomena causes capillarity of liquids in tubes of narrow bore?",
+		"opts": {
+			"q0": "A. Viscosity",
+			"q1": "B. Surface tension",
+			"q2": "C. Osmosis",
+			"q3": "D. Brownian motion",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Which of the following physical quantities are derived? I. Area II. Thrust III. Pressure IV. Mass",
+		"opts": {
+			"q0": "A. I, II, III and IV",
+			"q1": "B. I, II and III only",
+			"q2": "C. I, II and IV only",
+			"q3": "D. I and III only",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	A block of volume 3 x <p>10<sup>5</sup></p> <p>m<sup>3</sup></p> and density 2.5 x <p>10<sup>3</sup></p> kg <p>m<sup>-3</sup></p> is suspended from a spring balance with <p><sup>2</sup>&frasl;<sub>3</sub></p> of its volume immersed in a liquid of density 900 kg <p>m<sup>-3</sup></p>. Determine the reading of the spring balance [ g = 10 m<p>s<sup>-2</sup></p>] ",
+		"opts": {
+			"q0": "A. 0.18 N",
+			"q1": "B. 0.57 N",
+			"q2": "C. 0.75 N",
+			"q3": "D. 0.93 N",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	A solid body will float in a liquid if its",
+		"opts": {
+			"q0": "A. density is less than that of the liquid",
+			"q1": "B. mass is equal to that of the liquid ",
+			"q2": "C. density is greater than that of the liquid",
+			"q3": "D. mass is less than that of the liquid",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	An object is said to undergo oscillatory motion wnen it moves",
+		"opts": {
+			"q0": "A. in an erratic manner",
+			"q1": "B. to and fro about a fixed point",
+			"q2": "C. in a circular path",
+			"q3": "D. along a continuous path from the starting point",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A moving car of mass 800 kg experiences a frictional force of 200 N. If it accelerates 2 m<p>s<sup>-2</sup></p>, calculate the magnitude of the force applied to the car",
+		"opts": {
+			"q0": "A. 600 N",
+			"q1": "B. 1000 N",
+			"q2": "C. 1600 N",
+			"q3": "D. 1800 N",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	A body is rotating in a horizontal circle of radius 2.5m with an angular speed of 5 rad <p>s<sup>-1</sup></p>. Calculate the magnitude of the radial acceleration of the body",
+		"opts": {
+			"q0": "A. 62.50 m<p>s<sup>-2</sup></p>",
+			"q1": "B. 31.25 m<p>s<sup>-2</sup></p>",
+			"q2": "C. 12.50 m<p>s<sup>-2</sup></p>",
+			"q3": "D. 10.00 m<p>s<sup>-2</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Uniform speed occurs when there is equal change of ",
+		"opts": {
+			"q0": "A. distance in equal times",
+			"q1": "B. displacement in equal times",
+			"q2": "C. velocity in equal times",
+			"q3": "D. acceleration in equal times",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	A car accelerates uniformly from rest at 5 m<p>s<sup>-2</sup></p>. Determine its speed after 10 s",
+		"opts": {
+			"q0": "A. 50.0 m<p>s<sup>-1</sup></p>",
+			"q1": "B. 25.0 m<p>s<sup>-1</sup></p>",
+			"q2": "C. 2.0 m<p>s<sup>-1</sup></p>",
+			"q3": "D. 0.5 m<p>s<sup>-1</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='phys_2006_sectionb_qst10.jpg'> The diagram above shows the speed-time graph of a car. If the car covered a total distance of 600m in 25 s, calculate its maximum speed.",
+		"opts": {
+			"q0": "A. 30 m<p>s<sup>-1</sup></p>",
+			"q1": "B. 25 m<p>s<sup>-1</sup></p>",
+			"q2": "C. 20 m<p>s<sup>-1</sup></p>",
+			"q3": "D. 15 m<p>s<sup>-1</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following quantities is a vector?",
+		"opts": {
+			"q0": "A. Speed",
+			"q1": "B. Distance",
+			"q2": "C. Energy",
+			"q3": "D. Momentum",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='phys_2006_sectionb_qst12.jpg'> Determine the magnitude of P in the diagram above",
+		"opts": {
+			"q0": "A. 16 N",
+			"q1": "B. 20 N",
+			"q2": "C. 32 N",
+			"q3": "D. 40 N",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Which of the following statements about simple harmonic motion is correct? The",
+		"opts": {
+			"q0": "A. total mechanical energy is always conserved",
+			"q1": "B. linear acceleration is directed to any variable point",
+			"q2": "C. linear acceleration varies inversely with displacement",
+			"q3": "D. period of oscillation varies linearly as acceleration due to gravity",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	A force acting on a body causes a change in the momentum of the body from 12 kg m<p>s<sup>-1</sup></p> to 16 kg m<p>s<sup>-1</sup></p> in 0.25. Calculate the magnitude of the impulse",
+		"opts": {
+			"q0": "A. 28.0 N s",
+			"q1": "B. 20.0 N s",
+			"q2": "C. 4.0 N s",
+			"q3": "D. 0.8 N s",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following sources of energy is renewable?",
+		"opts": {
+			"q0": "A. Petroleum",
+			"q1": "B. Charcoal",
+			"q2": "C. Hydro",
+			"q3": "D. Nuclear",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	A stone of mass 2.0 kg is thrown vertically upwards with a velocity of 20.0 m<p>s<sup>-1</sup></p>. Calculate the initial kinetic energy of the stone16.	A stone of mass 2.0 kg is thrown vertically upwards with a velocity of 20.0 ms~\ calculate the initial kinetic energy of the stone",
+		"opts": {
+			"q0": "A. 200 J",
+			"q1": "B. 400 J",
+			"q2": "C. 800 J",
+			"q3": "D. 1600 J",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following statements about the mouth piece of a telephone is correct? It converts sound energy into",
+		"opts": {
+			"q0": "A. acoustic energy",
+			"q1": "B. mechanical energy",
+			"q2": "C. electrical energy",
+			"q3": "D. heat energy",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The potential energy in an elastic string of force constant k which has been extended by x metres is expressed as ",
+		"opts": {
+			"q0": "A. <p><sup>1</sup>&frasl;<sub>2</sub></p> k<p><p>&#9633;</p><sup>2</sup></p>",
+			"q1": "B. k<p><p>&#9633;</p><sup>2</sup></p>",
+			"q2": "C. <p><sup>1</sup>&frasl;<sub>2</sub></p> k<p>&#9633;</p>",
+			"q3": "D. k<p>&#9633;</p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The engine of a train produces a force of 3000 N when moving at 30 m<p>s<sup>-1</sup></p>. Calculate the power of the engine.",
+		"opts": {
+			"q0": "A. 1.00 x <p>10<sup>2</sup></p> W",
+			"q1": "B. 3.00 x <p>10<sup>4</sup></p> W",
+			"q2": "C. 9.00 x <p>10<sup>4</sup></p> W",
+			"q3": "D. 3.00 x <p>10<sup>5</sup></p> W",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "The velocity ratio of an inclined plane, inclined at an angle <p>&theta;</p> to the horizontal can be expressed as",
+		"opts": {
+			"q0": "A. <p>(Sin &theta;)<sup>-1</sup></p>",
+			"q1": "B. <p>Sin &theta;</p>",
+			"q2": "C. <p>(Cos &theta;)<sup>-1</sup></p>",
+			"q3": "D. <p>Cos &theta;</p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	A block and tackle system has six pulleys. A force of 50 N applied to it lifts a load of weight W. If the efficiency of the system is 40%, calculate W",
+		"opts": {
+			"q0": "A. 300 N",
+			"q1": "B. 200 N",
+			"q2": "C. 140 N",
+			"q3": "D. 120 N",
+			"q4": "E. "
+		},
+		"ans": "",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The sagging of overhead electrical cables is the consequence of",
+		"opts": {
+			"q0": "A. linear expansivity",
+			"q1": "B. superficial expansivity",
+			"q2": "C. cubic expansivity",
+			"q3": "D. conductivity",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The silvered surface in a vacuum flask reduces heat loss due to",
+		"opts": {
+			"q0": "A. conduction",
+			"q1": "B. convection",
+			"q2": "C. radiation",
+			"q3": "D. radiation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	How long will it take to heat 3 kg of water from <p>28&deg;</p>C to <p>88&deg;</p>C in an electric kettle taking 6A from a 220V supply? [specific heat capacity of water = 4180 J <p>kg<sup>-1</sup></p><p>K<sup>-1</sup></p>]",
+		"opts": {
+			"q0": "A. 120 s",
+			"q1": "B. 570 s",
+			"q2": "C. 600 s",
+			"q3": "D. 836 s",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The amount of energy required to change a kilogram of ice block into water without a change in temperature is",
+		"opts": {
+			"q0": "A. heat capacity of ice",
+			"q1": "B. specific heat capacity",
+			"q2": "C. specific latent heat of vaporization of ice",
+			"q3": "D. specific latent heat of fusion of ice",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	A quantity of steam at <p>100&deg;</p>C condenses to water at the same temperature by releasing 6.9 x <p>10<sup>4</sup></p> J of energy. Calculate the mass of the condensed steam. [specific latent heat of vaporization of water = 2.3 x <p>10<sup>6</sup></p> J<p>kg<sup>-1</sup></p> ]",
+		"opts": {
+			"q0": "A. 3.0 x <p>10<sup>-1</sup></p> kg",
+			"q1": "B. 3.0 x <p>10<sup>-2</sup></p> kg",
+			"q2": "C. 3.0 x <p>10<sup>-3</sup></p> kg",
+			"q3": "D. 3.0 x <p>10<sup>-4</sup></p> kg",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The temperature of a liquid falls after some of it has evaporated because",
+		"opts": {
+			"q0": "A. the liquid left is smaller in volume and the breeze easily cools it",
+			"q1": "B. the more energetic molecules have escaped into the atmosphere",
+			"q2": "C. the liquid left has less latent heat",
+			"q3": "D. after evaporation impurities are left behind",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The S.l. units of frequency, period and amplitude of a wave are respectively",
+		"opts": {
+			"q0": "A. hertz, second and centimetre",
+			"q1": "B. second, metre and hertz",
+			"q2": "C. metre, hertz and second",
+			"q3": "D. hertz, second and metre",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	A note of frequency 2000 Hz has a velocity of 400 m<p>s<sup>-1</sup></p>. Calculate the wavelength of the note",
+		"opts": {
+			"q0": "A. 5.0 m",
+			"q1": "B. 2.0 m",
+			"q2": "C. 0.5 m",
+			"q3": "D. 0.2 m",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The eclipse of the moon occurs when the",
+		"opts": {
+			"q0": "A. moon comes exactly between the earth and the sun",
+			"q1": "B. earth comes exactly between the moon and the sun",
+			"q2": "C. sun comes exactly between the earth and the moon",
+			"q3": "D. moon reflects all the rays from the sun onto the earth",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following observations cannot be explained using the rectilinear propagation of light?",
+		"opts": {
+			"q0": "A. Production of images by a pinhole camera",
+			"q1": "B. Production of real images of objects by lenses",
+			"q2": "C. Formation of an annular eclipse",
+			"q3": "D. Diffraction patterns of light",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The distance between the successive crests of a wave travelling at 20 m<p>s<sup>-1</sup></p> is 25 cm. Calculate the frequency of the wave.",
+		"opts": {
+			"q0": "A. 0.8 Hz",
+			"q1": "B. 5.0 Hz",
+			"q2": "C. 50.0 Hz",
+			"q3": "D. 80.0 Hz",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	A ray from a fixed object is incident on a plane mirror at an angle of <p>20&deg;</p>. If the mirror is rotated through <p>30&deg;</p>, by how many degree would the reflected ray rotate?",
+		"opts": {
+			"q0": "A. <p>60&deg;</p>",
+			"q1": "B. <p>50&deg;</p>",
+			"q2": "C. <p>40&deg;</p>",
+			"q3": "D. <p>30&deg;</p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following distances is usually adjustable in the camera? The distance between the",
+		"opts": {
+			"q0": "A. lens and the film",
+			"q1": "B. diaphragm and the shutter",
+			"q2": "C. shutter and the film",
+			"q3": "D. diaphragm and the film",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	A travelling microscope is focused on a mark on a table. If a glass block of thickness 18.0 cm is placed on the mark, by how many centimetres will the microscope be moved upwards so as to focus the mark once again? [refractive index of glass = 1.5]",
+		"opts": {
+			"q0": "A. 27 cm",
+			"q1": "B. 24 cm",
+			"q2": "C. 9 cm",
+			"q3": "D. 6 cm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	In which of the following media would sound wave travel fastest?",
+		"opts": {
+			"q0": "A. Wood",
+			"q1": "B. Water",
+			"q2": "C. Iron",
+			"q3": "D. Mercury",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following actions is necessary in order to tune a string to produce a note of an octave higher than its fundamental?",
+		"opts": {
+			"q0": "A. Doubling the length of the string",
+			"q1": "B. Reducing the tension by half",
+			"q2": "C. Reducing the mass per unit length",
+			"q3": "D. Increasing the tension four times",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The acceleration due to gravity may be defined as the force",
+		"opts": {
+			"q0": "A. of attraction of the sun on the earth",
+			"q1": "B. with which the earth revolves around the sun",
+			"q2": "C. with which the earth attracts one-kilogram mass",
+			"q3": "D. of the moon on the earth",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	An electron of mass m and charge a enters a uniform electric field between two metal plates P and Q separated by a distance d. P is maintained at a potential V while Q is earthed. Determine an expression for the magnitude of the acceleration of electron through the field",
+		"opts": {
+			"q0": "A. <p><sup>eV</sup>&frasl;<sub>md</sub></p>",
+			"q1": "B. <p><sup>d</sup>&frasl;<sub>meV</sub></p>",
+			"q2": "C. <p><sup>md</sup>&frasl;<sub>eV</sub></p>",
+			"q3": "D. <p><sup>e</sup>&frasl;<sub>Vmd</sub></p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Which of the following factors does not affect the capacitance of a parallel plate capacitor?",
+		"opts": {
+			"q0": "A. Area of the plates",
+			"q1": "B. Nature of the surface of the plates",
+			"q2": "C. Distance of separation between the plates",
+			"q3": "D. Nature of the insulating material between the plates",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	The equivalent capacitance of a 3 <p>&micro;</p>F capacitor and a 6 <p>&micro;</p>F capacitor connected in parallel is",
+		"opts": {
+			"q0": "A. 2.0 <p>&micro;</p>F",
+			"q1": "B. 3.0 <p>&micro;</p>F",
+			"q2": "C. 4.5 <p>&micro;</p>F",
+			"q3": "D. 9.0 <p>&micro;</p>F",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	A cell of e.m.f. 1.5 V and internal resistance 1.0 <p>&Omega;</p> is connected to two resistors of resistances 2.0 <p>&Omega;</p> and 3.0 <p>&Omega;</p> in series. Calculate the current through the resistors",
+		"opts": {
+			"q0": "A. 0.25 A",
+			"q1": "B. 0.30 A",
+			"q2": "C. 0.35 A",
+			"q3": "D. 0.50 A",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	An electric lamp rated 120 W is used on a 240 Vrms, calculate the resistance of its filament",
+		"opts": {
+			"q0": "A. 480 <p>&Omega;</p>",
+			"q1": "B. 360 <p>&Omega;</p>",
+			"q2": "C. 60 <p>&Omega;</p>",
+			"q3": "D. 2 <p>&Omega;</p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Which of the following statements about a bar magnet is correct?",
+		"opts": {
+			"q0": "A. Iron filings cling uniformly along the length of the bar magnet",
+			"q1": "B. The magnetic properties are more pronounced at the middle of a magnet",
+			"q2": "C. It is impossible to have the same poles at the ends of a magnet",
+			"q3": "D. The magnetic properties are more pronounced at points near the ends of the bar",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The force experienced by a current-carrying conductor moving in a magnetic field is employed in the working of the I. moving coil ammeter II. electric bell 111. electric motor. Which of the statements above are correct?",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. II and III only",
+			"q2": "C. I and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The breaking up of an atomic nucleus into two fragments of nearly equal sizes is known as",
+		"opts": {
+			"q0": "A. nuclear fusion",
+			"q1": "B. nuclear fission",
+			"q2": "C. thermonuclear reaction",
+			"q3": "D. natural radioactivity",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	A 500 kV is applied across an X-ray tube. Calculate the maximum velocity of the electrons produced. [Me- 9.1 x <p>10<sup>-31</sup></p> kg, e = 1.6 x <p>10<sup>-19</sup></p> C]",
+		"opts": {
+			"q0": "A. 4.2 x <p>10<sup>8</sup></p> m<p>s<sup>-1</sup></p>",
+			"q1": "B. 1.8 x <p>10<sup>8</sup></p> m<p>s<sup>-1</sup></p>",
+			"q2": "C. 4.2 x <p>10<sup>5</sup></p> m<p>s<sup>-1</sup></p>",
+			"q3": "D. 1.8 x <p>10<sup>5</sup></p> m<p>s<sup>-1</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	A radioactive substance of mass 768 g has a half life of 3 years. After how many years does this substance leave only 6 g undecayed?",
+		"opts": {
+			"q0": "A. 21",
+			"q1": "B. 18",
+			"q2": "C. 15",
+			"q3": "D. 12",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Fusion is not usually used for generating electric power because",
+		"opts": {
+			"q0": "A. no energy is released when fusion takes place",
+			"q1": "B. very high temperatures are required to initiate fusion reaction",
+			"q2": "C. the raw materials needed not easily available",
+			"q3": "D. heavy nuclei are involved",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	An atom <img src='phys_2006_sectionb_qst50.jpg'> emits a gamma radiation. The resultant nuclide is",
+		"opts": {
+			"q0": "A. <img src='phys_2006_sectionb_qst50_1.jpg'>",
+			"q1": "B. <img src='phys_2006_sectionb_qst50_2.jpg'>",
+			"q2": "C. <img src='phys_2006_sectionb_qst50_3.jpg'>",
+			"q3": "D. <img src='phys_2006_sectionb_qst50_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

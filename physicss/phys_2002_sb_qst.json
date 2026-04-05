@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	One common characteristic of solids, liquids and gases is that",
+		"opts": {
+			"q0": "A. all the three have fixed volume",
+			"q1": "B. their molecules have the same size",
+			"q2": "C. their molecules are always in motion",
+			"q3": "D. all the three have the same inter molecular forces",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The force between the molecules of a liquid in contact with that of a solid is",
+		"opts": {
+			"q0": "A. adhesive",
+			"q1": "B. cohesive",
+			"q2": "C. magnetic",
+			"q3": "D. repulsive",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The energy needed to separate the nucleons against the forces which hold them together is",
+		"opts": {
+			"q0": "A. nuclear energy",
+			"q1": "B. mechanical energy",
+			"q2": "C. ionisation energy",
+			"q3": "D. binding energy",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	A reservoir is filled with a liquid of density 2000 kgm<sup>-3</sup>. Calculate the depth at which the pressure in the liquid will be equal to 9100 Nm<sup>-2</sup> [g = 10ms<sup>-2</sup>]",
+		"opts": {
+			"q0": "A. 0.262 m",
+			"q1": "B. 0.455 m",
+			"q2": "C. 0.664 m",
+			"q3": "D. 0.819 m",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	A solid weighs 45 N and 15 N respectively in air and water. Determine the relative density of the solid",
+		"opts": {
+			"q0": "A. 0.33",
+			"q1": "B. 0.50",
+			"q2": "C. 1.50",
+			"q3": "D. 3.00",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A boy travels 8 km eastward to a point B and then 6 km northward to another point C. Determine the difference between the magnitude of displacement of the boy and distance travelled by him",
+		"opts": {
+			"q0": "A. 2.0km",
+			"q1": "B. 4.0km",
+			"q2": "C. 10.0km",
+			"q3": "D. 14.0km",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	The magnitude of the force required to make an object of mass, m move with speed, v in a circular path of radius, r is given by the expression:",
+		"opts": {
+			"q0": "A. <sup>mr</sup>&frasl;<sub>v</sub>",
+			"q1": "B. <sup>mr<sup>2</sup></sup>&frasl;<sub>v</sub>",
+			"q2": "C. <sup>mv<sup>2</sup></sup>&frasl;<sub>r</sub>",
+			"q3": "D. <sup>mv</sup>&frasl;<sub>r<sup>2</sup></sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='phy_2002_sectionb_qst8.jpg'> A man was moving round a circular path continuously for 4 minutes arid covered the following distances in the times stated above. Which of the following statements is correct about the motion of the man?",
+		"opts": {
+			"q0": "A. The man was moving with uniform speed but non-uniform velocity",
+			"q1": "B. The speed was changing constantly",
+			"q2": "C. The velocity was uniform",
+			"q3": "D. It was an instance of motion in which both speed and velocity are the same",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	A car takes off from rest and covers a distance of 80m on a straight road in 10s. Calculate the magnitude of its acceleration.",
+		"opts": {
+			"q0": "A. 1.25 ms<sup>-2</sup>",
+			"q1": "B. 1.60 ms<sup>-2</sup>",
+			"q2": "C. 4.00 ms<sup>-2</sup>",
+			"q3": "D. 8.00 ms<sup>-2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	An object is released from rest at a height of 25 m. Calculate the time it takes to fall to the ground. [g= 10ms<sup>-2</sup>]",
+		"opts": {
+			"q0": "A. 25.00s",
+			"q1": "B. 10.00s",
+			"q2": "C. 2.50s",
+			"q3": "D. 2.24s",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	An object is acted upon by a system of parallel forces causing the object to be in static equilibrium. Which of the following statements is not correct?",
+		"opts": {
+			"q0": "A. The resultant of the parallel forces is zero",
+			"q1": "B. The algebraic sum of all the moments of the forces is zero",
+			"q2": "C. All the parallel forces must be equal in magnitude and direction",
+			"q3": "D. The sum of the forces in one direction must be equal to the sum of the forces in the opposite direction",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='phy_2002_sectionb_qst12.jpg'> An object, A, is held in equilibrium as illustrated in the diagram above. Using the data on the diagram, determine the magnitude, W, of the weight of",
+		"opts": {
+			"q0": "A. 23N",
+			"q1": "B. 17N",
+			"q2": "C. 7N",
+			"q3": "D. 5N",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	A spiral spring of natural length 30.0 cm and force constant of 20 Nm<sup>-1</sup> is compressed to 20.0 cm. Calculate the energy stored in the spring.",
+		"opts": {
+			"q0": "A. 0.1 J",
+			"q1": "B. 1.0 J",
+			"q2": "C. 10.0 J",
+			"q3": "D. 100.0 J",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	<img src='phy_2002_sectionb_qst14.jpg'> In the diagram AB above, AB represents a uniform rod of length 1.50 m which is in equilibrium on a pivot at P. If AP = 40 cm, calculate the mass of the rod. [g = 10ms<sup>-2</sup>]",
+		"opts": {
+			"q0": "A. 0.280kg",
+			"q1": "B. 0.400kg",
+			"q2": "C. 0.613kg",
+			"q3": "D. 0.800kg",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following statements correctly defines quantitatively, the work done by a force? The product of the force and the distance moved",
+		"opts": {
+			"q0": "A. parallel to the line of action of the force from a reference point",
+			"q1": "B. perpendicular to the line of action of the force from a reference point",
+			"q2": "C. on a line through the reference point",
+			"q3": "D. by the object",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	A load of mass 120kg is raised vertically through a height of 2m in 30s by a machine whose efficiency is 100%. Calculate the power generated by the machine. [g = 10ms<sup>-2</sup>]",
+		"opts": {
+			"q0": "A. 60W",
+			"q1": "B. 80W",
+			"q2": "C. 100W",
+			"q3": "D. 120W",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	A block and tackle system has 6 pulleys. If the efficiency of the machine is 60%, determine its mechanical advantage.",
+		"opts": {
+			"q0": "A. 12.0",
+			"q1": "B. 10.0",
+			"q2": "C. 3.6",
+			"q3": "D. 1.8",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Which of the following actions will improve the efficiency of a pulley system?",
+		"opts": {
+			"q0": "A. Reducing the mass of the pulley",
+			"q1": "B. Increasing the frictional force between the string and the pulley",
+			"q2": "C. Increasing the mass per unit length of the string of the pulley",
+			"q3": "D. Increasing the mass of the pulley",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The ice and steam points of a certain thermometer are -20&deg; and 100&deg; respectively. Calculate the Celsius temperature corresponding to 70&deg; on the thermometer.",
+		"opts": {
+			"q0": "A. 84.0&deg;C",
+			"q1": "B. 75.0&deg;C",
+			"q2": "C. 64.0&deg;C",
+			"q3": "D. 58.0&deg;C",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The silver coating on the inside of a vacuum flask reduces heat loss by",
+		"opts": {
+			"q0": "A. conduction",
+			"q1": "B. radiation",
+			"q2": "C. condensation",
+			"q3": "D. convection",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Water of mass 120g at 50&deg;C is added to 200g of water at 10&deg;C and the mixture is well stirred. Calculate the temperature of the mixture. [Neglect heat losses to the surrounding]",
+		"opts": {
+			"q0": "A. 60&deg;",
+			"q1": "B. 40&deg;",
+			"q2": "C. 25&deg;",
+			"q3": "D. 10&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Calculate the energy required to vaporise 50g of water initially at 80&deg;C. [specific heat capacity of water = 4.2 Jg<sup>-1</sup>K<sup>-1</sup>] [specific latent heat of vaporisation of water = 2260 Jg<sup>-1</sup>]",
+		"opts": {
+			"q0": "A. 113,000J",
+			"q1": "B. 117,200J",
+			"q2": "C. 234,400J",
+			"q3": "D. 420,000J",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	What type of motion does the skin of a ‘talking’ drum perform when it is struck with a drum stick?",
+		"opts": {
+			"q0": "A. Random",
+			"q1": "B. Rotational",
+			"q2": "C. Translational",
+			"q3": "D. Vibratory",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	A slinky spring fixed at one end is placed horizontally on a table. The free end is displaced parallel to the table and then released. The resulting waveform is",
+		"opts": {
+			"q0": "A. transverse",
+			"q1": "B. longitudinal",
+			"q2": "C. stationary",
+			"q3": "D. electromagnetic",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	A radio wave has a wavelength of 150m. If the velocity of radio waves in free space is 3 x 10<sup>8</sup> ms<sup>-1</sup>, calculate the frequency of the radio wave",
+		"opts": {
+			"q0": "A. 4.5 x 10<sup>10</sup> Hz",
+			"q1": "B. 5.0 x 10<sup>9</sup> Hz",
+			"q2": "C. 4.5 x 10<sup>9</sup> Hz",
+			"q3": "D. 2.0 x 10<sup>6</sup> Hz",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	In the wave equation y = E<sub>0</sub> sin (200t- &pi;x), E<sub>0</sub> represents the",
+		"opts": {
+			"q0": "A. amplitude",
+			"q1": "B. frequency",
+			"q2": "C. period",
+			"q3": "D. wavelength",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The size of the hole of a pin hole camera is increased. The resultant image formed becomes",
+		"opts": {
+			"q0": "A. sharper",
+			"q1": "B. reduced in size",
+			"q2": "C. enlarged",
+			"q3": "D. blurred",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The refractive index of a medium relative to air is 1.8. Calculate, to the nearest degree, the critical angle for the medium",
+		"opts": {
+			"q0": "A. 68&deg;",
+			"q1": "B. 56&deg;",
+			"q2": "C. 34&deg;",
+			"q3": "D. 18&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	A converging lens of focal length 15 cm forms a virtual image at a point 10cm from the lens. Calculate the distance of the object from the lens",
+		"opts": {
+			"q0": "A. 10.00cm",
+			"q1": "B. 6.00cm",
+			"q2": "C. 5.00cm",
+			"q3": "D. 1.50cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	In a compound microscope, the image formed by the objective lens is at a distance of 3.0 cm from the eye lens. If the final image is at 25.0 cm from the eye lens, calculate the focal length of the eye lens.",
+		"opts": {
+			"q0": "A. 0.3cm",
+			"q1": "B. 2.7cm",
+			"q2": "C. 3.4cm",
+			"q3": "D. 8.3cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	A pulse of a sound is transmitted from a ship and the reflection from the sea bed is recorded after 0.2 s. Calculate the depth of the sea. [Take speed of sound in sea water = 1560 ms<sup>-1</sup>]",
+		"opts": {
+			"q0": "A. 312.0m",
+			"q1": "B. 156.0m",
+			"q2": "C. 78.0m",
+			"q3": "D. 31.2m",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	When two notes of nearly equal frequencies are sounded together, a periodic rise and fall in sound inten sity can be heard. This phenomenon is called",
+		"opts": {
+			"q0": "A. beats",
+			"q1": "B. diffraction",
+			"q2": "C. overtones",
+			"q3": "D. resonance",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following instruments is not a wind instrument?",
+		"opts": {
+			"q0": "A. Clarinet",
+			"q1": "B. Saxophone",
+			"q2": "C. Trumpet",
+			"q3": "D. Xylophone",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following actions will not cause an increase in the frequency of a vibrating string?",
+		"opts": {
+			"q0": "A. Increasing the tension in the string",
+			"q1": "B. Decreasing the mass per unit length of the string",
+			"q2": "C. Decreasing the length of the string",
+			"q3": "D. Increasing the cross sectional area of the string",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Which of the following items can be used to compare the relative magnitudes of electric charges on two bodies? ",
+		"opts": {
+			"q0": "A. Ebonite rod",
+			"q1": "B. Gold leaf electroscope",
+			"q2": "C. Proof planes",
+			"q3": "D. The electrophorus",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Three capacitors each of capacitance 18&micro;F are connected in series. Calculate the effective capacitance of the capacitors",
+		"opts": {
+			"q0": "A. 54.00&micro;F",
+			"q1": "B. 18.00&micro;F",
+			"q2": "C. 6.00&micro;F",
+			"q3": "D. 0.17&micro;F",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Two spheres of masses 100kg and 90 kg respectively have their centres separated by a distance of 1.0m. Calculate the magnitude of the force of attraction between them. [G = 6.70 x 10<sup>-11</sup> Nm<sup>-2</sup>kg<sup>-2</sup>]",
+		"opts": {
+			"q0": "A. 6.70 x 10<sup>-11</sup>N",
+			"q1": "B. 6.70 x 10<sup>-10</sup>N",
+			"q2": "C. 6.03 x 10<sup>-10</sup>N",
+			"q3": "D. 6.03 x 10<sup>-7</sup>N",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The magnitude of the gravitational attraction between the earth and a particle is 40 N. If the mass of the particle is 4kg, calculate the magnitude of the gravitational field intensity of the earth on the particle",
+		"opts": {
+			"q0": "A. 10.0Nkg<sup>-1</sup>",
+			"q1": "B. 12.6Nkg<sup>-1</sup>",
+			"q2": "C. 25.0Nkg<sup>-1</sup>",
+			"q3": "D. 160.0Nkg<sup>-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Local action is normally prevented in a simple electric cell by",
+		"opts": {
+			"q0": "A. introducing an oxidising agent in the acid",
+			"q1": "B. not drawing current continously for long periods",
+			"q2": "C. amalgamating the surface of the zinc plate",
+			"q3": "D. using a porous pot to isolate the zinc plate from the acid",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The lead-acid accumulator consists of",
+		"opts": {
+			"q0": "A. lead as the positive electrode",
+			"q1": "B. lead oxide as the negative electrode",
+			"q2": "C. hydrochloric acid as the electrolyte",
+			"q3": "D. tetraoxosulphate (VI) acid as the electrolyte",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following actions will not lead to an increase in the induced e.m.f. in a coil of wire rotating between the poles of a magnet? Increasing the",
+		"opts": {
+			"q0": "A. strength of the magnet",
+			"q1": "B. number of turns in the coil",
+			"q2": "C. speed of rotation of the coil",
+			"q3": "D. gap between the poles of the magnet",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Which of the following actions will not lead to an increase in the induced e.m.f. in a coil of wire rotating between the poles of a magnet? Increasing the",
+		"opts": {
+			"q0": "A. strength OT the magnet",
+			"q1": "B. number of turns in the coil",
+			"q2": "C. speed of rotation of the coil",
+			"q3": "D. gap between the poles of the magnet",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	A transformer has 400 turns and 200 turns in the primary and secondary windings respectively. If the current in the primary and secondary windings are 3A and 5A respectively, calculate the efficiency of the transformer.",
+		"opts": {
+			"q0": "A. 85.0%",
+			"q1": "B. 83.3%",
+			"q2": "C. 37.5%",
+			"q3": "D. 30.0%",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	A freely-suspended magnet swinging in a horizontal plane comes to rest with its axis pointing approximately",
+		"opts": {
+			"q0": "A. north-south",
+			"q1": "B. south-west",
+			"q2": "C. south-east",
+			"q3": "D. north-east",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	In a model of the hydrogen atom, the energy levels W<sub>n</sub> are given by the formula W<sub>n</sub> = -<sup>R</sup>&frasl;<sub>n<sup>2</sup></sub> where n is an integer and R is a constant. Determine the energy released in the transition from n = 3 to n = 2",
+		"opts": {
+			"q0": "A. <sup>R</sup>&frasl;<sub>5</sub>",
+			"q1": "B. -<sup>R</sup>&frasl;<sub>4</sub>",
+			"q2": "C. <sup>5R</sup>&frasl;<sub>36</sub>",
+			"q3": "D. <sup>-5R</sup>&frasl;<sub>36</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	If a radioactive atom emits a beta particle, its mass number",
+		"opts": {
+			"q0": "A. increases by one",
+			"q1": "B. remains the same",
+			"q2": "C. decreases by one",
+			"q3": "D. increases by two",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	When light falls on a metallic surface, the number of electrons that may be emitted would depend solely on the",
+		"opts": {
+			"q0": "A. area of the metallic surface",
+			"q1": "B. frequency of the light",
+			"q2": "C. intensity of the light",
+			"q3": "D. time of exposure of the metallic surface to light",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following materials is used to contrc! the rate of neutron production in a nuclear reactor?",
+		"opts": {
+			"q0": "A. Boron, rods",
+			"q1": "B. Concrete shield",
+			"q2": "C. Graphite rods",
+			"q3": "D. Uranium rods",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following is usually used to cause fission in an atomic reactor?",
+		"opts": {
+			"q0": "A. Alpha particles",
+			"q1": "B. Beta particles",
+			"q2": "C. Electrons",
+			"q3": "D. Neutrons",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	A nuclide X is produced by bombarding a nitrogen (N) nucleus with an alpha (&prop;) particle with the release of heavy hydrogen (D) nucleus as shown by the following nuclear equation, <img src='phy_2002_sectionb_qst50.jpg'>. Determine the values of p and q in the equation.",
+		"opts": {
+			"q0": "A. 12 and 6",
+			"q1": "B. 14 and 7",
+			"q2": "C. 16 and 8",
+			"q3": "D. 19 and 8",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

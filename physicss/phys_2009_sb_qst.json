@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	In which of the following states of matter do the molecules vibrate about their mean positions?",
+		"opts": {
+			"q0": "A. Liquids only",
+			"q1": "B. Solids only",
+			"q2": "C. Liquids and gases only",
+			"q3": "D. Solids,liquids and gases",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Which of the following properties of a steel bar can be measured in terms of the dimension of length only?",
+		"opts": {
+			"q0": "A. Weight",
+			"q1": "B. Density",
+			"q2": "C. Pressure",
+			"q3": "D. Volume",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	In a hydraulic press, a force of 40 N is applied to the smaller piston of area 10 c<p>m<sup>2</sup></p>. If the area of the larger piston is 200 c<p>m<sup>2</sup></p>, calculate the force obtained",
+		"opts": {
+			"q0": "A. 800 N",
+			"q1": "B. 500 N",
+			"q2": "C. 80 N",
+			"q3": "D. 50 N",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	A body of volume 0.046 <p>m<sup>3</sup></p> is immersed in a liquid of density 980 kg<p>m<sup>-3</sup></p> with <p><sup>3</sup>&frasl;<sub>4</sub></p> of its volume submerged. Calculate the upthrust on the body, [g = 10 m<p>s<sup>-2</sup></p>]",
+		"opts": {
+			"q0": "A. 11.27 N",
+			"q1": "B. 33.81 N",
+			"q2": "C. 112.70 N",
+			"q3": "D. 338.10 N",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Which of the following types of motion will be produced when n pair of equal and opposite non-collinear parallel forces acts on a body?",
+		"opts": {
+			"q0": "A. Vibrational motion",
+			"q1": "B. Random motion",
+			"q2": "C. Translational motion",
+			"q3": "D. Rotational motion",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A body moving in a circle at constant speed has I. a velocity tangential to the circle. II. a constant kinetic energy. III. an acceleration directed towards the circumference of the circle. Whch of the statements above are correct",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. II and III only",
+			"q2": "C. I and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	A car moves with a speed of 30 m<p>s<sup>-1</sup></p>. Calculate the distance travelled in 30 s.",
+		"opts": {
+			"q0": "A. 30 m",
+			"q1": "B. 60 m",
+			"q2": "C. 450 m",
+			"q3": "D. 900 m",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	A moving body accelerates when it",
+		"opts": {
+			"q0": "A. changes its direction at constant speed",
+			"q1": "B. maintains a constant linear speed",
+			"q2": "C. covers equal distances in equal times in a straight line",
+			"q3": "D. is acted upon by balanced forces",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The following properties of a solid are measured on earth: I. weight II. specific heat capacity III. density. Which of the properties will have a different value if measured in space?",
+		"opts": {
+			"q0": "A. I only",
+			"q1": "B. II only",
+			"q2": "C. III only",
+			"q3": "D. II and III only",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Which of the vector diagrams below represents the following position vectors? <img src='phys_2009_sectionb_qst10.jpg'>",
+		"opts": {
+			"q0": "A. <img src='phys_2009_sectionb_qst10_1.jpg'>",
+			"q1": "B. <img src='phys_2009_sectionb_qst10_2.jpg'>",
+			"q2": "C. <img src='phys_2009_sectionb_qst10_3.jpg'>",
+			"q3": "D. <img src='phys_2009_sectionb_qst10_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Two forces 6 N and 8 N, act eastwards and northwards respectively on a body. Calculate the magnitude of their equilibrant.",
+		"opts": {
+			"q0": "A. 2 N",
+			"q1": "B. 7 N",
+			"q2": "C. 10 N",
+			"q3": "D. 14 N",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The period of a simple pendulum of length 80.0 cm was found to have doubled when the length of the pendulum was increased by X. Calculate X.",
+		"opts": {
+			"q0": "A. 26.7 cm",
+			"q1": "B. 40.0 cm",
+			"q2": "C. 160.0 cm",
+			"q3": "D. 240.0 cm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	A body of mass 5 kg moving with a velocity of 30 m<p>s<sup>-1</sup></p> due east is suddenly hit by another body and changes its velocity to 50 m<p>s<sup>-1</sup></p> in the same direction. Calculate the magnitude of the impulse received.",
+		"opts": {
+			"q0": "A. 100 Ns",
+			"q1": "B. 150 Ns",
+			"q2": "C. 250 Ns",
+			"q3": "D. 400 Ns",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Electrical energy is measured in",
+		"opts": {
+			"q0": "A. ampere",
+			"q1": "B. coulomb",
+			"q2": "C. kilowatt - hour",
+			"q3": "D. kilowatt",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	A stone of mass 0.5 kg is dropped from a height of 12 m. Calculate its maximum kinetic energy, [g = 10 m<p>s<sup>-2</sup></p>]",
+		"opts": {
+			"q0": "A. 3.0 J",
+			"q1": "B. 6.0 J",
+			"q2": "C. 30.0 J",
+			"q3": "D. 60.0 J",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	A machine of efficiency 80% is used to lift a box. If the effort applied by the machine is twice the weight of the box, calculate the velocity ratio of the machine.",
+		"opts": {
+			"q0": "A. 0.50",
+			"q1": "B. 0.63",
+			"q2": "C. 0.80",
+			"q3": "D. 1.60",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	A faulty thermometer registers <p>102.5&deg;</p> C at <p>100&deg;</p> C. If the thermometer has no zero error, what will it register at <p>55&deg;</p> C?",
+		"opts": {
+			"q0": "A. <p>54.6&deg;</p> C",
+			"q1": "B. <p>55.0&deg;</p> C",
+			"q2": "C. <p>56.0&deg;</p> C",
+			"q3": "D. <p>56.4&deg;</p> C",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	A rod of initial length 2 m at a temperature of <p>25&deg;</p> C is heated to <p>80&deg;</p> C. Calculate the increase in length of the rod if its linear expansivity is 4.0 x <p>10<sup>-3</sup></p> <p>K<sup>-1</sup></p>.",
+		"opts": {
+			"q0": "A. 0.26 m",
+			"q1": "B. 0.44 m",
+			"q2": "C. 0.53 m",
+			"q3": "D. 0.84 m",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	As a bicycle tyre was being pumped up, it was noticed that contrary to Boyle’s law the volume increased as the pressure increased. The best explanation of this is that Boyle’s law is only true for",
+		"opts": {
+			"q0": "A. ideal gases",
+			"q1": "B. a fixed mass of gas",
+			"q2": "C. a mixture of gases",
+			"q3": "D. a gas at variable temperature",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	It takes 4 minutes to boil a quantity of water using an electrical heating coil. How long will it take to boil the same quantity of water using the same heating coil if the current is doubled? [Neglect any external heat losses]",
+		"opts": {
+			"q0": "A. 8 minutes",
+			"q1": "B. 4 minutes",
+			"q2": "C. 2 minutes",
+			"q3": "D. 1 minute",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	When table salt is added to ice, the melting point of the ice",
+		"opts": {
+			"q0": "A. is raised",
+			"q1": "B. is lowered",
+			"q2": "C. remains unchanged",
+			"q3": "D. is first raised, then lowered",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following factors affect the rate of evaporation of a liquid? I. Exposed surface area II. Temperature of the surroundings III. Thermal capacity of the liquid IV. Relative humidity of the surroundings",
+		"opts": {
+			"q0": "A. II and III only",
+			"q1": "B. II, III and IV only",
+			"q2": "C. I, III and IV only",
+			"q3": "D. I, II and IV only",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following instruments is used to measure relative humidity?",
+		"opts": {
+			"q0": "A. Hydrometer",
+			"q1": "B. Barometer",
+			"q2": "C. Hypsometer",
+			"q3": "D. Hygrometer",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	The maximum displacement of a vibrating tuning fork is its",
+		"opts": {
+			"q0": "A. amplitude",
+			"q1": "B. frequency",
+			"q2": "C. period",
+			"q3": "D. wavelength",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	A boat is rocked by waves of speed 30 m<p>s<sup>-1</sup></p> whose successive crests are 10 m apart. Calculate the rate at which the boat receives the waves.",
+		"opts": {
+			"q0": "A. 30 <p>s<sup>-1</sup></p>",
+			"q1": "B. 10 <p>s<sup>-1</sup></p>",
+			"q2": "C. 3 <p>s<sup>-1</sup></p>",
+			"q3": "D. 1 <p>s<sup>-1</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "C,"
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following waves, is not transverse?",
+		"opts": {
+			"q0": "A. Lightwaves",
+			"q1": "B. Soundwaves",
+			"q2": "C. Seawaves",
+			"q3": "D. Radiowaves",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Light travelling through a small pinhole usually does not make a shadow with a distinct sharp edge because of",
+		"opts": {
+			"q0": "A. diffraction",
+			"q1": "B. interference",
+			"q2": "C. reflection",
+			"q3": "D. refraction",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The angle of incidence of a ray of light on a plane mirror is <p>55&deg;</p>. Determine the angle between the reflected ray and the mirror",
+		"opts": {
+			"q0": "A. <p>35&deg;</p>",
+			"q1": "B. <p>45&deg;</p>",
+			"q2": "C. <p>55&deg;</p>",
+			"q3": "D. <p>110&deg;</p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	A concave mirror forms a magnified and erect image only when the object is placed",
+		"opts": {
+			"q0": "A. at the centre of curvature",
+			"q1": "B. at the focus",
+			"q2": "C. between the focus and the pole of the mirror",
+			"q3": "D. beyond the radius of curvature",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	A thin lens is placed 50 cm from an illuminated object. The image produced has linear magnification of i Calculate the power of the lens in dioptres",
+		"opts": {
+			"q0": "A. 2.5 D",
+			"q1": "B. 5.0 D",
+			"q2": "C. 10.0 D",
+			"q3": "D. 25.0 D",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following characteristics of light determines its colour?",
+		"opts": {
+			"q0": "A. Velocity",
+			"q1": "B. Wavelength",
+			"q2": "C. Amplitude",
+			"q3": "D. Intensity",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following is not a part of the electro-magnetic spectrum?",
+		"opts": {
+			"q0": "A. X-rays ",
+			"q1": "B. Microwaves",
+			"q2": "C. Infrared radiation",
+			"q3": "D. Alpha rays",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Sound interference is necessary to produce the phenomenon of",
+		"opts": {
+			"q0": "A. beats",
+			"q1": "B. doppler effect",
+			"q2": "C. acoustic resonance",
+			"q3": "D. echo",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	A satellite in circular motion around the earth does not have",
+		"opts": {
+			"q0": "A. a gravitational force acting on it",
+			"q1": "B. a uniform velocity",
+			"q2": "C. an acceleration",
+			"q3": "D. a centripetal force acting on it",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	When a conductor mounted on an insulating stand is charged and left for sometime, the conductor eventually loses all its charges. This is because the",
+		"opts": {
+			"q0": "A. electric charges evaporate from the surface of the conductor",
+			"q1": "B. charges are conducted to earth",
+			"q2": "C. charges on the conductor are neutralized by opposite charges from the surrounding air",
+			"q3": "D. charges ionize the surrounding air",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "Use the information below to answer questions 36. An isolated metal sphere of radius R, carrying an electric charge, Q, is situated in a medium of relative permittivity, <p><p>&#8455;</p><sub>r</sub></p>. A test charge is placed at a point P, distance r from the surface of the sphere. Let <p><p>&#8455;</p><sub>o</sub></p> represent the permittivity of free space",
+		"opts": {
+			"q0": "A. <img src='phys_2009_sectionb_qst36_1.jpg'>",
+			"q1": "B. <img src='phys_2009_sectionb_qst36_2.jpg'>",
+			"q2": "C. <img src='phys_2009_sectionb_qst36_3.jpg'>",
+			"q3": "D. <img src='phys_2009_sectionb_qst36_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "Use the information below to answer questions 37. An isolated metal sphere of radius R, carrying an electric charge, Q, is situated in a medium of relative permittivity, <p><p>&#8455;</p><sub>r</sub></p>. A test charge is placed at a point P, distance r from the surface of the sphere. Let <p><p>&#8455;</p><sub>o</sub></p> represent the permittivity of free space",
+		"opts": {
+			"q0": "A. <img src='phys_2009_sectionb_qst37_1.jpg'>",
+			"q1": "B. <img src='phys_2009_sectionb_qst37_2.jpg'>",
+			"q2": "C. <img src='phys_2009_sectionb_qst37_3.jpg'>",
+			"q3": "D. <img src='phys_2009_sectionb_qst37_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	A resistor of resistance R is connected to a battery of negligible internal resistance. If a similar resistor is connected in series with it the",
+		"opts": {
+			"q0": "A. effective resistance of the circuit is halved",
+			"q1": "B. total power dissipated is doubled",
+			"q2": "C. total current in the circuit is halved",
+			"q3": "D. terminal voltage is halved",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	A cell of e.m.f. 1.5 V is connected in series with a resistor of resistance <p>3.0&ohm;</p>. A voltmeter connected across the cell registers 0.9 V. Calculate the internal resistance of the cell.",
+		"opts": {
+			"q0": "A. <p>2.0&ohm;</p>",
+			"q1": "B. <p>3.0&ohm;</p>",
+			"q2": "C. <p>5.0&ohm;</p>",
+			"q3": "D. <p>6.0&ohm;</p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	A wire of resistivity 4.40 x <p>10<sup>-5</sup></p> <p>&ohm;</p> cm has a cross sectional area of 7 .50 x <p>10<sup>-4</sup></p> <p>cm<sup>2</sup></p>. Calculate the length of this wire that will be required to make a <p>4.0&ohm;</p> resistor",
+		"opts": {
+			"q0": "A. 82.50 cm",
+			"q1": "B. 68.18 cm",
+			"q2": "C. 15.90 cm",
+			"q3": "D. 11.94 cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	A battery of e.m.f. 12.0 V and internal resistance <p>0.6&ohm;</p> is connected to <p>1.5&ohm;</p> and <p>4.0&ohm;</p> series resistors. Calculate the terminal voltage of the battery",
+		"opts": {
+			"q0": "A. 13.0 V",
+			"q1": "B. 11.0 V",
+			"q2": "C. 3.0 V",
+			"q3": "D. 1.0 V",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	If the direction of the current in a straight wire is reversed, the magnetic field",
+		"opts": {
+			"q0": "A. remains the same",
+			"q1": "B. becomes parallel to the wire",
+			"q2": "C. ceases to exist",
+			"q3": "D. is oppositely directed",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	An ideal step-down transformer steps up",
+		"opts": {
+			"q0": "A. power",
+			"q1": "B. energy",
+			"q2": "C. current",
+			"q3": "D. voltage",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	An inductor of inductance 1.0 H is connected in series with a capacitor of capacitance 2.0<p>&micro;</p>F in an a.c. circuit. Calculate the value of frequency that will make the circuit to resonate",
+		"opts": {
+			"q0": "A. 112.5 Hz",
+			"q1": "B. 225.0 Hz",
+			"q2": "C. 353.5 Hz",
+			"q3": "D. 707.1 Hz",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	An ammeter connected to an a.c. circuit records 5.5 A.	The peak current in the circuit is",
+		"opts": {
+			"q0": "A. 7.8 A",
+			"q1": "B. 7.1 A",
+			"q2": "C. 3.9 A",
+			"q3": "D. 3.5 A",
+			"q4": "E. "
+		},
+		"ans": "A",
+		 "sel": ""
+	},
+	"Q46": {
+		"qs": "The table below shows the energy distribution for various levels of an atom. Use it to answer questions 46. [h = 6.6x <p>10<sup>-34</sup></p> Js; e = 1.6 x <p>10<sup>-19</sup></p> C; c = 3.0 x <p>10<sup>8</sup></p> m<p>s<sup>-1</sup></p>]. 46.	Calculate the first excitation energy of the atom. <img src='phys_2009_sectionb_qst46_47.jpg'>",
+		"opts": {
+			"q0": "A. 1.60 x <p>10<sup>-2</sup></p> J",
+			"q1": "B. 1.02 x <p>10<sup>-18</sup></p> J",
+			"q2": "C. 1.60 x <p>10<sup>-3</sup></p> J",
+			"q3": "D. 1.02 x 10 J",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "The table below shows the energy distribution for various levels of an atom. Use it to answer questions 47. [h = 6.6x <p>10<sup>-34</sup></p> Js; e = 1.6 x <p>10<sup>-19</sup></p> C; c = 3.0 x <p>10<sup>8</sup></p> m<p>s<sup>-1</sup></p>]. 47.	47.	If the atom de-excites from n = 2, the wavelength of the emitted radiation. <img src='phys_2009_sectionb_qst46_47.jpg'>",
+		"opts": {
+			"q0": "A. 2.40 x <p>10<sup>-7</sup></p> m",
+			"q1": "B. 1.20 x <p>10<sup>-7</sup></p> m",
+			"q2": "C. 2.40 x <p>10<sup>-9</sup></p> m",
+			"q3": "D. 1.20 x <p>10<sup>-9</sup></p> m",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Two isotopes of uranium are designated as <p>238<sub>U</sub></p> and <p>235<sub>U</sub></p>. The numbers 238 and 235 represent their",
+		"opts": {
+			"q0": "A. atomic numbers",
+			"q1": "B. nucleon numbers",
+			"q2": "C. proton numbers",
+			"q3": "D. neutron numbers",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The main difference between x-rays and y-rays lies in their",
+		"opts": {
+			"q0": "A. ionizing ability",
+			"q1": "B. absorption rate",
+			"q2": "C. mode of production",
+			"q3": "D. mode of propagation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	An electron of mass 9.1x <p>10<sup>-31</sup></p> kg moves with a speed of <p>10<sup>7</sup></p> m<p>s<sup>-1</sup></p>. Calculate the wavelength of the associated wave. [h = 6.6 x <p>10<sup>-34</sup></p> Js] ",
+		"opts": {
+			"q0": "A. 9.10 x <p>10<sup>-24</sup></p> m",
+			"q1": "B. 4.55 x <p>10<sup>-17</sup></p> m",
+			"q2": "C. 7.25 x <p>10<sup>-11</sup></p> m",
+			"q3": "D. 6.20 x <p>10<sup>-8</sup></p> m",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	A tuber of cassava can be processed into powder. This explains the fact that",
+		"opts": {
+			"q0": "A. matter can change spontaneously from one state to another",
+			"q1": "B. matter cannot be destroyed",
+			"q2": "C. force is required to change matter from one state to another",
+			"q3": "D. matter is made up of tiny particles",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	A piece of metal of relative density 5.0 weighs 60N in air. Calculate its weight when fully immersed in water",
+		"opts": {
+			"q0": "A. 4N",
+			"q1": "B. 5N",
+			"q2": "C. 48N",
+			"q3": "D. 60N",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	A net force of 15N acts upon a body of mass 3kg for 5s, calculate the change in the speed of the body",
+		"opts": {
+			"q0": "A. 25.0 ms<sup>-1</sup>",
+			"q1": "B. 9.0 ms<sup>-1</sup>",
+			"q2": "C. 2.5 ms<sup>-1</sup>",
+			"q3": "D. 1.0 ms<sup>-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The tendency of a body to remain at rest when a force is applied to it is called",
+		"opts": {
+			"q0": "A. impulse",
+			"q1": "B. momentum",
+			"q2": "C. inertia",
+			"q3": "D. friction",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	A force acts on a body for 0.5s changing its momentum from 16.0 kgms<sup>-1</sup> to 21.0 kgms<sup>-1</sup> calculate the magnitude of the force",
+		"opts": {
+			"q0": "A. 42.0 N",
+			"q1": "B. 37.0 N",
+			"q2": "C. 32.0 N",
+			"q3": "D. 10.0 N",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the graphs below shows the motion of a body with uniform retardation?",
+		"opts": {
+			"q0": "A. <img src='phy_2003_sectionb_qst6_1.jpg'>",
+			"q1": "B. <img src='phy_2003_sectionb_qst6_2.jpg'>",
+			"q2": "C. <img src='phy_2003_sectionb_qst6_3.jpg'>",
+			"q3": "D. <img src='phy_2003_sectionb_qst6_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	A moving object is said to have uniform acceleration if its",
+		"opts": {
+			"q0": "A. displacement decreases at a constant rate",
+			"q1": "B. speed is directly proportional to time",
+			"q2": "C. velocity increases by equal amount in equal time intervals",
+			"q3": "D. velocity varies inversely with time",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The period of an oscillatory motion is defined as the",
+		"opts": {
+			"q0": "A. average of the times used in completing different numbers of oscillations",
+			"q1": "B. time to complete a number of oscillations",
+			"q2": "C. time to complete one oscillation",
+			"q3": "D. time taken to move from one extreme position to the other",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The mass on a loaded spiral spring oscillates vertically between two extreme positions P and R equidistant from the equilibrium position Q. Which of the following statements about the system is not correct?",
+		"opts": {
+			"q0": "A. The momentum of the mass is maximum at Q",
+			"q1": "B. The elastic potential energy of the spring is maximum at Q",
+			"q2": "C. The kinetic energy of the mass is maximum at P",
+			"q3": "D. The total energy of the system is always constant",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	A ball of mass 5.0kg hits a smooth vertical wall normally with a speed of 2ms<sup>-1</sup>. Determine the magnitude of the resulting impulse.",
+		"opts": {
+			"q0": "A. 20.0kgms<sup>-1</sup>",
+			"q1": "B. 10.0kgms<sup>-1</sup>",
+			"q2": "C. 5.0kgms<sup>-1</sup>",
+			"q3": "D. 2.5kgms<sup>-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following statements correctly defines a simple machine? A device",
+		"opts": {
+			"q0": "A. that can provide electric current",
+			"q1": "B. which can only carry people from one place to another",
+			"q2": "C. with which work can be done easily",
+			"q3": "D. which changes the state of rest or of uniform motion of an object along a straight line",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A platinum resistance thermometer has a resistance of 4&ohm; at 0&deg;C and 10&ohm; at 100&deg;C. Assuming the resistance changes uniformly with temperature, calculate the resistance of the thermometer when the temperature is 45&deg;C",
+		"opts": {
+			"q0": "A. 14.0&ohm;",
+			"q1": "B. 6.7&ohm;",
+			"q2": "C. 3.2&ohm;",
+			"q3": "D. 2.7&ohm;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	A metal rod of length 100 cm is heated through 100&deg;C, calculate the change in length of the rod. [linear expansivity of the material of the rod is 3 x 10<sup>-5</sup> K<sup>-1</sup>]",
+		"opts": {
+			"q0": "A. 4mm",
+			"q1": "B. 3mm",
+			"q2": "C. 2mm",
+			"q3": "D. 1mm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	The heat capacity of a calorimeter is the amount of energy required to",
+		"opts": {
+			"q0": "A. change the temperature of 1kg of the calorimeter by 1K",
+			"q1": "B. change 1 kg mass of the calorimeter to liquid at the same temperature",
+			"q2": "C. change the temperature of the calorimeter by 1K",
+			"q3": "D. melt the calorimeter into liquid at a constant temperature",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following statements about latent heat of vaporisation is correct? It",
+		"opts": {
+			"q0": "A. weakens the adhesive forces between molecules of a liquid and those of its container",
+			"q1": "B. breaks completely the force of attraction between the molecules of a liquid",
+			"q2": "C. adds to the heat content of a liquid",
+			"q3": "D. increases the cohesive forces between liquid molecules",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	When the pressure of a fixed mass of gas is doubled at constant temperature, the volume of the gas is",
+		"opts": {
+			"q0": "A. increased four times",
+			"q1": "B. doubled",
+			"q2": "C. unchanged",
+			"q3": "D. halved",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	The volume of a given mass of an ideal gas at 327 K and 9.52 x 10<sup>4</sup> Pa is 40cm<sup>3</sup>. Caculate the volume of the gas at 273K and 1.034 x 10<sup>5</sup> Pa.",
+		"opts": {
+			"q0": "A. 68.23 cm<sup>3</sup>",
+			"q1": "B. 47.91 cm<sup>3</sup>",
+			"q2": "C. 44.60 cm<sup>3</sup>",
+			"q3": "D. 30.75 cm<sup>3</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	<img src='phy_2003_sectionb_qst18.jpg'> The diagram above represents the displacement D versus time, t graph of a progressive wave. Deduce the frequency of the wave",
+		"opts": {
+			"q0": "A. 20Hz",
+			"q1": "B. 10Hz",
+			"q2": "C. 5Hz",
+			"q3": "D. 4Hz",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	A wave of wavelength 0.30m travels 900 m in 3.0s, calculate its frequency",
+		"opts": {
+			"q0": "A. 68.0Hz",
+			"q1": "B. 225.0Hz",
+			"q2": "C. 270.0Hz",
+			"q3": "D. 750.0Hz",
+			"q4": "E. "
+		},
+		"ans": "NO OPTION",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following conditions is necessary for the occurrence of total internal reflection of light?",
+		"opts": {
+			"q0": "A. Light must travel from an optically less dense to a denser medium",
+			"q1": "B. The angle of incidence must be equal to the critical angle",
+			"q2": "C. The angle of incidence must be greater than the critical angle",
+			"q3": "D. The angle of refraction must be 90&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The image which cannot be formed on a screen is said to be",
+		"opts": {
+			"q0": "A. inverted",
+			"q1": "B. erect",
+			"q2": "C. real",
+			"q3": "D. virtual",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	An object is placed on the principal axis and at the centre of curvature of a concave mirror, the image of the object formed by the mirror is",
+		"opts": {
+			"q0": "A. real and magnified",
+			"q1": "B. real and inverted",
+			"q2": "C. erect and magnified",
+			"q3": "D. erect and virtual",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	A converging lens produces an image four times as large as an object placed 25cm from the lens. Calculate its focal length",
+		"opts": {
+			"q0": "A. 100cm",
+			"q1": "B. 33cm",
+			"q2": "C. 29cm",
+			"q3": "D. 20cm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	The horizontal floor of a water reservoir appears to be 1.0m deep when viewed vertically from ahove. If the refractive index of water is 1.35, calculate the real depth of the reservoir",
+		"opts": {
+			"q0": "A. 2.35 m",
+			"q1": "B. 1.35 m",
+			"q2": "C. 1.00 m",
+			"q3": "D. 0.35 m",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	A converging lens has a focal length of 5cm. Determine its power",
+		"opts": {
+			"q0": "A. +20.0 D",
+			"q1": "B. +0.2 D",
+			"q2": "C. -20.0 D",
+			"q3": "D. -0.2 D",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following pairs of light rays shows the widest separation in the spectrum of white light?",
+		"opts": {
+			"q0": "A. Green and blue",
+			"q1": "B. Orange and indigo",
+			"q2": "C. Blue and violet",
+			"q3": "D. Red and yellow",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Which of the following statements about the human eye and the camera is correct?",
+		"opts": {
+			"q0": "A. Both form virtual images of objects",
+			"q1": "B. The image formed by the eye is upright in the retina while that formed by the camera is inverted on the film",
+			"q2": "C. The inside of both of them is blackened to absorb unwanted light",
+			"q3": "D. The focal length of both the eye lens and the camera lens can be varied",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The speed of sound in air is directly proportional to",
+		"opts": {
+			"q0": "A. its temperature on the Celsius scale",
+			"q1": "B. its temperature on the thermodynamic scale",
+			"q2": "C. the cube root of its temperature on the Celsius scale",
+			"q3": "D. the square root of its temperature on the absolute scale",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Which of the following statements about the characteristics of sound waves is correct?",
+		"opts": {
+			"q0": "A. Loudness decreases with increase in intensity",
+			"q1": "B. The pitch of a note is determined by its amplitude",
+			"q2": "C. The intensity of a sound wave is proportional to its amplitude",
+			"q3": "D. The quality of a note depends on its overtones",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	A sonometer wire of linear density 0.08 kgm<sup>-1</sup> subjected to a tension of 800 N is plucked. Calculate the speed of a pulse which moves from one end of the wire to the other.",
+		"opts": {
+			"q0": "A. 179.0 ms<sup>-1</sup>",
+			"q1": "B. 100.0 ms<sup>-1</sup>",
+			"q2": "C. 15.8 ms<sup>-1</sup>",
+			"q3": "D. 8.0 ms<sup>-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following instruments gives a pure note when sounded?",
+		"opts": {
+			"q0": "A. Talking drum",
+			"q1": "B. Siren",
+			"q2": "C. Tuning fork",
+			"q3": "D. Guitar",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following features of an electrostatic line of force is not correct?",
+		"opts": {
+			"q0": "A. It is an imaginary line which a positive charge would describe if it is free to move",
+			"q1": "B. The tangent drawn at any point on a curved line of force shows the direction of the electric field intensity at that point",
+			"q2": "C. It is sometimes curved",
+			"q3": "D. It can cross another line of force in a region of intense electric field",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following statements about a force field is correct?",
+		"opts": {
+			"q0": "A. Electrostatic, gravitational and magnetic forces are always attractive",
+			"q1": "B. Electric, gravitational and magnetic fields obey inverse square laws",
+			"q2": "C. Field lines are real but their corresponding fields are imaginary",
+			"q3": "D. Field lines and their corresponding fields are both real",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	A positively charged glass rod is placed near the cap of a positively charged electroscope. The divergence of the leaf is observed to",
+		"opts": {
+			"q0": "A. decrease",
+			"q1": "B. increase",
+			"q2": "C. remain the same",
+			"q3": "D. increase and collapse immediately",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Two identical cells each of emf 2V and internal resistance 1.0&ohm; are connected in parallel. The ccmbination is connected to an external load of 1.5&ohm;. Calculate the current in the circuit.",
+		"opts": {
+			"q0": "A. 0.57A",
+			"q1": "B. 1.00A",
+			"q2": "C. 1.14A",
+			"q3": "D. 2.00A",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following factors does not affect the electric resistance of a wire?",
+		"opts": {
+			"q0": "A. Length",
+			"q1": "B. Mass",
+			"q2": "C. Temperature",
+			"q3": "D. Cross sectional area",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	A current of 10 A passes through a conductor for 10s, calculate the charge flowing through the conductor.",
+		"opts": {
+			"q0": "A. 100.0C",
+			"q1": "B. 10.0C",
+			"q2": "C. 1.0C",
+			"q3": "D. 0.1C",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	A lamp is rated 240 V 60 W, calculate the resistance of its filament",
+		"opts": {
+			"q0": "A. 240&ohm;",
+			"q1": "B. 360&ohm;",
+			"q2": "C. 960&ohm;",
+			"q3": "D. 1440&ohm;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The maximum power dissipated by a 100&ohm; resistor in a circuit is 4 W, calculate the voltage across the resistor.",
+		"opts": {
+			"q0": "A. 10V",
+			"q1": "B. 20V",
+			"q2": "C. 25V",
+			"q3": "D. 400V",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	One difference between a reactance and a resistance in an alternating current circuit is",
+		"opts": {
+			"q0": "A. resistance is larger than reactance",
+			"q1": "B. energy is not dissipated in a reactance",
+			"q2": "C. energy is stored in a resistance but not in a reactance",
+			"q3": "D. the current in a reactance is lower than in the resistance",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='phy_2003_sectionb_qst41.jpg'> The diagram above shows the resultant electric field pattern due to two electric point charges P and S. Which of the following statements is correct?",
+		"opts": {
+			"q0": "A. P is negatively charged while S is positively charged",
+			"q1": "B. P is positively charged while S is negatively charged",
+			"q2": "C. Both P and S are positively charged",
+			"q3": "D. Both P and S are negatively charged",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='phy_2003_sectionb_qst42.jpg'> The bar magnet illustrated in the diagram above picks up an unmagnetised steel nail X. In turn, X picks up a similar nail Y and so on. The nails are said to be magnetised by",
+		"opts": {
+			"q0": "A. conduction",
+			"q1": "B. single touch",
+			"q2": "C. induction",
+			"q3": "D. divided touch",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The direction of induced current in a straight wire placed in a magnetic field is determined by using",
+		"opts": {
+			"q0": "A. Fleming’s right hand rule",
+			"q1": "B. Maxwell’s screw rule",
+			"q2": "C. Faraday’s law",
+			"q3": "D. Lenz’s law",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Which of the following statements about an electromagnet is not correct?",
+		"opts": {
+			"q0": "A. It is a temporary magnet",
+			"q1": "B. Its strength depends on the current",
+			"q2": "C. Its strength depends on the number of turns in its coil",
+			"q3": "D. It has permanent poles",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following statements is true of ultra violet radiations? It",
+		"opts": {
+			"q0": "A. supports the sensation of hearing",
+			"q1": "B. does not cause the emission of electrons from metals",
+			"q2": "C. is an electromagnetic wave",
+			"q3": "D. is not capable of causing sun burn",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of the following statements is not true of the isotopes of an element? They",
+		"opts": {
+			"q0": "A. are atoms of the same element",
+			"q1": "B. have the same chemical properties",
+			"q2": "C. have the same atomic number",
+			"q3": "D. have the same mass number",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	A radioactive element has a decay constant of 0.077s<sup>-1</sup>, calculate its half life.",
+		"opts": {
+			"q0": "A. 12.5s",
+			"q1": "B. 9.0s",
+			"q2": "C. 5.1s",
+			"q3": "D. 0.5s",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The minimum energy required to remove an electron from an atom is known as",
+		"opts": {
+			"q0": "A. excitation energy",
+			"q1": "B. ionization energy",
+			"q2": "C. binding energy",
+			"q3": "D. photon energy",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Nuclear fission is preferred to nuclear fusion in the generation of energy because",
+		"opts": {
+			"q0": "A. very high temperatures are required for fusion",
+			"q1": "B. the raw materials for fusion are not easily obtained",
+			"q2": "C. energy obtained from fusion is relatively smaller",
+			"q3": "D. the by-product of fusion are very dangerous",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following reactions represents nuclear fusion?",
+		"opts": {
+			"q0": "A. <img src='phy_2003_sectionb_qst50_1.jpg'>",
+			"q1": "B. <img src='phy_2003_sectionb_qst50_2.jpg'>",
+			"q2": "C. <img src='phy_2003_sectionb_qst50_3.jpg'>",
+			"q3": "D. <img src='phy_2003_sectionb_qst50_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

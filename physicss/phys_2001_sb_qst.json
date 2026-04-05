@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following physical processes cannot be explained by the molecular theory of matter?",
+		"opts": {
+			"q0": "A. Evaporation",
+			"q1": "B. Thermal conduction",
+			"q2": "C. Radiation of heat",
+			"q3": "D. Convectional currents in fluids",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	A spring balance, which is suspended from the roof of a lift, carries a mass of 1 kg at its free end. If the lift accelerates upwards at 2.5ms<sup>-2</sup>, determine the readinq on the spring balance, [g = 10 ms<sup>-2</sup>]",
+		"opts": {
+			"q0": "A. 25.0N",
+			"q1": "B. 12.5N",
+			"q2": "C. 7.5N",
+			"q3": "D. 4.0N",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	An object of weight 10 N immersed in a liquid displaces a quantity of the liquid. If the liquid displaced weiqhs b N, determine the upthrust on the object",
+		"opts": {
+			"q0": "A. 20N",
+			"q1": "B. 10N",
+			"q2": "C. 6N",
+			"q3": "D. 4N",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following statements about pressure is not correct? Pressure",
+		"opts": {
+			"q0": "A. increases with an increase in surface area",
+			"q1": "B. decreases with an increase in surface area",
+			"q2": "C. increases with a decrease in surface area",
+			"q3": "D. increases with an increase in the applied force",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The apparent weight of a body fully immersed in water is 32 N and its weight in air is 96 N. Calculate the volume of the body. [Density of water = 1000 kgm<sup>-3</sup>, g = 10ms<sup>-2</sup>]",
+		"opts": {
+			"q0": "A. 8.9 x 10<sup>-3</sup> m<sup>3</sup>",
+			"q1": "B. 6.4 x 10<sup>-3</sup> m<sup>3</sup>",
+			"q2": "C. 3.2 x 10<sup>-3</sup> m<sup>3</sup>",
+			"q3": "D. 3.0 x 10<sup>-3</sup> m<sup>3</sup>",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A block weighing 15 N rests on a flat surface and a horizontal force of 3 N is exerted on it. Determine the frictional force on the block",
+		"opts": {
+			"q0": "A. 0.3N",
+			"q1": "B. 0.5N",
+			"q2": "C. 3.0N",
+			"q3": "D. 5.0N",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Which of the following equations represents the distance, x, travelled by a body moving on a straight road with a constant speed? [The other symbols have their usual meanings]",
+		"opts": {
+			"q0": "A. x = ut + <sup>1</sup>&frasl;<sub>2</sub>at<sup>2</sup>",
+			"q1": "B. x = ut",
+			"q2": "C. x = <sup>v<sup>2</sup> - u<sup>2</sup></sup>&frasl;<sub>2a</sub>",
+			"q3": "D. x = -<sup>1</sup>&frasl;<sub>2</sub>at<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The amplitude of the motion of a body performing simple harmonic motion decreases with time because",
+		"opts": {
+			"q0": "A. frictional forces dissipate the energy of motion",
+			"q1": "B. the frequency of oscillation varies with time",
+			"q2": "C. the period of oscillation varies with time",
+			"q3": "D. energy is supplied by some external agencies",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The amplitude of a particle executing simple harmonic motion is 5 cm while its angular frequency is 10rads<sup>-1</sup>. Calculate the magnitude of the maximum acceleration of the particle.",
+		"opts": {
+			"q0": "A. 0.25 ms<sup>-2</sup>",
+			"q1": "B. 0.50 ms<sup>-2</sup>",
+			"q2": "C. 2.00 ms<sup>-2</sup>",
+			"q3": "D. 5.00 ms<sup>-2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The time rate of change of momentum is",
+		"opts": {
+			"q0": "A. impulse",
+			"q1": "B. force",
+			"q2": "C. power",
+			"q3": "D. pressure",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following statements about elastic collision is correct?",
+		"opts": {
+			"q0": "A. Momentum is lost due to the sound produced",
+			"q1": "B. Loss in momentum is equal to loss in kinetic energy",
+			"q2": "C. Both kinetic energy and momentum are conserved",
+			"q3": "D. Kinetic energy is lost while momentum is conserved",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Electrical resistance is a property of an electrical conductor that causes electrical energy to be converted into",
+		"opts": {
+			"q0": "A. mechanical energy",
+			"q1": "B. heat energy",
+			"q2": "C. magnetic energy",
+			"q3": "D. chemical energy",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	A simple machine with an efficiency of 75% lifts a load of 5000 N when a force of 500 N is applied to it. Calculate the velocity ratio of the machine",
+		"opts": {
+			"q0": "A. 10.0",
+			"q1": "B. 13.3",
+			"q2": "C. 17.5",
+			"q3": "D. 25.0",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	A screw jack with a tommy bar of length 12 cm is used to raise a car through a vertical height of 25 cm by turning the tommy bar through 50 revolutions. Calculate the approximate velocity ratio of the jack. [&pi;=3.14]",
+		"opts": {
+			"q0": "A. 21",
+			"q1": "B. 38",
+			"q2": "C. 48",
+			"q3": "D. 51",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	<img src='phy_2001_sectionb_qst15.jpg'> A beam PQ pivoted at P carries a load of 80 N as shown above. Calculate the effort E, required to keep it horizontal, [neglect the weight of the beam]",
+		"opts": {
+			"q0": "A. 32.0N",
+			"q1": "B. 26.7N",
+			"q2": "C. 16.0N",
+			"q3": "D. 13.3N",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	A resistance thermometer has a resistance of 20&ohm; at 0&deg;C and 85&ohm; at 100&deg;C. If its resistance is 52&ohm; in a medium, calculate the corresponding temperature.",
+		"opts": {
+			"q0": "A. 49.2&deg;C",
+			"q1": "B. 60.6&deg;C",
+			"q2": "C. 80.0&deg;C",
+			"q3": "D. 84.7&deg;C",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	A given mass of an ideal gas has a pressure of 500 Nm<sup>-2</sup> at -13&deg;C. If its volume remains constant, calculate its pressure at 247&deg;C",
+		"opts": {
+			"q0": "A. 25 Nm<sup>-2</sup>",
+			"q1": "B. 50 Nm<sup>-2</sup>",
+			"q2": "C. 500 Nm<sup>-2</sup>",
+			"q3": "D. 1000 Nm<sup>-2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The volume of an ideal gas at a pressure of 77 cmHg and temperature 60&deg;C is 240 cm<sup>3</sup>. If the temperature and pressure are increased to 98&deg;C and 81 cmHg respectively, calculate the new volume of the gas.",
+		"opts": {
+			"q0": "A. 411.5 cm<sup>3</sup>",
+			"q1": "B. 267.1 cm<sup>3</sup>",
+			"q2": "C. 254.2 cm<sup>3</sup>",
+			"q3": "D. 112.7 cm<sup>3</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The amount of heat given out or absorbed when a substance changes its state at a constant temperature is known as",
+		"opts": {
+			"q0": "A. latent heat",
+			"q1": "B. heat capacity",
+			"q2": "C. specific latent heat",
+			"q3": "D. specific heat capacity",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following physical quantities affects the saturated vapour pressure of a liquid?",
+		"opts": {
+			"q0": "A. Temperature",
+			"q1": "B. Volume",
+			"q2": "C. Mass",
+			"q3": "D. Density",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Humidity is used to describe the amount of",
+		"opts": {
+			"q0": "A. air in water vapour",
+			"q1": "B. cloud available in the atmosphere",
+			"q2": "C. air in equal volumes of cloud",
+			"q3": "D. water vapour in the atmosphere",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Surface waves travelling in deep water at 15 ms<sup>-1</sup> are incident at a shallow water boundary. If the angles of incidence and refraction are 45&deg; and 30&deg; respectively, calculate the speed of the waves in shallow water",
+		"opts": {
+			"q0": "A. 8.1 ms<sup>-1</sup>",
+			"q1": "B. 10.0 ms<sup>-1</sup>",
+			"q2": "C. 10.6 ms<sup>-1</sup>",
+			"q3": "D. 22.5 ms<sup>-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	An incident ray is reflected normally by a plane mirror onto a screen where it forms a bright spot. The mirror and screen are parallel and 1 m apart. If the mirror is rotated through 5&deg;, calculate the displacement of the spot",
+		"opts": {
+			"q0": "A. 8.7 cm",
+			"q1": "B. 10.0 cm",
+			"q2": "C. 15.4 cm",
+			"q3": "D. 17.6 cm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Convex spherical mirrors are preferred to plane mirrors as driving mirrors because",
+		"opts": {
+			"q0": "A. the image produced is upright and clearly visible",
+			"q1": "B. it provides a wider field of view",
+			"q2": "C. the image produced is erect and diminished",
+			"q3": "D. the image produced is not laterally inverted",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	An object is placed 20 cm from a lens. If an image is formed on a screen 260 cm away from the lens, calculate the magnification of the image",
+		"opts": {
+			"q0": "A. 28",
+			"q1": "B. 26",
+			"q2": "C. 24",
+			"q3": "D. 13",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	A piece of cloth appears green in sunlight. When held in red light, it will appear",
+		"opts": {
+			"q0": "A. green",
+			"q1": "B. blue",
+			"q2": "C. red",
+			"q3": "D. black",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Dispersion of white light by a glass prism occurs because",
+		"opts": {
+			"q0": "A. white light consists of a mixture of seven different colours",
+			"q1": "B. the refractive index of glass is different for each constituent colour of white light",
+			"q2": "C. the speed of each colour of light in the glass is proportional to the refractive index of glass for each colour",
+			"q3": "D. the speed of each colour of light in the glass is proportional to the angle of refraction in the prism",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following statements about sound is correct?",
+		"opts": {
+			"q0": "A. When sound travels from air to a denser medium, it is refracted away from the normal at the point of incidence",
+			"q1": "B. Sound travels faster in air than in water",
+			"q2": "C. The wavelength of sound changes when it travels from air to water",
+			"q3": "D. The frequency of sound changes when it travels from air to water",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	<img src='phy_2001_sectionb_qst29_31.jpg'> Use the information below to answer Questions 29 to 31. The diagram above shows the wire of a sonometer box set into resonance weight = 100N by a vibrating tuning fork of frequency, f, when the wire is stretched by a tension, T. The resonating length of the wire is I while the wavelength of the sound produced is &lambda;. Which of the following statements is not correct? The wave produced on the wire is",
+		"opts": {
+			"q0": "A. stationary and longitudinal",
+			"q1": "B. stationary and mechanical",
+			"q2": "C. mechanical and longitudinal",
+			"q3": "D. progressive and transverse",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	<img src='phy_2001_sectionb_qst29_31.jpg'> Use the information below to answer Questions 29 to 31. The diagram above shows the wire of a sonometer box set into resonance weight = 100N by a vibrating tuning fork of frequency, f, when the wire is stretched by a tension, T. The resonating length of the wire is I while the wavelength of the sound produced is &lambda;. Which of the following statements about the frequency of vibration of the wire is not correct? It is",
+		"opts": {
+			"q0": "A. proportional to the mass per unit length of the wire",
+			"q1": "B. equal to the frequency of the tuning fork",
+			"q2": "C. inversely proportional to the length of the wire",
+			"q3": "D. proportional to the square root of the tension",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	<img src='phy_2001_sectionb_qst29_31.jpg'> Use the information below to answer Questions 29 to 31. The diagram above shows the wire of a sonometer box set into resonance weight = 100N by a vibrating tuning fork of frequency, f, when the wire is stretched by a tension, T. The resonating length of the wire is I while the wavelength of the sound produced is &lambda;. If the frequency of the tuning fork at resonance is 256 Hz, calculate the frequency of vibration of the wire when the tension in the wire is increased to 196 N",
+		"opts": {
+			"q0": "A. 130.6Hz",
+			"q1": "B. 182.9Hz",
+			"q2": "C. 358.4Hz",
+			"q3": "D. 501.8Hz",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The magnitude of the gravitational force between two particles 0.10 m apart is 10 N. If the distance between them is increased to 0.20m, calculate the magnitude of the new force.",
+		"opts": {
+			"q0": "A. 40.0 N",
+			"q1": "B. 20.0 N",
+			"q2": "C. 5.0 N",
+			"q3": "D. 2.5 N",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	As the plates of a charged variable capacitor are moved closer together, the potential difference between them",
+		"opts": {
+			"q0": "A. increases",
+			"q1": "B. decreases",
+			"q2": "C. remains the same",
+			"q3": "D. is doubled",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	<img src='phy_2001_sectionb_qst34_35.jpg'> Use the diagram shown above to answer Questions 34 and 35. What is the effective capacitance in the circuit?",
+		"opts": {
+			"q0": "A. 2&micro;F",
+			"q1": "B. 6&micro;F",
+			"q2": "C. 18&micro;F",
+			"q3": "D. 216&micro;F",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	<img src='phy_2001_sectionb_qst34_35.jpg'> Use the diagram shown above to answer Questions 34 and 35. What is the total energy stored by the capacitors?",
+		"opts": {
+			"q0": "A. 2.0 x 10<sup>-4</sup>J",
+			"q1": "B. 1.0 x 10<sup>-4</sup>J",
+			"q2": "C. 9.0 x 10<sup>-2</sup>J",
+			"q3": "D. 1.0 x 10<sup>-2</sup>J",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Three identical lamps each of power 100W, are connected in parallel across a potential difference of 250 V. Calculate the current in the circuit",
+		"opts": {
+			"q0": "A. 7.5A",
+			"q1": "B. 2.5A",
+			"q2": "C. 1.2A",
+			"q3": "D. 0.8A",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	An electric bulb is rated 60W, 220V. Calculate the resistance of its filament when it is operating normally.",
+		"opts": {
+			"q0": "A. 296.7&ohm;",
+			"q1": "B. 400.0&ohm;",
+			"q2": "C. 512.2&ohm;",
+			"q3": "D. 806.7&ohm;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The Earth’s magnetic equator passes through Jos in Nigeria. At Jos, the",
+		"opts": {
+			"q0": "A. angle of variation is zero",
+			"q1": "B. magnetic declination is 90&deg;",
+			"q2": "C. angle of dip is zero",
+			"q3": "D. horizontal component of the Earth’s magnetic field is zero",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Which of the following statements about magnetic lines of force is not correct?",
+		"opts": {
+			"q0": "A. A magnetic line of force is an imaginary line which the north pole of a magnet would describe if it is free to move",
+			"q1": "B. Magnetic lines of force do not cross one another",
+			"q2": "C. The presence of magnetic lines of force in a region indicates the presence of a magnetic field",
+			"q3": "D. Magnetic lines of force are closely-packed together at neutral points",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The material used for constructing the core of an electromagnet is",
+		"opts": {
+			"q0": "A. iron",
+			"q1": "B. carbon",
+			"q2": "C. copper",
+			"q3": "D. steel",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='phy_2001_sectionb_qst41.jpg'> In the circuit diagram above, calculate the energy stored in the inductor at resonance.",
+		"opts": {
+			"q0": "A. 0.100 J",
+			"q1": "B. 0.050 J",
+			"q2": "C. 0.010 J",
+			"q3": "D. 0.005 J",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='phy_2001_sectionb_qst42.jpg'> Calculate the reactance of the inductor in the circuit diagram shown above. [&pi; = <sup>22</sup>&frasl;<sub>7</sub>]",
+		"opts": {
+			"q0": "A. 132&ohm;",
+			"q1": "B. 214&ohm;",
+			"q2": "C. 264&ohm;",
+			"q3": "D. 269&ohm;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	In which of the following transitions is the largest quantum of energy liberated by an hydrogen atom when the electron changes energy levels? [n is the quantum number]",
+		"opts": {
+			"q0": "A. n = 2 to n = 1",
+			"q1": "B. n = 1 to n = 2",
+			"q2": "C. n = 2 to n = 3",
+			"q3": "D. n = 3 to n = 2",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	A photon of wavelength &lambda;<sub>0</sub> is emitted when an electron in an atom makes a transition from a level of energy 2E<sub>k</sub> to that of energy E<sub>k</sub>. If the electron transits from <sup>4</sup>&frasl;<sub>3</sub>E<sub>k</sub> to E<sub>k</sub> level, determine the wavelength of the photon that would be emitted",
+		"opts": {
+			"q0": "A. 3&lambda;<sub>0</sub>",
+			"q1": "B. 2&lambda;<sub>0</sub>",
+			"q2": "C. <sup>3</sup>&frasl;<sub>4</sub> &lambda;<sub>0</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>3</sub> &lambda;<sub>0</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Production of x-rays in an x-ray tube begins with",
+		"opts": {
+			"q0": "A. photo electric emission",
+			"q1": "B. collision of electrons",
+			"q2": "C. thermionic emission",
+			"q3": "D. field emission of electrons",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The nucleon number and the proton number of a neutral atom of an element are 23 and 11 respectively. How many neutrons are present in the atom?",
+		"opts": {
+			"q0": "A. 11",
+			"q1": "B. 12",
+			"q2": "C. 23",
+			"q3": "D. 34",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	A nitrogen nucleus bombarded with an alpha particle produces an oxygen nucleus and a proton. The nuclear reaction for this process is <img src='phy_2001_sectionb_qst47.jpg'>. Which of the following statements about the reaction is not correct?",
+		"opts": {
+			"q0": "A. The bombardment results into a nucleus with greater proton number",
+			"q1": "B. It is an induced nuclear reaction.",
+			"q2": "C. It is a natural radioactive decay",
+			"q3": "D. The sum of the initial nucleon numbers is equal to the sum of the final nucleon numbers",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	In a nuclear reactor, electricity can be generated through the following processes. Arrange the processes in the correct order. I. The steam is used to drive turbines. II. The heat energy released is removed by passing water through the reactor. III. The turbines in turn generate electricity. IV. The water then passes through some form of heat exchanger to produce steam.",
+		"opts": {
+			"q0": "A. II, IV, I and III",
+			"q1": "B. I, II, III and IV",
+			"q2": "C. Ill, I, IV and II",
+			"q3": "D. IV, I, III and II",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Electrons passing through crystals are diffracted because they",
+		"opts": {
+			"q0": "A. are repelled by the atoms in the crystal",
+			"q1": "B. are attracted by the atoms in the crystal",
+			"q2": "C. possess wave properties",
+			"q3": "D. are particles",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The duality of matter implies that matter",
+		"opts": {
+			"q0": "A. exists as a particle of dual composition",
+			"q1": "B. has momentum and energy",
+			"q2": "C. has both wave and particle properties",
+			"q3": "D. is made up of dual materials",
+			"q4": "E. "
+		},
+		"ans": "NO OPTION",
+		"sel": ""
+	},
+};

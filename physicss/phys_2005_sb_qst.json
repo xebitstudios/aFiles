@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following phenomena is the practical evidence for the existence of the continual motion of molecules?",
+		"opts": {
+			"q0": "A. Translational motion",
+			"q1": "B. Rotational motion ",
+			"q2": "C. Brownian motion",
+			"q3": "D. Oscillatory motion",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Each of the following physical quantities is classified as a vector or a scalar quantity. Which of the classifications is correct?",
+		"opts": {
+			"q0": "A. Electric potential (Vector)",
+			"q1": "B. Momentum (Scalar)",
+			"q2": "C. Gravitational field intensity (Scalar)",
+			"q3": "D. Magnetic flux density (Vector)",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Which of the following statements about a spring balance and/or a chemical balance is not correct?",
+		"opts": {
+			"q0": "A. The chemical balance operates on the principle of moments",
+			"q1": "B. The spring balance operates on Hooke’s law",
+			"q2": "C. Either may be used to measure the weight of a substance",
+			"q3": "D. The reading of a spring balance changes over the surface of the earth, while that of the chemical balance remains constant",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The friction which exists between two layers of liquid in relative motion is called",
+		"opts": {
+			"q0": "A. capillarity",
+			"q1": "B. surface tension",
+			"q2": "C. viscosity",
+			"q3": "D. cohesion",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	A body of mass 25kg, moving at 3 ms<sup>-1</sup> on a rough horizontal floor is brought to rest after sliding through a distance of 2.50m on the floor. Calculate the coefficient of sliding friction [g = 10.0ms<sup>-2</sup>]",
+		"opts": {
+			"q0": "A. 0.09",
+			"q1": "B. 0.18",
+			"q2": "C. 0.36",
+			"q3": "D. 0.54",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the following simple machines is a second class lever?",
+		"opts": {
+			"q0": "A. Wheel barrow",
+			"q1": "B. Crowbar",
+			"q2": "C. Claw hammer",
+			"q3": "D. Seesaw",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	A wheel and axle of radii 800mm and 200mm respectively is used to raise a body of weight 800 N by the application of 250 N. Calculate the efficiency of the machine.",
+		"opts": {
+			"q0": "A. 85%",
+			"q1": "B. 80%",
+			"q2": "C. 60%",
+			"q3": "D. 20%",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Masses, m and m2 at the 20-cm and 65-cm marks respectively of a uniform metre rule freely suspended at its centre of gravity. If the metre rule balances horizontally, determine the ratio m:m",
+		"opts": {
+			"q0": "A. 2 : 1",
+			"q1": "B. 3 : 3",
+			"q2": "C. 2 : 3",
+			"q3": "D. 1 : 2",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Which of the following types of motion does a body undergo when acted upon by a couple?",
+		"opts": {
+			"q0": "A. Vibrational",
+			"q1": "B. Translational",
+			"q2": "C. Rotational",
+			"q3": "D. Random",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	A body starts from rest and accelerates uniformly at 5 ms<sup>-2</sup> until it attains a velocity of 25ms<sup>-1</sup>. Calculate the time taken to attain this velocity.",
+		"opts": {
+			"q0": "A. 2.5 s",
+			"q1": "B. 5.0 s",
+			"q2": "C. 10.0 s",
+			"q3": "D. 125.0 s",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	A particle accelerates uniformly from rest at 6.0ms<sup>-2</sup> for 8s and then decelerates uniformly to rest in the next 5s. Determine the magnitude of the deceleration.",
+		"opts": {
+			"q0": "A. 9.6 ms<sup>-2</sup>",
+			"q1": "B. 24.0 ms<sup>-2</sup>",
+			"q2": "C. 30.0 ms<sup>-2</sup>",
+			"q3": "D. 48.0 ms<sup>-2</sup>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The frequency of a swinging pendulum is the",
+		"opts": {
+			"q0": "A. number of complete oscillations the pendulum makes in one second",
+			"q1": "B. number of amplitudes the bob makes in one second",
+			"q2": "C. angle the bob swings through in one second",
+			"q3": "D. distance the bob covers in one second",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Which of the following statements about an object performing simple harmonic motion is correct? Its acceleration",
+		"opts": {
+			"q0": "A. is maximum at the extreme ends",
+			"q1": "B. is constant and directed towards a fixed point",
+			"q2": "C. is zero when it is displaced from the equilibrium position",
+			"q3": "D. varies linearly with the displacement from a fixed point and is directed towards the fixed point",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	A body of mass 5kg moving with a velocity of 10ms<sup>-1</sup> collides with a stationary body of mass 6kg. If the two bodies stick together and move in the same direction after the collision, calculate their common velocity.",
+		"opts": {
+			"q0": "A. 4.55 ms<sup>-1</sup>",
+			"q1": "B. 12.00 ms<sup>-1</sup>",
+			"q2": "C. 30.00 ms<sup>-1</sup>",
+			"q3": "D. 50.00 ms<sup>-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Fuel was consumed at a steady rate of 5.0 x 10-2 kg per second in a rocket engine and ejected as a gas with a speed of 4 x 10<sup>3</sup> ms<sup>-1</sup>. Determine the thrust on the rocket.",
+		"opts": {
+			"q0": "A. 20N",
+			"q1": "B. 80N",
+			"q2": "C. 200N",
+			"q3": "D. 800N",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the following quantities has the same unit as energy?",
+		"opts": {
+			"q0": "A. Power",
+			"q1": "B. Work",
+			"q2": "C. Force",
+			"q3": "D. Momentum",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following sources of energy is renewable?",
+		"opts": {
+			"q0": "A. Sun",
+			"q1": "B. Petroleum",
+			"q2": "C. Coal",
+			"q3": "D. Uranium",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The lower and upper fixed points of a thermometer are 30mm and 180mm respectively. Calculate the temperature in degrees Celsius when the thermometer reads 45mm.",
+		"opts": {
+			"q0": "A. 10.0&deg;C",
+			"q1": "B. 15.0&deg;C",
+			"q2": "C. 20.0&deg;C",
+			"q3": "D. 30.0&deg;C",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	A body of mass, m, has a specific heat capacity, s, and a heat capacity, c. If the temperature of the body changes by 9&deg;C, which of the following equations is correct?",
+		"opts": {
+			"q0": "A. ms&theta; = mc<sup>-1</sup>",
+			"q1": "B. ms = C",
+			"q2": "C. ms = s&theta;",
+			"q3": "D. ms = c&theta;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	An immersion heater rated 400W, 220V, is used to heat a liquid of mass 0.5kg. If the temperature of tho liquid increases uniformly at the rate of 2.5&deg;C per second, calculate the specific heat capacity of the liquid. [Assume no heat is lost]",
+		"opts": {
+			"q0": "A. 1100Jkg<sup>-1</sup>K<sup>-1</sup>",
+			"q1": "B. 320Jkg<sup>-1</sup>K<sup>-1</sup>",
+			"q2": "C. 200Jkg<sup>-1</sup>K<sup>-1</sup>",
+			"q3": "D. 176Jkg<sup>-1</sup>K<sup>-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Water falls through a height of 50m. Determine the temperature rise of the water at the bottom of the fall. [Neglect energy losses. Specific heat capacity of water = 4200 Jkg<sup>-1</sup>K<sup>-1</sup> g = 10 ms<sup>2</sup>]",
+		"opts": {
+			"q0": "A. 0.119&deg;C",
+			"q1": "B. 0.840&deg;C",
+			"q2": "C. 1.190&deg;C",
+			"q3": "D. 8.400&deg;C",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The energy required to change a solid to liquid at constant temperature is called",
+		"opts": {
+			"q0": "A. thermal capacity",
+			"q1": "B. specific heat capacity",
+			"q2": "C. latent heat of fusion",
+			"q3": "D. latent heat of vaporisation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following statements about boiling and evaporation at atmospheric pressure is correct?",
+		"opts": {
+			"q0": "A. Evaporation and boiling of water take place at 100&deg;C",
+			"q1": "B. Evaporation of water takes place at a temperature greater than 100&deg;C, while boiling takes place at 100&deg;C",
+			"q2": "C. Evaporation of water takes place at 100&deg;C while boiling takes place at a higher temperature",
+			"q3": "D. Boiling takes place at 100&deg;C while evaporation may take place at temperatures lower than 100&deg;C",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Which of the following statements is correct?",
+		"opts": {
+			"q0": "A. The density of a liquid decreases when it expands",
+			"q1": "B. The densities of liquids increase when the liquids are heated",
+			"q2": "C. The real expansivity of a liquid is less than its apparent expansivity",
+			"q3": "D. A liquid changes to solid when heated to a sufficiently high temperature",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The pressure exerted by a given mass of gas in a container",
+		"opts": {
+			"q0": "A. decreases if the container is heated",
+			"q1": "B. increases if the molecules of the gas move faster",
+			"q2": "C. increases if the volume of the container is doubled",
+			"q3": "D. decreases as the kinetic energy of the gas molecules increases",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following statements about a progressive mechanical wave is correct?",
+		"opts": {
+			"q0": "A. It can be plane polarised",
+			"q1": "B. Its energy is localised at specific points of its profile",
+			"q2": "C. It does not require a material medium for its propagation",
+			"q3": "D. Its frequency remains constant as it travels between different media",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The distance between two points in phase on a progressive wave is 5 cm. If the speed of the wave is 20ms<sup>-1</sup>, calculate its period.",
+		"opts": {
+			"q0": "A. 4.00s",
+			"q1": "B. 2.50s",
+			"q2": "C. 0.25s",
+			"q3": "D. 0.04s",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Radio waves travel in air at 3.0 x 10<sup>8</sup> ms<sup>-1</sup>. If the waves enter water of refractive index calculate the speed of radio waves in water.",
+		"opts": {
+			"q0": "A. 4.33 x 10<sup>8</sup> ms<sup>-1</sup>",
+			"q1": "B. 4.00 x 10<sup>8</sup> ms<sup>-1</sup>",
+			"q2": "C. 2.25 x 10<sup>8</sup> ms<sup>-1</sup>",
+			"q3": "D. 1.33 x 10<sup>8</sup> ms<sup>-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The amplitude of a wave is the",
+		"opts": {
+			"q0": "A. distance travelled by the wave in a complete cycle of its motion",
+			"q1": "B. maximum displacement of the wave particle from the equilibrium position",
+			"q2": "C. separation of two adjacent particles vibrating in a phase",
+			"q3": "D. distance between two successive troughs of the wave",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following optical instruments does not depend on the use of plane mirrors?",
+		"opts": {
+			"q0": "A. Kaleidoscope",
+			"q1": "B. Simple microscope",
+			"q2": "C. Sextant",
+			"q3": "D. Simple periscope",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	A ray of light is incident normally on a plane mirror. If the incident ray is kept fixed while the mirror is rotated through an angle of 30&deg;, determine the initial and final angles of reflection respectively",
+		"opts": {
+			"q0": "A. 0&deg; and 60&deg;",
+			"q1": "B. 90&deg; and 30&deg;",
+			"q2": "C. 0&deg; and 30&deg;",
+			"q3": "D. 90&deg; and 60&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	In which of the following media is the transmission of sound waves fastest?",
+		"opts": {
+			"q0": "A. Vacuum",
+			"q1": "B. Air",
+			"q2": "C. Wood",
+			"q3": "D. Iron",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The ability of a material to store an electric charge when its plates are at different potentials is referred to as its",
+		"opts": {
+			"q0": "A. conductance",
+			"q1": "B. inductance",
+			"q2": "C. capacitance",
+			"q3": "D. resistance",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Two capacitors of capacitances 0.4 &micro;F and 0.5 &micro;F are connected in parallel and charged to a p.d. of 50 V. Determine the total charge acquired.",
+		"opts": {
+			"q0": "A. 45&micro;C",
+			"q1": "B. 25&micro;C",
+			"q2": "C. 20&micro;C",
+			"q3": "D. 10&micro;C",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	A parallel plate capacitor of capacitance 600&micro;F has a potential difference of 2000V between its plates. Calculate the charge on either plate of the capacitor",
+		"opts": {
+			"q0": "A. 1.2 C",
+			"q1": "B. 3.3 C",
+			"q2": "C. 3330.0 C",
+			"q3": "D. 120000.0 C",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	A chemical cell of internal resistance 1&ohm; supplies electric current to an external resistor of resistance 3&ohm;. Calculate the efficiency of th cell.",
+		"opts": {
+			"q0": "A. 75%",
+			"q1": "B. 50%",
+			"q2": "C. 33%",
+			"q3": "D. 25%",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	An electric lamp is rated 240V, 40W. What is the cost of running the lamp for 72 hours if the electricity authority charges N2.50 per kWh?",
+		"opts": {
+			"q0": "A. N7.20",
+			"q1": "B. N18.00",
+			"q2": "C. N180.00",
+			"q3": "D. N720.00",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Which of the following statements explains lost volt in an electric circuit? The",
+		"opts": {
+			"q0": "A. total p.d from a source to maintain a flow of current through the circuit as well as the source",
+			"q1": "B. p.d to drive current through the circuit components except the source",
+			"q2": "C. p.d across all external components connected to the source of electricity",
+			"q3": "D. p.d across the internal resistance of the cell",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	A constantan wire has a cross sectional area of 4 x 10<sup>-6</sup>m<sup>2</sup> and a resistivity of 1.1 x 10<sup>-6</sup> &ohm;m. If a resistor of resistance 11&ohm; is to be made from this wire, calculate the length of the wire required.",
+		"opts": {
+			"q0": "A. 0.4 m",
+			"q1": "B. 0.8 m",
+			"q2": "C. 2.5 m",
+			"q3": "D. 5.0 m",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The mass and weight of a body on earth are 8kg and 80 N respectively. Determine the mass and weight of the body respectively on a planet where the pull of gravity is <sup>1</sup>&frasl;<sub>8</sub> that on earth.",
+		"opts": {
+			"q0": "A. 8kg, 8 N",
+			"q1": "B. 1kg, 10 N",
+			"q2": "C. 64kg, 10 N",
+			"q3": "D. 8kg, 10 N",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Lenz’s law of electromagnetic induction states that",
+		"opts": {
+			"q0": "A. a force is exerted on a current-carrying conductor in a magnetic field",
+			"q1": "B. electromotive force is induced in a circuit whenever there is a change in the magnetic flux linked with the circuit",
+			"q2": "C. the magnitude of the induced electromotive force in a circuit is proportional to the rate of change of flux linking the circuit",
+			"q3": "D. the induced current in a coil is in such a direction that it sets up a magnetic field which opposes the change producing it",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when",
+		"opts": {
+			"q0": "A. the magnet is moved away from the stationary solenoid",
+			"q1": "B. the solenoid is moved away from the stationary magnet",
+			"q2": "C. the magnet is moved towards the stationary solenoid",
+			"q3": "D. there is no relative motion between the magnet and the solenoid",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	An electric motor is a machine that converts",
+		"opts": {
+			"q0": "A. mechanical energy into electrical energy",
+			"q1": "B. electrical energy into mechanical energy",
+			"q2": "C. high voltage to low voltage",
+			"q3": "D. low voltage to high voltage",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Which of the following statements is not a reason for using soft iron in making the core of a transformer? It",
+		"opts": {
+			"q0": "A. retains its magnetism for a long time",
+			"q1": "B. is easily magnetised",
+			"q2": "C. reduces energy loss due to hysteresis",
+			"q3": "D. is easily demagnetised",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following statements is an advantage of nuclear fusion over nuclear fission?",
+		"opts": {
+			"q0": "A. The resulting chain reaction which produces large amount of energy",
+			"q1": "B. No radioactive waste is produced as bye product",
+			"q2": "C. Very high temperatures required in the process",
+			"q3": "D. The end product is lead",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Beta particles are fast-moving",
+		"opts": {
+			"q0": "A. protons",
+			"q1": "B. electrons",
+			"q2": "C. neutrons",
+			"q3": "D. photons",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	A process by which two light atoms join to form a new atom of higher atomic mass is",
+		"opts": {
+			"q0": "A. natural radioactivity",
+			"q1": "B. nuclear fission",
+			"q2": "C. nuclear fusion",
+			"q3": "D. chain reaction",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Light of energy 5.0 eV falls on a metal of work function 3.0 eV and electrons are emitted, determine the stopping potential, [electronic charge, e = 1.60 x 10<sup>-19</sup>C]",
+		"opts": {
+			"q0": "A. 1.7 V",
+			"q1": "B. 2.0 V",
+			"q2": "C. 8.0 V",
+			"q3": "D. 15.0 V",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The mass of a proton is 1.0074&micro; and that of a neutron is 1.0089&micro;. Determine the energy evolved in stabilizing the nucleus of nitrogen of mass number 14 with 7 protons and 7 neutrons, [speed of light = 3.0 x 10<sup>8</sup>ms<sup>-1</sup> ; 1&micro; = 1.67 x 10<sup>-27</sup>kg]",
+		"opts": {
+			"q0": "A. 1.710 x 10<sup>-8</sup> J",
+			"q1": "B. 3.131 x 10<sup>-8</sup> J",
+			"q2": "C. 1.476 x 10<sup>-8</sup> J",
+			"q3": "D. 2.332 x 10<sup>-8</sup> J",
+			"q4": "E. "
+		},
+		"ans": "No option",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Uranium of atomic number 92 and mass number 238 emits an alpha particle from its nucleus. The new nucleus formed has, respectively, atomic number and mass number",
+		"opts": {
+			"q0": "A. 94 and 238",
+			"q1": "B. 90 and 236",
+			"q2": "C. 88 and 234",
+			"q3": "D. 90 and 234",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

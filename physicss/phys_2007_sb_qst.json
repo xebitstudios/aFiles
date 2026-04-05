@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following observations is not an effect of surface tension?",
+		"opts": {
+			"q0": "A. Droplets of water dripping slowly from a tap",
+			"q1": "B. Mercury spilled on a clean glass plate forms small spherical droplets",
+			"q2": "C. An insect walking across the surface of a pond",
+			"q3": "D. Water flowing out more easily than engine oil from a container",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Which of the following physical quantities is correctly paired with its corresponding S.l. unit?",
+		"opts": {
+			"q0": "A. Density [kg <p>m<sup>3</sup></p>]",
+			"q1": "B. Power [J <p>s<sup>-1</sup></p>]",
+			"q2": "C. Specific latent heat [J <p>kg<sup>-1</sup></p><p>K<sup>-1</sup></p>]",
+			"q3": "D. Pressure [N <p>m<sup>-1</sup></p>]",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "A liquid of volume 2.00 <p>m<sup>3</sup></p> and density 1.00 x <p>10<sup>3</sup></p> kg<p>m<sup>-3</sup></p> is mixed with 3.00 <p>m<sup>3</sup></p> of another liquid of density 8.0	x <p>10<sup>3</sup></p> kg <p>m<sup>-3</sup></p>. Calculate the density of the mixture. [Assume there is no chemical reaction].",
+		"opts": {
+			"q0": "A. 5.20 x <p>10<sup>2</sup></p> kg <p>m<sup>-3</sup></p>",
+			"q1": "B. 8.80 x <p>10<sup>2</sup></p> kg <p>m<sup>-3</sup></p>",
+			"q2": "C. 1.13 x <p>10<sup>3</sup></p> kg <p>m<sup>-3</sup></p>",
+			"q3": "D. 5.20 x <p>10<sup>3</sup></p> kg <p>m<sup>-3</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following statements about solid friction are correct? It I. is a force II. occurs between the surfaces of two bodies in contact III. depends on the area of contact.",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. I and III only",
+			"q2": "C. II and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	A man of mass m, experiences a viscous drag, F and an upthrust, U as he descends towards the ground at a steady velocity, using a parachute. If the acceleration of free fall is g, which of the following expressions is correct?",
+		"opts": {
+			"q0": "A. FU = mg",
+			"q1": "B. U + F - mg = 0",
+			"q2": "C. U - F = mg",
+			"q3": "D. F - U - mg = 0",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A body moving at a constant speed accelerates when it is in",
+		"opts": {
+			"q0": "A. rectilinear motion",
+			"q1": "B. translational motion",
+			"q2": "C. circular motion",
+			"q3": "D. vibrational motion",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	An object of mass 2 kg moves with a uniform speed of 10 m<p>s<sup>-1</sup></p> for 5 s along a straight path. Determine the magnitude of its acceleration.",
+		"opts": {
+			"q0": "A. 0 m<p>s<sup>-2</sup></p>",
+			"q1": "B. 1 m<p>s<sup>-2</sup></p>",
+			"q2": "C. 3 m<p>s<sup>-2</sup></p>",
+			"q3": "D. 4 m<p>s<sup>-2</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The term rectilinear acceleration means the rate of increase of",
+		"opts": {
+			"q0": "A. velocity along a circular path in a unit time",
+			"q1": "B. distance along a rectangular path in a unit time",
+			"q2": "C. displacement along a straight-line path in a unit time",
+			"q3": "D. velocity along a straight-line path in a unit time",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	A vehicle moving with a uniform speed is gradually brought to rest. Which of the following sketches describes the motion of the vehicle?",
+		"opts": {
+			"q0": "A. <img src='phys_2007_sectionb_qst9_1.jpg'>",
+			"q1": "B. <img src='phys_2007_sectionb_qst9_2.jpg'>",
+			"q2": "C. <img src='phys_2007_sectionb_qst9_3.jpg'>",
+			"q3": "D. <img src='phys_2007_sectionb_qst9_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	A body moving with an initial velocity u accelerates until it attains a velocity of v within a time t. The distance, s covered by the body is given by the expression",
+		"opts": {
+			"q0": "A. s = (<p><sup>v - u</sup>&frasl;<sub>2</sub></p>) t",
+			"q1": "B. s = (<p><sup>v + 2u</sup>&frasl;<sub>2</sub></p>) t",
+			"q2": "C. s = (<p><sup>v + u</sup>&frasl;<sub>2</sub></p>) t",
+			"q3": "D. s = (<p><sup>2v + u</sup>&frasl;<sub>2</sub></p>) t",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	A body accelerates uniformly from rest at 2 m<p>s<sup>-2</sup></p>. Calculate the magnitude of its velocity after travelling",
+		"opts": {
+			"q0": "A. 4.5 m<p>s<sup>-1</sup></p>",
+			"q1": "B. 6.0 m<p>s<sup>-1</sup></p>",
+			"q2": "C. 18.0 m<p>s<sup>-1</sup></p>",
+			"q3": "D. 36.0 m<p>s<sup>-1</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='phys_2007_sectionb_qst12.jpg'> The diagram above illustrates three forces acting on an object at point O. If the object is in equilibrium, determine the magnitude of the force P.",
+		"opts": {
+			"q0": "A. 10.5 N",
+			"q1": "B. 11.0 N",
+			"q2": "C. 17.3 N",
+			"q3": "D. 20.0 N",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	A swinging pendulum between the rest position and its maximum displacement possesses",
+		"opts": {
+			"q0": "A. kinetic energy only",
+			"q1": "B. potential energy only",
+			"q2": "C. gravitational energy only",
+			"q3": "D. both kinetic and potential energy",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	A block of mass 4.0 kg causes a spiral spring to extend by 0.16 m from its unstretched position. The block is removed and another body of mass 0.50 kg is hung from the same spiral spring. If the spring is then stretched and released, what is the angular frequency of the subsequent motion? [ g = 10 m<p>s<sup>-2</sup></p>]",
+		"opts": {
+			"q0": "A. <p>10&radic;5</p> rad<p>s<sup>-1</sup></p>",
+			"q1": "B. <p>5&radic;2</p> rad<p>s<sup>-1</sup></p>",
+			"q2": "C. 5 rad<p>s<sup>-1</sup></p>",
+			"q3": "D. <p>&radic;5</p> rad<p>s<sup>-1</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	An external force of magnitude 100 N acts on a particle of mass 0.15 kg for 0.03 s. Calculate the change in the speed of the particle.",
+		"opts": {
+			"q0": "A. 50 m<p>s<sup>-1</sup></p>",
+			"q1": "B. 25 m<p>s<sup>-1</sup></p>",
+			"q2": "C. 20 m<p>s<sup>-1</sup></p>",
+			"q3": "D. 5 m<p>s<sup>-1</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	A car of mass 800 kg moves from rest on a horizontal track and travels 60 m in 20s with uniform acceleration. Assuming there were no frictional forces, calculate the accelerating force",
+		"opts": {
+			"q0": "A. 240.0 N",
+			"q1": "B. 800.0 N",
+			"q2": "C. 1600.00 N",
+			"q3": "D. 2400.0 N",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": " 17.	A plane inclined at <p>30&deg;</p> to the horizontal has an efficiency of 50%. Calculate the force parallel to the plane required to push a load of 120 N uniformly up the plane.",
+		"opts": {
+			"q0": "A. 50.0 N",
+			"q1": "B. 120.0 N",
+			"q2": "C. 200.0 N",
+			"q3": "D. 240.0 N",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Mechanical energy can be either",
+		"opts": {
+			"q0": "A. kinetic or electric",
+			"q1": "B. chemical or potential",
+			"q2": "C. potential or kinetic",
+			"q3": "D. electric or heat",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The ice and steam points on a mercury-in-glass thermometer are 10 cm and 30 cm respectively. Calculate the temperature in degree celcius, when the mercury meniscus is at the 14 cm mark.",
+		"opts": {
+			"q0": "A. <p>20&deg;</p> C",
+			"q1": "B. <p>30&deg;</p> C",
+			"q2": "C. <p>34&deg;</p> C",
+			"q3": "D. <p>70&deg;</p> C",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following surfaces will radiate heat energy best?",
+		"opts": {
+			"q0": "A. Red surface",
+			"q1": "B. White surface",
+			"q2": "C. Black surface",
+			"q3": "D. Yellow surface",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following statements distinguishes thermal conduction from convection? I. Conduction requires a material medium while convection does not. II. In convection, there is actual motion of hot material, while in conduction, molecules vibrate faster about their mean positions III. Conduction takes place in solids while convection takes place in fluids.",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. II and III only",
+			"q2": "C. I and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	A cube made of a metal of linear expansivity <p>&prop;</p> is heated through a temperature <p>&theta;</p>. If the initial volume of the cube is <p>V<sub>0</sup></p> , the correct expression for the increase in volume of tne cube is",
+		"opts": {
+			"q0": "A. <p><sup>1</sup>&frasl;<sub>3</sub></p> <p>&prop;</p> <p>V<sub>0</sup></p> <p>&theta;</p>",
+			"q1": "B. <p><sup>1</sup>&frasl;<sub>2</sub></p> <p>&prop;</p> <p>V<sub>0</sup></p> <p>&theta;</p>",
+			"q2": "C. 2 <p>&prop;</p> <p>V<sub>0</sup></p> <p>&theta;</p>",
+			"q3": "D. 3 <p>&prop;</p> <p>V<sub>0</sup></p> <p>&theta;</p>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	A relative density bottle of volume 50 c<p>m<sup>3</sup></p> is completely filled with a liquid at <p>30&deg;</p> C. It is then heated to <p>80&deg;</p> C such that 0.75 c<p>m<sup>3</sup></p> of the liquid is expelled. Calculate the apparent cubic expansivity of the liquid.",
+		"opts": {
+			"q0": "A. 0.00030 <p>K<sup>-1</sup></p>",
+			"q1": "B. 0.00032 <p>K<sup>-1</sup></p>",
+			"q2": "C. 0.01970 <p>K<sup>-1</sup></p>",
+			"q3": "D. 0.02030 <p>K<sup>-1</sup></p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	A body of mass 200 g and specific heat capacity 0.4 J <p>g<sup>-1</sup></p> <p>K<sup>-1</sup></p> cools from <p>37&deg;</p> C to <p>31&deg;</p> C. Calculate the quantity of heat released by the body.",
+		"opts": {
+			"q0": "A. 4800 J",
+			"q1": "B. 1200 J",
+			"q2": "C. 480 J",
+			"q3": "D. 202 J",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	At standard atmospheric pressure, a solution of common salt is heated gradually until most of it boils away. Which of the following diagrams correctly illustrates the temperature <p>&theta;</p> versus time (t) graph for this process?",
+		"opts": {
+			"q0": "A. <img src='phys_2007_sectionb_qst25_1.jpg'>",
+			"q1": "B. <img src='phys_2007_sectionb_qst25_2.jpg'>",
+			"q2": "C. <img src='phys_2007_sectionb_qst25_3.jpg'>",
+			"q3": "D. <img src='phys_2007_sectionb_qst25_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	According to the kinetic theory of gases, which of the following properties of a gas can be affected by the collision of the gas molecules with the walls of its container?",
+		"opts": {
+			"q0": "A. Temperature",
+			"q1": "B. Energy",
+			"q2": "C. Viscosity",
+			"q3": "D. Pressure",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The pressure of a fixed mass of an ideal gas at <p>27&deg;</p> C is 3 Pa. The gas is heated at a constant volume until its pressure is 5 Pa. Determine the new temperature of the gas.",
+		"opts": {
+			"q0": "A. <p>100&deg;</p> C",
+			"q1": "B. <p>227&deg;</p> C",
+			"q2": "C. <p>273&deg;</p> C",
+			"q3": "D. <p>500&deg;</p> C",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following waves is electromagnetic?",
+		"opts": {
+			"q0": "A. X-rays",
+			"q1": "B. Sound waves",
+			"q2": "C. Water waves",
+			"q3": "D. Tidal waves",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The distance between two points P and Q, along a wave is 0.05 m. If the wave length of the wave is 0.10 m, determine the phase angle between P and Q in radians.",
+		"opts": {
+			"q0": "A. <p>0.1 &piv;</p>",
+			"q1": "B. <p>&piv;</p>",
+			"q2": "C. <p>2 &piv;</p>",
+			"q3": "D. <p>10 &piv;</p>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following phenomena is not a direct consequence of rectilinear propagation of light?",
+		"opts": {
+			"q0": "A. Lunar and solar eclipses",
+			"q1": "B. Images of objects in a pinhole camera",
+			"q2": "C. Diffraction of light",
+			"q3": "D. Shadows of opaque objects",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "An object is placed 10 cm in front of a plane mirror. If it is moved 8 cm farther away from the mirror, determine the distance of the final image from the mirror.",
+		"opts": {
+			"q0": "A. 2 cm",
+			"q1": "B. 9 cm",
+			"q2": "C. 16 cm",
+			"q3": "D. 18 cm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	In which of the following pieces of apparatus is the radius of curvature equal to twice the focal length?",
+		"opts": {
+			"q0": "A. Converging lens",
+			"q1": "B. Diverging lens",
+			"q2": "C. Converging mirror",
+			"q3": "D. Parabolic mirror",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	When an object is placed at the centre of curvature of a concave mirror, its image is formed at",
+		"opts": {
+			"q0": "A. the focus",
+			"q1": "B. infinity",
+			"q2": "C. the centre of curvature",
+			"q3": "D. a distance twice the radius of curvature",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	A rectangular glass prism of thickness d and absolute retractive index n is placed on a point object, which is viewed vertically downward from above the prism. Which of the following expressions correctly defines the apparent upward displacement of the object?",
+		"opts": {
+			"q0": "A. <p><sup>d</sup>&frasl;<sub>n</sub></p>",
+			"q1": "B. dn",
+			"q2": "C. <p><sup>d</sup>&frasl;<sub>n-2</sub></p>",
+			"q3": "D. <p><sup>d(n-1)</sup>&frasl;<sub>n</sub></p>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Which of the following factors can affect the speed of sound in air? I. The temperature of the surrounding II. The direction of wind III. The pitch of the sound.",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. II and III only",
+			"q2": "C. I and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	A sounding tuning fork is brought near the open end of a pipe containing air and the loudness of the sound is observed to increase. This observation is due to",
+		"opts": {
+			"q0": "A. an echo",
+			"q1": "B. resonance",
+			"q2": "C. interference",
+			"q3": "D. reverberation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following statements about sound waves is not correct? Sound waves can be",
+		"opts": {
+			"q0": "A. reflected",
+			"q1": "B. refracted",
+			"q2": "C. diffracted",
+			"q3": "D. polarized",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Which of the following statements is correct about resonance? Resonance occurs when a body",
+		"opts": {
+			"q0": "A. vibrates with its natural frequency",
+			"q1": "B. is forced to vibrate at its own natural frequency by another body vibrating at the same frequency",
+			"q2": "C. vibrates at the frequency of the body causing the vibration",
+			"q3": "D. vibrates with an irregular frequency",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	A dry plastic comb used in combing hair was found to attract pieces of paper and dust. The most probable explanation for this phenomenon is that the comb has been given",
+		"opts": {
+			"q0": "A. magnetization by induction",
+			"q1": "B. electric charges by induction",
+			"q2": "C. electric charges by conduction",
+			"q3": "D. electric charges by friction",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Which of the following components is used for storing electric charges?",
+		"opts": {
+			"q0": "A. Inductor",
+			"q1": "B. Resistor",
+			"q2": "C. Capacitor",
+			"q3": "D. Electrometer",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following operations does not represent an action of a force field?",
+		"opts": {
+			"q0": "A. Falling of a mango fruit from the tree",
+			"q1": "B. Picking of nails using a bar magnet",
+			"q2": "C. Repulsion of two like charges",
+			"q3": "D. Pushing of a wheel-barrow on a level ground",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='phys_2007_sectionb_qst42.jpg'>  Calculate the effective resistance between P and Q in the diagram shown above.",
+		"opts": {
+			"q0": "A. <p>0.75&Omega;</p>",
+			"q1": "B. <p>4.00&Omega;</p>",
+			"q2": "C. <p>5.00&Omega;</p>",
+			"q3": "D. <p>7.00&Omega;</p>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	A bulb marked 240 V, 40 W is used for 30 minutes. Calculate the heat generated.",
+		"opts": {
+			"q0": "A. 320 J",
+			"q1": "B. 400 J",
+			"q2": "C. 10800 J",
+			"q3": "D. 72000 J",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Five 80-W and three 100-W lamps are run for 8 hours. If the cost of energy is N5.00 per unit, calculate the cost of running the lamps. [1 unit = 1 kWh]",
+		"opts": {
+			"q0": "A. N280.00",
+			"q1": "B. N28.00",
+			"q2": "C. N7.20",
+			"q3": "D. N1.44",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following electromagnetic waves can be detected by its heating effect?",
+		"opts": {
+			"q0": "A. Ultraviolet radiation",
+			"q1": "B. X-rays",
+			"q2": "C. Gamma rays",
+			"q3": "D. Infrared radiation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	If a gas is excited by high voltage to produce a discharge, and the light is examined in a spectrometer;",
+		"opts": {
+			"q0": "A. an explosion is observed",
+			"q1": "B. the rainbow colours are seen",
+			"q2": "C. an emission spectrum is observed",
+			"q3": "D. dark lines are observed",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The number of protons in an element increased by one after a radioactive decay. The element must have decayed by emitting",
+		"opts": {
+			"q0": "A. a beta particle",
+			"q1": "B. an alpha particle",
+			"q2": "C. a gamma ray",
+			"q3": "D. a neutron",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The correct sequence of energy transformation in the operation of an X-ray tube is I. X-rays II. Kinetic energy of thermo electrons III. Potential energy of the target atoms	IV. Heat energy of the emitted electrons",
+		"opts": {
+			"q0": "A. IV, III, II, I",
+			"q1": "B. IV, II, III, I",
+			"q2": "C. II, IV, III, I",
+			"q3": "D. Ill, IV, II, I",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	In a nuclear reactor, chain reactions result from the release of",
+		"opts": {
+			"q0": "A. electrons",
+			"q1": "B. photons",
+			"q2": "C. neutrons",
+			"q3": "D. protons",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	There is always an uncertainty involved in any attempt to measure the position and momentum of an electron simultaneously. This statement is known as the",
+		"opts": {
+			"q0": "A. de Broglie’s law",
+			"q1": "B. Heisenberg uncertainty principle",
+			"q2": "C. Franck-Hertz experimental law",
+			"q3": "D. wave- particle paradox",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};
