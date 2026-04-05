@@ -1,0 +1,554 @@
+[
+    {
+        "qs": "1. If the relative molecular mass of an element is not a whole number, it can be deduced that the element is",
+        "opts": {
+            "q0": "A. naturally radioactive",
+            "q1": "B. abundant in nature",
+            "q2": "C. a transition metal",
+            "q3": "D. an isotopic mixture."
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "2. The atom of an element <sup>4</sup><sub>4</sub>X is represented as The basic chemical properties of <sup>y</sup><sub>z</sub>X depend on the value z of",
+        "opts": {
+            "q0": "A. Y",
+            "q1": "B. Z",
+            "q2": "C. Y-Z",
+            "q3": "D. Z-Y",
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "3. The atomic number of chlorine is 17. What is the number of electrons in a chloride ion?",
+        "opts": {
+            "q0": "A. 16",
+            "q1": "B. 17",
+            "q2": "C. 18",
+            "q3": "D. 19"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "4. A hydrogen atom which has lost an electron contains",
+        "opts": {
+            "q0": "A. one proton only",
+            "q1": "B. one neutron only",
+            "q2": "C. one proton and one neutron",
+            "q3": "D. one proton, one electron and one neutron"
+        },
+        "ans": "A",
+        "sel": ""
+    {
+        "qs": "5. Which of the following elements has  ground state electronic configuration with an incomplete penultimate shell?",
+        "opts": {
+            "q0": "A. Iron",
+            "q1": "B. Sodium",
+            "q2": "C. Aluminium",
+            "q3": "D. Calcium"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "6. The conclusion from Rutherford’s alpha-scattering experiment is that",
+        "opts": {
+            "q0": "A. atoms are mostly empty space with a small nucleus",
+            "q1": "B. emissions from radioactive substances consist of three main components",
+            "q2": "C. there is nuclear pull on orbital electrons",
+            "q3": "D. electrons are deflected by both magnetic and electric fields"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+         "qs": "Use the following portion of the periodic table to answer Questions 7 to 10 <br><img src='assets/imgs/chemistry/chem_2002_sectionb_qst0_1.jpg'>"
+    {
+        "qs": "7. Which of the letters indicate elements which exist as diatomic gases?",
+        "opts": {
+            "q0": "A. W and Z",
+            "q1": "B. M and J",
+            "q2": "C. M and Y",
+            "q3": "D. Y and Q"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "8. Which of the following pairs of letters denotes elements containing the same number of electrons in their outermost shells?",
+        "opts": {
+            "q0": "A. J and X",
+            "q1": "B. M and Q",
+            "q2": "C. W and Z",
+            "q3": "D. W and Y"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "9. What letter represents an element that participates in covalent rather than ionic bonding?",
+        "opts": {
+            "q0": "A. X",
+            "q1": "B. Q",
+            "q2": "C. Z",
+            "q3": "D. J"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "10. Which of the letters represents an alkaline earth metal?",
+        "opts": {
+            "q0": "A. M",
+            "q1": "B. Q",
+            "q2": "C. J",
+            "q3": "D. X"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "11. An element Y has the electronic configuration 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>4</sup>. To what period does it belong in the periodic table?",
+        "opts": {
+            "q0": "A. 3",
+            "q1": "B. 4",
+            "q2": "C. 5",
+            "q3": "D. 6"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "12. If a metal R forms a compound with the formula R(NO<sub>3</sub>)<sub>2</sub> the formula of its tetraoxosulphate (VI) is",
+        "opts": {
+            "q0": "A. R(S0<sub>4</sub>)<sub>2</sub>",
+            "q1": "B. RSO<sub>4</sub>",
+            "q2": "C. R<sub>2</sub>SO<sub>4</sub>",
+            "q3": "D. R<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "13. Which of the following decreases when a given mass of gas is compressed to half its initial volume?",
+        "opts": {
+            "q0": "A. Average intermolecular distance",
+            "q1": "B. Frequency of collisions",
+            "q2": "C. Number of molecules present",
+            "q3": "D. Atomic radius of each particle"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "14. What volume of hydrogen will be produced if 100cm<sup>3</sup> of ammonia is completely decomposed at constant temperature and pressure? The equation for the reaction is 2NH<sub>3</sub><sub>(g)</sub> &rarr; N<sub>2</sub><sub>(g)</sub> + 3H<sub>2</sub><sub>(g)</sub>",
+        "opts": {
+            "q0": "A. 50cm<sup>3</sup>",
+            "q1": "B. 150cm<sup>3</sup>",
+            "q2": "C. 200cm<sup>3</sup>",
+            "q3": "D. 300cm<sup>3</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "15. Calculate the mass of chlorine gas which occupies a volume of 1.12 dm<sup>3</sup> at s.t.p. [Cl = 35.5, 1 mole of gas occupies 22.4 dm<sup>3</sup> at s.t.p]",
+        "opts": {
+            "q0": "A. 1.80g",
+            "q1": "B. 3.55g",
+            "q2": "C. 7.10g",
+            "q3": "D. 15.50g"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "16. Determine the mass of sulphur (IV) oxide obtained when 91.Og of oxygen reacts completely with sulphur according to the following equation: S<sub>(s)</sub> + O<sub>2</sub><sub>(g)</sub> &rarr; SO<sub>2</sub><sub>(g)</sub>. [S = 32; O = 16]",
+        "opts": {
+            "q0": "A. 123g",
+            "q1": "B. 139g",
+            "q2": "C. 155g",
+            "q3": "D. 182g"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "17. The gas given off when NH<sub>4</sub>Cl is heated with an alkali is",
+        "opts": {
+            "q0": "A. H<sub>2</sub>",
+            "q1": "B. Cl<sub>2</sub>",
+            "q2": "C. N<sub>2</sub>",
+            "q3": "D. NH<sub>3</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "18. A major factor considered in selecting a suitable method for preparing a simple salt is its",
+        "opts": {
+            "q0": "A. crystalline form",
+            "q1": "B. melting point",
+            "q2": "C. reactivity with dilute acids",
+            "q3": "D. solubility in water"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "19. Which of the following acids forms normal salts only?",
+        "opts": {
+            "q0": "A. Tetraoxosulphate (VI) acid",
+            "q1": "B. Trioxosulphate (IV) acid",
+            "q2": "C. Tetraoxophosphate (V) acid",
+            "q3": "D. Trioxonitrate (V) acid"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "20. A substance is said to be hygroscopic if it absorbs",
+        "opts": {
+            "q0": "A. water from the atmosphere to form a solution",
+            "q1": "B. heat from the surrounding",
+            "q2": "C. carbon (IV) oxide from the atmosphere",
+            "q3": "D. moisture from the atmosphere without dissolving"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "21.  Which of the following substances increases in mass when heated in air?",
+        "opts": {
+            "q0": "A. Sodium chloride",
+            "q1": "B. Iodine crystals",
+            "q2": "C. Magnesium ribbon",
+            "q3": "D. Copper (II) oxide"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "22. Calculate the mass of sodium hydroxide in 5.00 dm<sup>3</sup> of a 0.125 mol dm<sup>-3</sup> solution. [NaOH = 40 g mol<sup>-1</sup>]",
+        "opts": {
+            "q0": "A. 0.0156g",
+            "q1": "B. 0.625g",
+            "q2": "C. 1.00g",
+            "q3": "D. 25.0g"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "23. Which of the following salt solutions will have a pH greater than 7?",
+        "opts": {
+            "q0": "A. NaCI<sub>(aq)</sub>",
+            "q1": "B. Na<sub>2</sub>CO<sub>3</sub><sub>(aq)</sub>",
+            "q2": "C. Na<sub>2</sub>SO<sub>4</sub><sub>(aq)</sub>",
+            "q3": "D. NaHSO<sub>4</sub><sub>(aq)</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "24. What will happen if more heat is applied to the following system at equilibrium?",
+        "opts": {
+            "q0": "A. The yield of XY, will increace",
+            "q1": "B. More of XY, will decompose",
+            "q2": "C. More of X2 will react",
+            "q3": "D. The forward reaction will go to completion"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "25. What is the expression for the equilibrium constant (Kc) for the following reaction? N<sub>(g)</sub> + O<sub>2</sub><sub>(g)</sub> &harr; 2NO<sub>(g)</sub>",
+        "opts": {
+            "q0": "A. <br><img src='assets/imgs/chemistry/chem_2002_sectionb_qst25_1.jpg'>",
+            "q1": "B. <br><img src='assets/imgs/chemistry/chem_2002_sectionb_qst25_2.jpg'>",
+            "q2": "C. <br><img src='assets/imgs/chemistry/chem_2002_sectionb_qst25_3.jpg'>",
+            "q3": "D. <br><img src='assets/imgs/chemistry/chem_2002_sectionb_qst25_4.jpg'>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "26. Equal amounts of marble chips reacted separately with 100cm<sup>3</sup> of hydrochloric acid of different concentrations. If all the marble chips reacted, which of the following remained the same in each case?",
+        "opts": {
+            "q0": "A. Average rate of evolution of gas",
+            "q1": "B. Total mass of gas evolved during the reaction",
+            "q2": "C. Time taken for the reaction to reach completion",
+            "q3": "D. Initial reaction rates"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "27. Cu<sub>2</sub>S0<sub>4</sub>.5H<sub>2</sub>O can be obtained from an aqueous solution of copper (II) tetraoxosulphate (VI) by",
+        "opts": {
+            "q0": "A. evaporation to dryness",
+            "q1": "B. using chromatography",
+            "q2": "C. precipitation",
+            "q3": "D. crystallization"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "28. Which of the following compounds will leave a metal residue when heated?",
+        "opts": {
+            "q0": "A. Cu(NO<sub>3</sub>)<sub>2</sub>",
+            "q1": "B. AgNO<sub>3</sub>",
+            "q2": "C. K<sub>2</sub>CO<sub>3</sub>",
+            "q3": "D. CaCO<sub>3</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "29. A visible change is observed when a strip of iron is placed in an aqueous solution of",
+        "opts": {
+            "q0": "A. FeSO<sub>4</sub>",
+            "q1": "B. ZnSO<sub>4</sub>",
+            "q2": "C. CuSO<sub>4</sub>",
+            "q3": "D. MgSO<sub>4</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "30. consider the following equation Cr<sub>2</sub>O<sup>2-</sup><sub>7</sub><sub>(aq)</sub> + 14H<sup>+</sup><sub>(aq)</sub> + 6e<sup>-</sup> &rarr; 2Cr<sup>3+</sup><sub>(aq)</sub> + 7H<sub>2</sub>O<sub>(l)</sub> The oxidation number of chromium changes from",
+        "opts": {
+            "q0": "A. -2 to +3",
+            "q1": "B. -2 to +6",
+            "q2": "C. +6 to +3",
+            "q3": "D. +7 to +6"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "31.  which of the following ions requires the largest quantity of electricity for discharge at an electrode?",
+        "opts": {
+            "q0": "A. 2.0 mole of Q<sup>3+</sup>",
+            "q1": "B. 2.5 mole of R<sup>2+</sup>",
+            "q2": "C. 3.0 mole of T<sup>-</sup>",
+            "q3": "D. 4.0 mole of Y<sup>-</sup>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "32. If two metallic ions of the same concentration migrate to a graphite cathode, the one that would be preferentially discharged is the one that has the",
+        "opts": {
+            "q0": "A. smaller mass",
+            "q1": "B. lower electrical charge",
+            "q2": "C. greater stability in solution",
+            "q3": "D. stronger tendency to accept electrons"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "33. When concentrated sodium chloride solution is electrolysed using inert electrodes, the products are",
+        "opts": {
+            "q0": "A. oxygen and hydrogen",
+            "q1": "B. hydrogen and chlorine",
+            "q2": "C. sodium and oxygen",
+            "q3": "D. sodium and chlorine"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "34. Which of the following processes takes place during the production of margarine from vegetable oils?",
+        "opts": {
+            "q0": "A. Esterification",
+            "q1": "B. Hydrolysis",
+            "q2": "C. Hydrogenation",
+            "q3": "D. Saponification"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "35. Which of the following compounds can be represented by the molecular formula C<sub>2</sub>H<sub>6</sub>O?",
+        "opts": {
+            "q0": "A. Propanal",
+            "q1": "B. Ethanol",
+            "q2": "C. Methanoic acid",
+            "q3": "D. Glucose"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "36. When alkynes are hydrogenated completely, they produce compounds with the general molecular formula ",
+        "opts": {
+            "q0": "A. C<sub>n</sub>H<sub>n</sub>",
+            "q1": "B. C<sub>n</sub>H<sub>2n+n</sub>",
+            "q2": "C. C<sub>n</sub>H<sub>2n</sub>",
+            "q3": "D. C<sub>n</sub>H<sub>2n-n</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "37. The following compounds are hydrocarbons except",
+        "opts": {
+            "q0": "A. methylpropanoate",
+            "q1": "B. 2-methylbutane",
+            "q2": "C. benzene",
+            "q3": "D. cyclohexan"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "38. The reaction between ethene and chlorine to form 1,2-dichloroethane is",
+        "opts": {
+            "q0": "A. oxidation",
+            "q1": "B. polymerization",
+            "q2": "C. addition",
+            "q3": "D. substitution"
+        },
+        "ans": "C",
+        "sel": ""
+    }, 
+    {
+        "qs": "39. Which of the following statements about soapless detergents is correct? They",
+        "opts": {
+            "q0": "A. lather readily with hard water",
+            "q1": "B. increase the surface tension of water",
+            "q2": "C. cause hydrolysis of salts in water",
+            "q3": "D. form a curdy precipitate with soft water"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "40. Determine the molar mass of the following compounds <br><img src='assets/imgs/chemistry/chem_2002_sectionb_qst40_1.jpg'> [H = 1; C = 12; O = 16]",
+        "opts": {
+            "q0": "A. 45 g mol<sup>-1</sup>",
+            "q1": "B. 61 g mol<sup>-1</sup>",
+            "q2": "C. 122 g mol<sup>-1</sup>",
+            "q3": "D. 123 g mol<sup>-1</sup>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "41.  Which of the following types of alkanols undergo oxidation to produce alkanoic acids? I. Primary alkanois II. Secondary alkanols III. Tertiary alkanols",
+        "opts": {
+            "q0": "A. I, II and III",
+            "q1": "B. I and II only",
+            "q2": "C. II only",
+            "q3": "D. I only"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "42. A suitable reagent for distinguishing between ethanoic acid and ethanol is",
+        "opts": {
+            "q0": "A. bromine water",
+            "q1": "B. Fehling’s solution",
+            "q2": "C. sodium hydrogentrioxocarbonate (IV)",
+            "q3": "D. ammoniacal silver trioxonitrate (V)"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "43. The reaction of sucrose with dilute HCI produces",
+        "opts": {
+            "q0": "A. an alkanoate",
+            "q1": "B. glucose and fructose",
+            "q2": "C. a black mass of carbon",
+            "q3": "D. a polysaccharide"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+        "qs": "Use the structure below to answer Questions 44 and 45 <br><img src='assets/imgs/chemistry/chem_2002_sectionb_qst0_2.jpg'>",
+    {
+        "qs": "44. What is the IUPAC name of the compound with this structure?",
+        "opts": {
+            "q0": "A. 3-methylbutane",
+            "q1": "B. 3-methylpentane",
+            "q2": "C. 2-methylbutane",
+            "q3": "D. 2-methylpropane"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "45. Which of the following compounds is its structural isomer?",
+        "opts": {
+            "q0": "A. 2, 2-dimethylpropane",
+            "q1": "B. 2-ethylpropane",
+            "q2": "C. 1, 2-dimethylbutane",
+            "q3": "D. 2-methylpentane"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "46. The energy value of petrol can be determined by a",
+        "opts": {
+            "q0": "A. bomb calorimeter",
+            "q1": "B. catalytic cracker",
+            "q2": "C. fractionating column",
+            "q3": "D. thermometer"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+        "qs": " Use the solubility curves of X and Z below to answer Questions 47 and 48. <br><img src='assets/imgs/chemistry/chem_2002_sectionb_qst0_3.jpg'>",
+    {
+        "qs": "47. Which of the following statements about X and Z is correct?",
+        "opts": {
+            "q0": "A. X is the more soluble solid at all temperatures",
+            "q1": "B. X and Z are insoluble at 0 <sup>o</sup>C",
+            "q2": "C. 0.20 mol dm<sup>-3</sup> solution of Z at 10 <sup>o</sup>C unsaturated",
+            "q3": "D. Z is more soluble than X at temperatures below 20 <sup>o</sup>C"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "48. What is the solubility of Z at 50 <sup>o</sup>C?",
+        "opts": {
+            "q0": "A. 0.20 mol dm<sup>-3</sup>",
+            "q1": "B. 0.25 mol dm<sup>-3</sup>",
+            "q2": "C. 0.35 mol dm<sup>-3</sup>",
+            "q3": "D. 0.50 mol dm<sup>-3</sup>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "49. Iron is often galvanized in order to",
+        "opts": {
+            "q0": "A. make it more malleable",
+            "q1": "B. remove the impurities in it",
+            "q2": "C. protect it against corrosion",
+            "q3": "D. render it passive"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "50. One of the methods used for combating air pollution is",
+        "opts": {
+            "q0": "A. burning of solid waste",
+            "q1": "B. provision of sanitary land fills",
+            "q2": "C. legislation against some industrial practices",
+            "q3": "D. scavenging of refuse dumps"
+        },
+        "ans": "D",
+        "sel": ""
+    }
+]

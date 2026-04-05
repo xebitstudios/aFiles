@@ -1,0 +1,554 @@
+[
+    {
+        "qs": "1. How many orbitals are in the d-sub shell?",
+        "opts": {
+            "q0": "A. 1",
+            "q1": "B. 3",
+            "q2": "C. 5",
+            "q3": "D. 7"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "2. An element X has isotopic masses of 6 and 7. If the relative abundance is 1 to 12.5 respectively, what is the relative atomic mass of X?",
+        "opts": {
+            "q0": "A. 6.0",
+            "q1": "B. 6.1",
+            "q2": "C. 6.9",
+            "q3": "D. 7.0",
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "3. An atom <sup>238</sup><sub>92</sub>X decays by alpha particle emission to give an atom Y. The atomic number and mass number of Y are",
+        "opts": {
+            "q0": "A. 90 and 234 respectively",
+            "q1": "B. 91 and 238 respectively",
+            "q2": "C. 92 and 236 respectively",
+            "q3": "D. 93 and 238 respectively"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "4. An element with mass number 133 and atomic number 55 has",
+        "opts": {
+            "q0": "A. 55 electrons and 55 neutrons",
+            "q1": "B. 55 electrons and 78 neutrons",
+            "q2": "C. 78 electrons and 78 neutrons",
+            "q3": "D. 78 electrons and 55 neutrons"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "5. Which of the following pairs of species contains the same number of electrons? (<sub>6</sub>C, <sub>8</sub>O, <sub>10</sub>Ne, <sub>11</sub>Na, <sub>12</sub>Mg, <sub>13</sub>Al, <sub>17</sub>Cl)",
+        "opts": {
+            "q0": "A. Mg<sup>2+</sup> and Al<sup>3+</sup>",
+            "q1": "B. Cl<sup>-</sup> and Ne",
+            "q2": "C. Na<sup>+</sup> and Mg",
+            "q3": "D. C and O<sup>2-</sup>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "6. An element X has electronic configuration 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> To which group of the periodic table does X belong?",
+        "opts": {
+            "q0": "A. I",
+            "q1": "B. II",
+            "q2": "C. III",
+            "q3": "D. IV"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "7. Which of the following sets of elements is arranged in order of increasing first ionization energies?",
+        "opts": {
+            "q0": "A. <sub>11</sub>Na, <sub>3</sub>Li, <sub>19</sub>K, <sub>37</sub>Rb",
+            "q1": "B. <sub>37</sub>Rb, <sub>19</sub>K, <sub>3</sub>Li, <sub>11</sub>Na",
+            "q2": "C. <sub>3</sub>Li, <sub>19</sub>K, <sub>11</sub>Na, <sub>37</sub>Rb",
+            "q3": "D. <sub>37</sub>RB, <sub>19</sub>K, <sub>11</sub>Na, <sub>3</sub>Li"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "8. Which of the following electronic configurations represent that of a noble gas?",
+        "opts": {
+            "q0": "A. 2, 8, 8, 2",
+            "q1": "B. 2, 8, 2",
+            "q2": "C. 2, 8",
+            "q3": "D. 2, 6"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "9. Diamond is a hard substance because its carbon atoms are held by",
+        "opts": {
+            "q0": "A. delocalised electrons",
+            "q1": "B. strong electrostatic forces",
+            "q2": "C. Van der Waals forces",
+            "q3": "D. strong directional covalent bonds"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "10. The presence of unpaired electrons in an atom of a d-block element accounts for its",
+        "opts": {
+            "q0": "A. ductility",
+            "q1": "B. lustre",
+            "q2": "C. malleability",
+            "q3": "D. paramagnetism"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "11. Elements which belong to the same group in the periodic table are characterized by",
+        "opts": {
+            "q0": "A. difference of +1 in the oxidation numbers of successive members",
+            "q1": "B. presence of the same number of outermost electrons in the respective atoms",
+            "q2": "C. difference of 14 atomic mass units between successive members",
+            "q3": "D. presence of the same number of electron shells in the respective atoms"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "12. The atomic numbers of elements X and Y are 20 and 17 respectively. Which of the following compounds is likely to be formed by the combination of the two elements?",
+        "opts": {
+            "q0": "A. XY",
+            "q1": "B. XY<sub>2</sub>",
+            "q2": "C. XY<sub>3</sub>",
+            "q3": "D. X<sub>2</sub>Y"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "13. What type of bond will be formed between elements P and Q if their electronegativity values are 0.8 and 4.0 respectively?",
+        "opts": {
+            "q0": "A. Covalent bond",
+            "q1": "B. Co-ordinate bond",
+            "q2": "C. Ionic bond",
+            "q3": "D. Metallic bond"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "14. What type of chemical bonding is involved ip the formation of NH<sub>4</sub><sup>+</sup> from a molecule of ammonia and a proton?",
+        "opts": {
+            "q0": "A. Covalent bonding",
+            "q1": "B. Co-ordinate covalent bonding",
+            "q2": "C. Electrovalent bonding",
+            "q3": "D. Hydrogen bonding"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "15. What is responsible for metallic bonding?",
+        "opts": {
+            "q0": "A. Attraction between the delocalized electrons and fixed positive lattice points (cations)",
+            "q1": "B. Attraction between positive and negative ions",
+            "q2": "C. Sharing of electrons between the metal atoms",
+            "q3": "D. Transfer of electrons from one atom to another"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+        "qs": "Use the following portion of the periodic table to answer Questions 16 to 18 <br><img src='assets/imgs/chemistry/chem_2006_sectionb_qst0_1.jpg'>"
+    {
+        "qs": "16. Which of the letters indicate elements which exist as diatomic gases?",
+        "opts": {
+            "q0": "A. B and G",
+            "q1": "B. C and F",
+            "q2": "C. C and A",
+            "q3": "D. A and E"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "17. Which of the letters represents an alkaline earth metal?",
+        "opts": {
+            "q0": "A. F",
+            "q1": "B. E",
+            "q2": "C. D",
+            "q3": "D. C"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "18. Which of 1he following pairs of letters denotes elements containing the same number of electrons in their outermost shells?",
+        "opts": {
+            "q0": "A. C and D",
+            "q1": "B. E and F",
+            "q2": "C. B and G",
+            "q3": "D. A and B"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "19. If 1 mole of sodium contains 6 x 10<sup>23</sup> atoms, how many atoms are contained in 0.6 g of sodium [Na = 23 ]?",
+        "opts": {
+            "q0": "A. 1.56 x 10<sup>23</sup>",
+            "q1": "B. 1.56 x 10<sup>22</sup>",
+            "q2": "C. 3.6 x 10<sup>23</sup>",
+            "q3": "D. 3.6 x 10<sup>22</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "20. If 20cm<sup>3</sup> of distilled water is added to 80cm<sup>3</sup> of 0.50mol dm<sup>-3</sup> hydrochloric acid, the new concentration of the acid will be",
+        "opts": {
+            "q0": "A. 0.10 mol dm<sup>-3</sup>",
+            "q1": "B. 0.20 mol dm<sup>-3</sup>",
+            "q2": "C. 0.40 mol dm<sup>-3</sup>",
+            "q3": "D. 2.00 mol dm<sup>-3</sup>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "21.  Consider the reaction represented by the equation: 2NaHC0<sub>3</sub><sub>(s)</sub> &rarr; 2Na<sub>2</sub>C0<sub>3</sub><sub>(s)</sub> + CO<sub>2</sub><sub>(g)</sub> + H<sub>2</sub>O<sub>(g)</sub> What volume of carbon (IV) oxide at s.t.p. is evolved when 0.5 moles of NaHC0<sub>3</sub> is heated? [Molar volume = 22.4 dm3 at s.t.p.]",
+        "opts": {
+            "q0": "A. 1.12 dm<sup>3</sup>",
+            "q1": "B. 2.24 dm<sup>3</sup>",
+            "q2": "C. 5.6 dm<sup>3</sup>",
+            "q3": "D. 56.0 dm<sup>3</sup>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "22. Which of the following gases will have the lowest rate of diffusion under the same conditions? (N = 14, O = 16, Cl = 35.5, Ar = 40)",
+        "opts": {
+            "q0": "A. Argon",
+            "q1": "B. Chlorine",
+            "q2": "C. Nitrogen",
+            "q3": "D. Oxygen"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "23. Consider the reaction: H<sup>+</sup><sub>(aq)</sub> + OH<sup>-</sup><sub>(aq)</sub> &rarr; H<sub>2</sub>O<sub>(l)</sub> The energy change taking place in the reaction above is enthalpy of",
+        "opts": {
+            "q0": "A. formation",
+            "q1": "B. hydration",
+            "q2": "C. neutralization",
+            "q3": "D. solution"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "24. Which of the following processes is an endothermic reaction?",
+        "opts": {
+            "q0": "A. Dissolving NH<sub>4</sub>CI crystals in water",
+            "q1": "B. Addition of concentrated H<sub>2</sub>S0<sub>4</sub> to water",
+            "q2": "C. Dissolving NaOH pellets in water",
+            "q3": "D. Passing S0<sub>3</sub> gas into water"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "25. In the energy profile diagram below, which letter represents the activation energy for the reverse reaction? <br><img src='assets/imgs/chemistry/chem_2006_sectionb_qst25_1.jpg'>",
+        "opts": {
+            "q0": "A. X",
+            "q1": "B. Y",
+            "q2": "C. Z",
+            "q3": "D. P"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "26. Which of the following aqueous solutions turns red litmus to blue?",
+        "opts": {
+            "q0": "A. NaCl",
+            "q1": "B. CH<sub>3</sub>OONa",
+            "q2": "C. AlCl<sub>3</sub>",
+            "q3": "D. NH<sub>4</sub>CI"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "27. Which of the following methods cannot be used to distinguish between a strong acid and a weak acid?",
+        "opts": {
+            "q0": "A. Conductivity measurement",
+            "q1": "B. Measurement of pH",
+            "q2": "C. Measurement of heat of neutralization",
+            "q3": "D. Action on starch iodide paper"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "28. The indicator used in neutralizing CH<sub>3</sub>COOH and NaOH solutions has pH range of",
+        "opts": {
+            "q0": "A. 3-5",
+            "q1": "B. 7-8",
+            "q2": "C. 8-10",
+            "q3": "D. 10-12"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "29. When aqueous ammonia is added to one of the following solutions, a white precipitate which dissolves in excess ammonia is formed. Identify the solution.",
+        "opts": {
+            "q0": "A. ZnCl<sub>2</sub>(aq)",
+            "q1": "B. Pb(N0<sub>3</sub>)<sub>2</sub><sub>(aq)</sub>",
+            "q2": "C. CuSO<sub>4</sub><sub>(aq)</sub>",
+            "q3": "D. FeSO<sub>4</sub><sub>(aq)</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "30. When 50 cm3 of a saturated solution of KN0<sub>3</sub> at 25<sup>o</sup>C was evaporated to dryness, 10g of dry salt was obtained. What is the solubility of KN0<sub>3</sub> at 25<sup>o</sup>C? [KNO<sub>3</sub> = 101]",
+        "opts": {
+            "q0": "A. 0.10 mol dm<sup>-3</sup>",
+            "q1": "B. 2.0 mol dm<sup>-3</sup>",
+            "q2": "C. 5.0 mol dm<sup>-3</sup>",
+            "q3": "D. 10.0 mol dm<sup>-3</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "31.  Which of the following compounds absorbs moisture from the atmosphere and dissolves in it?",
+        "opts": {
+            "q0": "A. FeCl",
+            "q1": "B. MgS0<sub>4</sub>.7H<sub>2</sub>0",
+            "q2": "C. Na<sub>2</sub>SO<sub>4</sub>",
+            "q3": "D. KC1"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "32. Consider the diagram below: <br><img src='assets/imgs/chemistry/chem_2006_sectionb_qst32_1.jpg'> The set-up is used for the preparation of a salt by",
+        "opts": {
+            "q0": "A. double decomposition",
+            "q1": "B. crystallization",
+            "q2": "C. crystallization",
+            "q3": "D. direct combination"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "33. Consider the equation for the equilibrum reaction N<sub>2</sub><sub>(g)</sub> + 3H<sub>2</sub><sub>(g)</sub> &harr; 2NH<sub>3</sub><sub>(g)</sub>; ?H =-92kJmol<sup>-1</sup> The equilibrium constant for the reaction can be expressed as",
+        "opts": {
+            "q0": "A. Kc = <br><img src='assets/imgs/chemistry/chem_2006_sectionb_qst33_1.jpg'>",
+            "q1": "B. Kc = <br><img src='assets/imgs/chemistry/chem_2006_sectionb_qst33_2.jpg'>",
+            "q2": "C. Kc = <br><img src='assets/imgs/chemistry/chem_2006_sectionb_qst33_3.jpg'>",
+            "q3": "D. Kc = <br><img src='assets/imgs/chemistry/chem_2006_sectionb_qst33_4.jpg'>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "34. Consider the reaction presented by the equation: 2SO<sub>2</sub><sub>(g)</sub> + O<sub>2</sub><sub>(g)</sub> &rarr; 2SO<sub>3</sub><sub>(g)</sub>; H =-197kJmol<sup>-1</sup> which of the following conditions will not increase the yield of sulphur (VI) oxide",
+        "opts": {
+            "q0": "A. Increase in temperature",
+            "q1": "B. Decrease in temperature",
+            "q2": "C. Increase in pressure",
+            "q3": "D. Addition of O2 into the mixture"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "35. Electrolysis is applied in the following processes except",
+        "opts": {
+            "q0": "A. Electroplating",
+            "q1": "B. Extraction of aluminium",
+            "q2": "C. Extraction of iron",
+            "q3": "D. Purification of copper"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "36. The oxidation number of iodine in the iodate ion (IO<sub>3</sub><sup>-</sup>) is",
+        "opts": {
+            "q0": "A. -5",
+            "q1": "B. -1",
+            "q2": "C. +1",
+            "q3": "D. +5"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "37. Metals can be extracted from their ores by a process involving",
+        "opts": {
+            "q0": "A. Reduction",
+            "q1": "B. oxidation",
+            "q2": "C. hydrolysis",
+            "q3": "D. decomposition"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "38. Consider the reaction: 2Al<sub>(s)</sub> + 6H<sup>+</sup><sub>(aq)</sub> &rarr; 2Al<sup>3+</sup><sub>(aq)</sub> + 3H<sub>2</sub><sub>(g)</sub> What is the total number of moles of electrons transferred from the aluminium atoms to the hydrogen ions?",
+        "opts": {
+            "q0": "A. 3",
+            "q1": "B. 4",
+            "q2": "C. 5",
+            "q3": "D. 6"
+        },
+        "ans": "A",
+        "sel": ""
+    }, 
+    {
+        "qs": "39. In the reaction represented by the equation: 5Fe<sup>2+</sup><sub>(aq)</sub> + MnO<sup>-</sup><sub>4</sub><sub>(aq)</sub> + 8H<sup>+</sup><sub>(aq)</sub> &rarr; 5Fe<sup>3+</sup><sub>(aq)</sub> + Mn<sup>2+</sup><sub>(aq)</sub> + 4H<sub>2</sub>O<sub>(l)</sub>. Which species is reduced?",
+        "opts": {
+            "q0": "A. Fe<sup>2+</sup>",
+            "q1": "B. MnO<sub>4</sub><sup>-</sup>",
+            "q2": "C. H<sup>+</sup>",
+            "q3": "D. Fe<sup>3+</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+        "qs": "Use the structure of the compound below to answer Questions 40 and 41 <br><img src='assets/imgs/chemistry/chem_2006_sectionb_qst0_2.jpg'>"
+    {
+        "qs": "40. The name of the compound is",
+        "opts": {
+            "q0": "A. 2,3-dimethylbutan-1-ol",
+            "q1": "B. 2,3-dimethylbutan-4-ol",
+            "q2": "C. 2-methylpentan-1-ol",
+            "q3": "D. 3-methylpentan-1-ol"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "41.  The product of the complete oxidation of the compound will be an",
+        "opts": {
+            "q0": "A. alkane",
+            "q1": "B. alkanal",
+            "q2": "C. alkanoic acid",
+            "q3": "D. alkanone"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "42. Which of the following inustrial processes is chlorine not used?",
+        "opts": {
+            "q0": "A. Production of polyvinylchloride (PVC)",
+            "q1": "B. Manufacturing of hydrochloric acid",
+            "q2": "C. Manufactuing of common salt",
+            "q3": "D. Manufacturing of domestic bleach"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "43. What type of reaction occurs between vegetable oil and plant ash extract?",
+        "opts": {
+            "q0": "A. Displacement",
+            "q1": "B. Dehydration",
+            "q2": "C. Neutralization",
+            "q3": "D. Saponification"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "44. Which of the following compounds is an alkanoate?",
+        "opts": {
+            "q0": "A. CH<sub>3</sub>COOH",
+            "q1": "B. CH<sub>3</sub>COOCH<sub>3</sub>",
+            "q2": "C. CH<sub>3</sub>CH<sub>2</sub>OH",
+            "q3": "D. CH<sub>3</sub>CH<sub>2</sub>COOH"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "45. What is C<sub>a</sub>H<sub>b</sub> in the following equation?  C<sub>a</sub>H<sub>b</sub> + 5O<sub>2</sub> &rarr; 3CO<sub>2</sub> + 4H<sub>2</sub>O",
+        "opts": {
+            "q0": "A. C<sub>3</sub>H<sub>4</sub>",
+            "q1": "B. C<sub>3</sub>H<sub>6</sub>",
+            "q2": "C. C<sub>3</sub>H<sub>8</sub>",
+            "q3": "D. C<sub>3</sub>H<sub>10</sub>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "46. Which of the following equations repesents a substitution reaction?",
+        "opts": {
+            "q0": "A. C<sub>4</sub>H<sub>10</sub><sub>(g)</sub> + Cl<sub>2</sub><sub>(g)</sub> &rarr; C<sub>4</sub>H<sub>9</sub>Cl<sub>(g)</sub> + HCl<sub>(g)</sub>",
+            "q1": "B. C<sub>2</sub>H<sub>4</sub><sub>(g)</sub> + HCl<sub>(g)</sub> &rarr; C<sub>2</sub>H<sub>5</sub>Cl<sub>(l)</sub>",
+            "q2": "C. C<sub>2</sub>H<sub>2</sub><sub>(g)</sub> + 2H<sub>2</sub><sub>(g)</sub> &rarr; C<sub>2</sub>H<sub>6</sub>",
+            "q3": "D. C<sub>3</sub>H<sub>4</sub><sub>(g)</sub> + 4O<sub>2</sub><sub>(g)</sub> &rarr; 3CO<sub>2</sub><sub>(g)</sub> + 2H<sub>2</sub>O<sub>(g)</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "47. Greenhouse effect can be reduced by controlling",
+        "opts": {
+            "q0": "A. water evaporation",
+            "q1": "B. burning of wood and fossil fuel",
+            "q2": "C. the rise of aerosol",
+            "q3": "D. the use of artificial fertilizers"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "48. Waste plastics accumulate in the soil and pollute the environment because plastic materials are",
+        "opts": {
+            "q0": "A. insoluble in water",
+            "q1": "B. non-biodegradable",
+            "q2": "C. easily affected by heat",
+            "q3": "D. inflammable"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "49. Which of the following substances is an ore of iron?",
+        "opts": {
+            "q0": "A. Bauxite",
+            "q1": "B. Cassiterite",
+            "q2": "C. Haematite",
+            "q3": "D. Steel"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "50. The ammonium compound used in the manufacture of dry cells is",
+        "opts": {
+            "q0": "A. NH<sub>4</sub>NO<sub>3</sub>",
+            "q1": "B. (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
+            "q2": "C. NH<sub>4</sub>Cl",
+            "q3": "D. (NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>"
+        },
+        "ans": "C",
+        "sel": ""
+    }
+]

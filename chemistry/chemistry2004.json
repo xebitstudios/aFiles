@@ -1,0 +1,553 @@
+[
+    {
+        "qs": "1. The mass of an element is 27 and its atomic number is 13. What is the composition of the nucleus of its atom?",
+        "opts": {
+            "q0": "A. 13 electrons and 14 protons",
+            "q1": "B. 13 neutrons and 14 protons",
+            "q2": "C. 13 protons and 14 neutrons",
+            "q3": "D. 13 electrons and 14 neutrons"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "2. If an atcm is represented as <sup>39</sup><sub>19</sub>X, which of the following deductions is correct?",
+        "opts": {
+            "q0": "A. It contains 20 protons",
+            "q1": "B. It forms a covalent chloride",
+            "q2": "C. Its atomic number is 39",
+            "q3": "D. It is an alkali metal",
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "3. Two elements X and Y combine to form a compound with formula X<sub>2</sub>Y<sub>3</sub>. Which of the following representations would fit the configurations of X and Y?",
+        "opts": {
+            "q0": "A. <br><img src='assets/imgs/chemistry/chem_2004_sectionb_qst3_1.jpg'>",
+            "q1": "B. <br><img src='assets/imgs/chemistry/chem_2004_sectionb_qst3_2.jpg'>",
+            "q2": "C. <br><img src='assets/imgs/chemistry/chem_2004_sectionb_qst3_3.jpg'>",
+            "q3": "D. <br><img src='assets/imgs/chemistry/chem_2004_sectionb_qst3_4.jpg'>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "4. Which of the following electron transitions results in the emission of energy?",
+        "opts": {
+            "q0": "A. 3p to 3s",
+            "q1": "B. 3p to 4p",
+            "q2": "C. 2s to 2p",
+            "q3": "D. 1s to 2s"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "5. Which of the following properties of elements decreases generally across a period in the Periodic Table?",
+        "opts": {
+            "q0": "A. Electronegativity",
+            "q1": "B. Electron affinity",
+            "q2": "C. Atomic radius",
+            "q3": "D. ionization energy"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "6. Which of the electrons in the following orbitris will experience the greatest nudear attraction?",
+        "opts": {
+            "q0": "A. 1s electron of helium",
+            "q1": "B. 1s electron of potassium",
+            "q2": "C. 2s electron of boron",
+            "q3": "D. 2s electron of carbon"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "7. A nuclide emits a beta-particle <sup>0</sup><sub>-1</sub>e. In the process, that atomic number",
+        "opts": {
+            "q0": "A. increases by 1 while the mass number remains constant",
+            "q1": "B. decreases by 2 while the mass number remains constant",
+            "q2": "C. remains constant while the mass number decreases by 2",
+            "q3": "D. remains constant while the mass number increases by 1"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "8. One of the characteristics of transition metals is",
+        "opts": {
+            "q0": "A. reducing ability",
+            "q1": "B. ductility",
+            "q2": "C. ability to conduct electricity",
+            "q3": "D. formation of coloured ions"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "9. How many electrons are in the L shell of <sup>31</sup><sub>15</sub>P",
+        "opts": {
+            "q0": "A. 2",
+            "q1": "B. 5",
+            "q2": "C. 8",
+            "q3": "D. 16"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+        "qs":  "Use the following information to answer Questions 10 and 11. A metal X forms two chlorides with the formulae XCI<sub>2</sub> and XCI<sub>3</sub>.",
+    {
+        "qs": "10. Where is X in the Periodic Table?",
+        "opts": {
+            "q0": "A. Group II",
+            "q1": "B. Group III",
+            "q2": "C. d-block",
+            "q3": "D. s-block"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "11. What type of bonding exists between X and chlorine in each of the chlorides?",
+        "opts": {
+            "q0": "A. metallic bonding",
+            "q1": "B. ionic bonding",
+            "q2": "C. covalent bonding",
+            "q3": "D. dative bonding"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "12. Which of the following equipment is not used to detect radioactivity?",
+        "opts": {
+            "q0": "A. Wilson cloud chamber",
+            "q1": "B. Geige Muller counter",
+            "q2": "C. Mass spectrometer",
+            "q3": "D. Photogenic plate"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "13. The method of collection of gases prepared in the laboratory depend on their",
+        "opts": {
+            "q0": "A. odour and atomicity",
+            "q1": "B. colour and odour",
+            "q2": "C. atomicity and density",
+            "q3": "D. solubility and density"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "14. Which of the following pairs of salts undergo hydrolysis?",
+        "opts": {
+            "q0": "A. AICI<sub>3</sub> and NH<sub>4</sub>Cl",
+            "q1": "B. AICl<sub>3</sub> and NaCI",
+            "q2": "C. FeCI<sub>3</sub> and KCI",
+            "q3": "D. Na<sub>2</sub>SO<sub>4</sub> and K<sub>2</sub>SO<sub>4</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "15. The alloy used extensively in the building industry is",
+        "opts": {
+            "q0": "A. steel",
+            "q1": "B. bronze",
+            "q2": "C. duralumin",
+            "q3": "D. type metal"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "16. Which of the following salts is not prepared by precipitation?",
+        "opts": {
+            "q0": "A. Lead (II) trioxocarbonato (IV)",
+            "q1": "B. Barit thoxocarbonate (IV)",
+            "q2": "C. Sodium trioxocarbonate (IV)",
+            "q3": "D. Calcium trioxocarbonate (IV)"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "17. What volume of hydrogen would be left over when 300cm<sup>3</sup> of oxygen and 1000cm of hydrogen are exploded in asealed tube? [2H<sub>2</sub><sub>(g)</sub> + O<sub>2</sub><sub>(g)</sub> &rarr; 2H<sub>2</sub><sub>(g)</sub>]",
+        "opts": {
+            "q0": "A. 200 cm<sup>3</sup>",
+            "q1": "B. 400 cm<sup>3</sup>",
+            "q2": "C. 600 cm<sup>3</sup>",
+            "q3": "D. 700 cm<sup>3</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "18. What are the values of x, y and z respectively in the following equation? MnO<sub>2</sub><sub>(s)</sub> + xHCl<sub>(aq)</sub> &rarr; MnCl<sub>2</sub><sub>(aq)</sub> + yH<sub>2</sub>O<sub>(l)</sub> + zCl<sub>2</sub><sub>(g)</sub>",
+        "opts": {
+            "q0": "A. 4,1,2",
+            "q1": "B. 1,2,1",
+            "q2": "C. 2,1,2",
+            "q3": "D. 4,2,1"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "19. Which of the following substances will not produce effervescence with dilute hydrochloric acid?",
+        "opts": {
+            "q0": "A. Copper (II) trioxocarbonate (IV)",
+            "q1": "B. Potassium hydrogentrioxocarbonate (IV)",
+            "q2": "C. Zinc granules",
+            "q3": "D. Sodium chloride"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "20. What quantity of electrons in moles is needed to discharge two moles of aluminium from aluminium oxide (Al<sub>2</sub>O<sub>3</sub>)?",
+        "opts": {
+            "q0": "A. 1",
+            "q1": "B. 2",
+            "q2": "C. 4",
+            "q3": "D. 6"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "21.  Two solutions containing Pb<sup>2+</sup> and Al<sup>3+</sup> respectively can be distinguished usinq",
+        "opts": {
+            "q0": "A. NaOH<sub>(aq)</sub>",
+            "q1": "B. NH<sub>3</sub><sub>(aq)</sub>",
+            "q2": "C. conc. HNO<sub>3</sub>",
+            "q3": "D. conc. HCI"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "22. A solution of zinc chloride should not be stored in a container made of",
+        "opts": {
+            "q0": "A. tin",
+            "q1": "B. copper",
+            "q2": "C. aluminium",
+            "q3": "D. lead"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "23. Glucose gives a brick-red precipitate with Fehling’s solution because it is",
+        "opts": {
+            "q0": "A. a carbohydrate",
+            "q1": "B. an alkanoate",
+            "q2": "C. a reducing sugar",
+            "q3": "D. a non-electrolyte"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "24. What is the IUPAC name of CH<sub>3</sub>CH<sub>2</sub>COOCH<sub>3</sub>?",
+        "opts": {
+            "q0": "A. Ethylethanoate",
+            "q1": "B. Methylethanoate",
+            "q2": "C. Methylpropanoate",
+            "q3": "D. Propylmethanoate"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "25. The mass of 800cm<sup>3</sup> of a gas X at s.t.p. is 1.0g. What is the molar mass of X? [1 mole of a gas at s.t.p occupies 22.4dm<sup>-3</sup>]",
+        "opts": {
+            "q0": "A. 18.0 gmol<sup>-1</sup>",
+            "q1": "B. 22.4 gmol<sup>-1</sup>",
+            "q2": "C. 28.0 gmol<sup>-1</sup>",
+            "q3": "D. 36.0 gmol<sup>-1</sup>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "26. Which of the following compounds is a soapless detergent?",
+        "opts": {
+            "q0": "A. C<sub>12</sub>H<sub>25</sub>OSO<sub>3</sub>Na",
+            "q1": "B. C<sub>17</sub>H<sub>25</sub>COONa",
+            "q2": "C. C<sub>6</sub>H<sub>5</sub>OH",
+            "q3": "D. C<sub>4</sub>H<sub>9</sub>COOC<sub>2</sub>H<sub>5</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "27. The reaction that takes place at the cathode when an aqueous solution of NaCI is electrolysed using carbon electrodes is",
+        "opts": {
+            "q0": "A. 2H<sup>+</sup>(aq) + 2e<sup>-</sup> &rarr; H<sub>2</sub><sub>(g)</sub>",
+            "q1": "B. Na<sup>+</sup><sub>(aq)</sub> + e<sup>-</sup> &rarr; Na<sub>(s)</sub>",
+            "q2": "C. 4OH<sup>-</sup> &rarr; 2H<sub>2</sub>O<sub>(l)</sub> + O<sub>2</sub><sub>(g)</sub> + 4e<sup>-</sup>",
+            "q3": "D. 2Cl<sup>-</sup> &rarr; Cl<sub>2</sub> + 2e<sup>-</sup>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "28. Which of the following pairs of acid and base will produce a solution with pH less than 7 at equivalence point?",
+        "opts": {
+            "q0": "A. HN0<sub>3</sub> and NaOH",
+            "q1": "B. H<sub>2</sub>SO<sub>4</sub> and KOH",
+            "q2": "C. HCI and Mg(OH)<sub>2</sub>",
+            "q3": "D. HNO<sub>3</sub> and KOH"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "29. Aqueous copper (II) tetraoxosulphate (VI) was electrolysed using the following pairs of electrodes. In which case was there a decrease in the mass of the anode?",
+        "opts": {
+            "q0": "A. Cathaode -Graphite, Anode-Graphite",
+            "q1": "B. Cathaode-Platinum, Anode-Platinum",
+            "q2": "C. Cathaode-Copper, Anode-Copper",
+            "q3": "D. CathaodeGraphite, Anode-Platinum"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "30. which of following salts is readily soluble in water?",
+        "opts": {
+            "q0": "A. PbCl<sub>2</sub>",
+            "q1": "B. Pb(N0<sub>3</sub>)<sub>2</sub>",
+            "q2": "C. PbSO<sub>4</sub>",
+            "q3": "D. PbCO<sub>3</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "31.  Which of the following factors that affect the rate of chemical Platinum reactions can be explained in terms of the collision theory? I concentration II pressure III temperature IV catalyst",
+        "opts": {
+            "q0": "A. I and II only",
+            "q1": "B. I,II and III only",
+            "q2": "C. I and III only",
+            "q3": "D. I,III and IV only"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "32. having the same boiling point. Which of the following techniques is most suitable for isolating the dyes?",
+        "opts": {
+            "q0": "A. Fractional distillation",
+            "q1": "B. Paper chromatography",
+            "q2": "C. Coagulation",
+            "q3": "D. Recrystallization"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "33. If 60 cm3 of gas is heated from 27°C to 50°C, what is the new volume of the gas at constant pressure?",
+        "opts": {
+            "q0": "A. 32.4cm<sup>3</sup>",
+            "q1": "B. 55.7cm<sup>3</sup>",
+            "q2": "C. 64.6cm<sup>3</sup>",
+            "q3": "D. 111.1cm<sup>3</sup>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "34. When ammonium trioxocarbonate (IV) solution is added to separate solutions of calcium, zinc and sodium salt precipitate could be formed in the case of",
+        "opts": {
+            "q0": "A. calcium only",
+            "q1": "B. zinc only",
+            "q2": "C. calcium and zinc only",
+            "q3": "D. sodium and zinc only"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "35. Consider the cell represented below. Zn/Zn<sup>2+</sup><sub>(aq)</sub> // Cu<sup>2+</sup><sub>(aq)</sub>/Cu<sub>(s)</sub>. Which of the following statements is correct about the cell?",
+        "opts": {
+            "q0": "A. Zn is oxidized to Zn<sup>2+</sup>",
+            "q1": "B. Cu is oxidized to Cu<sup>2+</sup>",
+            "q2": "C. It is an electrolytic cell",
+            "q3": "D. Each single line represents a salt bridge"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "36. Consider the following electronegative values: <br><img src='assets/imgs/chemistry/chem_2004_sectionb_qst36_1.jpg'> Which of the elements represented by the letters W to Z will combine with hydrogen (H) to form a purely covalent compound?",
+        "opts": {
+            "q0": "A. W",
+            "q1": "B. X",
+            "q2": "C. Y",
+            "q3": "D. Z"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "37. The condensation of several amino acid molecules gives",
+        "opts": {
+            "q0": "A. long chain alkanoic acids",
+            "q1": "B. secondary alkanols",
+            "q2": "C. allkanoates",
+            "q3": "D. proteins"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "38. Which of the folilowing statements is true of an endothermic reaction? I. Heat is absorbed from the surrounding II. The heat co ntent of the products is more than that of the reactants III. The enthalpy change is positive IV. The surrounding is at a lower temperature than the system.",
+        "opts": {
+            "q0": "A. I only",
+            "q1": "B. I and II only",
+            "q2": "C. I, II and III only",
+            "q3": "D. I, II, III and IV"
+        },
+        "ans": "C",
+        "sel": ""
+    }, 
+    {
+        "qs": "39. What is the change in the oxidation number of I<sup>-</sup> in the reaction represented by the following equation? 5I<sup>-</sup> + 6H<sup>+</sup> + IO<sub>3</sub><sup>-</sup><sub>(aq)</sub> &rarr; 3I<sub>2</sub><sub>(g)</sub> + 3H<sub>2</sub>O<sub>(l)</sub>",
+        "opts": {
+            "q0": "A. -5 to -3",
+            "q1": "B. -1 to 0",
+            "q2": "C. +5 to +3",
+            "q3": "D. -1 to +2"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "40. The key factor to be considered in siting a chemical industry is",
+        "opts": {
+            "q0": "A. favourable climatic conditions",
+            "q1": "B. the availability of space to store raw materials",
+            "q2": "C. its nearness to other industrial establishments",
+            "q3": "D. its nearness to the source of raw materials"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "41. Which of the following reactions will be affected by change in pressure at equilibrium?",
+        "opts": {
+            "q0": "A. X<sub>(g)</sub> + Y<sub>(g)</sub> &harr; W<sub>(g)</sub> + Z<sub>(g)</sub>",
+            "q1": "B. X<sub>(g)</sub> + 2Y<sub>(g)</sub> &harr; W<sub>(g)</sub> + Z<sub>(g)</sub>",
+            "q2": "C. 2X<sub>(g)</sub> &harr; W<sub>(g)</sub> + Z<sub>(g)</sub>",
+            "q3": "D. 2Y<sub>(g)</sub> &harr; W<sub>(g)</sub> + Z<sub>(g)</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "42. Which of th,e following petroleum fractions yields vaseline and paraffin wax on redistillation?",
+        "opts": {
+            "q0": "A. Diesel oil",
+            "q1": "B. Lubrication oil",
+            "q2": "C. Petrol",
+            "q3": "D. Kerosene."
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "43. What is the IUPAC name of <br><img src='assets/imgs/chemistry/chem_2004_sectionb_qst43_1.jpg'>",
+        "opts": {
+            "q0": "A. 2-methylethyne",
+            "q1": "B. Prop-2-yne",
+            "q2": "C. Pent-3-yne",
+            "q3": "D. Propyne"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "44. Which of the following compounds is not suitable for the preparation of oxygen by heating",
+        "opts": {
+            "q0": "A. KClO<sub>3</sub>",
+            "q1": "B. H<sub>2</sub>O<sub>3</sub>",
+            "q2": "C. NaNO<sub>3</sub>",
+            "q3": "D. AgNO<sub>3</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "45. During the extraction of iron, the limestone fed into the blast furnace produces CaO which removes",
+        "opts": {
+            "q0": "A. excess air",
+            "q1": "B. unburnt coke",
+            "q2": "C. earthy impurities",
+            "q3": "D. molten iron"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "46. What is the product C<sub>x</sub>H<sub>y</sub> in the following equation? C<sub>10</sub>H<sub>22</sub> &rarr; C<sub>8</sub>H<sub>18</sub> + C<sub>x</sub>H<sub>y</sub>",
+        "opts": {
+            "q0": "A. Butene",
+            "q1": "B. Octane",
+            "q2": "C. Ethane",
+            "q3": "D. Decane"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "47. Which of the following are required in an experiment to determine the enthalpy of solution of anhydrous CuSO<sub>4</sub>? I. Mass of the anhydrous CuSO<sub>4</sub> II. Volume of water in which the CuSO<sub>4</sub> is dissolved. III. Initial temperature of water IV. Final temperature of the solution.",
+        "opts": {
+            "q0": "A. I and II only",
+            "q1": "B. Ill and IV only",
+            "q2": "C. II, III and IV only",
+            "q3": "D. I, II, III and IV"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "48. Which of the following pollutants is biodegradable?",
+        "opts": {
+            "q0": "A. Domestic sewage",
+            "q1": "B. Metal scraps",
+            "q2": "C. Radioactive waste",
+            "q3": "D. Plastic foil"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "49. The process of ‘seeding’ during the extraction of aluminium involves the addition of pure AI(OH)<sub>3</sub> crystals in order to",
+        "opts": {
+            "q0": "A. lower the temperature",
+            "q1": "B. increase the concentration",
+            "q2": "C. facilitate the precipitation of solid",
+            "q3": "D. reduce the viscosity of the solution"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "50. Which of the following measures is not suitable for controlling water pollution?",
+        "opts": {
+            "q0": "A. Treating industrial effluent and domestic sewage before discharge into water",
+            "q1": "B. Controlling the use of agrochemicals",
+            "q2": "C. Recycling industrial and agricultural wastes",
+            "q3": "D. Burning industrial and agricultural wastes before discharge into water ways"
+        },
+        "ans": "D",
+        "sel": ""
+    }
+]

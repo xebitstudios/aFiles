@@ -1,0 +1,552 @@
+[
+    {
+        "qs": "1. The electron configuration of carbon atom in its excited state is [<sub>6</sub>C].",
+        "opts": {
+            "q0": "A. Is<sup>2</sup> 2s<sup>2</sup> 2px<sup>1</sup> 2py<sup>1</sup>",
+            "q1": "B. 1s<sup>2</sup> 2s<sup>2</sup> 2px<sup>2</sup> 2py<sup>0</sup>",
+            "q2": "C. 1s<sup>1</sup> 2s<sup>2</sup> 2px<sup>1</sup> 2py<sup>1</sup> 2pz<sup>1</sup>",
+            "q3": "D. 1s<sup>2</sup> 2s<sup>1</sup> 2px<sup>1</sup> 2py<sup>1</sup> 2pz<sup>1</sup>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "2. An important medical use of nuclear radiations is",
+        "opts": {
+            "q0": "A. activation analysis",
+            "q1": "B. carbon dating",
+            "q2": "C. radiotherapy",
+            "q3": "D. tissue regeneration"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "3. Which of the following elements exhibits the same chemical properties as the atom <sup>35</sup><sub>17</sub>X? An element with",
+        "opts": {
+            "q0": "A. atomic number 17",
+            "q1": "B. atomic number 18",
+            "q2": "C. mass number 35",
+            "q3": "D. mass number 52"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "4. Which of the following noble gases has electronic structure similar to that of N in NH<sub>3</sub>",
+        "opts": {
+            "q0": "A. <sub>2</sub>He",
+            "q1": "B. <sub>10</sub>Ne",
+            "q2": "C. <sub>18</sub>Ar",
+            "q3": "D. <sub>36</sub>Kr"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "5. Which of the following equations represent a beta decay?",
+        "opts": {
+            "q0": "A. <sup>238</sup><sub>92</sub>U &rarr; <sup>234</sup><sub>90</sub>Th + <sup>4</sup><sub>2</sub>He",
+            "q1": "B. <sup>14</sup><sub>7</sub>N + <sup>4</sup><sub>2</sub>He &rarr; <sup>17</sup><sub>8</sub>O + <sup>1</sup><sub>1</sub>H",
+            "q2": "C. <sup>239</sup><sub>92</sub>U &rarr; <sup>239</sup><sub>93</sub>Np + <sup>0</sup><sub>-1</sub>e",
+            "q3": "D. <sup>13</sup><sub>7</sub>N + <sup>4</sup><sub>2</sub>He &rarr; <sup>16</sup><sub>8</sub>O + <sup>1</sup><sub>1</sub>H"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "6. The energy change which accompanies the addition of an electron to a gaseous atom is",
+        "opts": {
+            "q0": "A. atomization",
+            "q1": "B. electron affinity",
+            "q2": "C. electronegativity",
+            "q3": "D. ionization"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "7. Which of the following elements is a d-block element?",
+        "opts": {
+            "q0": "A. Calcium",
+            "q1": "B. Iron",
+            "q2": "C. Lithium",
+            "q3": "D. Silicon"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "8. Calcium and magnesium belong to the same group in the periodic table because both",
+        "opts": {
+            "q0": "A. are metals",
+            "q1": "B. form cations",
+            "q2": "C. form colourless salts",
+            "q3": "D. have the same number of valence electrons"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "9. Which of the following elements is diatomic?",
+        "opts": {
+            "q0": "A. Iron",
+            "q1": "B. Neon",
+            "q2": "C. Oxygen",
+            "q3": "D. Sodium"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "10. Which of the following statements about chlorine and iodine at room temperature is correct?",
+        "opts": {
+            "q0": "A. Chlorine is gas and iodine is solid",
+            "q1": "B. Chlorine is solid and iodine is liquid",
+            "q2": "C. Chlorine and iodine are gases",
+            "q3": "D. Chlorine is liquid and iodine is gas"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "11. If X is a group III element, its oxide would be represented as",
+         "opts": {
+            "q0": "A. X<sub>3</sub>O<sub>2</sub>",
+            "q1": "B. X<sub>3</sub>O",
+            "q2": "C. X<sub>2</sub>O<sub>3</sub>",
+            "q3": "D. XO<sub>3</sub>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "12. Which of the following species correctly represents an ion of M with 13 protons and 10 electrons?",
+        "opts": {
+            "q0": "A. <sub>10</sub>M<sup>3+</sup>",
+            "q1": "B. <sub>10</sub>M<sup>3-</sup>",
+            "q2": "C. <sub>13</sub>M<sup>3+</sup>",
+            "q3": "D. <sub>13</sub>M<sup>3-</sup>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "13. A solid substance with high melting and boiling points is likely be a/an",
+        "opts": {
+            "q0": "A. covalent compound",
+            "q1": "B. dative covalent compound",
+            "q2": "C. electrovalent compound",
+            "q3": "D. non metals"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "14. Which of the following molecules has a linear shape?",
+        "opts": {
+            "q0": "A. CH<sub>4</sub>",
+            "q1": "B. CO<sub>2</sub>",
+            "q2": "C. H<sub>2</sub>S",
+            "q3": "D. NH<sub>3</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "15. Which type of bond is represented by the dotted lines in the following structure? <br><img src='assets/imgs/chemistry/chem_2010_sectionb_qst15_1.jpg'>",
+        "opts": {
+            "q0": "A. Covalent bond",
+            "q1": "B. Dative bond",
+            "q2": "C. Electrovalent bond",
+            "q3": "D. Hydrogen bond"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "16. Whih of te following molecules has a triple bond in its structure?",
+        "opts": {
+            "q0": "A. CH<sub>4</sub>",
+            "q1": "B. NH<sub>3</sub>",
+            "q2": "C. N<sub>2</sub>",
+            "q3": "D. O<sub>2</sub>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "17. The bonds in crystalline ammonium chloride are",
+        "opts": {
+            "q0": "A. covalent and dative",
+            "q1": "B. ionic and covalent",
+            "q2": "C. ionic, covalent and dative",
+            "q3": "D. ionic, covalent and hydrogen bond"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "18. consider the neutralization reaction represented by the following equation: <br>Na<sub>2</sub>CO<sub>3</sub> + 2HNO<sub>3</sub> &rarr; 2NaNO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>. <br>The stoichiometric ratio of acid to base is",
+        "opts": {
+            "q0": "A. 2:2",
+            "q1": "B. 2:1",
+            "q2": "C. 1:2",
+            "q3": "D. 1:1"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "19. A solution of sodium trioxocarbonate (IV) contains 10.6g in 250cm<sup>3</sup> of solution. Calculate the concentration of the solution <br>[Na<sub>2</sub>CO<sub>3</sub> = 106.0]",
+        "opts": {
+            "q0": "A. 0.4 mol dm<sup>-3</sup>",
+            "q1": "B. 1.0 mol dm<sup>-3</sup>",
+            "q2": "C. 10.6 mol dm<sup>-3</sup>",
+            "q3": "D. 25.0 mol dm<sup>-3</sup>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "20. What is the volume occupied by 2 moles of ammonia at s.t.p",
+        "opts": {
+            "q0": "A. 44.8 dm<sup>-3</sup>",
+            "q1": "B. 22.4 dm<sup>-3</sup>",
+            "q2": "C. 11.2 dm<sup>-3</sup>",
+            "q3": "D. 5.6 dm<sup>-3</sup>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "21. Which of the following apparatus can be used to measure accurately a specific volume of a liquid?",
+        "opts": {
+            "q0": "A. Beaker",
+            "q1": "B. Conical flask",
+            "q2": "C. Measuring cylinder",
+            "q3": "D. Pipette"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "22. Which of the following gases can be collected by the set-up illustrated below? <br><img src='assets/imgs/chemistry/chem_2010_sectionb_qst22_1.jpg'>",
+        "opts": {
+            "q0": "A. H<sub>2</sub>",
+            "q1": "B. HCl.",
+            "q2": "C. NH<sub>3</sub>",
+            "q3": "D. N<sub>2</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "23. A given volume of oxygen diffused through a porous partition in 8 seconds. How long would it take the same volume of carbon (IV) oxide to diffuse under the same condition? (C = 12.0, O = 16.0)",
+        "opts": {
+            "q0": "A. 5.8 seconds",
+            "q1": "B. 6.8 seconds",
+            "q2": "C. 9.4 seconds",
+            "q3": "D. 11.0 seconds"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "24. Which of the following gases contains the highes number of atoms at s.t.p?",
+        "opts": {
+            "q0": "A. 6 moles of neon",
+            "q1": "B. 3 moles of chloride",
+            "q2": "C. 2 moles of chloride",
+            "q3": "D. 1 mole of ethane"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "25. Given that r is rate and p is density, the expression r &prop; 1/&radic;p?",
+        "opts": {
+            "q0": "A. Boyle's law",
+            "q1": "B. Charles' law",
+            "q2": "C. Daltons's law",
+            "q3": "D. Graham's law"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "26. The determination of heat of combustion is carried out with",
+        "opts": {
+            "q0": "A. a thermometer",
+            "q1": "B. a bomb calorimeter",
+            "q2": "C. an evaporating dish",
+            "q3": "D. a boiling tube"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "27.  The minimum amount of energy required for effective collisions between reacting particles is known as",
+        "opts": {
+            "q0": "A. activation energy",
+            "q1": "B. bond energy",
+            "q2": "C. kinetic energy",
+            "q3": "D. potential energy"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "28. Which of the following oxides is basic",
+        "opts": {
+            "q0": "A. NO<sub>2</sub>",
+            "q1": "B. Al<sub>2</sub>O<sub>3</sub>",
+            "q2": "C. SO<sub>2</sub>",
+            "q3": "D. CaO"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "29. Which of the following equimolar solutions would have the highest conductivity?",
+        "opts": {
+            "q0": "A. NH<sub>4</sub>NO<sub>3(aq)</sub>",
+            "q1": "B. NaNO<sub>3(aq)</sub>",
+            "q2": "C. Mg(NO<sub>3</sub>)<sub>2(aq)</sub>",
+            "q3": "D. Al(NO<sub>3</sub>)<sub>3(aq)</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "30. The following substances are normal salts except",
+        "opts": {
+            "q0": "A. Al(NO<sub>3</sub>)<sub>3</sub>",
+            "q1": "B. FeSO<sub>4</sub>",
+            "q2": "C. Mg(OH)NO<sub>3</sub>",
+            "q3": "D. NaCl"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "31.  Which of the following chlorides is insoluble in water?",
+        "opts": {
+            "q0": "A. AgCl",
+            "q1": "B. KCl",
+            "q2": "C. NH<sub>4</sub>Cl",
+            "q3": "D. ZnCl<sub>2</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "32. Which of the following factors would not affect the solubility of a gas?",
+        "opts": {
+            "q0": "A. Concentration",
+            "q1": "B. Nature of solvent",
+            "q2": "C. Pressure",
+            "q3": "D. Temperature"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "33. Consider the equilibrium reaction represented by the following equation: <br>2SO<sub>2(g)</sub> + O<sub>2(g)</sub> &#8652; 2SO<sub>3(g)</sub> ; H = 395.7kJmol<sup>-1</sup>. <br>Which of the following statements about the equilibrium system is correct?",
+        "opts": {
+            "q0": "A. Addition of catalyst changes the equilibrium position",
+            "q1": "B. Decrease in pressure increases the yield SO<sub>3</sub>",
+            "q2": "C. Decrease in pressure increases the equilibrium concentration of O<sub>2</sub>",
+            "q3": "D. increase in temperature favours the forward reaction"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "34. The rate of chemical reaction of solids are not affected by",
+        "opts": {
+            "q0": "A. catalyst",
+            "q1": "B. pressure",
+            "q2": "C. particle size",
+            "q3": "D. temperature"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "35. Which of the following statements about the cell notation Mg/Mg<sup>2+</sup> // Cu<sup>2+</sup>/Cu is correct?",
+        "opts": {
+            "q0": "A. Copper is the anode",
+            "q1": "B. Magnesium is reduced",
+            "q2": "C. Magnesium is the anode",
+            "q3": "D. The double line represents the electrodes"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "36. Which of the following statements about the electrolysis of CuSO<sub>4(aq)</sub> using copper cathode and platinum anode is not correct?",
+        "opts": {
+            "q0": "A. Copper is deposited at the cathode",
+            "q1": "B. Oxygen is liberated at the anode",
+            "q2": "C. It is used for the purification of copper",
+            "q3": "D. The solution becomes acidic"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "37. What is the change in oxidation number of manganese in the reaction represented by the following equation? <br>MnO<sup>-</sup> <sub>4</sub><sub>(aq)</sub> + 8H<sup>+</sup> <sub>(aq)</sub> + 5<sup>e-</sup> &rarr; Mn<sup>2+</sup> <sub>(aq)</sub> + 4H<sub>2</sub>O<sub>(l)</sub>",
+        "opts": {
+            "q0": "A. +3 to +2",
+            "q1": "B. +4 to +2",
+            "q2": "C. +5 to +2",
+            "q3": "D. +7 to +2"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "38. The quantity of electricity required to discharge 1 mole of univalent ion is",
+        "opts": {
+            "q0": "A. 9,600C",
+            "q1": "B. 48,250C",
+            "q2": "C. 96,500C",
+            "q3": "D. 193,000C"
+        },
+        "ans": "C",
+        "sel": ""
+    }, 
+    {
+        "qs": "39. Fats and oils are used as raw materials in the following industries except",
+        "opts": {
+            "q0": "A. Paint industry",
+            "q1": "B. plastic industry",
+            "q2": "C. margarine industry",
+            "q3": "D. cosmetics industry"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "40. Which of the following substances is trihydric?",
+        "opts": {
+            "q0": "A. Ethanol",
+            "q1": "B. Glycol",
+            "q2": "C. Glycerol",
+            "q3": "D. Phenol"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "41. An advantage of detergent over soap is that detergents",
+        "opts": {
+            "q0": "A. are readily available",
+            "q1": "B. are in powdered form",
+            "q2": "C. are non-biodegradable",
+            "q3": "D. lather readily with water"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "42. The products of fermentation of sugar are",
+        "opts": {
+            "q0": "A. carbon (IV) oxide and water",
+            "q1": "B. ethanol and carbon (IV) oxide",
+            "q2": "C. ethanol and water",
+            "q3": "D. ethanol and enzymes"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "43. The IUPAC name of C<sub>2</sub>H<sub>5</sub>COOC<sub>2</sub>H<sub>5</sub> is",
+        "opts": {
+            "q0": "A. ethylethanoate",
+            "q1": "B. ethylpropanoate",
+            "q2": "C. propylethanoate",
+            "q3": "D. propylpropanoate"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "44. An organic compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. What is the empirical formular of the compound? (O = 16.0, C = 12.0, H = 1.0)",
+        "opts": {
+            "q0": "A. C<sub>2</sub>HO",
+            "q1": "B. CHO",
+            "q2": "C. CH<sub>2</sub>O",
+            "q3": "D. CHO<sub>2</sub>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "45. Consider the reaction represented by the following equation: <br> H - C = C - H &nbsp;&nbsp; &#866;<sup>H<sub>2</sub></sup> X &nbsp;&nbsp; &#866;<sup>H<sub>2</sub></sup> Y",
+        "opts": {
+            "q0": "A. ethene and ethane",
+            "q1": "B. ethane and ethene",
+            "q2": "C. ethyne and ethene",
+            "q3": "D. ethene propene"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "46. Compound N reacts with sodium metal to produce a gas that gives 'pop' sound with a burning spirit. N also reacts with ethanoic acid to give a sweet smelling liquid compound N is an",
+        "opts": {
+            "q0": "A. ethanol",
+            "q1": "B. alkanoate",
+            "q2": "C. alkane",
+            "q3": "D. alkanoic acid"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "47. Which of the following structures represents that of ethylethanoate",
+        "opts": {
+            "q0": "A. <img src='assets/imgs/chemistry/chem_2010_sectionb_qst47_1.jpg'>",
+            "q1": "B. <img src='assets/imgs/chemistry/chem_2010_sectionb_qst47_2.jpg'>",
+            "q2": "C. <img src='assets/imgs/chemistry/chem_2010_sectionb_qst47_3.jpg'>",
+            "q3": "D. <img src='assets/imgs/chemistry/chem_2010_sectionb_qst47_4.jpg'>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "48. The main function of limestone in the blast furnance is to",
+        "opts": {
+            "q0": "A. act as a reducing agent",
+            "q1": "B. act as a catalyst",
+            "q2": "C. remove impurities",
+            "q3": "D. supply carbon (IV) oxide"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "49. Which of the following substances cannot be classified as a heavy chemical?",
+        "opts": {
+            "q0": "A. AgNO<sub>3</sub>",
+            "q1": "B. CaO",
+            "q2": "C. CaOCl<sub>2</sub>",
+            "q3": "D. H<sub>2</sub>SO<sub>4</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "50. Which of the following metals exists as liquid at ordinary temperature?",
+        "opts": {
+            "q0": "A. Copper",
+            "q1": "B. Gold",
+            "q2": "C. Mercury",
+            "q3": "D. Silver"
+        },
+        "ans": "C",
+        "sel": ""
+    }
+]

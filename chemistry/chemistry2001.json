@@ -1,0 +1,553 @@
+[
+    {
+        "qs": "1. Allotropes of an element differ in their",
+        "opts": {
+            "q0": "A. physical properties",
+            "q1": "B. chemical properties",
+            "q2": "C. mass numbers",
+            "q3": "D. electronic configuration"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "2. What is the mass number of an element if its atom contains 10 protons, 10 electrons and 12 neutrons?",
+        "opts": {
+            "q0": "A. 32",
+            "q1": "B. 22",
+            "q2": "C. 20",
+            "q3": "D. 10",
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "3. Given that the electronic configuration of an element X is 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>4</sup>, it can be deduced that X",
+        "opts": {
+            "q0": "A. belongs to group VI in the Periodic Table",
+            "q1": "B. belongs to period 4 in the Periodic Table",
+            "q2": "C. contains 3 unpaired electrons in the ground state",
+            "q3": "D. has atomic number 27"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "4. P,Q,R and S are metals in the same group in the Periodic Table but in periods 3, 4, 5 and 6 respectively. Which of them loses electrons least readily?",
+        "opts": {
+            "q0": "A. P",
+            "q1": "B. C",
+            "q2": "C. R",
+            "q3": "D. S"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "5. Elements which belong to the same group in the Periodic Table are characterized by",
+        "opts": {
+            "q0": "A. difference of +1 in the oxidation numbers of successive members",
+            "q1": "B. presence of the same number of outermost electrons in the respective atoms",
+            "q2": "C. difference of 14 atomic mass units between successive members",
+            "q3": "D. presence of the same number of electron shells in the respective atoms"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "6. The atom of an element X has two electrons in its outermost shell. What is the formula of the compound formed when X combines with aluminium (13AI)?",
+        "opts": {
+            "q0": "A. AlX<sub>2</sub>",
+            "q1": "B. Al<sub>2</sub>X",
+            "q2": "C. Al<sub>2</sub>X<sub>2</sub>",
+            "q3": "D. Al<sub>2</sub>X<sub>3</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "7. The presence of unpaired electrons in an atom of a transition metal gives rise to",
+        "opts": {
+            "q0": "A. paramagnetism",
+            "q1": "B. malleability",
+            "q2": "C. ductility",
+            "q3": "D. shiny appearance"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "8. What is responsible for metallic bonding?",
+        "opts": {
+            "q0": "A. Sharing of electrons between the metal atoms",
+            "q1": "B. Attraction between the atomic nuclei and cloud of electrons",
+            "q2": "C. Transfer of electrons from one atom to another",
+            "q3": "D. Attraction between positive and negative ions"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "9. Which of the following compounds is covalent?",
+        "opts": {
+            "q0": "A. CaCI<sub>2</sub>",
+            "q1": "B. MgO",
+            "q2": "C. NaH",
+            "q3": "D. CH<sub>4</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "10. A sheet of paper is placed in the path of a beam from a radioactive source. The emissions that pass through the paper consist of",
+        "opts": {
+            "q0": "A. alpha particles and gamma rays",
+            "q1": "B. alpha and beta particles",
+            "q2": "C. beta particles and gamma rays",
+            "q3": "D. alpha particles only"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "11. Which of the following features of a human skeleton can be determined by carbon-dating?",
+        "opts": {
+            "q0": "A. Height",
+            "q1": "B. Mass",
+            "q2": "C. Age",
+            "q3": "D. Race"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "12. Which of the following statements about ideal gases is/are correct? I. The cohesive forces between their particles are negligible II. They have no definite volume, but occupy the volume of their containers. They are not compressible IV. Their particles collide with loss of energy",
+        "opts": {
+            "q0": "A. I only",
+            "q1": "B. I and II only",
+            "q2": "C. I, II and III only",
+            "q3": "D. I, II, III and IV"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "13. P<sub>total</sub> = P<sub>1</sub> + P<sub>2</sub> + P<sub>3</sub> +.............. P<sub>n</sub>, where P<sub>total</sub>, is the pressure of a mixture of gases. The equation above is an expression of",
+        "opts": {
+            "q0": "A. Graham’s law",
+            "q1": "B. Gay-Lussac’s law",
+            "q2": "C. Boyle’s law",
+            "q3": "D. Dalton’s law"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "14. If 1.0 dm<sup>3</sup> of gas X diffuses through a porous plug in 60 seconds while the same volume of hydrogen diffuses in 15 seconds under the same condition, calculate the relative molecular mass of X. [H = 1.0]",
+        "opts": {
+            "q0": "A. 4.0",
+            "q1": "B. 8.0",
+            "q2": "C. 16",
+            "q3": "D. 32"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "15. Which of the following pairs of reagents react to produce hydrogen?",
+        "opts": {
+            "q0": "A. Zinc and concentrated trioxonitrate (V) acid",
+            "q1": "B. Water and calcium dicarbide",
+            "q2": "C. Copper and dilute hydrochloric acid",
+            "q3": "D. Magnesium and dilute tetraoxosulphate (VI) acid"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "16. A mixture of calcium chloride and calcium trioxocarbonate (IV) in water can be separated by",
+        "opts": {
+            "q0": "A. evaporation",
+            "q1": "B. sublimation",
+            "q2": "C. distillation",
+            "q3": "D. filtration"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "17. Which of the following would dissolve in warm dilute H<sub>2</sub>SO<sub>4</sub> without effervescence, to give a blue solution?",
+        "opts": {
+            "q0": "A. Copper turnings",
+            "q1": "B. Copper (II) trioxocarbonate (IV)",
+            "q2": "C. Copper (II) oxide",
+            "q3": "D. Copper alloy"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "18. In which of the reactions represented by the following equations is HN03 behaving as a typical acid?",
+        "opts": {
+            "q0": "A. CaO + 2HNO<sub>3</sub> &rarr; Ca(NO<sub>3</sub>)<sub>2</sub> + H<sub>2</sub>O",
+            "q1": "B. Cu + 4HNO<sub>3</sub> &rarr; Cu(NO<sub>3</sub>)<sub>2</sub> + 2H<sub>2</sub>O + 2NO<sub>2</sub>",
+            "q2": "C. S + 6HNO<sub>3</sub> &rarr; H<sub>2</sub>SO<sub>4</sub> + 6NO<sub>2</sub> + 2H<sub>2</sub>O",
+            "q3": "D. P + 5HNO<sub>3</sub> &rarr; H<sub>3</sub>PO<sub>4</sub> + 5NO<sub>2</sub> + H<sub>2</sub>O"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+        "qs": "    Use the following information to answer Questions 19 and 20. A gas was evolved when a sample of gastric juice reacted with sodium trioxocarbonate (IV)" 
+    {
+        "qs": "19. The gas evolved was",
+        "opts": {
+            "q0": "A. NH<sub>3</sub>",
+            "q1": "B. SO<sub>2</sub>",
+            "q2": "C. HCI",
+            "q3": "D. CO<sub>2</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "20. It can   be concluded that gastric juice",
+        "opts": {
+            "q0": "A. contains enzymes",
+            "q1": "B. is acidic",
+            "q2": "C. is a mixture",
+            "q3": "D. has pH value of 7"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "21. What does AH represent in the following equation? Cl<sub>(g)</sub> +  e<sup>-</sup> &rarr;  Cl<sup>-</sup><sub>(g)</sub>; H = -363 kJmol<sup>-1</sup>",
+        "opts": {
+            "q0": "A. Ionization energy",
+            "q1": "B. Electron affinity",
+            "q2": "C. Dissociation energy",
+            "q3": "D. Heat of atomization"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "22. Consider the following equation: Ag<sup>+</sup><sub>(aq)</sub> + Cl<sup>-</sup> &rarr; Ag<sup>+</sup>CI<sup>-</sup><sub>(s)</sub>; H = -65.7 kJmol<sup>-</sup> From the equation, it can be deduced that",
+        "opts": {
+            "q0": "A. direct combination rs involved and the reaction is endothermic",
+            "q1": "B. a solid is formed and heat is evolved",
+            "q2": "C. activation energy is high and a catalyst is required",
+            "q3": "D. the reaction is endothermic and occurs at high temperature"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "23. A reaction is represented by the equation below. A<sub>2</sub><sub>(g)</sub> + B<sub>2</sub><sub>(g)</sub> &rarr; 2AB<sub>(g)</sub>; H = xkJmol<sup>-1</sup> Which of the following statements about the system is correct?",
+        "opts": {
+            "q0": "A. The forward reaction is exothermic",
+            "q1": "B. The reaction goes to completion at equilibrium",
+            "q2": "C. Pressure has no effect on the equilibrium mixture",
+            "q3": "D. At equilibrium increase in temperature favours the reverse reaction"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "24. What is the oxidation number of nitrogen in AI(N<sub>3</sub>)<sub>3</sub>?",
+        "opts": {
+            "q0": "A. +1",
+            "q1": "B. +3",
+            "q2": "C. +5",
+            "q3": "D. +6"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "25. What is oxidized in the reaction represented by the following equation? 3Cu + 8HNO<sub>3</sub> &rarr; 3Cu(NO<sub>3</sub>)<sub>2</sub> + 2NO + 4H<sub>2</sub>O",
+        "opts": {
+            "q0": "A. Oxygen",
+            "q1": "B. Hydrogen",
+            "q2": "C. Nitrogen",
+            "q3": "D. Copper"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "26. Which of the following substances decomposes when an electric current is passed through it?",
+        "opts": {
+            "q0": "A. Glucose solution",
+            "q1": "B. Zinc rod",
+            "q2": "C. Hydrochloric acid",
+            "q3": "D. Tetrachloromethane"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "27. A concentrated solution containing H<sup>+</sup>, Cu<sup>2+</sup>, OH<sup>-</sup> and Cl<sup>-</sup> was electrolysed using platinum electrodes. Which of the ions will be discharged at the cathode?",
+        "opts": {
+            "q0": "A. H<sup>+</sup>",
+            "q1": "B. Cu<sup>2+</sup>",
+            "q2": "C. OH<sup>-</sup>",
+            "q3": "D. Cl<sup>-</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "28. Given that the order of reactivity of four metals is P > Q > R > S, which of the following reactions is feasible?",
+        "opts": {
+            "q0": "A. S + P<sup>+</sup> &rarr; P + S<sup>+</sup>",
+            "q1": "B. Q + S<sup>+</sup> &rarr; S + Q<sup>+</sup>",
+            "q2": "C. R + P<sup>+</sup> &rarr; P + R<sup>+</sup>",
+            "q3": "D. S + Q<sup>+</sup> &rarr; Q + S<sup>+</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "29. In the electrolysis of CuSO<sub>4</sub><sub>(aq)</sub> using copper electrodes, the reaction at the anode is",
+        "opts": {
+            "q0": "A. discharge of SO<sub>4</sub><sup>2-</sup>",
+            "q1": "B. discharge of OH<sup>-</sup>",
+            "q2": "C. dissolution of copper electrode",
+            "q3": "D. evolution of oxygen"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "30. A feasible cell was constructed by joining the two half cells below. Cu<sup>2+</sup> + 2e<sup>-</sup> &rarr; Cu<sub>(s)</sub>. E<sup>o</sup> = +0.34v; Zn<sup>2+</sup><sub>(aq)</sub> + 2e<sup>-</sup> &rarr; Zn<sub>(s)</sub> E<sup>o</sup> = -0.76v What is the standard e.m.f. of the cell?",
+        "opts": {
+            "q0": "A. -1.1V",
+            "q1": "B. -0.42V",
+            "q2": "C. +0.42V",
+            "q3": "D. +1.1V"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "31. Hydrogenation of butene yields",
+        "opts": {
+            "q0": "A. butyne",
+            "q1": "B. butane",
+            "q2": "C. pentene",
+            "q3": "D. butanol"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "32. Benzene produces more soot than ethene on burning because benzene",
+        "opts": {
+            "q0": "A. has a higher molar mass",
+            "q1": "B. has a higher degree of unsaturation",
+            "q2": "C. undergoes both substitution and addition reactions",
+            "q3": "D. is a liquid at room temperature"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "33. <br><img src='assets/imgs/chemistry/chem_2001_sectionb_qst33_1.jpg'> is a/an",
+        "opts": {
+            "q0": "A. tertiary alkanol",
+            "q1": "B. alkanone",
+            "q2": "C. alkanoic acid",
+            "q3": "D. alkanoate"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "34. Which of the following fractions of crude oil is likely to contain the hydrocarbon C<sub>12</sub>H<sub>26</sub>?",
+        "opts": {
+            "q0": "A. Kerosene",
+            "q1": "B. Naphtha",
+            "q2": "C. Gas oil",
+            "q3": "D. Fuel oil"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "35. What is the IUPAC name of the compound below? <br><img src='assets/imgs/chemistry/chem_2001_sectionb_qst35_1.jpg'>",
+        "opts": {
+            "q0": "A. 1-aminoethanoicacid",
+            "q1": "B. 1-aminomethanoic acid",
+            "q2": "C. 2-aminoethanoic acid",
+            "q3": "D. 2-aminomethanoic acid"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "36. Which of the following compounds exhibits both structural isomerism and cis-trans isomerism?",
+        "opts": {
+            "q0": "A. C<sub>4</sub>H<sub>8</sub>",
+            "q1": "B. CH<sub>3</sub>OCH<sub>3</sub>",
+            "q2": "C. C<sub>5</sub>H<sub>12</sub>",
+            "q3": "D. C<sub>6</sub>H<sub>6</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "37. If X reacts with excess acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> to produce an alkanoic acid, X is",
+        "opts": {
+            "q0": "A. Oxidizing agent",
+            "q1": "B. Strong acid",
+            "q2": "C. Dehydrating agent",
+            "q3": "D. Catalyst"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "38. One of the products of combustion of pentane in excess air is",
+        "opts": {
+            "q0": "A. pentanol",
+            "q1": "B. pentene",
+            "q2": "C. nitrogen (II) oxide",
+            "q3": "D. carbon (IV) oxide"
+        },
+        "ans": "D",
+        "sel": ""
+    }, 
+    {
+        "qs": "39. Which of the following polymers contains nitrogen?",
+        "opts": {
+            "q0": "A. Nylon",
+            "q1": "B. Polyvinyl chloride",
+            "q2": "C. Polyethene",
+            "q3": "D. Cellulose"
+        },
+        "ans": "-",
+        "sel": ""
+    },
+    {
+        "qs": "40. What is the function of H2S04 in the following reaction? C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> &rarr; 12C + 11H<sub>2</sub>O",
+        "opts": {
+            "q0": "A. Oxidizing agent",
+            "q1": "B. Strong acid",
+            "q2": "C. Dehydrating agent",
+            "q3": "D. Catalyst"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "41. Which of the following establishments uses the process of fermentation in its operation?",
+        "opts": {
+            "q0": "A. Fertilizer plant",
+            "q1": "B. Textile industry",
+            "q2": "C. Brewery",
+            "q3": "D. Soap manufacturing industry"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "42. Sugars can be hydrolyzed at room temperature by the action of",
+        "opts": {
+            "q0": "A. mineral acids",
+            "q1": "B. strong bases",
+            "q2": "C. enzymes",
+            "q3": "D. oxidants"
+        },
+        "ans": "-",
+        "sel": ""
+    },
+    {
+        "qs": "43. Which of the following constitutes an advantage in the use of hard water?",
+        "opts": {
+            "q0": "A. Formation of scum with soap",
+            "q1": "B. Furring of kettles",
+            "q2": "C. Blockage of water pipes",
+            "q3": "D. Formation of strong bones"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "44. Which of the following compounds is readily soluble in water?",
+        "opts": {
+            "q0": "A. CuO",
+            "q1": "B. AgCI",
+            "q2": "C. Na<sub>2</sub>SO<sub>4</sub>",
+            "q3": "D. CaCO<sub>3</sub>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "45. Calculate the mass of ZnSO<sub>4</sub> produced when excess of ZnCO<sub>3</sub> is added to 50.0 cm<sup>3</sup> of 4.00 mol dm<sup>-3</sup> H<sub>2</sub>SO<sub>4</sub>. The equation for the reaction is: ZnCO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> &rarr; ZnSO<sub>4</sub> + CO<sub>2</sub> + H<sub>2</sub>O [ZnSO<sub>4</sub> = 161 g mol<sup>-1</sup>]",
+        "opts": {
+            "q0": "A. 0.200 g",
+            "q1": "B. 1.29 g",
+            "q2": "C. 32.2 g",
+            "q3": "D. 39.0 g"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "46. If 10 cm<sup>3</sup> of distilled water is added to 10 cm3 of an aqueous salt solution, the concentration of the solution",
+        "opts": {
+            "q0": "A. increases",
+            "q1": "B. decreases",
+            "q2": "C. remains constant",
+            "q3": "D. doubles"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "47. Which of the following reactions represents the change that occurs when a photographic film is exposed to sunlight?",
+        "opts": {
+            "q0": "A. Ag &rarr; Ag<sup>+</sup> + e<sup>-</sup>",
+            "q1": "B. Ag<sup>+</sup> + e<sup>-</sup> &rarr; Ag",
+            "q2": "C. 2Ag + Br<sub>2</sub> &rarr; 2AgBr",
+            "q3": "D. Ag<sup>+</sup> + Br<sup>-</sup> &rarr; AgBr"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "48. The main type of reaction that occurs in the blast furnace during the extraction of iron is",
+        "opts": {
+            "q0": "A. reduction reaction",
+            "q1": "B. decomposition",
+            "q2": "C. exothermic reaction",
+            "q3": "D. combustion"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "49. Acidic industrial waste can be treated with",
+        "opts": {
+            "q0": "A. lime",
+            "q1": "B. brine",
+            "q2": "C. water",
+            "q3": "D. enthanol"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "50. Waste plastics accumulate in the soil and pollute the environment because plastic materials are",
+        "opts": {
+            "q0": "A. insoluble in water",
+            "q1": "B. non-biodegradable",
+            "q2": "C. easily affected by heat",
+            "q3": "D. inflammable"
+        },
+        "ans": "B",
+        "sel": ""
+    }
+]

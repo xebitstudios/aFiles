@@ -1,0 +1,552 @@
+[
+    {
+        "qs": "1. Which of the following scientists discovered the neutron?",
+        "opts": {
+            "q0": "A. Ernest Rutherford",
+            "q1": "B. J. J. Thompson",
+            "q2": "C. James Chadwick",
+            "q3": "D. R. A. Millikan"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "2. How many proton does <sup>40</sup><sub>20</sub>Ca contain?",
+        "opts": {
+            "q0": "A. 20",
+            "q1": "B. 30",
+            "q2": "C. 40",
+            "q3": "D. 60",
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "3. If 100 atoms of element X contains 70 atoms of <sup>9</sup>X and 30 atoms of <sup>11</sup>X, calculate the relative atomic mass of X.",
+        "opts": {
+            "q0": "A. 9.6",
+            "q1": "B. 10.6",
+            "q2": "C. 11.6",
+            "q3": "D. 20.0"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+0.     {
+        "qs": "4. Consider the reaction represented by the equation: <sup>298</sup><sub>92</sub>U + <sup>1</sup><sub>0</sub>n &rarr; <sup>139</sup><sub>56</sub>Ba + <sup>94</sup><sub>36</sub>Kr + <sup>1</sup><sub>0</sub>n",
+        "opts": {
+            "q0": "A. nuclear fission",
+            "q1": "B. nuclear fusion",
+            "q2": "C. radioactive decay",
+            "q3": "D. sponteneous disintegration"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "5. How many orbitals are associated with the p-sub energy level?",
+        "opts": {
+            "q0": "A. 2",
+            "q1": "B. 3",
+            "q2": "C. 5",
+            "q3": "D. 6"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "6. Which of the following elements has the electronic configuration: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>1</sup> (<sub>11</sub>Na, <sub>13</sub>Al, <sub>14</sub>N, <sub>16</sub>S)",
+        "opts": {
+            "q0": "A. Al",
+            "q1": "B. Na",
+            "q2": "C. N",
+            "q3": "D. S"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "7. The following properties are characteristics of transition elements except A. formation of complex ions",
+        "opts": {
+            "q0": "A. formation of complex ions",
+            "q1": "B. fixed oxidation states",
+            "q2": "C. formation of coloured compounds",
+            "q3": "D. catalytic abilities"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "8. Which of the following ions is isoelectronic with neon? (<sub>3</sub>Li, <sub>9</sub>F, <sub>10</sub>Ne, <sub>17</sub>Cl, <sub>19</sub>K)",
+        "opts": {
+            "q0": "A. Cl<sup>-</sup>",
+            "q1": "B. F<sup>-</sup>",
+            "q2": "C. K<sup>+</sup>",
+            "q3": "D. Li<sup>+</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "9. Which of the following electronic configurations correctly represents an element in period 3 of the periodic table?",
+        "opts": {
+            "q0": "A. 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>",
+            "q1": "B. 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>",
+            "q2": "C. 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>4</sup>",
+            "q3": "D. 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>1</sup>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "10. An element Q forms a compound QCl<sub>5</sub>. In which group of the periodic table is Q?",
+        "opts": {
+            "q0": "A. I",
+            "q1": "B. III",
+            "q2": "C. V",
+            "q3": "D. VII"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "11. Which of the following statements about the behaviour of the atom is correct?",
+        "opts": {
+            "q0": "A. Atomic size decreases down the group",
+            "q1": "B. Atomic size increases across the period",
+            "q2": "C. Anions are smaller than the parent atom",
+            "q3": "D. Cations are smaller than the parent atom"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "12. Which of the following arrangements is in order of increasing ionization energy?",
+        "opts": {
+            "q0": "A. Al, Si, P, S",
+            "q1": "B. Si, Al, S, P",
+            "q2": "C. S, P, Si, Al",
+            "q3": "D. P, Si, S, Al"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "13. Which of the following properties of covalent compounds is not correct? They",
+        "opts": {
+            "q0": "A. are non-electrolytes",
+            "q1": "B. are mostly gaseous and volatile liquids",
+            "q2": "C. have low melting point",
+            "q3": "D. have high melting point"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "14. Which of the following molecules is not linear in shape?",
+        "opts": {
+            "q0": "A. CO<sub>2</sub>",
+            "q1": "B. O<sub>2</sub>",
+            "q2": "C. NH<sub>3</sub>",
+            "q3": "D. HCl"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "15. In bonded atoms, increase in electronegativity difference",
+        "opts": {
+            "q0": "A. increases polarity",
+            "q1": "B. decreases polarity",
+            "q2": "C. has no effect on polarity",
+            "q3": "D. brings the polarity to zero"
+        },
+        "ans": "B",
+        "sel": ""
+    },\
+    {
+        "qs": "16. The number of particles in one mole of a chemical compound is the",
+        "opts": {
+            "q0": "A. atomic number",
+            "q1": "B. Avogadro's number",
+            "q2": "C. mass number",
+            "q3": "D. oxidation number"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "17. How many molecules are there in 14g of nitrogen at s.t.p.? (N = 14, Avogadro's constant = 6.02 x 10<sup>23</sup> mol<sup>-1</sup>)",
+        "opts": {
+            "q0": "A. 6.02 x 10<sup>23</sup>",
+            "q1": "B. 3.01 x 10<sup>23</sup>",
+            "q2": "C. 8.43 x 10<sup>24</sup>",
+            "q3": "D. 1.20 x 10<sup>24</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "18. Consider the reaction represented by the equation: 2NaHCO<sub>3</sub> &rarr; Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> What is the mass of sodium trioxocarbonate (IV) produced by the complete decomposition of 33.6 g of sodium hydrogen trioxocarbonate(IV)? (NaHCO<sub>3</sub> = 84 Na<sub>2</sub>CO<sub>3</sub> = 106)",
+        "opts": {
+            "q0": "A. 10.6g",
+            "q1": "B. 16.8g",
+            "q2": "C. 21.2g",
+            "q3": "D. 42.4g"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "19. What is the percentage by weight of calcium in Ca(OCI)<sub>2</sub>? (Ca = 40, Cl = 35.5, O= 16)",
+        "opts": {
+            "q0": "A. 28.0%",
+            "q1": "B. 31.6%",
+            "q2": "C. 143.8%",
+            "q3": "D. 44.5%"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "20. Which of the following gases is lighter than air?",
+        "opts": {
+            "q0": "A. HCl",
+            "q1": "B. CO<sub>2</sub>",
+            "q2": "C. SO<sub>2</sub>",
+            "q3": "D. NH<sub>3</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "21. What is the value of -14<sup>o</sup>C on the Kelvin temperature scale?",
+        "opts": {
+            "q0": "A. 259K",
+            "q1": "B. 259<sup>o</sup>K",
+            "q2": "C. 287K",
+            "q3": "D. 287<sup>o</sup>K"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "22. Which of the following expressions correctly represents Charles’ law?",
+        "opts": {
+            "q0": "A. PV = K",
+            "q1": "B. R &prop; 1/P",
+            "q2": "C. PV = RT",
+            "q3": "D. V = KT"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "23. In a mixture of gases which do not react chemically together, the pressure exerted by the individual gases is called",
+        "opts": {
+            "q0": "A. atmospheric pressure",
+            "q1": "B. partial pressure",
+            "q2": "C. total pressure",
+            "q3": "D. vapour pressure"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "24. Consider the changes in state of matter as represented in the sketch. Stage X represent the process of <br><img src='assets/imgs/chemistry/chem_2009_sectionb_qst24_1.jpg'>",
+        "opts": {
+            "q0": "A. boiling",
+            "q1": "B. condensation",
+            "q2": "C. melting",
+            "q3": "D. sublimation"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "25. In yhe chemical reaction. H is positive when",
+        "opts": {
+            "q0": "A. H<sub>(product)</sub> > H<sub>(reactant)</sub>",
+            "q1": "B. H<sub>(product)</sub> < H<sub>(reactant)</sub>",
+            "q2": "C. H<sub>(product)</sub> = H<sub>(reactant)</sub>",
+            "q3": "D. H<sub>(product)</sub> + Zero"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "26. Consider the reaction represented by the following equqtion H<sub>2</sub><sub>(g)</sub> + 1/2O<sub>2</sub><sub>(g)</sub> &rarr; H<sub>2</sub>O<sub>(g)</sub> H = -285.8kJmol<sub>-1</sub> H represents the enthalpy of",
+        "opts": {
+            "q0": "A. formation",
+            "q1": "B. hydration",
+            "q2": "C. neutralization",
+            "q3": "D. solution"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "27.  Salts that contain water of crystallization are said to be",
+        "opts": {
+            "q0": "A. anhydrous",
+            "q1": "B. deliquescent",
+            "q2": "C. efflorescent",
+            "q3": "D. hydrated"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "28. Which of the following dilute acids does not react with metals to liberate hydrogen?",
+        "opts": {
+            "q0": "A. CH<sub>3</sub>COOH<-------------------------------sub>(aq)</sub>",
+            "q1": "B. HCl<sub>(aq)</sub>",
+            "q2": "C. H<sub>2</sub>SO<sub>4</sub><sub>(aq)</sub>",
+            "q3": "D. HNO<sub>3</sub><sub>(aq)</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "29. Which of the following compound is not a double salt?",
+        "opts": {
+            "q0": "A. Zn(OH)NO<sub>3</sub>",
+            "q1": "B. KAl(SO<sub>4</sub>)<sub>2</sub>",
+            "q2": "C. KCr(SO<sub>4</sub>)<sub>2</sub>",
+            "q3": "D. (NH<sub>4</sub>)<sub>2</sub>Fe(SO<sub>4</sub>)<sub>2</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "30. Which of the following hydroxides will readily dissolve in water?",
+        "opts": {
+            "q0": "A. Cu(OH)<sub>2</sub>",
+            "q1": "B. NaOH",
+            "q2": "C. Pb(OH)<sub>2</sub>",
+            "q3": "D. Zn(OH)<sub>2</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "31.  Which of the following acids forms normal salt only?",
+        "opts": {
+            "q0": "A. Tetraoxosulphate(VI) acid",
+            "q1": "B. Tetraoxosulphate(V) acid",
+            "q2": "C. Trioxonitrate(V) acid",
+            "q3": "D. Trioxosulphate(IV) acid"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "32. A solution that contains as much solute as it can dissolve at a given temperature is said to be",
+        "opts": {
+            "q0": "A. concentrated",
+            "q1": "B. satursated",
+            "q2": "C. supersaturated",
+            "q3": "D. unsaturated"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "33. Which of the following salts is insoluble in water?",
+        "opts": {
+            "q0": "A. Pb(NO<sub>3</sub>)<sub>2</sub>",
+            "q1": "B. Na<sub>2</sub>CO<sub>3</sub>",
+            "q2": "C. AgNO<sub>3</sub>",
+            "q3": "D. AgCl"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "34. W ich of the following statements is correct? The solubility of A",
+        "opts": {
+            "q0": "A. gases increases with increase in temperature",
+            "q1": "B. gases decreases with increase in temperature",
+            "q2": "C. most solid solutes decreases with increase in temperature",
+            "q3": "D. most solid solutes is constant"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "35. A catalyst increases the rate of chemical reaction by",
+        "opts": {
+            "q0": "A. decreasing the temperature of the reaction",
+            "q1": "B. decreasing the activation energy of the raction",
+            "q2": "C. increasing the surface area of the reactants",
+            "q3": "D. deceasing the surface area of the products"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "36. V lich of the following factors will affect the rate of the reaction represented by the equation? 2HCl<sub>(aq)</sub> + CaCO<sub>3</sub><sub>(s)</sub>  &rarr; CaCl<sub>2</sub><sub>(aq)</sub> = H<sub>2</sub>O<sub>(l)</sub> + CO<sub>2</sub><sub>(g)</sub> I. Pressure II. Concentration III. Nature of reactant IV. Temperature",
+        "opts": {
+            "q0": "A. I and II only",
+            "q1": "B. II, III and IV only",
+            "q2": "C. I, II, III only",
+            "q3": "D. I, II, III and IV"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "37. Which of the following substances is the anode in the dry Leclanche cell?",
+        "opts": {
+            "q0": "A. Carbon rod",
+            "q1": "B. Muslin bad",
+            "q2": "C. The seal",
+            "q3": "D. Zinc container"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "38. Consider the reaction represented by the equation: 2H<sub>2</sub>SO<sub>4</sub><sub>(aq)</sub> + C<sub>(s)</sub> &rarr; 2H<sub>2</sub>O<sub>(l)</sub> + 2SO<sub>2</sub><sub>(g)</sub> + CO<sub>2</sub><sub>(g)</sub> 2H<sub>2</sub>SO<sub>4</sub> is acting as",
+        "opts": {
+            "q0": "A. a catalyst",
+            "q1": "B. an oxidizing agent",
+            "q2": "C. a reducing agent",
+            "q3": "D. a sulphonating agent"
+        },
+        "ans": "C",
+        "sel": ""
+    }, 
+    {
+        "qs": "39. Which of the following oxides of nitrogen has oxidation number of + 1 ?",
+        "opts": {
+            "q0": "A. KNO<sub>3</sub>",
+            "q1": "B. N<sub>2</sub>O",
+            "q2": "C. N<sub>2</sub>O<sub>3</sub>",
+            "q3": "D. NO"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "40. The separation of petroleum fractions depends on the differences in their",
+        "opts": {
+            "q0": "A. boiling points",
+            "q1": "B. molar masses",
+            "q2": "C. melting points",
+            "q3": "D. solubilities"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "41. Which of the following raw materials is used in the plastic industry?",
+        "opts": {
+            "q0": "A. Calcium",
+            "q1": "B. Ethene",
+            "q2": "C. Hydrogen",
+            "q3": "D. Methane"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "42. The products of reaction between C<sub>2</sub>H<sub>5</sub>OH and concentrated H<sub>2</sub>SO<sub>4</sub> at 170<sup>o</sup>C is",
+        "opts": {
+            "q0": "A. (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>SO<sub>4</sub>",
+            "q1": "B. CH<sub>3</sub>CH<sub>2</sub>HSO<sub>4</sub>",
+            "q2": "C. (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>O",
+            "q3": "D. CH<sub>2</sub> = CH<sub>2</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "43. When protein is heated to a high temperature it under goes",
+        "opts": {
+            "q0": "A. condensation",
+            "q1": "B. denaturation",
+            "q2": "C. hydrolysis",
+            "q3": "D. polymerization"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "44. What is the molecular formular of a compound with emperical formular CH<sub>2</sub>O and vapour density of 90? (H = 1, C = 12, O = 16)",
+        "opts": {
+            "q0": "A. C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>",
+            "q1": "B. C<sub>4</sub>H<sub>8</sub>O<sub>3</sub>",
+            "q2": "C. C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>",
+            "q3": "D. C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "45. What is the product of the reaction between propene and 1 mole of hydrogen iodide",
+        "opts": {
+            "q0": "A. CH<sub>3</sub>CHICH<sub>3</sub>",
+            "q1": "B. CH<sub>3</sub>CH<sub>2</sub>CHI<sub>2</sub>",
+            "q2": "C. CH<sub>3</sub>CH<sub>2</sub>CI<sub>3</sub>",
+            "q3": "D. CH<sub>3</sub>CHICH<sub>2</sub>I"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "46. Ethanol reacts with excess acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>",
+        "opts": {
+            "q0": "A. ethanal",
+            "q1": "B. ethane",
+            "q2": "C. ethanoic acid",
+            "q3": "D. ethylethanoate"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "47. Dry hydrogen chloride when dissolved in methylbenzene",
+        "opts": {
+            "q0": "A. turns blue litmus paper red",
+            "q1": "B. turns red litmus paper blue",
+            "q2": "C. does not affect litmus paper",
+            "q3": "D. bleaches litmus paper"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "48. A consequence of global warming is",
+        "opts": {
+            "q0": "A. pollution",
+            "q1": "B. flooding",
+            "q2": "C. increased humidity",
+            "q3": "D. low rainfall"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "49. The major product in the solvay process is",
+        "opts": {
+            "q0": "A. NaOH",
+            "q1": "B. Na<sub>2</sub>CO<sub>3</sub>",
+            "q2": "C. NH<sub>3</sub>",
+            "q3": "D. H<sub>2</sub>SO<sub>4</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "50. Which of the following alloys does not contain copper? I. Brass II. Bronze III. Steel",
+        "opts": {
+            "q0": "A. I only",
+            "q1": "B. II only",
+            "q2": "C. III only",
+            "q3": "D. II and III only"
+        },
+        "ans": "C",
+        "sel": ""
+    }
+]

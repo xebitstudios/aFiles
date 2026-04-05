@@ -1,0 +1,553 @@
+[
+    {
+        "qs": "1. The mass spectrometer can be used to measure mass of",
+        "opts": {
+            "q0": "A. an atom",
+            "q1": "B. an electron",
+            "q2": "C. a proton",
+            "q3": "D. a neutron"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "2. Find the number of neutrons in an atom represented by <sup>45</sup><sub>21</sub>X",
+        "opts": {
+            "q0": "A. 21",
+            "q1": "B. 24",
+            "q2": "C. 45",
+            "q3": "D. 66",
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "3. The valence electrons in a chloride ion are (<sub>17</sub>Cl)",
+        "opts": {
+            "q0": "A. 2p electrons 0nly",
+            "q1": "B. 3s and 3p electrons only",
+            "q2": "C. 3p and 3d electrons only",
+            "q3": "D. 3p electrons only"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "4. What is the atomic number of an element whose cation Y<sup>+</sup> has the electronic configuration 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup>",
+        "opts": {
+            "q0": "A. 9",
+            "q1": "B. 10",
+            "q2": "C. 11",
+            "q3": "D. 12"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "5. Atom <sup>234</sup><sub>88</sub>Q decay by alpha emission to give an atom R. The atomic number and mass number of atom R are respectively",
+        "opts": {
+            "q0": "A. 86 and 230",
+            "q1": "B. 87 and 234",
+            "q2": "C. 88 and 233",
+            "q3": "D. 90 and 238"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "6. Which of the following statements is not true of halogens?",
+        "opts": {
+            "q0": "A. They exist in different physical states",
+            "q1": "B. They exist as diatomic molecules",
+            "q2": "C. Their ionic radii decrease down the group",
+            "q3": "D. Their melting and boiling points increase down the group"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "7. Elements in the same group of the periodic table have",
+        "opts": {
+            "q0": "A. the same number of valence electrons",
+            "q1": "B. the same number of electron shells",
+            "q2": "C. different chemical behaviour",
+            "q3": "D. the same atomic size"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "8. Consider the following elements and their electron configurations W: 1s<sup>2</sup> 2s<sup>2</sup> X: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> Y: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> Z: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>2</sup>",
+        "opts": {
+            "q0": "A. W and X only",
+            "q1": "B. Y and Z only",
+            "q2": "C. W and Y only",
+            "q3": "D. W, Y and Z only"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "9. Arrange the following elements in order of increasing electron affinity: Br<sub>2</sub>, Cl<sub>2</sub>, I<sub>2</sub>, F<sub>2</sub>.",
+        "opts": {
+            "q0": "A. I<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub>, F<sub>2</sub>",
+            "q1": "B. I<sub>2</sub>, Br<sub>2</sub>, Cl<sub>2</sub>, F<sub>2</sub>",
+            "q2": "C. Cl<sub>2</sub>, I<sub>2</sub>, Br<sub>2</sub>, F<sub>2</sub>",
+            "q3": "D. Br<sub>2</sub>, Cl<sub>2</sub>, I<sub>2</sub>, F<sub>2</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "10. Water molecules are held together by",
+        "opts": {
+            "q0": "A. covalent bond",
+            "q1": "B. hydrogen bond",
+            "q2": "C. ionic forces",
+            "q3": "D. van der Waals forces"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "11. The compound formed by two elements X and Y with the electronic configuration 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup> and 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> respectively is",
+        "opts": {
+            "q0": "A. XY",
+            "q1": "B. YX",
+            "q2": "C. X<sub>2</sub>Y<sub>3</sub>",
+            "q3": "D. Y<sub>2</sub>X<sub>2</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "12. The force of attraction between covalent molecules is",
+        "opts": {
+            "q0": "A. dative bonding",
+            "q1": "B. hydrogen bonding",
+            "q2": "C. ionic force",
+            "q3": "D. van der Waals force"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "13. What is the mass of 6.02 x 10<sup>24</sup> atoms of magnesium? (Mg = 24, Avogadroconstant = 6.02 x 10<sup>23</sup> atoms mol<sup>-1</sup>)",
+        "opts": {
+            "q0": "A. 240g",
+            "q1": "B. 24]g",
+            "q2": "C. 2.4g",
+            "q3": "D. 0.24g"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "14. Which of the following compounds with the corresponding masses contain the highest percentage of nitrogen? (N = 14)",
+        "opts": {
+            "q0": "A. NH<sub>3</sub> = 17",
+            "q1": "B. NH<sub>4</sub>Cl = 53.5",
+            "q2": "C. NH<sub>4</sub>NO<sub>3</sub> = 80",
+            "q3": "D. (NH<sub>3</sub>)<sub>2</sub>SO<sub>4</sub> = 132"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "15. If 5.00cm<sup>3</sup> of 0.20 mol dm<sup>3</sup> Na<sub>2</sub>CO<sub>3</sub> was diluted with distilled water to obtain 250cm<sup>3</sup> solution, what is the concentration of the resulting solution?",
+        "opts": {
+            "q0": "A. 0.004 mol dm<sup>3</sup>",
+            "q1": "B. 0.02 mol dm<sup>3</sup>",
+            "q2": "C. 0.20 mol dm<sup>3</sup>",
+            "q3": "D. 0.40 mol dm<sup>3</sup>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "16. Consider the reaction represented by the following equation: Zn<sub>(s)</sub> + 2HCl<sub>(aq)</sub> &rarr; ZnCl<sub>2</sub><sub>(aq)</sub> + H<sub>2</sub><sub>(g)</sub>. What volume of hydrogen gas is produced at s.t.p when 3.25g of zinc reacts with excess dilute HCl? (Zn = 65, Molar gas volume at s.t.p = 22.4dm<sup>3</sup>)",
+        "opts": {
+            "q0": "A. 1.12 dm<sup>3</sup>",
+            "q1": "B. 2.24 dm<sup>3</sup>",
+            "q2": "C. 4.48 dm<sup>3</sup>",
+            "q3": "D. 8.96 dm<sup>3</sup>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "17. Which of the following gases has the lowest rate of diffusion under the same conditions of temperature and pressure? (H = 1, O = 16, Ne = 20, Cl = 35.5)",
+        "opts": {
+            "q0": "A. Chlorine",
+            "q1": "B. Hydrogen",
+            "q2": "C. Neon",
+            "q3": "D. Oxygen"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "18. In a fixed volume of a gas, an increase in temperature results in an increase in pressure due to an increase in the",
+        "opts": {
+            "q0": "A. number of collisions between the gas molecules",
+            "q1": "B. number of repulsion between the gas molecules",
+            "q2": "C. number of collisions between the gas molecules and the walls of the container",
+            "q3": "D. kinetic energy of the gas"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "19. When concentrated H<sub>2</sub>S0<sub>4</sub> is added to NaCl<sub>(s)</sub>, the gas evolved",
+        "opts": {
+            "q0": "A. bleaches damp blue litmus paper",
+            "q1": "B. forms a white precipitate with AgNO<sub>3</sub><sub>(aq)</sub>",
+            "q2": "C. forms a white preciptate with BaCl<sub>2</sub><sub>(aq)</sub>",
+            "q3": "D. turns moist red litmus paper blue"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "20. The collision theory proposes that",
+        "opts": {
+            "q0": "A. reactants collide more frequently to bring about reduction in the reaction rate",
+            "q1": "B. all collision of reactants are effective",
+            "q2": "C. reactants must collide with a certain minimum amount of energy to form products",
+            "q3": "D. the fewer collisions the faster the reaction rate"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "21. Diamond does not conduct electricity because it",
+        "opts": {
+            "q0": "A. has no free valence electrons",
+            "q1": "B. is a giant molecule",
+            "q2": "C. contains no bonded electrons",
+            "q3": "D. is a solid at room temperature"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "22. Which of the following set of equations could be used to represent the standard enthalpy of formation of glucose?",
+        "opts": {
+            "q0": "A. 6C<sub>(s)</sub> = 6H<sub>2</sub><sub>(g)</sub> + 3O<sub>2</sub><sub>(g)</sub> &rarr; C<sub>6</sub>H<sub>12</sub>O<sub>6</sub><sub>(s)</sub>",
+            "q1": "B. 6CO<sub>2</sub><sub>(g)</sub> + 6H<sub>2</sub>O<sub>(l)</sub> &rarr; C<sub>6</sub>H<sub>12</sub>O<sub>6</sub><sub>(s)</sub> + 6CO<sub>2</sub><sub>(g)</sub>",
+            "q2": "C. 6C<sub>(g)</sub> = 6H<sub>2</sub><sub>(g)</sub> + 3O<sub>2</sub><sub>(g)</sub> &rarr; C<sub>6</sub>H<sub>12</sub>O<sub>6</sub><sub>(s)</sub>",
+            "q3": "D. 6C<sub>(g)</sub> = 6H<sub>2</sub><sub>(g)</sub> + 3O<sub>2</sub><sub>(g)</sub> &rarr; C<sub>6</sub>H<sub>12</sub>O<sub>6</sub><sub>(aq)</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "23. The colour of phenolphthalein indicator in dilute HN0<sub>3</sub> is",
+        "opts": {
+            "q0": "A. colourless",
+            "q1": "B. orange",
+            "q2": "C. pink",
+            "q3": "D. purple"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "24. An aqueous solution of CaCl<sub>2</sub> is",
+        "opts": {
+            "q0": "A. acidic solution",
+            "q1": "B. alkaline solution",
+            "q2": "C. a buffer solution",
+            "q3": "D. a neutral solution"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "25. Which of the following compounds would dissolve in water to give a solution whose pH is less than 7?",
+        "opts": {
+            "q0": "A. Al(NO<sub>3</sub>)<sub>3</sub>",
+            "q1": "B. KNO<sub>3</sub>",
+            "q2": "C. N<sub>2</sub>O",
+            "q3": "D. NH<sub>3</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "26. Consider the reaction represnted by the equation below: KOH<sub>(aq)</sub> + HCl<sub>(aq)</sub> &rarr; KCl<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub>. What volume of 0.25 mole dm<sup>-3</sup> KOH would be required to completely neutralize 40cm<sup>3</sup> of 0.10 mol dm<sup>-3</sup> HCl",
+        "opts": {
+            "q0": "A. 40cm<sup>3</sup>",
+            "q1": "B. 32cm<sup>3</sup>",
+            "q2": "C. 24cm<sup>3</sup>",
+            "q3": "D. 16cm<sup>3</sup>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "27.  When 100cm<sup>3</sup> of a saturated solution of KClO<sub>3</sub> at 40<sup>o</sup>C is evaporated, 14g of the salt is recovered. What is the solution of KClO<sub>3</sub> at 40<sup>o</sup>C? (KClO<sub>3</sub> = 122.5)",
+        "opts": {
+            "q0": "A. 11.42 mol dm<sup>-3</sup>",
+            "q1": "B. 8.80 mol dm<sup>-3</sup>",
+            "q2": "C. 1.14 mol dm<sup>-3</sup>",
+            "q3": "D. 0.88 mol dm<sup>-3</sup>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "28. The high solubility of ethanol in water is due to its",
+        "opts": {
+            "q0": "A. low boiling point",
+            "q1": "B. low freezing point",
+            "q2": "C. covalent nature",
+            "q3": "D. hydrogen bonding"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "29. Consier the equilibrium reaction represented by the equation: 2SO<sub>2</sub><sub>(g)</sub> + O<sub>2</sub><sub>(g)</sub> &harr; 2SO<sub>3</sub><sub>(g)</sub> ?H = -197kJmoi<sup>-1</sup> At equilibrium, increase in the total pressure of the system brings about",
+        "opts": {
+            "q0": "A. decrease in the rate of the reaction of the system",
+            "q1": "B. decrease in the temperature of the system",
+            "q2": "C. increase in concentration of SO<sub>2</sub>",
+            "q3": "D. increase in concentration of SO<sub>2</sub>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    "qs": "Consider the energy profile diagram below and use it to answer questions 30 to 32. <br><img src='assets/imgs/chemistry/chem_2008_sectionb_qst0_1.jpg'>"
+    {
+        "qs": "30. Q represents",
+        "opts": {
+            "q0": "A. activation energy",
+            "q1": "B. activation complex",
+            "q2": "C. enthalpy change",
+            "q3": "D. heat content of the reaction"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "31.  Enthalpy change of the reaction is represented by",
+        "opts": {
+            "q0": "A. W",
+            "q1": "B. X",
+            "q2": "C. Z",
+            "q3": "D. Y"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "32. What type of reaction is represented by the energy diagram?",
+        "opts": {
+            "q0": "A. Endothermic",
+            "q1": "B. Exothermic",
+            "q2": "C. Redox",
+            "q3": "D. Neutralisation"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "33. In dry Leclanche cell, manganese (IV) oxide acts as",
+        "opts": {
+            "q0": "A. a reducing agent",
+            "q1": "B. binding agent",
+            "q2": "C. catalyst",
+            "q3": "D. depolarizer"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "34. Oxidation takes place at the anode during electrolysis because the anode",
+        "opts": {
+            "q0": "A. is deficient in electrons",
+            "q1": "B. is deficient in electrons",
+            "q2": "C. has excess electrons",
+            "q3": "D. has attraction for positive ions"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "35. Calculate the quantity of electricity passed when 0.4 A flows for 1 hour 20 minutes through an electrolytic cell.",
+        "opts": {
+            "q0": "A. 4800C",
+            "q1": "B. 3840C",
+            "q2": "C. 1920C",
+            "q3": "D. 32C"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "36. A mixture of kerosene and diesel oil can be separated by",
+        "opts": {
+            "q0": "A. crystallization",
+            "q1": "B. distillation",
+            "q2": "C. precipitation",
+            "q3": "D. sublimation"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "37. Which of the following compounds would not give a precipitate with ammoniacal AgNO<sub>3</sub> solution?",
+        "opts": {
+            "q0": "A. <br><img src='assets/imgs/chemistry/chem_2008_sectionb_qst37_1.jpg'>",
+            "q1": "B. <br><img src='assets/imgs/chemistry/chem_2008_sectionb_qst37_2.jpg'>",
+            "q2": "C. <br><img src='assets/imgs/chemistry/chem_2008_sectionb_qst37_3.jpg'>",
+            "q3": "D. <br><img src='assets/imgs/chemistry/chem_2008_sectionb_qst37_4.jpg'>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "38. When ethanol is heated with excess concentrated tetraoxosulphate (VI) acid, the organic product formed is",
+        "opts": {
+            "q0": "A. ethanal",
+            "q1": "B. ethanoic acid",
+            "q2": "C. ethane",
+            "q3": "D. ethene"
+        },
+        "ans": "B",
+        "sel": ""
+    }, 
+    {
+        "qs": "39. The hydrolysis of groundnut oil by potassium hydroxide is known as",
+        "opts": {
+            "q0": "A. hydrogenation",
+            "q1": "B. saponification",
+            "q2": "C. esterification",
+            "q3": "D. neutralization"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "40. What is the main type of reaction alkenes undergo?",
+        "opts": {
+            "q0": "A. Addition",
+            "q1": "B. Condensation",
+            "q2": "C. Elimination",
+            "q3": "D. Substitution"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "41. Arrange the following compounds in order of increasing boiling point. I. CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH II. CH<sub>3</sub>CH<sub>2</sub>OH III. CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH IV. CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>",
+        "opts": {
+            "q0": "A. I < II < IV < III",
+            "q1": "B. IV < III < II < I",
+            "q2": "C. I < II < III < IV",
+            "q3": "D. IV < II < I < III"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "42. The organic compound with the following structure represents <br><img src='assets/imgs/chemistry/chem_2008_sectionb_qst42_1.jpg'>",
+        "opts": {
+            "q0": "A. primary alkanol",
+            "q1": "B. secondary alkanol",
+            "q2": "C. tertiary alkanol",
+            "q3": "D. an alkanol"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "43. Consider the organic compound X with the following structure. <br><img src='assets/imgs/chemistry/chem_2008_sectionb_qst43_1.jpg'> The complete oxidation of X gives",
+        "opts": {
+            "q0": "A. propanal",
+            "q1": "B. propanoic acid",
+            "q2": "C. propanone",
+            "q3": "D. propene"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "44. What is the IUPAC name of tne compound with the following structure? <br><img src='assets/imgs/chemistry/chem_2008_sectionb_qst44_1.jpg'>",
+        "opts": {
+            "q0": "A. 2-methylbutene",
+            "q1": "B. 2-methylprop-2-ene",
+            "q2": "C. 2-methylprop-1-ene",
+            "q3": "D. but-1-ene"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "45. A hydrocarbon containing 88.9% carbon has the empirical formula (H = 1 C = 12)",
+        "opts": {
+            "q0": "A. CH",
+            "q1": "B. CH<sub>2</sub>",
+            "q2": "C. C<sub>2</sub>H<sub>3</sub>",
+            "q3": "D. C<sub>2</sub>H<sub>5</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "46. A solution of a salt was acidified with HCI. When a few drops of BaCI2 solution were added, a white precipitate was formed. Which of the following anions is present in the salt?",
+        "opts": {
+            "q0": "A. CO<sub>3</sub><sup>2-</sup>",
+            "q1": "B. NO<sub>3</sub><sup>-</sup>",
+            "q2": "C. SO<sub>4</sub><sup>2-</sup>",
+            "q3": "D. SO<sub>3</sub><sup>2-</sup>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "47. Which of the following substances causes the depletion of the ozone layer in the atmosphere?",
+        "opts": {
+            "q0": "A. Carbon(IV)oxide",
+            "q1": "B. Chlorofluorocarbon",
+            "q2": "C. Sulphur(IV)oxide",
+            "q3": "D. hydrocarbons"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "48. Chemicals that are produced in small quantities and with very high degree of purity are",
+        "opts": {
+            "q0": "A. bulk chemicals",
+            "q1": "B. fine chemicals",
+            "q2": "C. heavy chemicals",
+            "q3": "D. light chemicals"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "49. Aluminium is a good roofing material because it",
+        "opts": {
+            "q0": "A. is strong and does not conduct heat and electricity",
+            "q1": "B. readily absorbs light",
+            "q2": "C. forms an oxide film over its surface which prevents corrosion",
+            "q3": "D. is flexible and can conduct heat"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "50. Which of the following alloys is mainly used in making statues?",
+        "opts": {
+            "q0": "A. Brass",
+            "q1": "B. Bronze",
+            "q2": "C. Duralumin",
+            "q3": "D. Steel"
+        },
+        "ans": "B",
+        "sel": ""
+    }
+]

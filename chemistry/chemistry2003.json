@@ -1,0 +1,555 @@
+[
+    {
+        "qs": "1. The electronic configuration of an element is 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>3</sup>. Where is the element located in the periodic table?",
+        "opts": {
+            "q0": "A. Group III, period 3",
+            "q1": "B. Group III, period 5",
+            "q2": "C. Group V, period 3",
+            "q3": "D. Group V, period 5"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "2. The electrons that are most easily removed from  are in which orbital?",
+        "opts": {
+            "q0": "A. 1s",
+            "q1": "B. 2s",
+            "q2": "C. 2p",
+            "q3": "D. 3s",
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "3. Group O elements are unreactive because",
+        "opts": {
+            "q0": "A. their outermost shells contain equal number of electrons",
+            "q1": "B. their highest occupied energy level is full",
+            "q2": "C. they are monatomic gases",
+            "q3": "D. they are non-metals"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "4. Which of the particles indicated below represents an ion with a charge of 2+?",
+        "opts": {
+            "q0": "A. Protons-6, Electrons-6",
+            "q1": "B. Protons-6, Electrons-8",
+            "q2": "C. Protons-12, Electrons-10",
+            "q3": "D. Protons-16, Electrons-18"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "5. Sodium (atomic number 11) and caesium (atomic number 55) are in Group 1 in the periodic table. Which of the following statements is correct?",
+        "opts": {
+            "q0": "A. Sodium has the higher electronegativity value",
+            "q1": "B. Caesium contain the higher number of valence electrons",
+            "q2": "C. Sodium has the lower ionization energy",
+            "q3": "D. Caesium has the lower reducing ability"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "6. An element X with electronic configuration 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup> combines with another element Y with the configuration 1s<sup>2</sup>2s<sup>2</sup>2p<sup>5</sup>3s<sup>2</sup>3p<sup>5</sup>. What is the formula of the compound formed?",
+        "opts": {
+            "q0": "A. X<sub>2</sub>Y<sub>5</sub>",
+            "q1": "B. X<sub>2</sub>Y<sub>3</sub>",
+            "q2": "C. XY<sub>3</sub>",
+            "q3": "D. XY<sub>2</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "7. Which of the following statements about dative bonding is not correct?",
+        "opts": {
+            "q0": "A. There is sharing of electrons",
+            "q1": "B. One atom must possess a lone pair of electrons",
+            "q2": "C. Each participating atom contributes one electron",
+            "q3": "D. It can be formed between molecules"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "8. Which of the following conversions involves a beta particle emission?",
+        "opts": {
+            "q0": "A. <sup>234</sup><sub>92</sub>U &rarr; <sup>230</sup><sub>90</sub>Th",
+            "q1": "B. <sup>238</sup><sub>80</sub>Hg &rarr; <sup>238</sup><sub>81</sub>",
+            "q2": "C. <sup>238</sup><sub>92</sub>U &rarr; <sup>234</sup><sub>90</sub>Th",
+            "q3": "D. <sup>3</sup><sub>2</sub>He &rarr; <sup>12</sup><sub>6</sub>C"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+        "qs": "Study the table and use it to answer Questions 9 <br><img src='assets/imgs/chemistry/chem_2003_sectionb_qst9_1.jpg'>",
+    {
+        "qs": "9. Which of the elements in the table above can be classified as metal?",
+        "opts": {
+            "q0": "A. II only",
+            "q1": "B. II and III only",
+            "q2": "C. I and III only",
+            "q3": "D. lll only?"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "10. If 11 g of a gas occupies 5.6 dm<sup>3</sup> at c.t.p., calculate its vapour density. (1.0 mole of a gas occupies 22.4dm<sup>3</sup> ats.t.p.)",
+        "opts": {
+            "q0": "A. 22",
+            "q1": "B. 44",
+            "q2": "C. 66",
+            "q3": "D. 88"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "11. Which of the following quantities is the same for one mole of Br<sub>2</sub><sub>(l)</sub>, and one mole of He<sub>(g)</sub>?",
+        "opts": {
+            "q0": "A. Number of molecules",
+            "q1": "B. Number of atoms",
+            "q2": "C. Total mass of the particles",
+            "q3": "D. Volume occupied at s.t.p"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "12. If 100cm<sup>3</sup> of hydrogen diffused through a porous pot in 1.0 second, how long will it take the same volume of oxygen to diffuse through the same pot under the same conditions? [H = 1.0: O = 16.0]",
+        "opts": {
+            "q0": "A. 2.5s",
+            "q1": "B. 4.0s",
+            "q2": "C. 16.0s",
+            "q3": "D. 25.0s"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "13. Which of the following acids is dibasic?",
+        "opts": {
+            "q0": "A. Hydrochloric acid",
+            "q1": "B. Trioxosulphate (IV) acid",
+            "q2": "C. Dioxonitrate (III) acid",
+            "q3": "D. Ethanoic acid"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "14. Bees inject an acidic substance when they sting. Which of the following chemical could be used to treat beestings?",
+        "opts": {
+            "q0": "A. CH<sub>3</sub>COOH",
+            "q1": "B. NaHC0<sub>3</sub>",
+            "q2": "C. C<sub>2</sub>H<sub>5</sub>OH",
+            "q3": "D. H<sub>2</sub>O<sub>2</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "15. Which of the following salts can be prepared by reacting the metal with dilute H<sub>2</sub>S0<sub>4</sub>?",
+        "opts": {
+            "q0": "A. CuSO<sub>4</sub>",
+            "q1": "B. MgS0<sub>4</sub>",
+            "q2": "C. BaS0<sub>4</sub>",
+            "q3": "D. PbS0<sub>4</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "16. Which of the following solutions will give a precipitate with dilute tetraoxosulphate (VI) acid? I. Lead (II) trioxonitrate (V) solution II. Barium chloride solution III. Sodium chloride solution",
+        "opts": {
+            "q0": "A. I only",
+            "q1": "B. II only",
+            "q2": "C. I and II only",
+            "q3": "D. II and III only"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "17. Substance Q reacts with cold water to form a solution which turns red litmus blue. Substance Q could be",
+        "opts": {
+            "q0": "A. zinc",
+            "q1": "B. phosphorus",
+            "q2": "C. lead",
+            "q3": "D. sodium"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "18. What term is used to describe an oxide whose aqueous solution turns blue litmus red?",
+        "opts": {
+            "q0": "A. Strong electrolyte",
+            "q1": "B. Acid anhydride",
+            "q2": "C. Amphoteric oxide",
+            "q3": "D. Basic oxide"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "19. The pH of 0.50 mol dm<sup>-3</sup> solutions of HCI, H<sub>2</sub>S0<sub>4</sub> and CH<sub>3</sub>COOH were measured. Which of the following statements about the values obtained is correct?",
+        "opts": {
+            "q0": "A. The pH value was equal to 5 in each case",
+            "q1": "B. The pH values of the HCI and H<sub>2</sub>S0<sub>4</sub> solutions were equal",
+            "q2": "C. Their pH values added up to 14",
+            "q3": "D. The pH value of the CH<sub>3</sub>COOH was the highest"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "20. Which qf the following processes involves neutralization?",
+        "opts": {
+            "q0": "A. Hardening of oils",
+            "q1": "B. Souring of milk",
+            "q2": "C. Charring of sugar",
+            "q3": "D. Liming of soil"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "21.  Sea shells contain mainly CaC0<sub>3</sub>. Calcium oxide can be prepared from sea shells by",
+        "opts": {
+            "q0": "A. adding dilute acid",
+            "q1": "B. heating at a high temperature",
+            "q2": "C. reduction with CO",
+            "q3": "D. adding dilute NaOH<sub>(aq)</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "22. In which of the following experimental set-ups is the reaction fastest?",
+        "opts": {
+            "q0": "A. <br><img src='assets/imgs/chemistry/chem_2003_sectionb_qst22_1.jpg'>",
+            "q1": "B. <br><img src='assets/imgs/chemistry/chem_2003_sectionb_qst22_2.jpg'>",
+            "q2": "C. <br><img src='assets/imgs/chemistry/chem_2003_sectionb_qst22_3.jpg'>",
+            "q3": "D. <br><img src='assets/imgs/chemistry/chem_2003_sectionb_qst22_4.jpg'>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "23. Consider the equilibrium reaction below 2S0<sub>2</sub><sub>(g)</sub> + O<sub>2</sub><sub>(g)</sub> &harr; 2SO<sub>3</sub><sub>(g)</sub>; H = -xkJ mol<sup>-1</sup>. The amount ot sulphur (VI) oxide produced will increase if",
+        "opts": {
+            "q0": "A. the pressure is decreased",
+            "q1": "B. more heat is applied",
+            "q2": "C. the temperature is reduced",
+            "q3": "D. a catalyst is added"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "24. Which of the following statements about an exothermic reaction is correct?",
+        "opts": {
+            "q0": "A. The products have less heat content than the reactants",
+            "q1": "B. The system absorbs heat from the surrounding",
+            "q2": "C. The activation energy is high",
+            "q3": "D. The enthalpy change is positive"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "25. A reducing agent is expected to",
+        "opts": {
+            "q0": "A. decolorize acidified KMn0<sub>4</sub> solution",
+            "q1": "B. decolorize acidified FeS0<sub>4</sub> solution",
+            "q2": "C. liberate Cl<sub>2</sub> from a chloride",
+            "q3": "D. liberate C0<sub>2</sub> from NaHC0<sub>3</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "26. Consider the electrochemical cell represented below Zn<sub>(s)</sub> / Zn<sup>2+</sup><sub>(aq)</sub> // Cu<sup>2+</sup><sub>(aq)</sub> / Cu<sub>(s)</sub>. Which of the following equations describes the reaction occurring in the cell?",
+        "opts": {
+            "q0": "A. Cu<sub>(s)</sub> + Zn<sup>2+</sup><sub>(aq)</sub> &rarr; Cu<sup>2+</sup> + Zn<sub>(s)</sub>",
+            "q1": "B. Cu<sub>(s)</sub> + Zn<sub>(s)</sub> &rarr; Cu<sup>2+</sup><sub>(aq)</sub> + Zn<sup>2+</sup><sub>(aq)</sub>",
+            "q2": "C. Zn<sub>(s)</sub> + Cu<sup>2+</sup><sub>(aq)</sub> &rarr; Zn<sup>2+</sup><sub>(aq)</sub> + Cu<sub>(s)</sub>",
+            "q3": "D. Zn<sup>2+</sup><sub>(aq)</sub> + Cu<sup>2+</sup><sub>(aq)</sub> &rarr; Zn<sub>(s)</sub> + Cu<sub>(s)</sub>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+        "qs": "Use the following information to answer Question 27 and 28. Five metals represented by the letters V to Z are arrange in order of their reactivity as shown below V > W > X > Y > Z",
+    {
+        "qs": "27. Which of the metals cannot displace Y from an aqueous solution of its salt?",
+        "opts": {
+            "q0": "A. V",
+            "q1": "B. W",
+            "q2": "C. X",
+            "q3": "D. Z"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "28. Which of the metals is most likely extracted by the electrolysis of its fused chloride?",
+        "opts": {
+            "q0": "A. V",
+            "q1": "B. W",
+            "q2": "C. X",
+            "q3": "D. Y"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "29. Which of the following statements is/are correct about tin plating? I. The electrolyte must be a soluble salt of tin II. The object to be plated is made the cathode III. The anode is made of tin IV. The negative electrode dissolves",
+        "opts": {
+            "q0": "A. I only",
+            "q1": "B. I and II only",
+            "q2": "C. I, II and III only",
+            "q3": "D. I, II and IV only"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+        "qs": "Use the sketch below to answer Questions 30 & 31 <br><img src='assets/imgs/chemistry/chem_2003_sectionb_qst0_1.jpg'>",
+    {
+        "qs": "30. Why is it necessary to heat the PbBr<sub>2</sub>? To",
+        "opts": {
+            "q0": "A. melt it and make it conduct",
+            "q1": "B. increase the reaction rate",
+            "q2": "C. produce electrons which will carry the current",
+            "q3": "D. vaporize the products at the electrodes"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "31.  What is the product at the positive electrode?",
+        "opts": {
+            "q0": "A. Lead",
+            "q1": "B. Oxygen",
+            "q2": "C. Hydrogen",
+            "q3": "D. Bromine"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "32. Determine the amount of electrons needed to deposit 6.4g of copper during the electrolysis of copper (II) tetraoxosulphate (VI) solution. [Cu = 64]",
+        "opts": {
+            "q0": "A. 0.10 mole",
+            "q1": "B. 0.20 mole",
+            "q2": "C. 1.0 mole",
+            "q3": "D. 2.0 mole"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "33.  anode during the electrolysis of concentrated sodium chloride solution is",
+        "opts": {
+            "q0": "A. 2Cl<sup>-</sup><sub>(aq)</sub> &rarr; Cl<sub>2</sub><sub>(g)</sub> 2e<sup>-</sup>",
+            "q1": "B. 4OH<sup>-</sup><sub>(aq)</sub> &rarr; 2H<sub>2</sub>O<sub>(l)</sub> + O<sub>2</sub><sub>(g)</sub> + 4e<sup>-</sup>",
+            "q2": "C. Na<sup>+</sup><sub>(aq)</sub> + e<sup>-</sup> &rarr; Na<sub>(s)</sub>",
+            "q3": "D. 2H<sup>+</sup><sub>(aq)</sub> + 2e<sup>-</sup> &rarr; H<sub>2</sub><sub>(g)</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "34. Which of the following compounds has the same empirical formula as benzene?",
+        "opts": {
+            "q0": "A. C<sub>2</sub>H<sub>2</sub>",
+            "q1": "B. C<sub>2</sub>H<sub>4</sub>",
+            "q2": "C. C<sub>4</sub>H<sub>6</sub>",
+            "q3": "D. C<sub>6</sub>H<sub>12</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "35. A given fuel has an octane number of 100. This means that",
+        "opts": {
+            "q0": "A. the knocking tendency of the fuel is low",
+            "q1": "B. the fuel is a mixture of several hydrocarbons",
+            "q2": "C. a large amount of alkanes is present in the fuel",
+            "q3": "D. the fuel needs to be cracked before use"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "36. Which of the following statements about X and Y below is correct? They are <br><img src='assets/imgs/chemistry/chem_2003_sectionb_qst36_1.jpg'>",
+        "opts": {
+            "q0": "A. equivalent structures of the same compound",
+            "q1": "B. similar in their physical properties",
+            "q2": "C. geometric isomers",
+            "q3": "D. unsaturated hydrocarbons"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "37. Wine containing 8% to 17% ethanol can be converted to gin containing about 40% ethanol by",
+        "opts": {
+            "q0": "A. evaporation",
+            "q1": "B. distillation",
+            "q2": "C. fermentation",
+            "q3": "D. oxidation"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "38. What is the IUPAC name for the following compound? <br><img src='assets/imgs/chemistry/chem_2003_sectionb_qst38_1.jpg'>",
+        "opts": {
+            "q0": "A. Ethylmethanoate",
+            "q1": "B. Ethanoic acid",
+            "q2": "C. Propan - 2 - ol",
+            "q3": "D. Propanoic acid"
+        },
+        "ans": "B",
+        "sel": ""
+    }, 
+    {
+        "qs": "39. Which of the following substances could be responsible for the banana taste of a food flavour?",
+        "opts": {
+            "q0": "A. Methylbenzene",
+            "q1": "B. Butanol",
+            "q2": "C. Ethanol",
+            "q3": "D. Pentylethanoate"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "40. What is the organic product of the reaction of C<sub>2</sub>H<sub>5</sub>OH with excess acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub><sub>(aq)</sub>?",
+        "opts": {
+            "q0": "A. CH<sub>3</sub>COOH",
+            "q1": "B. C<sub>2</sub>H<sub>5</sub>OC<sub>2</sub>H<sub>5</sub>",
+            "q2": "C. HCOOCH<sub>3</sub>",
+            "q3": "D. C<sub>2</sub>H<sub>5</sub>CHO"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "41.  The reaction of vegetable oil with a solution of wood ash is",
+        "opts": {
+            "q0": "A. saponification",
+            "q1": "B. neutralization",
+            "q2": "C. hydrogenation",
+            "q3": "D. esterification"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "42. What process does the following equation represent? (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)<sub>n</sub> + nH<sub>2</sub>O &rarr; nC<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+        "opts": {
+            "q0": "A. Polymerization of glucose",
+            "q1": "B. Hydrolysis of starch",
+            "q2": "C. Fermentation of sugar",
+            "q3": "D. Dehydration of carbohydrates"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "43. When excess ethene is shaken with acidified KMnO<sub>4</sub> solution, the product obtained is",
+        "opts": {
+            "q0": "A. ethane",
+            "q1": "B. ethanal",
+            "q2": "C. ethane -1,2 - diol",
+            "q3": "D. ethanoic acid"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "44. What is the monomer unit of the polymer represented below <br><img src='assets/imgs/chemistry/chem_2003_sectionb_qst44_1.jpg'>",
+        "opts": {
+            "q0": "A. Ethene",
+            "q1": "B. Ethane",
+            "q2": "C. Propene",
+            "q3": "D. Propane"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "45. What volume of 0.20 mol dm<sup>-3</sup> NaOH solution would yield 5.0 g of NaOH on evaporation to dryness? [NaOH = 40g mol<sup>-1</sup>]",
+        "opts": {
+            "q0": "A. 400 cm<sup>3</sup>",
+            "q1": "B. 625 cm<sup>3</sup>",
+            "q2": "C. 1000 cm<sup>3</sup>",
+            "q3": "D. 1600 cm<sup>3</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "46. What is the main impurity in haematite?",
+        "opts": {
+            "q0": "A. CaSiO<sub>3</sub>",
+            "q1": "B. CaCO<sub>3</sub>",
+            "q2": "C. SiO<sub>2</sub>",
+            "q3": "D. Fe<sub>2</sub>O<sub>3</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "47. Which of the following compounds is used for removing impurities from bauxite?",
+        "opts": {
+            "q0": "A. NaOH",
+            "q1": "B. CaCO<sub>3</sub>",
+            "q2": "C. Na<sub>3</sub>Al<sub>6</sub>",
+            "q3": "D. H<sub>2</sub>SO<sub>4</sub>"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "48. When a sample of water was boiled, it lathered more readily with soap. It can be concluded that the sample most likely contained",
+        "opts": {
+            "q0": "A. magnesium tetraoxosulphate (VI)",
+            "q1": "B. suspended solids",
+            "q2": "C. Organic impurities",
+            "q3": "D. calcium hydrogentrioxocarbonate (IV)"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "49. What are the two gases associated with the formation of acid rain?",
+        "opts": {
+            "q0": "A. CO<sub>2</sub> and HCI",
+            "q1": "B. CO<sub>2</sub> and N<sub>2</sub>",
+            "q2": "C. SO<sub>2</sub> and NO<sub>2</sub>",
+            "q3": "D. HCI and SO<sub>2</sub>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "50. Which of the following processes will pollute water?",
+        "opts": {
+            "q0": "A. Exposure of a body of water to ultraviolet rays",
+            "q1": "B. Discharge of industrial effluents into waterways",
+            "q2": "C. Passage of river water through a sand bed",
+            "q3": "D. Addition of a measured quantity of chlorine to water"
+        },
+        "ans": "B",
+        "sel": ""
+    }
+]

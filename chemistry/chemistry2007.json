@@ -1,0 +1,552 @@
+[
+    {
+        "qs": "1. When sodium atom forms the ion Na<sup>+</sup>.",
+        "opts": {
+            "q0": "A. it gains one electron",
+            "q1": "B. it gains one proton",
+            "q2": "C. it achieves a noble gas configuration",
+            "q3": "D. its atomic number increases"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "2. Which of the following statements about rare gases are correct? I. Their outermost shells are fully filled II. They are generally unreactive III. Their outermost shells are partially filled IV. They have lone pair of electrons in their outermost shell",
+        "opts": {
+            "q0": "A. I and II",
+            "q1": "B. II and III only",
+            "q2": "C. I, II and III only",
+            "q3": "D. I, II, III and IV",
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "3. How many electrons are in the ion F<sup>-</sup>? (<sup>19</sup><sub>9</sub>F)",
+        "opts": {
+            "q0": "A. 8",
+            "q1": "B. 9",
+            "q2": "C. 10",
+            "q3": "D. 19"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "4. What is the value of x in the following nuclear reaction equation? <sup>11</sup><sub>5</sub>B + <sup>251</sup><sub>98</sub>Cr &rarr; <sup>x</sup><sub>103</sub>Lr + 3<sup>1</sup><sub>0</sub>n",
+        "opts": {
+            "q0": "A. 241",
+            "q1": "B. 259",
+            "q2": "C. 261",
+            "q3": "D. 265"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "5. Which of the following properties is characteristic of the halogens?",
+        "opts": {
+            "q0": "A. Ability to accept electrons readily",
+            "q1": "B. Ability to donate electrons readily",
+            "q2": "C. Ability to form basic oxides",
+            "q3": "D. Formation of coloured compounds"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "6. In which of the following atoms is the ionic radius larger than the atomic radius? (<sub>11</sub>Na, <sub>12</sub>Mg, <sub>13</sub>Al, <sub>17</sub>Cl)",
+        "opts": {
+            "q0": "A. Aluminium",
+            "q1": "B. Chlorine",
+            "q2": "C. Magnesium",
+            "q3": "D. Sodium"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "7. A transition metal would be expected to",
+        "opts": {
+            "q0": "A. form oxides with different formulae",
+            "q1": "B. have strong oxidizing ability",
+            "q2": "C. have low density",
+            "q3": "D. have an atomic structure with an incomplete outermost shell"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "8. Which of the following properties of atoms generally increases down a group in the periodic table?",
+        "opts": {
+            "q0": "A. Electron affinity",
+            "q1": "B. Electronegativity",
+            "q2": "C. Ionic radius",
+            "q3": "D. Ionization energy"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "9. Which of the following statements about sodium is not true?",
+        "opts": {
+            "q0": "A. Na+ is smaller in size than Na",
+            "q1": "B. Na is smaller in size than Na<sup>+</sup>",
+            "q2": "C. Na+ has fewer electrons than Na",
+            "q3": "D. The effective nuclear charge in Na<sup>+</sup> is greater than in Na"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "10. If the difference between the electronegativities of two elements is large, the type of bond that can be formed between them is",
+        "opts": {
+            "q0": "A. covalent",
+            "q1": "B. dative",
+            "q2": "C. ionic",
+            "q3": "D. metallic"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "11. Which of the following species does not contain a co-ordinate bond?",
+        "opts": {
+            "q0": "A. Al<sub>2</sub>Cl<sub>6</sub>",
+            "q1": "B. CCI<sub>4</sub>",
+            "q2": "C. H<sub>3</sub>0<sub>+</sub>",
+            "q3": "D. NH<sub>4</sub><sup>+</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "12. Which of the following compounds has hydrogen bonds between its molecules?",
+        "opts": {
+            "q0": "A. HF",
+            "q1": "B. HBr",
+            "q2": "C. HCI",
+            "q3": "D. HI"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "13. 14.8g of a salt(z) dissolved in 250cm<sup>3</sup> of distilled water gives a concentration of 0.80mol dm<sup>-3</sup>. Calculate the molar mass of the salt(z)",
+        "opts": {
+            "q0": "A. 13.5g mol<sup>-1</sup>",
+            "q1": "B. 18.5g mol<sup>-1</sup>",
+            "q2": "C. 47.4g mol<sup>-1</sup>",
+            "q3": "D. 74.0g mol<sup>-1</sup>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "14. How many atoms are there in one mole of hydrogen gas? [ Avogadro’s constant = 6.02 x 10<sup>23</sup> mol<sup>-1</sup> ]",
+        "opts": {
+            "q0": "A. 1.2 x 10<sup>23</sup>",
+            "q1": "B. 6.0 x 10<sup>23</sup>",
+            "q2": "C. 1.2 x 10<sup>24</sup>",
+            "q3": "D. 6.0 x 10<sup>24</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "15. What is the percentage composition of oxygen in K2Cr207? [ K<sub>2</sub>Cr<sub>2</sub>0<sub>7</sub> = 294; O = 16; K = 39; Cr = 52 ]",
+        "opts": {
+            "q0": "A. 14.20%",
+            "q1": "B. 26.53%",
+            "q2": "C. 35.37%",
+            "q3": "D. 38.09%"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "16. What is the IUPAC name of the compound represented by the molecular formula NaCI0<sub>4</sub>?",
+        "opts": {
+            "q0": "A. Sodium tetraoxochlorate (I)",
+            "q1": "B. Sodium tetraoxochlorate (IV)",
+            "q2": "C. Sodium tetraoxochlorate (VI)",
+            "q3": "D. Sodium tetraoxochlorate (VII)"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "17. When air is successively passed through sodium hydroxide solution, alkaline pyrogallol and then concentrated tetraoxosulphate (VI) acid, its remaining components are",
+        "opts": {
+            "q0": "A. oxygen and water vapour",
+            "q1": "B. oxygen and nitrogen",
+            "q2": "C. carbon (IV) oxide and noble gases",
+            "q3": "D. nitrogen and noble gases"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "18. Which of the following gases is lighter than air?",
+        "opts": {
+            "q0": "A. C0<sub>2</sub>",
+            "q1": "B. S0<sub>2</sub>",
+            "q2": "C. HCI",
+            "q3": "D. NH<sub>3</sub>."
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "19. Which of the following statements is true of the molecules of a gas under ideal conditions? The molecules",
+        "opts": {
+            "q0": "A. move at random",
+            "q1": "B. undergo inelastic collisions",
+            "q2": "C. attract each other",
+            "q3": "D. occupy a large volume"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "20. In which of the following compound(s) will heat be absorbed on adding water? I. KNO<sub>3</sub>    II. Concentrated H<sub>2</sub>SO<sub>4</sub>    III. NH<sub>4</sub>Cl",
+        "opts": {
+            "q0": "A. I only",
+            "q1": "B. lll only",
+            "q2": "C. I and III only",
+            "q3": "D. ll and III only"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "21.  25 cm3  of 0.80mol dm<sup>-3</sup> hydrochloric acid neutralized 20cm<sup>3</sup> of sodium hydroxide solution. What is the concentration of sodium hydroxide in mol dm<sup>-3</sup>? NaOH<sub>(aq)</sub> + HCI<sub>(aq)</sub> &rarr; NaCI<sub>(aq)</sub> + H<sub>2</sub>O<sub>(l)</sub>",
+        "opts": {
+            "q0": "A.  0.08",
+            "q1": "B. 0.10",
+            "q2": "C. 0.80",
+            "q3": "D. 1.00"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "22. Consider the reaction represented by the equation: Ca(OH)<sub>2</sub><sub>(aq)</sub> + CO<sub>2</sub><sub>(g)</sub> &rarr; CaCO<sub>3</sub><sub>(s)</sub> + H<sub>2</sub>O<sub>(l)</sub>In the reaction above, CO<sub>2</sub> acts as",
+        "opts": {
+            "q0": "A. an acidic oxide",
+            "q1": "B. an oxidizing agent",
+            "q2": "C. a basic oxide",
+            "q3": "D. a dehydrating agent"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "23. Which of the following compounds is a basic salt?",
+        "opts": {
+            "q0": "A. Mg(NO<sub>3</sub>)<sub>2</sub>",
+            "q1": "B. (NH<sub>4</sub>)<sub>2</sub>S0<sub>4</sub>",
+            "q2": "C. K<sub>4</sub>Fe(CN)<sub>6</sub>",
+            "q3": "D. Zn(OH)CI"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "24. What process is illustrated below? S<sub>(s)</sub> &harr; S<sub>(aq)</sub>",
+        "opts": {
+            "q0": "A. Decomposition of a solid",
+            "q1": "B. Melting of a solid",
+            "q2": "C. Formation of saturated solution of a solid",
+            "q3": "D. Sublimation of a solid"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "25. A solution of a salt X reacts with AgN0<sub>3</sub> solution to give white precipitate which dissolves in excess aqueous ammonia. X contains",
+        "opts": {
+            "q0": "A. Cl<sup>-</sup>",
+            "q1": "B. Pb<sup>2+</sup>",
+            "q2": "C. SO<sub>4</sub><sup>2-</sup>",
+            "q3": "D. Zn<sup>2+</sup>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "26. Consider the reaction represented by the following equation: N<sub>2</sub><sub>(g)</sub> + 3H<sub>2</sub><sub>(g)</sub> &harr; 2NH<sub>3</sub><sub>(g)</sub>: ?H = -92 kJmol<sup>-1</sup>. Finely divided iron is used as catalyst in the reaction in order to",
+        "opts": {
+            "q0": "A. lower the value of H",
+            "q1": "B. increase the time for attainment of equilibrium",
+            "q2": "C. shorten the time for attainment of equilibrium",
+            "q3": "D. decrease the yield of ammonia"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "27. Which of the following factors will affect the rate of formation of S<sub>(s)</sub>; in the reaction represented by the equation below? S<sub>2</sub>O<sub>3</sub><sup>2-</sup><sub>(aq)</sub> + 2H<sup>+</sup><sub>(aq)</sub> &rarr; SO<sub>2</sub><sub>(aq)</sub> +  H<sub>2</sub>O<sub>2</sub><sub>(l)</sub> + S<sub>(s)</sub>",
+        "opts": {
+            "q0": "A. Increase in temperature",
+            "q1": "B. Increase in pressure",
+            "q2": "C. Removal of H<sub>2</sub>O<sub>(l)</sub>",
+            "q3": "D. Use of a catalyst"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "28. In four separate experiments, the same quantity of magnesium ribbon was added to an excess of hydrochloric acid. In which of the experiments will hydrogen be given off most rapidly? <br><img src='assets/imgs/chemistry/chem_2007_sectionb_qst28_1.jpg'>",
+        "opts": {
+            "q0": "A. W",
+            "q1": "B. X",
+            "q2": "C. Y",
+            "q3": "D. Z"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "29. Which of these cell notations is the correct representation of a Daniell cell?",
+        "opts": {
+            "q0": "A. Zn<sub>(s)</sub> / Zn<sup>2+</sup><sub>(aq)</sub> // Cu<sup>2+</sup><sub>(aq)</sub> / Cu<sub>(s)</sub>",
+            "q1": "B. Cu<sub>(s)</sub> / Cu<sup>2+</sup><sub>(aq)</sub> // Zn<sup>2+</sup><sub>(aq)</sub> / Zn<sub>(s)</sub>",
+            "q2": "C. Zn<sup>2+</sup><sub>(aq)</sub> / Zn<sub>(s)</sub> // Cu<sup>2+</sup><sub>(aq)</sub> / Cu<sub>(s)</sub>",
+            "q3": "D. Cu<sup>2+</sup><sub>(aq)</sub> / Cu<sub>(s)</sub> // Zn<sub>(s)</sub> / Zn<sup>2+</sup><sub>(aq)</sub> "
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "30. Which species undergoes reduction in the reaction represented by the equation below? H<sub>2</sub>S<sub>(aq)</sub> + 2FeCI<sub>3</sub><sub>(aq)</sub> &rarr; S<sub>(s)</sub> + 2HCI<sub>(aq)</sub> + 2FeCI<sub>2</sub><sub>(aq)</sub>",
+        "opts": {
+            "q0": "A. Fe<sup>3+</sup>",
+            "q1": "B. H<sub>2</sub>S",
+            "q2": "C. CI<sup>-</sup>",
+            "q3": "D. S"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "31.  What is the oxidation number of chromium in K<sub>2</sub>Cr0<sub>4</sub>?",
+        "opts": {
+            "q0": "A. +1",
+            "q1": "B. +2",
+            "q2": "C. +4",
+            "q3": "D. +6"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "32. What product is formed at the cathode during the electrolysis of concentrated sodium chloride solution using carbon electrodes?",
+        "opts": {
+            "q0": "A. Chlorine",
+            "q1": "B. Hydrogen",
+            "q2": "C. Oxygen",
+            "q3": "D. Sodium"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "33. Which of the following substances is a suitable solvent for perfumes?",
+        "opts": {
+            "q0": "A. Benzene",
+            "q1": "B. Ethanol",
+            "q2": "C. Turpentine",
+            "q3": "D. Water"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "34. The complete hydrogenation of C<sub>6</sub>H<sub>6</sub> in the presence of nickel catalyst at 200<sup>o</sup>C gives",
+        "opts": {
+            "q0": "A. C<sub>6</sub>H<sub>8</sub>",
+            "q1": "B. C<sub>6</sub>H<sub>10</sub>",
+            "q2": "C. C<sub>6</sub>H<sub>12</sub>",
+            "q3": "D. C<sub>6</sub>H<sub>14</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "35. What is the empirical formula of a hydrocarbon containing 0.08 moles of carbon and 0.32 moles of hydrogen?",
+        "opts": {
+            "q0": "A. CHC<sub>2</sub>",
+            "q1": "B. CH<sub>3</sub>",
+            "q2": "C. CH<sub>4</sub>",
+            "q3": "D. C<sub>2</sub>H<sub>14</sub>"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "36. Which of the following pairs of substances can be distinguished by use of NaHCO<sub>3</sub> solution?",
+        "opts": {
+            "q0": "A. CH<sub>3</sub>CH<sub>2</sub>OH and HCOOCH",
+            "q1": "B. CH<sub>3</sub>CH<sub>2</sub>0H and CH<sub>3</sub>COOH",
+            "q2": "C. CH<sub>3</sub>COOH and HCOOH",
+            "q3": "D. CH<sub>3</sub>CH<sub>2</sub>OH and CH<sub>3</sub>OH"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "37. Which of the molecules below are geometric isomers?",
+        "opts": {
+            "q0": "A. <br><img src='assets/imgs/chemistry/chem_2007_sectionb_qst37_1.jpg'>",
+            "q1": "B. <br><img src='assets/imgs/chemistry/chem_2007_sectionb_qst37_2.jpg'>",
+            "q2": "C. <br><img src='assets/imgs/chemistry/chem_2007_sectionb_qst37_3.jpg'>",
+            "q3": "D. <br><img src='assets/imgs/chemistry/chem_2007_sectionb_qst37_4.jpg'>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "38. Alkenes undergo the following reactions except",
+        "opts": {
+            "q0": "A. addition",
+            "q1": "B. hydration",
+            "q2": "C. polymerization",
+            "q3": "D. substitution"
+        },
+        "ans": "D",
+        "sel": ""
+    }, 
+    {
+        "qs": "39. Hydrocarbons which react with ammoniacal copper (I) chloride solution conform to the general molecular formula",
+        "opts": {
+            "q0": "A. C<sub>n</sub>H<sub>n</sub>",
+            "q1": "B. C<sub>n</sub>H<sub>2n</sub>",
+            "q2": "C. C<sub>n</sub>H<sub>2n+2</sub>",
+            "q3": "D. C<sub>n</sub>H<sub>2n-2</sub>"
+        },
+        "ans": "D",
+        "sel": ""
+    },
+    {
+        "qs": "40. Consider the reaction below: vegetable oil                                            product ",
+        "opts": {
+            "q0": "A. drugs",
+            "q1": "B. margarine",
+            "q2": "C. paraffin wax",
+            "q3": "D. soapy detergents"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "41.  What is the product of the reaction between ethanol and excess acidified KMn0<sub>4</sub> solution?",
+        "opts": {
+            "q0": "A. CH<sub>2</sub> = CH<sub>2</sub>",
+            "q1": "B. CH<sub>3</sub>COOH",
+            "q2": "C. CH<sub>3</sub>-CH",
+            "q3": "D. CH<sub>3</sub>OCH<sub>3</sub>"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "42. Which of the following compounds reacts readily with sodium to liberate hydrogen?",
+        "opts": {
+            "q0": "A. CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub>",
+            "q1": "B. CH<sub>23</sub>COCH<sub>3</sub>",
+            "q2": "C. CH<sub>3</sub>CH(OH)CH<sub>3</sub>",
+            "q3": "D. CH<sub>3</sub>CH<sub>2</sub>CHO"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "43. Glucose reduces Fehling’s solution on warming to",
+        "opts": {
+            "q0": "A. copper (I) oxide",
+            "q1": "B. copper (II) oxide",
+            "q2": "C. copper (I) chloride",
+            "q3": "D. copper (II) hydroxide"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "44. Which of the following activities is not a source of air pollution?",
+        "opts": {
+            "q0": "A. Cigarette smoking",
+            "q1": "B. Carbon dating",
+            "q2": "C. Domestic fires",
+            "q3": "D. Coal powered stations"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "45. A From which of the following ores is iron extracted? I. Haematite II. Bauxite III. Magnetite IV. Cassiterite",
+        "opts": {
+            "q0": "A. I and II only",
+            "q1": "B. I and III only",
+            "q2": "C. I, II and III only",
+            "q3": "D. I, II, III and IV"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "46. Which of the following methods can be used to separate a mixture of two miscible liquids with different boiling points?",
+        "opts": {
+            "q0": "A. Decantation",
+            "q1": "B. Distillation",
+            "q2": "C. Evaporation",
+            "q3": "D. Filtration"
+        },
+        "ans": "B",
+        "sel": ""
+    },
+    {
+        "qs": "47. The following substances are heavy chemicals except",
+        "opts": {
+            "q0": "A. sodium trioxocarbonate",
+            "q1": "B. tetraoxosulphate (VI) acid",
+            "q2": "C. lead (IV) tetraethyl",
+            "q3": "D. sodium hydroxide"
+        },
+        "ans": "C",
+        "sel": ""
+    },
+    {
+        "qs": "48. Pig-iron is brittle because it contains",
+        "opts": {
+            "q0": "A. a high percentage of carbon as impurity",
+            "q1": "B. calcium trioxosilicate (IV)",
+            "q2": "C. unreacted haematite",
+            "q3": "D. undecomposed limestone"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "49. Which of these metals will not liberate hydrogen from dilute HCl?",
+        "opts": {
+            "q0": "A. Copper",
+            "q1": "B. Iron",
+            "q2": "C. Magnesium",
+            "q3": "D. Zinc"
+        },
+        "ans": "A",
+        "sel": ""
+    },
+    {
+        "qs": "50. What volume will 0.5g of H<sub>2</sub> occupy at s.t.p.?     [ H = 1; 1 mole of a gas occupy 22.4 dm<sup>3</sup> at s.t.p.)",
+        "opts": {
+            "q0": "A. 2.24 dm<sup>3</sup>",
+            "q1": "B. 5.60 dm<sup>3</sup>",
+            "q2": "C. 11.20 dm<sup>3</sup>",
+            "q3": "D. 44.80 dm<sup>3</sup>"
+        },
+        "ans": "B",
+        "sel": ""
+    }
+]
