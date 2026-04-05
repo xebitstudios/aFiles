@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following is an economic activity?",
+		"opts": {
+			"q0": "A. attending a town’s meeting",
+			"q1": "B. a visit to the stadium",
+			"q2": "C. payment of school fees",
+			"q3": "D. arresting a petty thief",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The reward for land as a factor of production is",
+		"opts": {
+			"q0": "A. interest",
+			"q1": "B. rent",
+			"q2": "C. dividend",
+			"q3": "D. wages",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The three broad categories of production are",
+		"opts": {
+			"q0": "A. direct, secondary and extractive",
+			"q1": "B. primary, tertiary and direct",
+			"q2": "C. primary, secondary and tertiary",
+			"q3": "D. secondary, primary and indirect",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	A carpenter’s consumer goods include I. a kilogram of rice II. 3 pairs of shoes III. 4 pairs of socks IV. 3 screw-drivers.",
+		"opts": {
+			"q0": "A. I and IV only",
+			"q1": "B. I, II, III and IV",
+			"q2": "C. I, II and IV only",
+			"q3": "D. I, II and III only",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	In a capitalist system, the means of production is owned and controlled by",
+		"opts": {
+			"q0": "A. the government",
+			"q1": "B. politicians",
+			"q2": "C. private individuals",
+			"q3": "D. the workers",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Mixed economy refers to a system in which the means of production are controlled by",
+		"opts": {
+			"q0": "A. private enterprise and the government",
+			"q1": "B. private individuals",
+			"q2": "C. the government only",
+			"q3": "D. the workers and businessmen",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	An economic good is described as a good which",
+		"opts": {
+			"q0": "A. yields utility and commands a price",
+			"q1": "B. is useful and occupies a space",
+			"q2": "C. is in high demand and transferable",
+			"q3": "D. has unlimited supply",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The concept of opportunity cost is important to the firm because it",
+		"opts": {
+			"q0": "A. determines the prices of the firm’s products",
+			"q1": "B. increases the level of output of the firm",
+			"q2": "C. leads to maximum satisfaction of the consumers",
+			"q3": "D. guides firms in allocating scarce resources",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	As a firm expands, it enjoys some advantages called",
+		"opts": {
+			"q0": "A. variable proportions",
+			"q1": "B. diminishing marginal returns",
+			"q2": "C. internal economies of scale",
+			"q3": "D. decreasing returns to scale",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Division of labour is limited by",
+		"opts": {
+			"q0": "A. the size of the market",
+			"q1": "B. the productivity of capital",
+			"q2": "C. cost of production",
+			"q3": "D. the factors of production",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	An entrepreneur is likely to make more profits when",
+		"opts": {
+			"q0": "A. expenditure is more than revenue",
+			"q1": "B. competitors charge lower prices",
+			"q2": "C. cost per unit output falls",
+			"q3": "D. quantity of output reduces",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Natural growth rate is",
+		"opts": {
+			"q0": "A. birth rate less death rate",
+			"q1": "B. death rate less migration",
+			"q2": "C. death rate plus birth rate",
+			"q3": "D. birth rate plus migration",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	A major effect of ageing population is",
+		"opts": {
+			"q0": "A. reduced labour force",
+			"q1": "B. rise in prices of commodities",
+			"q2": "C. reduced infrastructure",
+			"q3": "D. neglect of agriculture",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	One of the problems associated with the middleman in the distribution of goods is that he",
+		"opts": {
+			"q0": "A. buys in large quantities",
+			"q1": "B. hoards goods",
+			"q2": "C. grants credit to the retailer",
+			"q3": "D. sells varieties of goods",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The distribution of goods is said fo be completed when it reaches the",
+		"opts": {
+			"q0": "A. wholesalers",
+			"q1": "B. consumers",
+			"q2": "C. retailers",
+			"q3": "D. manufacturers",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The gap between demand and supply curves below the equilibrium price indicates",
+		"opts": {
+			"q0": "A. excess demand",
+			"q1": "B. excess supply",
+			"q2": "C. equilibrium quantity",
+			"q3": "D. equilibrium price",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Demand for inferior good is an example of",
+		"opts": {
+			"q0": "A. expansion of demand",
+			"q1": "B. contraction of demand",
+			"q2": "C. individual demand",
+			"q3": "D. abnormal demand",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	When a change in price does not affect the quantity demanded of a commodity, the price elasticity of demand is",
+		"opts": {
+			"q0": "A. fairly inelastic",
+			"q1": "B. infinitely elastic",
+			"q2": "C. perfectly inelastic",
+			"q3": "D. unitary elastic",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='eco_2010_sectionb_qst19_21.jpg'> Use the table below to answer questions 19 to 21. The percentage change in supply is",
+		"opts": {
+			"q0": "A. 20",
+			"q1": "B. 30",
+			"q2": "C. 40",
+			"q3": "D. 50",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	<img src='eco_2010_sectionb_qst19_21.jpg'> Use the table below to answer questions 19 to 21. The percentage change in price is",
+		"opts": {
+			"q0": "A. 10",
+			"q1": "B. 20",
+			"q2": "C. 30",
+			"q3": "D. 40",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	<img src='eco_2010_sectionb_qst19_21.jpg'> Use the table below to answer questions 19 to 21. The elasticity of supply is ",
+		"opts": {
+			"q0": "A. infinite",
+			"q1": "B. equal to one",
+			"q2": "C. less than one",
+			"q3": "D. equal to zero",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	<img src='eco_2010_sectionb_qst22.jpg'> The line M in the diagram represents",
+		"opts": {
+			"q0": "A. total cost",
+			"q1": "B. fixed cost",
+			"q2": "C. variable cost",
+			"q3": "D. average cost",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	For both the monopolist and the perfectly competitive firm, profit maximizing output occurs at the point where the",
+		"opts": {
+			"q0": "A. marginal cost curve cuts the marginal revenue curve from below",
+			"q1": "B. marginal revenue curve cuts the marginal output from above",
+			"q2": "C. marginal cost curve intersects the X-axis",
+			"q3": "D. marginal revenue curve intersects the Y-axis",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	The market structure in which the operators are many and none of them can influence the price is",
+		"opts": {
+			"q0": "A. imperfect market",
+			"q1": "B. perfect market",
+			"q2": "C. oligopolistic market",
+			"q3": "D. stock market",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	One main benefit of partnership is",
+		"opts": {
+			"q0": "A. the possibility of raising funds on the stock exchange",
+			"q1": "B. the possibility of attracting twenty one or more members",
+			"q2": "C. that members can specialize in various functions",
+			"q3": "D. that it enjoys its own separate legal entity",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Joint ventures are partnerships involving",
+		"opts": {
+			"q0": "A. the poor and the rich",
+			"q1": "B. employers and workers",
+			"q2": "C. government and private investors",
+			"q3": "D. multinationals and individuals",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The value of money is best determined by",
+		"opts": {
+			"q0": "A. input-output ratio",
+			"q1": "B. the purchasing power",
+			"q2": "C. the importance people attach to it",
+			"q3": "D. economies of scale",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following will be an effect of inflation?",
+		"opts": {
+			"q0": "A. Wage earners will gain",
+			"q1": "B. Borrowing of money will be restricted",
+			"q2": "C. Money lenders will gain",
+			"q3": "D. Borrowers of money will gain",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Government can control inflation by",
+		"opts": {
+			"q0": "A. printing more money",
+			"q1": "B. reducing the rate of taxes",
+			"q2": "C. reducing the level of expenditure",
+			"q3": "D. establishing more banks",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The market consisting of a network of dealers where currencies can be bought and sold is known as",
+		"opts": {
+			"q0": "A. capital market",
+			"q1": "B. foreign exchange market",
+			"q2": "C. commodity market",
+			"q3": "D. the stock market",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Open Market Operation (OMO) means the",
+		"opts": {
+			"q0": "A. provision of credit facilities by commercial banks",
+			"q1": "B. provision of credit facilities by the mortgage banks",
+			"q2": "C. buying and selling of government securities by the central bank",
+			"q3": "D. procedure for the establishment of commercial banks",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following is an advantage of localization of industry?",
+		"opts": {
+			"q0": "A. development of subsidiary firms",
+			"q1": "B. creation of parallel markets",
+			"q2": "C. development of slums",
+			"q3": "D. attraction of foreign capital",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following will ensure efficiency in the industrial sector of your country?",
+		"opts": {
+			"q0": "A. indigenization",
+			"q1": "B. privatisation",
+			"q2": "C. nationalization",
+			"q3": "D. liquidation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	The number of people who are qualified to work and who offer themselves for employment are called",
+		"opts": {
+			"q0": "A. migrant labour",
+			"q1": "B. working population",
+			"q2": "C. labour turnover",
+			"q3": "D. mobility of labour",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	When the general price levef persistently falls, the rate of unemployment",
+		"opts": {
+			"q0": "A. rises",
+			"q1": "B. stagnates",
+			"q2": "C. rapidly reduces",
+			"q3": "D. equals natural growth rate",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following is not a direct effort to increase agricultural production?",
+		"opts": {
+			"q0": "A. operation feed the nation",
+			"q1": "B. use of improved seedlings",
+			"q2": "C. increased loans to farmers and co-operative societies",
+			"q3": "D. National Youth Service Corps",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	To ensure high employment rates, developing countries should",
+		"opts": {
+			"q0": "A. build more universities",
+			"q1": "B. protect infant industries",
+			"q2": "C. organize trade fairs",
+			"q3": "D. prevent rural-urban drift",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The act of selling goods in foreign markets at prices below those charged at home markets is called",
+		"opts": {
+			"q0": "A. exchange",
+			"q1": "B. specialization",
+			"q2": "C. dumping",
+			"q3": "D. exporting",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Taxes levied on commodities are",
+		"opts": {
+			"q0": "A. direct taxes",
+			"q1": "B. indirect taxes",
+			"q2": "C. poll taxes",
+			"q3": "D. investment taxes",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	One disadvantage of direct taxes is that",
+		"opts": {
+			"q0": "A. government’s revenue is reduced",
+			"q1": "B. price of essential commodities fall",
+			"q2": "C. people are discouraged from additional work",
+			"q3": "D. firms make more profits",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	International trade is an application of the principle of",
+		"opts": {
+			"q0": "A. industrial production",
+			"q1": "B. mass production",
+			"q2": "C. regional co-operation",
+			"q3": "D. comparative cost advantage",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Trade among West African countries is poor because the",
+		"opts": {
+			"q0": "A. countries are self-sufficient",
+			"q1": "B. communication links are weak",
+			"q2": "C. number of banks is insufficient",
+			"q3": "D. people are not enterprising",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	A policy by which governments restrict the amount of foreign currencies ought and sold is known as",
+		"opts": {
+			"q0": "A. devaluation",
+			"q1": "B. credit creation",
+			"q2": "C. exchange control",
+			"q3": "D. export promotion",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Which of the following items is under the capital account of a balance of payments?",
+		"opts": {
+			"q0": "A. repayments of foreign loans",
+			"q1": "B. visible imports",
+			"q2": "C. invisible exports",
+			"q3": "D. cocoa exports",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	A surplus in the balance of payments should be used to",
+		"opts": {
+			"q0": "A. subsidize multinational companies",
+			"q1": "B. build infrastructure for friendly nations",
+			"q2": "C. make donation to developed countries",
+			"q3": "D. buy investments overseas",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Development planning which take an overall view of the economy is described as",
+		"opts": {
+			"q0": "A. aggregate economic planning",
+			"q1": "B. disaggregated economic planning",
+			"q2": "C. sectorial economic planning",
+			"q3": "D. system economic planning",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The national income of a country can be estimated by the",
+		"opts": {
+			"q0": "A. cost-benefit method",
+			"q1": "B. distribution method",
+			"q2": "C. expenditure method",
+			"q3": "D. consumption method",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following is excluded when estimating national income?",
+		"opts": {
+			"q0": "A. dividends",
+			"q1": "B. wages and salaries",
+			"q2": "C. transfer payments",
+			"q3": "D. profits",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The Economic Community of West African States (ECOWAS) has been slow in achieving its objectives because of",
+		"opts": {
+			"q0": "A. political instability in member states",
+			"q1": "B. the activities of multinationals",
+			"q2": "C. inadequate personnel at the secretariat",
+			"q3": "D. inadequate international support",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	A major achievement of the Organization of Petroleum Exporting Countries (OPEC) is that",
+		"opts": {
+			"q0": "A. crude oil price has increased tremendously",
+			"q1": "B. petroleum products prices have remained low",
+			"q2": "C. producing countries are highly industrialized",
+			"q3": "D. price of crude oil has remained relatively stable",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

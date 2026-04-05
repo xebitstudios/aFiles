@@ -1,0 +1,483 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The basic problem that Economics attempts to solve is the",
+		"opts": {
+			"q0": "A. ranking of goods and services",
+			"q1": "B. pricing of goods and services",
+			"q2": "C. scarcity of resources",
+			"q3": "D. foregoing of alternatives",
+			"q4": "E. satisfaction of producers’ needs"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The ranking of a consumers’ needs in order of importance is termed",
+		"opts": {
+			"q0": "A. an opportunity cost",
+			"q1": "B. economies of scale",
+			"q2": "C. a scale of preference",
+			"q3": "D. the making of choice",
+			"q4": "E. direct production"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='eco_1996_sectionb_qst3_5.jpg'> Use the diagram below to answer questions 3 to 5. The total number of fruits consumed by a family in a year is 720, and this is represented by the pie chart below. The quantity of banana consumed by the family is",
+		"opts": {
+			"q0": "A. 60",
+			"q1": "B. 120",
+			"q2": "C. 200",
+			"q3": "D. 240",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='eco_1996_sectionb_qst3_5.jpg'> Use the diagram below to answer questions 3 to 5. The total number of fruits consumed by a family in a year is 720, and this is represented by the pie chart below. The sum total of the quantity of mango and orange consumed by the family is",
+		"opts": {
+			"q0": "A. 120",
+			"q1": "B. 200",
+			"q2": "C. 360",
+			"q3": "D. 400",
+			"q4": "E. 520"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='eco_1996_sectionb_qst3_5.jpg'> Use the diagram below to answer questions 3 to 5. The total number of fruits consumed by a family in a year is 720, and this is represented by the pie chart below. The quantity of carrot consumed by the family is",
+		"opts": {
+			"q0": "A. 200",
+			"q1": "B. 360",
+			"q2": "C. 400",
+			"q3": "D. 520",
+			"q4": "E. 600"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	If the price of a commodity rises from N2.00 to N4.00 and its supply increases from 100 to 125, then the co-efficient of elasticity of supply is",
+		"opts": {
+			"q0": "A. 0.025",
+			"q1": "B. 0.24",
+			"q2": "C. 0.22",
+			"q3": "D. 0.25",
+			"q4": "E. 0.23"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	If as a result of a fall in the price of commodity X, the quantity demanded of commodity Y falls, then commodities X and Y are",
+		"opts": {
+			"q0": "A. complementary",
+			"q1": "B. in joint demand",
+			"q2": "C. luxuries",
+			"q3": "D. in composite demand",
+			"q4": "E. substitutes"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	MUX = PX (where X and Y = good X and good Y; MU = Marginal Utility; P = Price). MUY = PY. The above represents the",
+		"opts": {
+			"q0": "A. marginal utility equation",
+			"q1": "B. equation for consumer dis-equilibrium",
+			"q2": "C. utility maximization equation",
+			"q3": "D. equation for total utility",
+			"q4": "E. equation for price elasticity"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Subsistence agriculture means",
+		"opts": {
+			"q0": "A. cultivation for external use",
+			"q1": "B. cultivation for local industries",
+			"q2": "C. farming for the urban dwellers",
+			"q3": "D. cultivation for household consumption",
+			"q4": "E. cultivation for foreign currency"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Farm produce are graded, packed and distributed by",
+		"opts": {
+			"q0": "A. purchasing co-operatives",
+			"q1": "B. agricultural co-operative bank",
+			"q2": "C. consumers co-operative society",
+			"q3": "D. marketing co-operatives",
+			"q4": "E. wholesale co-operatives"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Localization of industries is",
+		"opts": {
+			"q0": "A. the industrialization of a country",
+			"q1": "B. the concentration of the firms of an industry in a particular area",
+			"q2": "C. the location of a firm at a particular locality",
+			"q3": "D. the economic development of a locality",
+			"q4": "E. government intervention in the location of industries"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Which of the following correctly illustrates the chain of distribution?",
+		"opts": {
+			"q0": "A. Manufacturer -> wholesaler -> retailer -> consumer",
+			"q1": "B. Consumer -> retailer -> wholesaler -> manufacture",
+			"q2": "C. Wholesaler -> manufacturer -> retailer -> consumer",
+			"q3": "D. Distributor -> consumer -> wholesaler -> manufacturer",
+			"q4": "E. Producer -> manufacturer -> wholesaler -> retailer"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	The natural growth rate of a population is the",
+		"opts": {
+			"q0": "A. death rate plus net immigration",
+			"q1": "B. rate of migration divided by birth rate",
+			"q2": "C. birth rate minus death rate",
+			"q3": "D. sum of birth rate and net immigration rate",
+			"q4": "E. sum of birth rate and death rate"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Decreasing returns to scale implies that if ali factors of production are doubled, output will be",
+		"opts": {
+			"q0": "A. more than doubled ",
+			"q1": "B. less than doubled",
+			"q2": "C. doubled",
+			"q3": "D. unchanged",
+			"q4": "E. trebled"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Rent and interest are rewards to",
+		"opts": {
+			"q0": "A. labour and capital respectively",
+			"q1": "B. land only",
+			"q2": "C. capital only",
+			"q3": "D. labour and land respectively",
+			"q4": "E. land and capital respectively"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The process that leads to an agreement on the conditions of service between emmployers and employees is termed",
+		"opts": {
+			"q0": "A. salary negotiations",
+			"q1": "B. arbitration",
+			"q2": "C. collective bargaining",
+			"q3": "D. conciliation",
+			"q4": "E. reconciliation"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Diminishing returns occur in the short run when there is a reduction in the",
+		"opts": {
+			"q0": "A. average product of the fixed factor",
+			"q1": "B. total product of the variable factor",
+			"q2": "C. total product of the fixed factor",
+			"q3": "D. marginal product of the variable factor",
+			"q4": "E. marginal product of the fixed factor"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	In production, factory buildings are regarded as",
+		"opts": {
+			"q0": "A. variable costs",
+			"q1": "B. average costs",
+			"q2": "C. marginal costs",
+			"q3": "D. total costs",
+			"q4": "E. fixed costs"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The ownership of a Public Limited Company is made up of",
+		"opts": {
+			"q0": "A. two to twenty persons",
+			"q1": "B. a minimum of seven shareholders",
+			"q2": "C. a minimum of fifty and maximum of one hundred shareholders",
+			"q3": "D. two to fifty shareholder",
+			"q4": "E. a maximum of fifty shareholders"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	All the following are the economic reasons for establishing public enterprises except the provision of",
+		"opts": {
+			"q0": "A. an avenue for expressing national prestige",
+			"q1": "B. services at a cheaper cost",
+			"q2": "C. socially necessary facilities",
+			"q3": "D. services which are natural monopolies",
+			"q4": "E. employment opportunities"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The unemployment associated with decrease in demand is referred to as",
+		"opts": {
+			"q0": "A. disguised",
+			"q1": "B. imposed",
+			"q2": "C. cyclical",
+			"q3": "D. voluntary",
+			"q4": "E. functional"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Monopoly can best be described as a market in which",
+		"opts": {
+			"q0": "A. a single seller sells a product which has no close substitute",
+			"q1": "B. few sellers sell a product at different prices",
+			"q2": "C. the entry of other firms is restricted by the few firms in the market",
+			"q3": "D. two or more sellers sell a product which is differentiated",
+			"q4": "E. a single buyer buys a product which has no close substitute"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following market structures are imperfect in competition? I. Monopoly II. Duopoly III. Oligopoly",
+		"opts": {
+			"q0": "A. I only",
+			"q1": "B. II and III only",
+			"q2": "C. I and II only",
+			"q3": "D. I and III only",
+			"q4": "E. I, II and III"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Demand-pull inflation results when there is",
+		"opts": {
+			"q0": "A. Inadequate improvement in the wage rate of workers",
+			"q1": "B. excessive demand due to high purchasing power",
+			"q2": "C. excessive supply of raw materials for production",
+			"q3": "D. rise in the productivity of the factors of production",
+			"q4": "E. excessive rise in the standard of living"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Changes in the value of money can be measured by",
+		"opts": {
+			"q0": "A. the distributors",
+			"q1": "B. a price index",
+			"q2": "C. a demand index",
+			"q3": "D. a supply index",
+			"q4": "E. the use of cheques"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The efficiency of a country’s labour force depends on all the following except",
+		"opts": {
+			"q0": "A. improved working conditions",
+			"q1": "B. better health care facilities",
+			"q2": "C. adequate training",
+			"q3": "D. stable economy",
+			"q4": "E. frequent strikes and lock-outs"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Which of the following is a bank’s responsibility to its shareholders?",
+		"opts": {
+			"q0": "A. Making profits",
+			"q1": "B. Creating money",
+			"q2": "C. Paying high interest rate",
+			"q3": "D. Preventing inflation",
+			"q4": "E. Issuing currencies"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Deficit financing means",
+		"opts": {
+			"q0": "A. receiving grants from the IMF",
+			"q1": "B. having budget surplus",
+			"q2": "C. excessive government spending on banks",
+			"q3": "D. borrowing to finance a budget",
+			"q4": "E. inadequate supply of money from the finance companies"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Development banks mainly provide",
+		"opts": {
+			"q0": "A. savings account facilities for a developing economy",
+			"q1": "B. foreign exchange facilities for importers and exporters",
+			"q2": "C. capital for development of specific sectors",
+			"q3": "D. capital for hire-purchase of machinery",
+			"q4": "E. capital for the development of special banks"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	In calculating the Gross National Product (GNP) by the income approach, all the following are included except",
+		"opts": {
+			"q0": "A. wages and salaries",
+			"q1": "B. direct taxes paid by persons and companies",
+			"q2": "C. rents on houses",
+			"q3": "D. retirement benefits",
+			"q4": "E. business profits"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Exchange control is a weapon used in regulating",
+		"opts": {
+			"q0": "A. internal trade",
+			"q1": "B. stock exchange",
+			"q2": "C. foreign trade",
+			"q3": "D. barter trade",
+			"q4": "E. exchange of personal property"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The current and capital accounts in Nigeria’s balance of payments contain all the following items except",
+		"opts": {
+			"q0": "A. oil export",
+			"q1": "B. receipts for shipping services",
+			"q2": "C. cost of aviation",
+			"q3": "D. foreign investment",
+			"q4": "E. IMF Standard Drawing Right (SDR)"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Who bears the greater burden of the indirect tax when the demand for a commodity is inelastic? The",
+		"opts": {
+			"q0": "A. wholesaler",
+			"q1": "B. shareholder",
+			"q2": "C. retailer",
+			"q3": "D. consumer",
+			"q4": "E. entrepreneur"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Economic growth specifically refers to the",
+		"opts": {
+			"q0": "A. reliance on imported goods in preference to home-made goods",
+			"q1": "B. sustained increase in the output of goods and services per head",
+			"q2": "C. changes in technical and institutional arrangements of the economy",
+			"q3": "D. continued increase in the depletion of a country’s natural resources",
+			"q4": "E. increase in the total number of people in the economy"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The hourly wages of five employees of the Nigerian Ports Authority are N2.52, N3.96, N3.28, N9.20and N3.75 respectively. The median hourly wage is",
+		"opts": {
+			"q0": "A. N2.52",
+			"q1": "B. N3.28",
+			"q2": "C. N3.75",
+			"q3": "D. N3.96",
+			"q4": "E. N9.20"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The petroleum industry in Nigeria is an example of a",
+		"opts": {
+			"q0": "A. capital-intensive industry",
+			"q1": "B. service industry",
+			"q2": "C. labour-intensive industry",
+			"q3": "D. tertiary production industry",
+			"q4": "E. localized industry"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The international cartel formed to stabilise the world oil market is the",
+		"opts": {
+			"q0": "A. Economic Commission for Africa",
+			"q1": "B. International Monetary Fund",
+			"q2": "C. Organization of Petroleum Exporting Countries",
+			"q3": "D. Organization of Petroleum Importing Countries",
+			"q4": "E. International Trade Organization"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The United Nations Conference on Trade And Development (UNCTAD) is a forum designed specifically for discussing the",
+		"opts": {
+			"q0": "A. political conflicts in the United Nations Security Council",
+			"q1": "B. educational needs of the developed countries",
+			"q2": "C. religious affairs in Southern Africa",
+			"q3": "D. revenue allocation in Nigeria",
+			"q4": "E. better terms of trade in the world"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The International Monetary Fund (IMF) is an international organization which",
+		"opts": {
+			"q0": "A. gives annual grants to all developing countries",
+			"q1": "B. assists countries to solve their balance of payments problems",
+			"q2": "C. execute their development projects",
+			"q3": "D. helps to promote regional economic groupings",
+			"q4": "E. is owned by all developed countries"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	An economic system in which most means of production are owned and controlled by the State is known as a",
+		"opts": {
+			"q0": "A. socialist economy",
+			"q1": "B. capitalist economy",
+			"q2": "C. mixed economy",
+			"q3": "D. political economy",
+			"q4": "E. feudal economy"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

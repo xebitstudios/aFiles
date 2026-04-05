@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The action of government to forgo road construction in order to provide more health facilities denotes",
+		"opts": {
+			"q0": "A. sound economic decision",
+			"q1": "B. opportunity cost",
+			"q2": "C. practicable government policy",
+			"q3": "D. scale of preference",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	In Economics, a market is defined as any",
+		"opts": {
+			"q0": "A. agreement made for consumers to buy all they need",
+			"q1": "B. agreement to sell commodities at low prices",
+			"q2": "C. arrangement made for producers to sell all their goods",
+			"q3": "D. arrangement whereby the buyers and sellers are in contact",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Which of the following is not a function of an insurance company?",
+		"opts": {
+			"q0": "A. Pooling resources together against risks",
+			"q1": "B. Mobilization of funds through premiums collected",
+			"q2": "C. Encouragement of investment by security of capital",
+			"q3": "D. Collection of deposits from the public for investment",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	A debenture holder earns",
+		"opts": {
+			"q0": "A. commisson",
+			"q1": "B. profits",
+			"q2": "C. fixed interest",
+			"q3": "D. quasi-rent  ",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	All economic systems must decide what to produce because",
+		"opts": {
+			"q0": "A. resources are not available",
+			"q1": "B. consumers want maximum satisfaction",
+			"q2": "C. resources are limited in supply",
+			"q3": "D. producers want maximum profit",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Trade between two countries is known as ",
+		"opts": {
+			"q0": "A. bilateral trade",
+			"q1": "B. unilateral trade",
+			"q2": "C. multilateral trade",
+			"q3": "D. internal trade",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	In the balance of payments of a country, tourism is classified under",
+		"opts": {
+			"q0": "A. capital account",
+			"q1": "B. invisible trade",
+			"q2": "C. merchandise trade",
+			"q3": "D. official reserves",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	General rise in the price level induced by increased price of inputs is referred to as",
+		"opts": {
+			"q0": "A. run-away inflation",
+			"q1": "B. cost-push inflation",
+			"q2": "C. demand-pull inflation",
+			"q3": "D. imported inflation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Which of the following is a function of merchant banks?",
+		"opts": {
+			"q0": "A. Acting as bankers’ bank",
+			"q1": "B. Lending to the commercial banks as a last resort",
+			"q2": "C. Controlling inflation in the economy",
+			"q3": "D. Underwriting and issuing of shares",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Demand is elastic when percentage change in",
+		"opts": {
+			"q0": "A. quantity demanded is greater than percentage change in price",
+			"q1": "B. price is greater than percentage change in quantity demanded",
+			"q2": "C. price is equal to one",
+			"q3": "D. quantity demanded is zero",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	A budget is balanced when expected total revenue is",
+		"opts": {
+			"q0": "A. greater than expected expenditure",
+			"q1": "B. less than total expenditure",
+			"q2": "C. equal to expected expenditure",
+			"q3": "D. greater than total expenditure",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A co-operative society is a",
+		"opts": {
+			"q0": "A. finance house",
+			"q1": "B. self-help business organization",
+			"q2": "C. public corporation",
+			"q3": "D. non-democratic business organization",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	The value of money is affected by the",
+		"opts": {
+			"q0": "A. speculative motive",
+			"q1": "B. price level",
+			"q2": "C. precautionary motive",
+			"q3": "D. intervention of development banks ",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Which of the following is a function of money?",
+		"opts": {
+			"q0": "A. Medium of communication",
+			"q1": "B. Measure of securities",
+			"q2": "C. Store of wealth",
+			"q3": "D. Discounting bills of exchange",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following is an asset of a commercial bank?",
+		"opts": {
+			"q0": "A. Reserve funds",
+			"q1": "B. Shareholders’ capital",
+			"q2": "C. Customers’deposits",
+			"q3": "D. Treasury bills",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	An increase in the supply of a commodity X automatically results in an increase in the supply of another commodity Y. This is a case",
+		"opts": {
+			"q0": "A. elastic supply",
+			"q1": "B. joint supply",
+			"q2": "C. exceptional supply",
+			"q3": "D. competitive supply",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Why would an individual increase his level of consumption during inflationary periods?",
+		"opts": {
+			"q0": "A. The real value of any amount saved falls over time",
+			"q1": "B. Interest rates are generally low",
+			"q2": "C. There are varieties of goods to buy",
+			"q3": "D. Wages and salaries stagnate during inflation",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The type of monopoly that develops as a result of uneven distribution of resources is called",
+		"opts": {
+			"q0": "A. legal monopoly",
+			"q1": "B. natural monopoly",
+			"q2": "C. state monopoly",
+			"q3": "D. international monopoly",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	A major disadvantage of partnership form of business is that",
+		"opts": {
+			"q0": "A. every partner has to be consulted during decision¬making",
+			"q1": "B. partners could be too friendly with their customers",
+			"q2": "C. affairs can be kept private",
+			"q3": "D. partners could take long holidays",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Goods which have to be paid for are known as",
+		"opts": {
+			"q0": "A. physical goods",
+			"q1": "B. economic goods",
+			"q2": "C. free goods",
+			"q3": "D. intangible goods",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Goods are said to be in competitive demand when they are",
+		"opts": {
+			"q0": "A. substitutes",
+			"q1": "B. complementary",
+			"q2": "C. jointly demanded",
+			"q3": "D. identical",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	In the long-run, factors of production are considered to be",
+		"opts": {
+			"q0": "A. at maximum",
+			"q1": "B. fixed",
+			"q2": "C. variable",
+			"q3": "D. increasing",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following will shift the demand curve for cocoa to the right?",
+		"opts": {
+			"q0": "A. An increase in consumers’ income",
+			"q1": "B. A rise in the price of cocoa",
+			"q2": "C. A tax on cocoa producers",
+			"q3": "D. A fall in the quantity demanded of cocoa",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	An agricultural production process which uses more machinery relative to labour is referred to as",
+		"opts": {
+			"q0": "A. large-scale farming",
+			"q1": "B. capital intensive farming",
+			"q2": "C. commercial farming",
+			"q3": "D. land intensive farming",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Which of the following will enhance productivity in an economy?",
+		"opts": {
+			"q0": "A. The use of obsolete capital",
+			"q1": "B. Technological change",
+			"q2": "C. Expansion of land under cultivation",
+			"q3": "D. An increase in the labour force",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Post harvest losses in West African countries can be reduced if",
+		"opts": {
+			"q0": "A. the land tenure system could be reformed",
+			"q1": "B. more irrigation schemes could be provided",
+			"q2": "C. better storage facilities could be provided",
+			"q3": "D. erosion is controlled",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Which of the following best explains what to produce?",
+		"opts": {
+			"q0": "A. How much goods are to be produced",
+			"q1": "B. The combination of resources to be used",
+			"q2": "C. Which goods and services to be produced",
+			"q3": "D. How many wants are to be satisfied",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The demand for money is described as a",
+		"opts": {
+			"q0": "A. competitive demand",
+			"q1": "B. joint demand",
+			"q2": "C. derived demand",
+			"q3": "D. composite demand",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Which of the following is the main outcome of a trade union’s interference with the wage rate? Wages are",
+		"opts": {
+			"q0": "A. lowered but more employment opportunities are created",
+			"q1": "B. lowered but employment level remains unchanged",
+			"q2": "C. increased and employment levels are unchanged",
+			"q3": "D. increased but employment levels are reduced",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The introduction of tariffs and quotas",
+		"opts": {
+			"q0": "A. reduce the prices of imports",
+			"q1": "B. increase the demand for locally made goods",
+			"q2": "C. discourage domestic industries from becoming more efficient",
+			"q3": "D. reduce the prices of locally made goods",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	A government that wants to get more revenue will increase the tax on commodities with a",
+		"opts": {
+			"q0": "A. high price elasticity of demand",
+			"q1": "B. low price elasticity of demand",
+			"q2": "C. high income elasticity of demand",
+			"q3": "D. low income elasticity of demand",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following is involved in the money market?",
+		"opts": {
+			"q0": "A. Building society",
+			"q1": "B. Development banks",
+			"q2": "C. Commercial banks",
+			"q3": "D. Stock exchange",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Demand pull inflation can aptly be described as",
+		"opts": {
+			"q0": "A. inflation induced by rising costs of production",
+			"q1": "B. reduction in government expenditure",
+			"q2": "C. persistent rise in prices due to increase in expenditure",
+			"q3": "D. massive importation of goods from a country with hyperinflation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	In order to develop the banking habit of rural dwellers, the traditional money lenders should be",
+		"opts": {
+			"q0": "A. proscribed",
+			"q1": "B. legalized",
+			"q2": "C. subsidized",
+			"q3": "D. heavily taxed",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	All rates of interest in a country are influenced by the",
+		"opts": {
+			"q0": "A. bank rate",
+			"q1": "B. population growth rate",
+			"q2": "C. wage rate",
+			"q3": "D. mortgage rate",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Exchange control is a weapon used in regulating",
+		"opts": {
+			"q0": "A. barter trade",
+			"q1": "B. stock exchange",
+			"q2": "C. foreign trade",
+			"q3": "D. internal trade",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	When the marginal product is negative, the total product will be",
+		"opts": {
+			"q0": "A. constant",
+			"q1": "B. at a maximum",
+			"q2": "C. increasing",
+			"q3": "D. decreasing",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Physical productivity is affected by all the underlisted factors except the",
+		"opts": {
+			"q0": "A. state of technology",
+			"q1": "B. quantity of inputs",
+			"q2": "C. quality of inputs",
+			"q3": "D. price of output",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	If a commodity has a high marginal utility, its market price will be",
+		"opts": {
+			"q0": "A. stable",
+			"q1": "B. high",
+			"q2": "C. zero",
+			"q3": "D. constant",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Price fluctuation is a feature of",
+		"opts": {
+			"q0": "A. common market",
+			"q1": "B. imperfect market",
+			"q2": "C. supermarkets",
+			"q3": "D. market failure",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following statements is not a feature of a monopoly?",
+		"opts": {
+			"q0": "A. Seller is allowed to fix his own price",
+			"q1": "B. Buyers and sellers are price lakers",
+			"q2": "C. New entrances are restricted",
+			"q3": "D. There is only one seller of the commodity.",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	The following are advantages of sole proprietorship except",
+		"opts": {
+			"q0": "A. quick and easy decision-making",
+			"q1": "B. keeping its business affairs private",
+			"q2": "C. assurance of raising huge capital for expansion",
+			"q3": "D. high level of commitment",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Which of the following controls a limited liability company?",
+		"opts": {
+			"q0": "A. The general manager",
+			"q1": "B. The managing director",
+			"q2": "C. Tax payers",
+			"q3": "D. The board of directors",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Given that Qd = 80 - 2p where Qd is quantity demanded and P is the price, what quantity would be demanded when the price (P) is $3?",
+		"opts": {
+			"q0": "A. 86 units",
+			"q1": "B. 80 units",
+			"q2": "C. 76 units",
+			"q3": "D. 74 units",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following can be used to calculate the price elasticity of demand?",
+		"opts": {
+			"q0": "A. <sup>percentage change in quantity demanded</sup>&frasl;<sub>percentage change in price</sub>",
+			"q1": "B. <sup>percentage change in price</sup>&frasl;<sub>percentage change in quantity demanded</sub>",
+			"q2": "C. <sup>percentage change in quantity demanded</sup>&frasl;<sub>percentage change in income</sub>",
+			"q3": "D. <sup>percentage change in income</sup>&frasl;<sub>percentage change in quantity demanded</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The main advantage of large scale production is that",
+		"opts": {
+			"q0": "A. unit cost of production falls",
+			"q1": "B. decision-making is quick",
+			"q2": "C. worker-management relationship is improved",
+			"q3": "D. the quality of the product increases",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following items is not included in measuring national income by the income approach?",
+		"opts": {
+			"q0": "A. Profits of companies",
+			"q1": "B. Rents on property",
+			"q2": "C. Students’ grants and scholarships",
+			"q3": "D. Wages and salaries of public servants",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Gold, diamond, iron ore and limestone are collectively referred to as",
+		"opts": {
+			"q0": "A. human resources",
+			"q1": "B. mineral resources",
+			"q2": "C. artificial resources",
+			"q3": "D. forest resources",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Points outside a production possibility curve indicate",
+		"opts": {
+			"q0": "A. unattainable production levels",
+			"q1": "B. attainable production levels",
+			"q2": "C. inefficient, but attainable production levels",
+			"q3": "D. optimum production levels",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The International Bank for Reconstruction and Development (IBRD) is important to developing nations because it",
+		"opts": {
+			"q0": "A. gives aid for defence",
+			"q1": "B. offers loans for public projects",
+			"q2": "C. offers aid to finance private projects.",
+			"q3": "D. gives loans for legal proceedings",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

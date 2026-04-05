@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Economics as a field of study is a",
+		"opts": {
+			"q0": "A. pure science",
+			"q1": "B. political science",
+			"q2": "C. social science",
+			"q3": "D. physical science",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The three major agents of an economic system are the",
+		"opts": {
+			"q0": "A. consumers, workers and producers",
+			"q1": "B. markets, telecommunication and banks",
+			"q2": "C. schools, hospitals and universities",
+			"q3": "D. individuals, firms and government",
+			"q4": "E. "
+		},
+		"ans": "D-", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Which of the following is not an advantage of tabular presentation of data? It",
+		"opts": {
+			"q0": "A. enables easy location of required figures",
+			"q1": "B. makes for easy comparison of figures",
+			"q2": "C. occupies more space than mathematical equation",
+			"q3": "D. shows whether the figures are increasing or decreasing",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The problem of scarcity is reduced by",
+		"opts": {
+			"q0": "A. controlling consumption of goods and services",
+			"q1": "B. producing everything needed by consumers",
+			"q2": "C. ensuring efficient allocation of resources",
+			"q3": "D. restricting consumer choices and tastes",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The reward for labour is",
+		"opts": {
+			"q0": "A. wages",
+			"q1": "B. profit",
+			"q2": "C. rent",
+			"q3": "D. dividends",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the following factors of production consists of man made goods?",
+		"opts": {
+			"q0": "A. Land",
+			"q1": "B. Labour",
+			"q2": "C. Capital",
+			"q3": "D. Entrepreneur",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	One major function of the entrepreneur is",
+		"opts": {
+			"q0": "A. bearing of risk",
+			"q1": "B. maximizing profits",
+			"q2": "C. taking charge of day to day management",
+			"q3": "D. determining the selling price of his products",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	A major limiting factor of mass production is",
+		"opts": {
+			"q0": "A. efficient management",
+			"q1": "B. adequate labour supply",
+			"q2": "C. small size of the market",
+			"q3": "D. adequate supply of raw materials",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Division of labour leads to",
+		"opts": {
+			"q0": "A. improved craftsmanship",
+			"q1": "B. the production of standardized goods",
+			"q2": "C. increase in the cost of goods",
+			"q3": "D. trade by barter",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Which of the following is an advantage of localization of industry?",
+		"opts": {
+			"q0": "A. Development of subsidiary firms",
+			"q1": "B. Creation of parallel markets",
+			"q2": "C. Development of slums",
+			"q3": "D. Attraction of foreign capital",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The additional satisfaction derived from the consumption of one more unit of a good is called",
+		"opts": {
+			"q0": "A. marginal product",
+			"q1": "B. marginal utility",
+			"q2": "C. marginal revenue",
+			"q3": "D. marginal cost",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='eco_2003_sectionb_qst12.jpg'> The curve labelled X is the",
+		"opts": {
+			"q0": "A. total revenue curve",
+			"q1": "B. total product curve",
+			"q2": "C. marginal product curve",
+			"q3": "D. marginal revenue curve",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	When the total product is at its maximum, marginal product is",
+		"opts": {
+			"q0": "A. increasing",
+			"q1": "B. positive",
+			"q2": "C. negative",
+			"q3": "D. zero",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Marginal cost can be derived from the",
+		"opts": {
+			"q0": "A. total product",
+			"q1": "B. total revenue",
+			"q2": "C. total cost",
+			"q3": "D. average fixed cost",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The market supply curve slopes upwards from left to right indicating that",
+		"opts": {
+			"q0": "A. at a lower price, more is supplied",
+			"q1": "B. two commodities can be supplied at the same time",
+			"q2": "C. at a lower price, less is supplied",
+			"q3": "D. producers pay high taxes",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	<img src='eco_2003_sectionb_qst16.jpg'> Use the table below to answer question 16. The marginal revenue when output is 4 units is",
+		"opts": {
+			"q0": "A. 5 naira",
+			"q1": "B. 8 naira",
+			"q2": "C. 56 naira",
+			"q3": "D. 61 naira",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	The term underpopulation refers to a situation where the population is",
+		"opts": {
+			"q0": "A. dispersed over the country",
+			"q1": "B. small in relation to available resources",
+			"q2": "C. greater than the available resources",
+			"q3": "D. concentrated in a few areas",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	West African countries experience rapid population growth due to",
+		"opts": {
+			"q0": "A. existence of birth control clinics",
+			"q1": "B. early marriages",
+			"q2": "C. adequate sex education in schools",
+			"q3": "D. late marriages",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following could be used to measure the efficiency of labour?",
+		"opts": {
+			"q0": "A. Education and training",
+			"q1": "B. Rate of inflation",
+			"q2": "C. Level of unemployment",
+			"q3": "D. Input-Output ratio",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following is necessary for the survival of small firms in West Africa?",
+		"opts": {
+			"q0": "A. Access to land for development",
+			"q1": "B. Inadequate collaterals for bank loans",
+			"q2": "C. Government assistance in the form of loans and tax holidays",
+			"q3": "D. High transportation costs",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	A normal demand curve slopes",
+		"opts": {
+			"q0": "A. downwards from left to right",
+			"q1": "B. upwards from left to right",
+			"q2": "C. downwards from right to left",
+			"q3": "D. upwards from the origin",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	If the quantity demanded of a commodity increases from 20 to 30 units when there is an increase in price from 4 naira to 5 naira, the elasticity of demand is",
+		"opts": {
+			"q0": "A. 0",
+			"q1": "B. 1",
+			"q2": "C. 2",
+			"q3": "D. 5",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Price elasticity of supply measures the responsiveness of quantity supplied to",
+		"opts": {
+			"q0": "A. changes in suppliers’ income",
+			"q1": "B. changes in prices of other commodities",
+			"q2": "C. a change in the price of the commodity",
+			"q3": "D. a change in the demand for the product",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	The most common type of business in West African countries is",
+		"opts": {
+			"q0": "A. joint-stock companies",
+			"q1": "B. sole proprietorships",
+			"q2": "C. partnerships",
+			"q3": "D. public enterprises",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Which of the following is a type of business organization?",
+		"opts": {
+			"q0": "A. Stock exchange",
+			"q1": "B. Insurance company",
+			"q2": "C. Chain stores",
+			"q3": "D. Co-operative",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	One advantage of the sole proprietorship is that",
+		"opts": {
+			"q0": "A. control and supervision is under one man",
+			"q1": "B. accounts must be publicized",
+			"q2": "C. it is always successful",
+			"q3": "D. funds are easy to obtain",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The shares which do not carry any fixed rate of dividend are known as",
+		"opts": {
+			"q0": "A. debentures",
+			"q1": "B. cumulative preference shares",
+			"q2": "C. ordinary shares",
+			"q3": "D. participating preference shares",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The economic goal of public corporations is to",
+		"opts": {
+			"q0": "A. maximize profit",
+			"q1": "B. expand assets",
+			"q2": "C. minimize costs",
+			"q3": "D. provide essential services",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	One of the factors responsible for low agricultural production in West Africa is",
+		"opts": {
+			"q0": "A. inadequate labour",
+			"q1": "B. shortage of land",
+			"q2": "C. inadequate implements",
+			"q3": "D. inadequate research",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Efficient distribution of goods in West Africa will be facilitated by",
+		"opts": {
+			"q0": "A. poor storage facilities",
+			"q1": "B. adequate transportation system",
+			"q2": "C. high standard of living",
+			"q3": "D. high cost of living",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The demand for money is",
+		"opts": {
+			"q0": "A. derived demand",
+			"q1": "B. composite demand",
+			"q2": "C. joint demand",
+			"q3": "D. complimentary demand",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Money becomes a very poor store of value in a period of",
+		"opts": {
+			"q0": "A. deflation",
+			"q1": "B. depression",
+			"q2": "C. recession",
+			"q3": "D. inflation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	A continuous fall in the general price level is called",
+		"opts": {
+			"q0": "A. recession",
+			"q1": "B. depression",
+			"q2": "C. deflation",
+			"q3": "D. stagflation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following is a function of the central bank?",
+		"opts": {
+			"q0": "A. Accepting deposits from the public",
+			"q1": "B. Lending to the commercial banks",
+			"q2": "C. Discounting bills of exchange",
+			"q3": "D. Agent of payment for individuals",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Cost-push inflation is likely to raise when",
+		"opts": {
+			"q0": "A. there is an increase in government spending",
+			"q1": "B. there is an increase in direct taxes",
+			"q2": "C. demand for higher wages is granted",
+			"q3": "D. there is a decrease in bank lending",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The most important function of merchant banks is the",
+		"opts": {
+			"q0": "A. issuing of currency",
+			"q1": "B. provision of short term loans",
+			"q2": "C. provision of medium and long term loans",
+			"q3": "D. provision of short and long term loans",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Precautionary motive relates to",
+		"opts": {
+			"q0": "A. demand for money",
+			"q1": "B. demand for goods",
+			"q2": "C. supply of money",
+			"q3": "D. supply of goods",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Invisible trade refers to trade in",
+		"opts": {
+			"q0": "A. services",
+			"q1": "B. goods and services",
+			"q2": "C. tangible goods",
+			"q3": "D. crude oil",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	When the demand for foreign exchange exceeds its supply, the value of the domestic currency",
+		"opts": {
+			"q0": "A. appreciates",
+			"q1": "B. depreciates",
+			"q2": "C. inflates",
+			"q3": "D. expands",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Whicn of the following is part of the capital account of the balance of payments?",
+		"opts": {
+			"q0": "A. Net investment from abroad",
+			"q1": "B. Import of machinery",
+			"q2": "C. Insurance",
+			"q3": "D. Transportation costs",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	The most common index for measuring development is",
+		"opts": {
+			"q0": "A. the level of illiteracy",
+			"q1": "B. the per capita income",
+			"q2": "C. nutritional levels",
+			"q3": "D. population growth rate",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Governments of West African countries levy taxes to",
+		"opts": {
+			"q0": "A. prevent prices from falling",
+			"q1": "B. make people richer",
+			"q2": "C. limit the number of banks",
+			"q3": "D. finance government projects",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Which of the following is a direct tax?",
+		"opts": {
+			"q0": "A. Import duties",
+			"q1": "B. Purchase tax",
+			"q2": "C. Export duties",
+			"q3": "D. Personal income tax",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The tax whose rate increases as the level of income increases is known as",
+		"opts": {
+			"q0": "A. regressive tax",
+			"q1": "B. proportional tax",
+			"q2": "C. progressive tax",
+			"q3": "D. company tax",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Public expenditure on education and health is known as expenditure on",
+		"opts": {
+			"q0": "A. general services",
+			"q1": "B. social services",
+			"q2": "C. commercial services",
+			"q3": "D. economic services",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Budget deficit can be financed by",
+		"opts": {
+			"q0": "A. reducing the level of taxation",
+			"q1": "B. printing more money",
+			"q2": "C. lending to financial institutions",
+			"q3": "D. employing more workers",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the",
+		"opts": {
+			"q0": "A. increasing population",
+			"q1": "B. willingness of members to co-operate",
+			"q2": "C. geographical contiguity",
+			"q3": "D. weak trade relations",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	In a socialist economy, the means of production is owned and controlled by the",
+		"opts": {
+			"q0": "A. state",
+			"q1": "B. rich",
+			"q2": "C. entrepreneur",
+			"q3": "D. traders",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	It is necessary to estimate the national income of a country because it",
+		"opts": {
+			"q0": "A. indicates the overall performance of the economy",
+			"q1": "B. ensures equitable distribution of wealth",
+			"q2": "C. assists investors in identifying profitable ventures",
+			"q3": "D. enables governments to conserve national resources",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The Organization of Petroleum Exporting Countries (OPEC) is an example of a",
+		"opts": {
+			"q0": "A. perfect competition",
+			"q1": "B. monopoly",
+			"q2": "C. duopoly",
+			"q3": "D. cartel",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The following are examples of economic goods except",
+		"opts": {
+			"q0": "A. bottled water",
+			"q1": "B. air",
+			"q2": "C. household utensils",
+			"q3": "D. shelter",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	A tent-making factory offers",
+		"opts": {
+			"q0": "A. personal services",
+			"q1": "B. indirect services",
+			"q2": "C. social services",
+			"q3": "D. reflex services",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	In which of the following economic systems do we have mostly private ownership of resources and individual decision making?",
+		"opts": {
+			"q0": "A. Capitalist system",
+			"q1": "B. Socialist system",
+			"q2": "C. Mixed system",
+			"q3": "D. Traditional system",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The sum of items divided by the number of items is the",
+		"opts": {
+			"q0": "A. frequency",
+			"q1": "B. mean",
+			"q2": "C. median",
+			"q3": "D. mode",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Find the median of the following set of scores 8,9,6,5,10",
+		"opts": {
+			"q0": "A. 9",
+			"q1": "B. 8",
+			"q2": "C. 6",
+			"q3": "D. 5",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the following causes the demand curve to shift to the right?",
+		"opts": {
+			"q0": "A. A reduction in the size of population",
+			"q1": "B. An increase in the income of the buyer",
+			"q2": "C. The availability of substitutes",
+			"q3": "D. A decrease in price of the good",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Goods for which demand rises as income rises are",
+		"opts": {
+			"q0": "A. complementary goods",
+			"q1": "B. inferior goods",
+			"q2": "C. normal goods",
+			"q3": "D. substitutes",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The slope of a supply curve is",
+		"opts": {
+			"q0": "A. horizontal",
+			"q1": "B. uniform",
+			"q2": "C. positive",
+			"q3": "D. vertical",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Equilibrium price is tne price at which quantity",
+		"opts": {
+			"q0": "A. demanded is greater than quantity supplied",
+			"q1": "B. supplied is greater than quantity demanded",
+			"q2": "C. demanded is equal to quantity supplied",
+			"q3": "D. supplied equals quantity produced",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	A decrease in supply with demand remaining unchanged will cause the equilibrium price for a good to",
+		"opts": {
+			"q0": "A. be unchanged",
+			"q1": "B. remain elastic",
+			"q2": "C. remain inelastic",
+			"q3": "D. rise",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	At the highest level of total utility, marginal utility is",
+		"opts": {
+			"q0": "A. negative",
+			"q1": "B. positive and falling",
+			"q2": "C. positive and rising",
+			"q3": "D. zero",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The law or diminishing marginal utility states that, the more a commodity is consumed the",
+		"opts": {
+			"q0": "A. higher the satisfaction derived from an additional unit",
+			"q1": "B. higher the price to be paid",
+			"q2": "C. lower the quantity supplied",
+			"q3": "D. lower the rate of increase in the total utility derived",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Greater inter-dependence among workers in production is associated with",
+		"opts": {
+			"q0": "A. utility",
+			"q1": "B. manufacturing",
+			"q2": "C. division of labour",
+			"q3": "D. factory workers",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	If TC, PC and VC represent total cost, fixed cost and variable cost respectively, which of the following is correct?",
+		"opts": {
+			"q0": "A. TC = FC - VC",
+			"q1": "B. FC = TC + VC",
+			"q2": "C. TC > FC + VC",
+			"q3": "D. TC = FC + VC",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The reward to land as a factor of production is",
+		"opts": {
+			"q0": "A. profit",
+			"q1": "B. rent",
+			"q2": "C. interest",
+			"q3": "D. wage",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	A firm is said to be a public joint stock company when it",
+		"opts": {
+			"q0": "A. is owned by the government",
+			"q1": "B. sells its shares to members of the public",
+			"q2": "C. operates as a government corporation",
+			"q3": "D. is not legally recognized as a firm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	All the following are sources of finance to a joint stock company except",
+		"opts": {
+			"q0": "A. debentures",
+			"q1": "B. cooperative loans",
+			"q2": "C. shares",
+			"q3": "D. bank loans",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The public sector of an economy includes",
+		"opts": {
+			"q0": "A. cooperative societies",
+			"q1": "B. nationalized industries",
+			"q2": "C. joint stock companies",
+			"q3": "D. Pressure groups",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	One advantage of the Sole Proprietorship over other forms of business organizations is that it can",
+		"opts": {
+			"q0": "A. make very nigh profits",
+			"q1": "B. employ many workers",
+			"q2": "C. keep its affairs private",
+			"q3": "D. produce on a very large scale",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following is obtainable in a perfect market?",
+		"opts": {
+			"q0": "A. P = MR > AR",
+			"q1": "B. MP = MC > P",
+			"q2": "C. MR < P",
+			"q3": "D. P = MR = MC",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The wholesaler performs the following functions except",
+		"opts": {
+			"q0": "A. breaking the bulk",
+			"q1": "B. offering credit facilities to consumers",
+			"q2": "C. financing manufacturers",
+			"q3": "D. buying in bulk from manufacturers",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	<img src='eco_2010_sectionb_qst22.jpg'> The table shows the age distribution of country A in 1983. Using the data in the table, calculate the percentage of working population in 1983",
+		"opts": {
+			"q0": "A. 48%",
+			"q1": "B. 52%",
+			"q2": "C. 57%",
+			"q3": "D. 70%",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	A country whose population size is too small relative to its resources is",
+		"opts": {
+			"q0": "A. over populated",
+			"q1": "B. optimally populated",
+			"q2": "C. under populated",
+			"q3": "D. producing the optimum output",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	An efficient weapon used in resolving disputes between employers and employees is",
+		"opts": {
+			"q0": "A. co-operation",
+			"q1": "B. collective bargaining",
+			"q2": "C. display of placards",
+			"q3": "D. legal action",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Which of the following does not explain why a school principal earns more salary than a school messenger?",
+		"opts": {
+			"q0": "A. Length of training",
+			"q1": "B. Demand and Supply",
+			"q2": "C. Cost of training",
+			"q3": "D. The messenger is a non-teaching staff",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The role of government in promoting agricultural development includes the following except",
+		"opts": {
+			"q0": "A. paying the wages of all farmers",
+			"q1": "B. establishing and funding research",
+			"q2": "C. formulation of policies",
+			"q3": "D. provision of rural infrastructure",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The following are advantages of large scale agriculture except",
+		"opts": {
+			"q0": "A. use of simple implements",
+			"q1": "B. use of sophisticated implements",
+			"q2": "C. increase in employment",
+			"q3": "D. integration of crop and animal farming",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The following are all factors determining the location of industry except",
+		"opts": {
+			"q0": "A. minimum wage rate",
+			"q1": "B. availability of labour",
+			"q2": "C. nearness to raw materials",
+			"q3": "D. proximity to market",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Which of the following is not a concept in National Income accounting?",
+		"opts": {
+			"q0": "A. Domestic National Product (DNP)",
+			"q1": "B. Gross National Product (GNP)",
+			"q2": "C. Gross Domestic Product (GDP)",
+			"q3": "D. Net Domestic Product (NDP)",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following equations is appropriate for determining the Net Domestic Product (NDP)?",
+		"opts": {
+			"q0": "A. NDP = GNP - depreciation",
+			"q1": "B. NDP = GDP + Net Income from abroad",
+			"q2": "C. NDP = GDP - depreciation",
+			"q3": "D. NDP = GDP x Net Income from abroad",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following over estimates the value of national income?",
+		"opts": {
+			"q0": "A. Incomplete statistical data",
+			"q1": "B. Wrong timing of computation",
+			"q2": "C. Changes in prices of goods within the year",
+			"q3": "D. Double counting",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The total stock of money available for use in an economy is",
+		"opts": {
+			"q0": "A. a function of money",
+			"q1": "B. a characteristic of money",
+			"q2": "C. the demand for money",
+			"q3": "D. the supply of money",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following is not a reason for holding money?",
+		"opts": {
+			"q0": "A. Ostentation",
+			"q1": "B. Speculation",
+			"q2": "C. Transactions",
+			"q3": "D. Precautionary",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	The best way of combating demand-pull inflation is to",
+		"opts": {
+			"q0": "A. increase income taxes",
+			"q1": "B. reduce income taxes",
+			"q2": "C. increase import duties",
+			"q3": "D. increase salaries and wages",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	In which of the following ways has inflation adversely affected your country’s economy?",
+		"opts": {
+			"q0": "A. Increase in money supply",
+			"q1": "B. A fall in real income",
+			"q2": "C. Appreciation in the value of money",
+			"q3": "D. Increased employment",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following is a legal tender?",
+		"opts": {
+			"q0": "A. Bank notes",
+			"q1": "B. Bank overdrafts",
+			"q2": "C. Bills of exchange",
+			"q3": "D. Money order",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The Central Bank controls money supply through all the following except",
+		"opts": {
+			"q0": "A. lending to the public",
+			"q1": "B. bank rate",
+			"q2": "C. legal reserve requirements",
+			"q3": "D. open market operation",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	One of the functions of the Central Bank is",
+		"opts": {
+			"q0": "A. production of goods",
+			"q1": "B. issuing of currency",
+			"q2": "C. presenting budgets.",
+			"q3": "D. printing of cheque books",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The function of the Central Bank as a lender of last resort means that when all other sources fail,",
+		"opts": {
+			"q0": "A. the consumer can always borrow money from the Central Bank",
+			"q1": "B. the government can ask the Central Bank to print more money",
+			"q2": "C. commercial banks can raise loans from the Central Bank",
+			"q3": "D. D.	commercial banks can deposit money with the Central Bank",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	One disadvantage of direct taxes is that they",
+		"opts": {
+			"q0": "A. allocate scarce resources",
+			"q1": "B. are not rigid",
+			"q2": "C. can be progressive",
+			"q3": "D. can be evaded",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Excise duty is levied on",
+		"opts": {
+			"q0": "A. the total population",
+			"q1": "B. local products",
+			"q2": "C. luxury goods",
+			"q3": "D. the working population",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	A component of the national debt of a country is",
+		"opts": {
+			"q0": "A. taxation",
+			"q1": "B. bank saving",
+			"q2": "C. the budget",
+			"q3": "D. treasury bills",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	When the demand for a good is fairly inelastic, the burden of an indirect tax falls",
+		"opts": {
+			"q0": "A. more on the consumers of the good",
+			"q1": "B. more on the sellers of the good",
+			"q2": "C. on sellers and consumers equally",
+			"q3": "D. completely on the capital",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Dumping means the selling of a good in a foreign market at a price that is",
+		"opts": {
+			"q0": "A. below the home market price",
+			"q1": "B. above the home market price",
+			"q2": "C. equal to the home market price",
+			"q3": "D. able to clear the home market",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following group of accounts make up the balance of payments?",
+		"opts": {
+			"q0": "A. The current account; multiple account and capital account",
+			"q1": "B. Monetary movement account; company account and international account",
+			"q2": "C. Cash account; double entry account and current account",
+			"q3": "D. Capital account; current account and monetary movement account",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	A country’s balance of payments is in deficit when",
+		"opts": {
+			"q0": "A. a country’s payment for imports of invisible goods are greater than her receipts from exports of invisible goods",
+			"q1": "B. the total receipts from her export of visible and invisible goods are greater than her payments for visible and invisible imports",
+			"q2": "C. it can record a surplus on current account of her balance of payments accounts",
+			"q3": "D. the total payments for visible and invisible imports are greater than the total receipts from her exports of visible and invisible goods",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	In order to stabilize oil price in the world market, there is the need for OPEC members to",
+		"opts": {
+			"q0": "A. always have budget deficit",
+			"q1": "B. encourage competition among themselves",
+			"q2": "C. adhere to production quotas",
+			"q3": "D. fix the prices of non-oil products",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following is not a member of the Economic Community of West African States (ECOWAS)?",
+		"opts": {
+			"q0": "A. Cape verde",
+			"q1": "B. Mauritania",
+			"q2": "C. Cameroon",
+			"q3": "D. Niger",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following is not a type of economic integration?",
+		"opts": {
+			"q0": "A. Customs market",
+			"q1": "B. Common market",
+			"q2": "C. Economic union",
+			"q3": "D. Free trade area",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following is not an international economic organization?",
+		"opts": {
+			"q0": "A. Economic Commission for Africa (ECA)",
+			"q1": "B. African Development Bank (ADB)",
+			"q2": "C. World Health Organization (WHO)",
+			"q3": "D. International Monetary Fund (IMF)",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

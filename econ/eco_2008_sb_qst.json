@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The main concern of economists is to",
+		"opts": {
+			"q0": "A. allocate scarce resources to satisfy human wants",
+			"q1": "B. satisfy all human wants",
+			"q2": "C. redistribute income between the rich and the poor",
+			"q3": "D. control the growth of population",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Productive resources can also be called",
+		"opts": {
+			"q0": "A. principle of production",
+			"q1": "B. factors of production",
+			"q2": "C. items of production",
+			"q3": "D. labour and material resources",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Production covers all the following except when",
+		"opts": {
+			"q0": "A. utility is created",
+			"q1": "B. a good is manufactured",
+			"q2": "C. a commodity is consumed",
+			"q3": "D. individual wants are satisfied",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Data presented in tables are usually arranged in",
+		"opts": {
+			"q0": "A. charts and graphs",
+			"q1": "B. rows and columns",
+			"q2": "C. graphs and rows",
+			"q3": "D. columns and charts",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The theory of diminishing marginal utility states that as more units of a commodity are consumed, the",
+		"opts": {
+			"q0": "A. satisfaction from an extra unit decreases",
+			"q1": "B. satisfaction from an extra unit rises",
+			"q2": "C. satisfaction from an extra unit remains constant",
+			"q3": "D. total satisfaction from the good remains the same",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the following factors does not cause a change in demand?",
+		"opts": {
+			"q0": "A. Taste and fashion",
+			"q1": "B. Vagaries of weather",
+			"q2": "C. Price of other commodities",
+			"q3": "D. Price of the commodity",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	If goods P and Q are jointly demanded, an increase in the price of P will likely",
+		"opts": {
+			"q0": "A. leave the demand for Q constant but reduce the quantity demanded of P",
+			"q1": "B. reduce the quantity of P but increase the price of Q",
+			"q2": "C. increase the quantity supplied of Q",
+			"q3": "D. decrease the quantity demanded of Q",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The gap between demand and supply curves above the equilibrium price is",
+		"opts": {
+			"q0": "A. normal demand",
+			"q1": "B. excess supply",
+			"q2": "C. equilibrium quantity",
+			"q3": "D. abnormal demand",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	A major function of the price mechanism is that it determines the",
+		"opts": {
+			"q0": "A. allocation of resources",
+			"q1": "B. amount of national savings",
+			"q2": "C. population of the country",
+			"q3": "D. number of goods to be taxed",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Which of the following determinants of supply cannot be predicted easily?",
+		"opts": {
+			"q0": "A. Price of the commodity",
+			"q1": "B. New techniques of production",
+			"q2": "C. National emergencies",
+			"q3": "D. Mobility of labour",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	If the co-efficient of elasticity of demand is 1.5, then the demand is",
+		"opts": {
+			"q0": "A. fairly inelastic",
+			"q1": "B. perfectly elastic",
+			"q2": "C. elastic",
+			"q3": "D. inelastic",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Small scale enterprises are important in a country because",
+		"opts": {
+			"q0": "A. they usually produce goods for the dependants",
+			"q1": "B. they provide after-sales services only to the rich",
+			"q2": "C. the prices of their products are fixed",
+			"q3": "D. they render personalized services to the consumers",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	In the long run all factors of production are",
+		"opts": {
+			"q0": "A. expensive",
+			"q1": "B. variable",
+			"q2": "C. durable",
+			"q3": "D. fixed",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	The transformation curve slope indicates the",
+		"opts": {
+			"q0": "A. opportunity cost of producing one commodity for another",
+			"q1": "B. opportunity cost of producing two commodities at a time",
+			"q2": "C. sale of the plant to other investors",
+			"q3": "D. decrease in the cost of production",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following is regarded as fixed cost?",
+		"opts": {
+			"q0": "A. Expenditure on raw materials",
+			"q1": "B. Expenditure on fuel",
+			"q2": "C. Expenditure on power",
+			"q3": "D. Rent on land",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Revenue is the",
+		"opts": {
+			"q0": "A. cost of good multiplied by the quantity sold",
+			"q1": "B. price of good multiplied by the quantity sold",
+			"q2": "C. quantity of good plus purchase price",
+			"q3": "D. quantity supplied less quantity sold",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	A business outfit is said to be a public limited company when it",
+		"opts": {
+			"q0": "A. is owned by government",
+			"q1": "B. operates as a public corporation",
+			"q2": "C. is run by the public",
+			"q3": "D. sells its shares to members of the public",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The main characteristics of an ordinary share are",
+		"opts": {
+			"q0": "A. maximum risk, fixed dividends, voting rights",
+			"q1": "B. maximum risk, fixed dividends, no voting rights",
+			"q2": "C. maximum risk, variable dividends, voting rights",
+			"q3": "D. minimum risk, fixed dividends, no voting rights",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The monopolist can determine",
+		"opts": {
+			"q0": "A. price and output",
+			"q1": "B. price only",
+			"q2": "C. output only",
+			"q3": "D. price or output",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	A market situation with a large number of firms selling closely related but differentiated products is",
+		"opts": {
+			"q0": "A. monopolistic competition",
+			"q1": "B. perfect competition",
+			"q2": "C. monopoly",
+			"q3": "D. monopsony",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Equilibrium under perfect competition requires that",
+		"opts": {
+			"q0": "A. MC = MR but AR < AC",
+			"q1": "B. MR = MC = AR = AC",
+			"q2": "C. AC = AR < MC",
+			"q3": "D. TR < TC",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The purely competitive firm should close down when its price is less than its",
+		"opts": {
+			"q0": "A. average variable cost",
+			"q1": "B. total fixed cost",
+			"q2": "C. average total cost",
+			"q3": "D. marginal cost",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	During a sale by auction, the price at which the good is finally soid is determined mostly by",
+		"opts": {
+			"q0": "A. competition oetween buyers and sellers",
+			"q1": "B. competition among buyers",
+			"q2": "C. competition among sellers",
+			"q3": "D. government policy",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Which of the following does not affect a country’s population?",
+		"opts": {
+			"q0": "A. Birth rate",
+			"q1": "B. Death rate",
+			"q2": "C. Emigration",
+			"q3": "D. Unemployment",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The trade unions in West Africa have achieved the following for the workers except",
+		"opts": {
+			"q0": "A. increased wages",
+			"q1": "B. better condition of service",
+			"q2": "C. competitive determination of wage rate",
+			"q3": "D. improved welfare facilities",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The employers’ demand curve for labour is represented by the",
+		"opts": {
+			"q0": "A. marginal product curve of labour",
+			"q1": "B. total product curve of labour",
+			"q2": "C. average product curve of labour",
+			"q3": "D. total cost curve of labour",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Agriculture plays a dominant role in our country because",
+		"opts": {
+			"q0": "A. it is the main source of energy",
+			"q1": "B. it employs more than 50% of the total labour force",
+			"q2": "C. it supplies all industrial inputs",
+			"q3": "D. there are large plantations of cocoa, groundnut and palm oil",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The main objective of specialization is to",
+		"opts": {
+			"q0": "A. allocate resources",
+			"q1": "B. limit workers’skill",
+			"q2": "C. increase the use of labour",
+			"q3": "D. increase productivity",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Industry can be defined as",
+		"opts": {
+			"q0": "A. several firms producing different commodities",
+			"q1": "B. group of firms producing similar commodities",
+			"q2": "C. different firms producing equal number of commodities",
+			"q3": "D. many firms producing for export",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following is a disadvantage of large scale production?",
+		"opts": {
+			"q0": "A. Market economies",
+			"q1": "B. Managerial economies",
+			"q2": "C. Impersonal organization",
+			"q3": "D. Division of labour",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The national income of a country can be estimated through the",
+		"opts": {
+			"q0": "A. output approach",
+			"q1": "B. input approach",
+			"q2": "C. empirical approach",
+			"q3": "D. census approach",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	<img src='eco_2008_sectionb_qst32_33.jpg'> Use the table below to answer questions 32 and 33. The qross domestic product (GDP) is equal to",
+		"opts": {
+			"q0": "A. $825 m",
+			"q1": "B. $925 m",
+			"q2": "C. $940 m",
+			"q3": "D. $950 m",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	<img src='eco_2008_sectionb_qst32_33.jpg'> Use the table below to answer questions 32 and 33. 33. The net capital formation is",
+		"opts": {
+			"q0": "A. $115 m",
+			"q1": "B. $125 m",
+			"q2": "C. $915 m",
+			"q3": "D. $925 m",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	A medium of exchange which is generally acceptable is",
+		"opts": {
+			"q0": "A. barter",
+			"q1": "B. a cheque",
+			"q2": "C. government bond",
+			"q3": "D. money",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Since money is demanded for what it can buy, the demand is said to be",
+		"opts": {
+			"q0": "A. derived",
+			"q1": "B. joint",
+			"q2": "C. composite",
+			"q3": "D. complementary",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The supply of money in the economy includes",
+		"opts": {
+			"q0": "A. bank notes only",
+			"q1": "B. bank notes and coins",
+			"q2": "C. bank nptes and bank deposits",
+			"q3": "D. bank notes, coins and bank deposits",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The indicator of the value of money is",
+		"opts": {
+			"q0": "A. the general price level",
+			"q1": "B. the equilibrium price",
+			"q2": "C. consumers’ income",
+			"q3": "D. the interest rate",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	A continuous fall in the general price level is called",
+		"opts": {
+			"q0": "A. recession",
+			"q1": "B. depression",
+			"q2": "C. deflation",
+			"q3": "D. stagflation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The Central Bank can restrict credit through",
+		"opts": {
+			"q0": "A. depreciation of assets",
+			"q1": "B. granting overdraft",
+			"q2": "C. direct investment",
+			"q3": "D. open market operation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Creation of money by commercial banks is done by",
+		"opts": {
+			"q0": "A. increasing the cash ratio",
+			"q1": "B. printing money",
+			"q2": "C. lending to borrowers",
+			"q3": "D. issuing cheques",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Public finance is basically an analysis of the",
+		"opts": {
+			"q0": "A. income and expenditure of government",
+			"q1": "B. expenditure patterns of government",
+			"q2": "C. current and capital receipts of government",
+			"q3": "D. current and capital expenditure of government",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	A major use of taxation is to",
+		"opts": {
+			"q0": "A. control population growth rate",
+			"q1": "B. influence people’s spending habits",
+			"q2": "C. control money supply",
+			"q3": "D. create bank credits",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	A tax which is expressed as a given absolute sum of money per unit of a commodity is known as",
+		"opts": {
+			"q0": "A. a specific tax ",
+			"q1": "B. a direct tax",
+			"q2": "C. an indirect tax",
+			"q3": "D. a value added tax",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	All indirect taxes tend to be",
+		"opts": {
+			"q0": "A. progressive",
+			"q1": "B. regressive",
+			"q2": "C. certain",
+			"q3": "D. equitable",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following will have a more destabilizing effect on the economy?",
+		"opts": {
+			"q0": "A. A tax on the prices of vehicles",
+			"q1": "B. A tax on petrol",
+			"q2": "C. A decrease in the supply of vehicles",
+			"q3": "D. Moderate increase in wages",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	An important feature of economic development is",
+		"opts": {
+			"q0": "A. population explosion",
+			"q1": "B. reduction in exports",
+			"q2": "C. high literacy level",
+			"q3": "D. low exports",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Trade among nations is desirable because it",
+		"opts": {
+			"q0": "A. enables people in a country to know those in other countries",
+			"q1": "B. makes it possible for people in a country to enjoy the goods and services produced in other countries",
+			"q2": "C. enables residents in a country to understand the language of residents of other countries",
+			"q3": "D. makes it possible for a country to have the currencies of other countries",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Invisible trade refers to trade in",
+		"opts": {
+			"q0": "A. services",
+			"q1": "B. goods and services",
+			"q2": "C. tangible goods",
+			"q3": "D. crude oil",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Payment surplus implies that the value of the country’s",
+		"opts": {
+			"q0": "A. exports exceeds its imports",
+			"q1": "B. imports exceeds its exports",
+			"q2": "C. exports is equal to its imports",
+			"q3": "D. terms of trade is constant",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The Economic Commission for Africa is an agency of the",
+		"opts": {
+			"q0": "A. Organization of African Unity",
+			"q1": "B. African Development Bank",
+			"q2": "C. European Union",
+			"q3": "D. United Nations Organization",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

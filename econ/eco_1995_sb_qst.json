@@ -1,0 +1,483 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Economics is a social science which studies how",
+		"opts": {
+			"q0": "A. to redistribute income",
+			"q1": "B. human beings behave",
+			"q2": "C. the market price is fixed",
+			"q3": "D. scarce resources are allocated to satisfy human wants",
+			"q4": "E. wasteful spending is eliminated"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Scarcity in Economics means",
+		"opts": {
+			"q0": "A. shortage of a commodity",
+			"q1": "B. unlimited demand for consumer goods",
+			"q2": "C. limited supply of goods and services",
+			"q3": "D. total absence of a commodity in the market",
+			"q4": "E. high cost of a commodity"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The decision on what to produce is a problem in",
+		"opts": {
+			"q0": "A. all economic systems",
+			"q1": "B. a mixed economic system only",
+			"q2": "C. a democratic socialist economy only",
+			"q3": "D. a free enterprise system only",
+			"q4": "E. a planned economic system only"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The law of demand states that",
+		"opts": {
+			"q0": "A. as price increases, quantity demanded remains constant",
+			"q1": "B. demand increases as price increases",
+			"q2": "C. as price falls, quantity demanded also falls",
+			"q3": "D. as price falls, quantity demanded increases",
+			"q4": "E. demand and supply remain constant whether price fails or increases"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Which of the following is an important limiting factor in the application of division of labour?",
+		"opts": {
+			"q0": "A. Market size",
+			"q1": "B. Availability of infrastructure",
+			"q2": "C. Wage rate",
+			"q3": "D. Raw materials",
+			"q4": "E. Availability of land"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the following factors does not encourage the location of industries?",
+		"opts": {
+			"q0": "A. Nearness to the market",
+			"q1": "B. Availability of infrastructural facilities",
+			"q2": "C. Government influence in sitting industries",
+			"q3": "D. Political instability",
+			"q4": "E. Abundance of cheap labour"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	All the underlisted factors directly affect the supply of a commodity except",
+		"opts": {
+			"q0": "A. price",
+			"q1": "B. improved production method",
+			"q2": "C. access to capital",
+			"q3": "D. demand for the commodity",
+			"q4": "E. level of income"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Which of the following economic systems is in operation in Nigeria?",
+		"opts": {
+			"q0": "A. Capitalist economy",
+			"q1": "B. Socialist cum Marxist economy",
+			"q2": "C. Socialist economy",
+			"q3": "D. Capitalist and free economy",
+			"q4": "E. Mixed economy"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Giffen commodities are those commodities",
+		"opts": {
+			"q0": "A. which give rise to a cobweb situation",
+			"q1": "B. for which demand increases as price increases",
+			"q2": "C. which have a low price elasticity of demand",
+			"q3": "D. which are in short supply",
+			"q4": "E. which have a high income elasticity of demand"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Effective demand in Economics means",
+		"opts": {
+			"q0": "A. the desire for a commodity",
+			"q1": "B. a proposal to purchase a good on credit",
+			"q2": "C. the desire for a commodity or service backed by purchasing power",
+			"q3": "D. an irrevocable instruction to the seller to meet up the needs of the buyers",
+			"q4": "E. the propensity to consume goods produced by manufacturers"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Government can influence aggregate demand through all the following measures except",
+		"opts": {
+			"q0": "A. reduction in personal income tax",
+			"q1": "B. retirement of directors-general in the public service",
+			"q2": "C. creation of employment opportunities",
+			"q3": "D. compulsory deductions from salaries of all categories of workers",
+			"q4": "E. upward revision of workers’ fringe benefits"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The term production in Economics means",
+		"opts": {
+			"q0": "A. manufacturing of goods",
+			"q1": "B. the creation of utilities",
+			"q2": "C. giving birth to children",
+			"q3": "D. the distribution of goods and services",
+			"q4": "E. using labour in creating something"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Under the socialist economy, the decision on what to produce is determined by the",
+		"opts": {
+			"q0": "A. producers",
+			"q1": "B. level of expected profit",
+			"q2": "C. price",
+			"q3": "D. government",
+			"q4": "E. preferences of consumers"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Credit creation by banks is limited by",
+		"opts": {
+			"q0": "A. an increase in bank deposits",
+			"q1": "B. the establishment of specialized banks",
+			"q2": "C. the non-availability of collateral security",
+			"q3": "D. the use of cheques for all transactions of the banks",
+			"q4": "E. abolishing the reserve ratio"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following explains marginal cost?",
+		"opts": {
+			"q0": "A. Overhead costs plus variable costs resulting from production",
+			"q1": "B. The average cost of producing more units of the product",
+			"q2": "C. The extra cost of producing more units of the product",
+			"q3": "D. Overhead cost minus variable costs",
+			"q4": "E. The addition to total cost resulting from the production of an additional unit"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The effect of an increase in price on the demand for a commodity with elastic demand will be",
+		"opts": {
+			"q0": "A. an increase in the demand for the commodity",
+			"q1": "B. a decrease in the demand for the commodity",
+			"q2": "C. a further increase in the price of the commodity",
+			"q3": "D. reduction in the number of distributors of the commodity",
+			"q4": "E. a general increase in the cost of production"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	If AC = Average Cost of production, FC = Fixed Cost of production, VC = Variable Cost of production, and TC = Total Cost of production, then",
+		"opts": {
+			"q0": "A. VC = <sup>TC</sup>&frasl;<sub>FC</sub>",
+			"q1": "B. VC = FC + AC",
+			"q2": "C. VC = TC - AC",
+			"q3": "D. VC = TC - FC",
+			"q4": "E. VC = <sup>TC - FC</sup>&frasl;<sub>VC</sub>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	In perfect competition, the marginal cost curve intersects the average cost curve",
+		"opts": {
+			"q0": "A. from below at its lowest point",
+			"q1": "B. from above at its lowest point",
+			"q2": "C. from below before the lowest point",
+			"q3": "D. at the zero point",
+			"q4": "E. from below after the lower point"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following does not require the use of information from census?",
+		"opts": {
+			"q0": "A. Allocating central government revenue among states or regions",
+			"q1": "B. Planning for development in the states or regions",
+			"q2": "C. Demarcating constituencies for elections in the states or regions",
+			"q3": "D. Providing adequate social amenities and services in the states or regions",
+			"q4": "E. Controlling geographical mobility of labour among the states or regions"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following is not a function of an insurance company?",
+		"opts": {
+			"q0": "A. Mobilization of funds through premiums collected",
+			"q1": "B. Encouragement of savings habit through life assurances",
+			"q2": "C. Collection of deposits from the public",
+			"q3": "D. Granting of loans on long-term basis for investment",
+			"q4": "E. Encouragement of investment by security of capital"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Malthus observed in his theory that population was growing",
+		"opts": {
+			"q0": "A. at a regular rate",
+			"q1": "B. in arithmetical progression",
+			"q2": "C. in geometrical progression",
+			"q3": "D. in mathematical progression",
+			"q4": "E. in trigonometrical progression"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	At optimum population level, a country has its",
+		"opts": {
+			"q0": "A. maximum population",
+			"q1": "B. ageing population",
+			"q2": "C. highest birth rate",
+			"q3": "D. highest output per head",
+			"q4": "E. lowest death rate"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following does not give a characteristics of money?",
+		"opts": {
+			"q0": "A. Durable",
+			"q1": "B. Portable",
+			"q2": "C. Divisible into small units",
+			"q3": "D. Generally acceptable",
+			"q4": "E. Medium of exchange"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Which of the following constitutes the major component of money supply in a developed economy?",
+		"opts": {
+			"q0": "A. Demand deposits",
+			"q1": "B. Paper money",
+			"q2": "C. Bank drafts",
+			"q3": "D. Coins",
+			"q4": "E. Time deposits"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	A point along a consumer’s indifference curve shows",
+		"opts": {
+			"q0": "A. the different commodities he can consume",
+			"q1": "B. a combination of all commodities he is willing to buy",
+			"q2": "C. a combination of two commodities from which he derives the same satisfaction",
+			"q3": "D. the quantities of commodities demanded by him",
+			"q4": "E. the difference between quantity supplied and quantity demanded"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	If a monopolist is attempting to maximize profit, which of the following should he attempt to do?",
+		"opts": {
+			"q0": "A. Equate average cost to average revenue",
+			"q1": "B. Equate marginal cost to marginal revenue",
+			"q2": "C. Equate marginal cost to average revenue",
+			"q3": "D. Fix price and output",
+			"q4": "E. Equate price to total cost"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The greatest foreign exchange earner for Nigeria before the advent of petroleum was",
+		"opts": {
+			"q0": "A. mining",
+			"q1": "B. handicraft",
+			"q2": "C. agriculture",
+			"q3": "D. manufacturing",
+			"q4": "E. tourism"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	A budget is defined as a",
+		"opts": {
+			"q0": "A. summary of expected expenditure by individuals and governments",
+			"q1": "B. summary of expected income",
+			"q2": "C. record of value of services rendered in a year",
+			"q3": "D. record of goods produced in a year",
+			"q4": "E. summary of expected income and expenditure"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The real value of money is",
+		"opts": {
+			"q0": "A. its face value",
+			"q1": "B. what it can buy at a particular time",
+			"q2": "C. its rate of exchange with other currencies",
+			"q3": "D. its intrinsic worth",
+			"q4": "E. its rate of circulation"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	A tax whose rate increases as income increases is",
+		"opts": {
+			"q0": "A. an indirect tax",
+			"q1": "B. a progressive tax",
+			"q2": "C. a regressive tax",
+			"q3": "D. a direct tax",
+			"q4": "E. a proportional tax"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following best describes the multiplier?",
+		"opts": {
+			"q0": "A. Product of income and expenditure",
+			"q1": "B. Curves of saving and expenditure",
+			"q2": "C. Ratio of change in income to the expenditure that brought it about",
+			"q3": "D. Constant level of income",
+			"q4": "E. Equality of marginal propensities to consume and save"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Net National Product (NNP) is equal to the",
+		"opts": {
+			"q0": "A. Gross Domestic Product (GDP) less depreciation",
+			"q1": "B. Gross National Product (GNP) less depreciation",
+			"q2": "C. Gross Domestic Product (GDP) plus depreciation",
+			"q3": "D. Gross National Production (GNP) plus depreciation",
+			"q4": "E. Gross National income plus taxation"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Terms of trade simply means the price",
+		"opts": {
+			"q0": "A. ratio of import to export",
+			"q1": "B. ratio of export multiplied by import",
+			"q2": "C. ratio of export to import",
+			"q3": "D. ratio of export multiplied by price ratio of import",
+			"q4": "E. of export minus price of import"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Balance of trade can be defined as",
+		"opts": {
+			"q0": "A. the value of imports in relation to the value of a country's exports",
+			"q1": "B. the price ratio of imports as against that of exports",
+			"q2": "C. equality in the total receipts and payments of a country in a year",
+			"q3": "D. percentage value of imports over percentage value of exports",
+			"q4": "E. prices of exports versus prices of imports"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Which of the following is not a feature of a perfect market?",
+		"opts": {
+			"q0": "A. Large number of buyers and sellers",
+			"q1": "B. Homogeneity of products",
+			"q2": "C. Preferential treatment",
+			"q3": "D. Absence of transport cost",
+			"q4": "E. Perfect knowledge of market situation"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following is not a source of raising funds for a public limited liability company in West Africa?",
+		"opts": {
+			"q0": "A. Bank loans",
+			"q1": "B. Issue of shares",
+			"q2": "C. Issue of debentures",
+			"q3": "D. Ploughing back profits",
+			"q4": "E. Sales of bonds"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following is not an objective of the Indigenisation Policy in Nigeria? To",
+		"opts": {
+			"q0": "A. make Nigerians dominate their economy",
+			"q1": "B. increase Nigerian participation in the economy",
+			"q2": "C. prevent foreign monopoly of the economy",
+			"q3": "D. eliminate foreign participation in the Nigerian economy",
+			"q4": "E. protect the national interest and security"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Where was oil first discovered in commercial quantities in Nigeria?",
+		"opts": {
+			"q0": "A. Oloibiri",
+			"q1": "B. Warri",
+			"q2": "C. Elesa Eleme",
+			"q3": "D. Onitsha",
+			"q4": "E. Port Harcourt"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Where is the headquarters of the African Development Bank (ADB) located?",
+		"opts": {
+			"q0": "A. Lome",
+			"q1": "B. Adis Ababa",
+			"q2": "C. Accra",
+			"q3": "D. Lagos",
+			"q4": "E. Abidjan"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	International trade takes placed because of differences in",
+		"opts": {
+			"q0": "A. production cost",
+			"q1": "B. language",
+			"q2": "C. government policy",
+			"q3": "D. currency",
+			"q4": "E. international boundary"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

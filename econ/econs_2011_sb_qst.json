@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Human wants are",
+		"opts": {
+			"q0": "A. limited",
+			"q1": "B. scarce",
+			"q2": "C. unlimited",
+			"q3": "D. in grades",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The difference between the money cost and the real cost of any item is that",
+		"opts": {
+			"q0": "A. real cost is the alternative forgone while the money cost is the actual amount paid for buying the item",
+			"q1": "B. the real cost is the opportunity cost, while the money cost is the marginal cost",
+			"q2": "C. money cost is the opportunity cost, while the real cost is the actual cost in monetary terms",
+			"q3": "D. money cost is always greater than real cost",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The Production Possibility Curve (PPC) indicates that as more of one good is produced",
+		"opts": {
+			"q0": "A. less of the other good is produced",
+			"q1": "B. the same quantity of the other good is produced",
+			"q2": "C. more of the other good is produced",
+			"q3": "D. none of the other good is produced",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	An arrangement of data in rows and columns is referred to as a",
+		"opts": {
+			"q0": "A. graph",
+			"q1": "B. bar chart",
+			"q2": "C. pie chart",
+			"q3": "D. table",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	A normal demand curve slopes",
+		"opts": {
+			"q0": "A. downwards from left to right",
+			"q1": "B. upwards from right to left",
+			"q2": "C. downwards from right to left",
+			"q3": "D. upwards from left to right",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The co-efficient of income elasticity of demand for inferior goods is",
+		"opts": {
+			"q0": "A. positive",
+			"q1": "B. equal to one",
+			"q2": "C. less than one",
+			"q3": "D. negative",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	If a 20% rise in the price of Whisky leads to a 30% increase in quantity demanded of Schnapps, the cross elasticity of demand is",
+		"opts": {
+			"q0": "A. 3.0",
+			"q1": "B. 2.5",
+			"q2": "C. 2.3",
+			"q3": "D. 1.5",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Palm oil and palm kernel have",
+		"opts": {
+			"q0": "A. competitive supply",
+			"q1": "B. excess supply",
+			"q2": "C. joint supply",
+			"q3": "D. composite supply",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	A supply curve which is vertical has an elasticity co-efficient of",
+		"opts": {
+			"q0": "A. 0",
+			"q1": "B. 0.5",
+			"q2": "C. 1.5",
+			"q3": "D. 2",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	If the current price of an apple is twice that of last year, it implies that the value of money is",
+		"opts": {
+			"q0": "A. stable",
+			"q1": "B. falling",
+			"q2": "C. rising",
+			"q3": "D. getting stronger",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Price fixed above the equilibrium is to",
+		"opts": {
+			"q0": "A. protect agricultural producers",
+			"q1": "B. discourage agricultural producers",
+			"q2": "C. lower the prices of agricultural produce",
+			"q3": "D. favour consumers",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A consumer purchasing a commodity X will maximize his satisfaction if",
+		"opts": {
+			"q0": "A. Px = MUx",
+			"q1": "B. Px &ge; MUx",
+			"q2": "C. Px > MUx",
+			"q3": "D. Px < MUx",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	When total utility is constant, it means marginal utility is",
+		"opts": {
+			"q0": "A. increasing",
+			"q1": "B. zero",
+			"q2": "C. decreasing",
+			"q3": "D. one",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	A rational consumer is one who",
+		"opts": {
+			"q0": "A. spends his income to maximize satisfaction",
+			"q1": "B. is not influenced by advertisement",
+			"q2": "C. behaves in a particular way all the time",
+			"q3": "D. knows the prices of all goods and buys the cheapest",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following is not true about land?",
+		"opts": {
+			"q0": "A. The supply is fixed",
+			"q1": "B. Land is mobile",
+			"q2": "C. It is subject to diminishing returns",
+			"q3": "D. Land is heterogeneous",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The type of production that involves the tapping and harnessing of natural resources is",
+		"opts": {
+			"q0": "A. primary production",
+			"q1": "B. secondary production",
+			"q2": "C. tertiary production",
+			"q3": "D. industrial production",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following does not change in the short run?",
+		"opts": {
+			"q0": "A. Variable cost",
+			"q1": "B. Marginal cost",
+			"q2": "C. Total cost",
+			"q3": "D. Fixed cost",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The resources used in production are called",
+		"opts": {
+			"q0": "A. variable inputs",
+			"q1": "B. factors of production",
+			"q2": "C. capital for production",
+			"q3": "D. fixed inputs",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	A firm will shut down in the long run if its earning is",
+		"opts": {
+			"q0": "A. less than normal profit",
+			"q1": "B. greater than normal profit",
+			"q2": "C. equal to super normal profit",
+			"q3": "D. less than super normal profit",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	A market structure where profit is maximized when marginal revenue, marginal cost and price are equal is known as",
+		"opts": {
+			"q0": "A. perfect competition",
+			"q1": "B. monopoly",
+			"q2": "C. oligopoly",
+			"q3": "D. imperfect competition",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	In which of the following markets does a firm have power to make super normal profits both in the short run and long run?",
+		"opts": {
+			"q0": "A. Monopoly",
+			"q1": "B. Duopoly",
+			"q2": "C. Oligopoly",
+			"q3": "D. Monopsony",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	If there are no barriers to entering a market, it means that",
+		"opts": {
+			"q0": "A. anyone can become a buyer or seller",
+			"q1": "B. unwanted goods can always enter the market",
+			"q2": "C. the market becomes a dumping ground",
+			"q3": "D. the goods are not inspected",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	A firm’s main aim is to",
+		"opts": {
+			"q0": "A. survive in business",
+			"q1": "B. maximize profits",
+			"q2": "C. increase its market share",
+			"q3": "D. satisfy the ambitions of its managers",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	One good reason for the elimination of middlemen is that they",
+		"opts": {
+			"q0": "A. cause increase in price",
+			"q1": "B. help in price stability",
+			"q2": "C. grade and blend goods",
+			"q3": "D. are too many",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The increase in population growth in big cities is referred to as",
+		"opts": {
+			"q0": "A. settlement",
+			"q1": "B. migration",
+			"q2": "C. industrialization",
+			"q3": "D. urbanization",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Frictional unemployment can be reduced by",
+		"opts": {
+			"q0": "A. encouraging the use of restaining schemes",
+			"q1": "B. removing barriers to labour mobility",
+			"q2": "C. restricting the introduction of new technology",
+			"q3": "D. lowering the level of wages paid to young people",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	If the labour force of a country is 2.5 million and 2 million are employed, what is the unemployment rate?",
+		"opts": {
+			"q0": "A. 0.2% ",
+			"q1": "B. 20%",
+			"q2": "C. 200%",
+			"q3": "D. 250%",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The grouping of population according to the economic activities people engage in is",
+		"opts": {
+			"q0": "A. age distribution",
+			"q1": "B. sex distribution",
+			"q2": "C. geographical distribution",
+			"q3": "D. occupational distribution",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Natural growth rate of population can be defined as the",
+		"opts": {
+			"q0": "A. difference between birth rate and death rate",
+			"q1": "B. number of births in a year",
+			"q2": "C. increase in the population growth in a year",
+			"q3": "D. difference between the total population and the death rate",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following is not a consequence of increased unemployment?",
+		"opts": {
+			"q0": "A. A fall in tax revenue for the government",
+			"q1": "B. A reduction in trade union’s influence",
+			"q2": "C. A fall in the death rate",
+			"q3": "D. An increase in the labour force",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The following are features of subsistence agriculture except",
+		"opts": {
+			"q0": "A. little capital",
+			"q1": "B. processing of raw materials",
+			"q2": "C. small allotments of land",
+			"q3": "D. use of crude implements",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following is not true of small companies? They",
+		"opts": {
+			"q0": "A. cannot benefit from economies of scale",
+			"q1": "B. are a good source of new jobs",
+			"q2": "C. can satisfy demand in specialist markets",
+			"q3": "D. have a good record of technical innovations",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The effect of privatization on the industrial sector of a country is that it",
+		"opts": {
+			"q0": "A. ensures efficiency",
+			"q1": "B. discourages efficiency",
+			"q2": "C. leads to decrease in output",
+			"q3": "D. leads to liquidation",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	The production strategy used in an over-populated country is",
+		"opts": {
+			"q0": "A. import substitution",
+			"q1": "B. capital intensive",
+			"q2": "C. labour intensive",
+			"q3": "D. first come first employed",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	National income is used to measure",
+		"opts": {
+			"q0": "A. a country’s population size",
+			"q1": "B. a country’s economic growth",
+			"q2": "C. the human level of development",
+			"q3": "D. the flow of imports to a country",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	A tax is regressive if the",
+		"opts": {
+			"q0": "A. rate of tax is constant at all income levels",
+			"q1": "B. rate of tax decreases as income increases",
+			"q2": "C. rate of tax increases as income increases",
+			"q3": "D. tax is direct rather than indirect",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	When a country’s net income from abroad is added to its total output, the result is",
+		"opts": {
+			"q0": "A. gross domestic product",
+			"q1": "B. net national product",
+			"q2": "C. gross national product",
+			"q3": "D. net domestic product",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	A fall in national output will necessitate",
+		"opts": {
+			"q0": "A. a rise in expenditure on imports",
+			"q1": "B. a rise in the level of savings",
+			"q2": "C. an increase in consumption expenditure",
+			"q3": "D. a rise in the standard of living",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The demand for money to take advantage of changes in bond prices is the",
+		"opts": {
+			"q0": "A. unforeseen motive",
+			"q1": "B. transaction motive",
+			"q2": "C. speculative motive",
+			"q3": "D. precautionary motive",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Cost push inflation is caused by a",
+		"opts": {
+			"q0": "A. rise in the cost of production",
+			"q1": "B. decrease in the transportation cost",
+			"q2": "C. rise in demand for goods",
+			"q3": "D. decrease in the cost of production",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Deposits held in a commercial bank are part of",
+		"opts": {
+			"q0": "A. money supply",
+			"q1": "B. transfer payments",
+			"q2": "C. ordinary shares",
+			"q3": "D. treasury bills",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	One profitable form of business undertaken by the commercial banks is",
+		"opts": {
+			"q0": "A. the issuing of cheques",
+			"q1": "B. the payment of standing order",
+			"q2": "C. lending money to borrowers",
+			"q3": "D. accepting cheques from customers",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	When governments want to discourage consumption, they tax goods whose demand is",
+		"opts": {
+			"q0": "A. price inelastic",
+			"q1": "B. abnormal in nature",
+			"q2": "C. price elastic",
+			"q3": "D. normal in nature",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	A rise in government expenditure can lead to",
+		"opts": {
+			"q0": "A. higher inflation",
+			"q1": "B. higher unemployment",
+			"q2": "C. lower profits for industries",
+			"q3": "D. lower importation of raw materials by industries",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Tariff is used to protect domestic industries by making foreign goods relatively",
+		"opts": {
+			"q0": "A. cheaper in the domestic market",
+			"q1": "B. more expensive in the domestic market",
+			"q2": "C. more expensive in the international market",
+			"q3": "D. cheaper in the international market",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The process of increasing the real per capita income and effecting changes in various sectors of the economy is known as",
+		"opts": {
+			"q0": "A. economic acceleration",
+			"q1": "B. economic development",
+			"q2": "C. economic integration",
+			"q3": "D. economic growth",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Development plans in West Africa tend to deviate from their targets mainly due to",
+		"opts": {
+			"q0": "A. political instability",
+			"q1": "B. lack of manpower",
+			"q2": "C. high population growth rate",
+			"q3": "D. low level of education",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The balance of trade is",
+		"opts": {
+			"q0": "A. an annual statement showing transactions within a country",
+			"q1": "B. the relationship between a country’s visible exports and imports",
+			"q2": "C. the relationship between a country’s receipt from visible and invisible trade",
+			"q3": "D. an account that shows a country’s payments to other countries",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	As one of the instruments of commercial policy, quota is",
+		"opts": {
+			"q0": "A. a qualitative restriction on imports",
+			"q1": "B. a normal restriction on imports",
+			"q2": "C. a quantitative restriction on imports",
+			"q3": "D. an outright prohibition of imports",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The full meaning of the IMF is",
+		"opts": {
+			"q0": "A. International Military Force",
+			"q1": "B. International Monetary Fund",
+			"q2": "C. International Mortgage Fund",
+			"q3": "D. International Monetary Financing",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

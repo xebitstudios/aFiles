@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The money payment made to owners of land and labour are",
+		"opts": {
+			"q0": "A. rent and wages",
+			"q1": "B. interest and profit",
+			"q2": "C. wages and interest",
+			"q3": "D. dividend and salary",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The price elasticity coefficient indicates",
+		"opts": {
+			"q0": "A. how far business can reduce cost",
+			"q1": "B. the degree of competition",
+			"q2": "C. the extent to which curve shifts",
+			"q3": "D. consumer responsiveness to price changes",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Every society strives to pursue all the following economic objectives except",
+		"opts": {
+			"q0": "A. increased production",
+			"q1": "B. price stability",
+			"q2": "C. an inequitable distribution of income",
+			"q3": "D. sustainable growth and development",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following best describes capital as a factor of production?",
+		"opts": {
+			"q0": "A. a natural resource found everywhere",
+			"q1": "B. a stock of physical assets used for production",
+			"q2": "C. the organization of human and material resources for production",
+			"q3": "D. resources used in training labour",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The system whereby goods are exchanged for goods is known as",
+		"opts": {
+			"q0": "A. stock exchange",
+			"q1": "B. barter system",
+			"q2": "C. banking",
+			"q3": "D. co-operative system",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The graph of the function X = a + bY is",
+		"opts": {
+			"q0": "A. linear",
+			"q1": "B. quadratic",
+			"q2": "C. cubical",
+			"q3": "D. exponential",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Productivity, perworker, is best measured by",
+		"opts": {
+			"q0": "A. total output less number of workers",
+			"q1": "B. total output multiplied by number of workers",
+			"q2": "C. number of workers less total output",
+			"q3": "D. total output divided by number of workers",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	In determining costs, economists consider",
+		"opts": {
+			"q0": "A. implicit costs only",
+			"q1": "B. explicit costs only",
+			"q2": "C. implicit and explicit costs",
+			"q3": "D. explicit costs less implicit costs",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The precautionary motive for holding money is to enable the holder to",
+		"opts": {
+			"q0": "A. buy stocks when interests are high",
+			"q1": "B. overcome unforseen contingencies",
+			"q2": "C. buy goods and services on daily basis",
+			"q3": "D. buy fixed assets",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	In the long run, all factor inputs are",
+		"opts": {
+			"q0": "A. variable",
+			"q1": "B. diminishing",
+			"q2": "C. constant",
+			"q3": "D. fixed",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The benefit that results from concentrating similar firms in an area is referred to as",
+		"opts": {
+			"q0": "A. external diseconomies of scale",
+			"q1": "B. internal diseconomies of scale",
+			"q2": "C. internal economies of scale",
+			"q3": "D. external economies of scale",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Per capita income in any West African country is measured by",
+		"opts": {
+			"q0": "A. dividing the GNP by total population",
+			"q1": "B. adding the total savings to the GNP",
+			"q2": "C. multiplying the GNP by the total population",
+			"q3": "D. subtracting the GNP from the GDP",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	A priority rating of aggregate individual wants is called",
+		"opts": {
+			"q0": "A. scarcity",
+			"q1": "B. choice",
+			"q2": "C. scale of preference",
+			"q3": "D. opportunity cost",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Profit can be calculated by",
+		"opts": {
+			"q0": "A. subtracting total cost from total revenue",
+			"q1": "B. subtracting average revenue from total cost",
+			"q2": "C. dividing total revenue by total output",
+			"q3": "D. dividing marginal revenue by marginal cost",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The marginal revenue curve of a monopolist is",
+		"opts": {
+			"q0": "A. upward sloping from right to left",
+			"q1": "B. downward sloping from right to left",
+			"q2": "C. parrallel to the quantity axis",
+			"q3": "D. downward sloping from left to right",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	When all factor inputs are doubled, the production possibility curve will",
+		"opts": {
+			"q0": "A. shift from left to right and return to its original position",
+			"q1": "B. shift from left to right",
+			"q2": "C. remain in its former position",
+			"q3": "D. shift from right to left",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Income elasticity of demand is the measurement of the responsiveness of",
+		"opts": {
+			"q0": "A. price to changes in income",
+			"q1": "B. quantity demanded to changes in income",
+			"q2": "C. changes in expenditure to changes in income",
+			"q3": "D. changes in expenditure to changes in price of the commodity",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The establishment of industries in rural areas will help to reduce",
+		"opts": {
+			"q0": "A. urban-rural migration",
+			"q1": "B. urban-urban migration",
+			"q2": "C. rural-urban migration",
+			"q3": "D. rural-rural migration",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Government imposes taxes mainly to",
+		"opts": {
+			"q0": "A. punish the citizens",
+			"q1": "B. provide social amenities",
+			"q2": "C. donate to poorer countries",
+			"q3": "D. execute white elephant projects",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	In a perfect market, price and quantity to be bought are determined by the",
+		"opts": {
+			"q0": "A. consumers and retailers",
+			"q1": "B. producers and wholesalers",
+			"q2": "C. forces of demand and supply",
+			"q3": "D. interest of government and producers",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	When price elasticity of supply is equal to 0.4, supply is said to be",
+		"opts": {
+			"q0": "A. inelastic",
+			"q1": "B. elastic",
+			"q2": "C. unitary elastic",
+			"q3": "D. public utilities",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	In the money market, money can only be borrowed for",
+		"opts": {
+			"q0": "A. long term",
+			"q1": "B. short term",
+			"q2": "C. capital project",
+			"q3": "D. public utilities",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Deflation can be controlled by increase in",
+		"opts": {
+			"q0": "A. the bank rate",
+			"q1": "B. income tax",
+			"q2": "C. the price level",
+			"q3": "D. the budget deficit",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Mortgage banks give loans to investors on long term basis to",
+		"opts": {
+			"q0": "A. finance agriculture",
+			"q1": "B. establish banks",
+			"q2": "C. acquire machinery",
+			"q3": "D. build houses",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The situation whereby a government spends more than it budgets for a fiscal year is known as",
+		"opts": {
+			"q0": "A. extra budget",
+			"q1": "B. surplus budget",
+			"q2": "C. mid-year budget",
+			"q3": "D. deficit budget",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	In a socialist economy, factors of production are owned and controlled by the",
+		"opts": {
+			"q0": "A. citizens",
+			"q1": "B. businessmen",
+			"q2": "C. government",
+			"q3": "D. foreigners",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	One quality of money which makes it possible to be carried easily is its",
+		"opts": {
+			"q0": "A. scarcity",
+			"q1": "B. durability",
+			"q2": "C. portability",
+			"q3": "D. acceptability",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	A form of tax in which the poor pay a higher rate than the rich is known as",
+		"opts": {
+			"q0": "A. regressive tax",
+			"q1": "B. backward tax",
+			"q2": "C. oppressive tax",
+			"q3": "D. retrogressive tax",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The reduction in the value of a country’s currency in relation to the value of the currencies of other nations is known as",
+		"opts": {
+			"q0": "A. deflation",
+			"q1": "B. devaluation",
+			"q2": "C. inflation",
+			"q3": "D. revaluation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The creation of utility can be referred to as",
+		"opts": {
+			"q0": "A. value added",
+			"q1": "B. profit maximization",
+			"q2": "C. entrepreneurship",
+			"q3": "D. production",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Government revenue will increase if tax is imposed on a good whose demand is",
+		"opts": {
+			"q0": "A. elastic",
+			"q1": "B. inelastic",
+			"q2": "C. unitary elastic",
+			"q3": "D. perfectly elastic",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Occupational distribution of population is mainly influence by",
+		"opts": {
+			"q0": "A. economic factors",
+			"q1": "B. religious factors",
+			"q2": "C. geographical factors",
+			"q3": "D. social factors",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Proportional tax refers to",
+		"opts": {
+			"q0": "A. taxation of the rich only",
+			"q1": "B. equal tax rate for all people",
+			"q2": "C. unequal tax rate for all people",
+			"q3": "D. taxation of civil servants only",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following is not an item of capital expenditure?",
+		"opts": {
+			"q0": "A. Construction of highways",
+			"q1": "B. Building of dams",
+			"q2": "C. Payment of salaries and wages",
+			"q3": "D. Building of a new university",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The population which yields the highest level of income per head is known as",
+		"opts": {
+			"q0": "A. over-population",
+			"q1": "B. under-population",
+			"q2": "C. extreme population",
+			"q3": "D. optimum population",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Price discrimination can only occur when there is",
+		"opts": {
+			"q0": "A. perfect competition",
+			"q1": "B. imperfect competition",
+			"q2": "C. a merger",
+			"q3": "D. partnership",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Commodity market can best be described as a market in which",
+		"opts": {
+			"q0": "A. goods are sold",
+			"q1": "B. labour is sold and bought",
+			"q2": "C. short-term loans are obtained",
+			"q3": "D. quoted stock are bought",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Provision of services is classified under",
+		"opts": {
+			"q0": "A. primary production",
+			"q1": "B. secondary production",
+			"q2": "C. tertiary production",
+			"q3": "D. production possibilities",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	In ordinary partnership, the risks are",
+		"opts": {
+			"q0": "A. borne by the workers",
+			"q1": "B. borne by the creditors",
+			"q2": "C. shared among the partners",
+			"q3": "D. undertaken by the active partner",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Balance of trade is defined as the relation between",
+		"opts": {
+			"q0": "A. invisible imports and exports",
+			"q1": "B. visible and insivisble exports",
+			"q2": "C. imports and exports of services",
+			"q3": "D. visible exports and visible imports",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following combination of qualities ensures a good tax system?",
+		"opts": {
+			"q0": "A. Deflationary equity, certainty and convenience",
+			"q1": "B. Economy convenience, certainty and equity",
+			"q2": "C. Economy, deflationary, inflationary and certainty",
+			"q3": "D. Economy, convenience, certainty and inflationary",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	The quantity demanded of a commodity is influenced only by changes a",
+		"opts": {
+			"q0": "A. tastes",
+			"q1": "B. weather",
+			"q2": "C. price of tne commodity",
+			"q3": "D. prices of other commodities",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Which of the following is an indirect tax?",
+		"opts": {
+			"q0": "A. Income tax",
+			"q1": "B. Company tax",
+			"q2": "C. Profit tax",
+			"q3": "D. Sales tax",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Where a pen and a book are demanded together, the demand is said to be",
+		"opts": {
+			"q0": "A. composite",
+			"q1": "B. competitive",
+			"q2": "C. joint",
+			"q3": "D. derived",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The reward for capital is",
+		"opts": {
+			"q0": "A. interest",
+			"q1": "B. rent",
+			"q2": "C. risk",
+			"q3": "D. premium",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Infant industries are industries that",
+		"opts": {
+			"q0": "A. deal in the production of infant foods",
+			"q1": "B. are in their earlier stages of production",
+			"q2": "C. produce dresses for infants",
+			"q3": "D. are well established",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The most common form of business enterprise in West Africa is the",
+		"opts": {
+			"q0": "A. Sole proprietorship",
+			"q1": "B. Co-operative",
+			"q2": "C. Partnership",
+			"q3": "D. Joint stock company",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	In order to boost agriculture, West African countries should pay more attention to",
+		"opts": {
+			"q0": "A. shifting cultivation",
+			"q1": "B. animal husbandry",
+			"q2": "C. seed multiplication",
+			"q3": "D. mechanization",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Gross National Product (GNP) less depreciation is known as",
+		"opts": {
+			"q0": "A. Gross Domestic Product",
+			"q1": "B. Gross National Income",
+			"q2": "C. Fixed National Income",
+			"q3": "D. Net National Product",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	West African economies can best be described as",
+		"opts": {
+			"q0": "A. agricultural",
+			"q1": "B. backward",
+			"q2": "C. developed",
+			"q3": "D. industrialized",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

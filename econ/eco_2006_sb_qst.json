@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The study of Economics enables individuals to",
+		"opts": {
+			"q0": "A. change jobs",
+			"q1": "B. evade taxes",
+			"q2": "C. accumulate huge wealth",
+			"q3": "D. make rational decisions",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Most of the problems of economies arise as a result of",
+		"opts": {
+			"q0": "A. competing demands for scarce resources",
+			"q1": "B. increase in the demand for more goods and services",
+			"q2": "C. the desire of producers to supply more goods and services",
+			"q3": "D. the need to reduce the level of poverty",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Which of the following tools of economic analysis is used when data contains more than one category?",
+		"opts": {
+			"q0": "A. Barcharts",
+			"q1": "B. Component bar charts",
+			"q2": "C. Graphs",
+			"q3": "D. Symbolical statement",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The reward to capital as a factor of production is",
+		"opts": {
+			"q0": "A. rent",
+			"q1": "B. wage",
+			"q2": "C. interest",
+			"q3": "D. commission",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Mining is an example of",
+		"opts": {
+			"q0": "A. tertiary production",
+			"q1": "B. primary production",
+			"q2": "C. secondary production",
+			"q3": "D. advanced production",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	An owner-manager of a firm can also be called",
+		"opts": {
+			"q0": "A. a shareholder",
+			"q1": "B. an entrepreneur",
+			"q2": "C. an employer",
+			"q3": "D. a chairman",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	If the fixed cost of a firm is 800 Naira and its variable cost is 2,700 Naira while its total output is 100 units, what is the average cost of the firm?",
+		"opts": {
+			"q0": "A. 25 Naira",
+			"q1": "B. 35 Naira",
+			"q2": "C. 45 Naira",
+			"q3": "D. 50 Naira",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Distribution of goods and services is hindered by",
+		"opts": {
+			"q0": "A. good road network",
+			"q1": "B. efficient storage facilities",
+			"q2": "C. too many middlemen",
+			"q3": "D. adequate market information",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	A movement along the same demand curve either upwards or downwards as a result of changes in price implies",
+		"opts": {
+			"q0": "A. a change in demand",
+			"q1": "B. a change in quantity demanded",
+			"q2": "C. an increase in demand",
+			"q3": "D. a shift in the demand curve to the right",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Middlemen in an economy perform the function of",
+		"opts": {
+			"q0": "A. distribution",
+			"q1": "B. exchange",
+			"q2": "C. hoarding",
+			"q3": "D. protection",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	One of the factors affecting geographical distribution of population is",
+		"opts": {
+			"q0": "A. high birth rate",
+			"q1": "B. high death rate",
+			"q2": "C. encouragement of early marriages in the rural areas",
+			"q3": "D. climatic conditions of the different parts of the country",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Standardization of products or services is a feature of",
+		"opts": {
+			"q0": "A. large firms",
+			"q1": "B. retailers",
+			"q2": "C. small firms",
+			"q3": "D. wholesalers",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	The amount of satisfaction obtained from the consumption of a commodity at a particular time is called",
+		"opts": {
+			"q0": "A. marginal utility",
+			"q1": "B. diminishing utility",
+			"q2": "C. total utility",
+			"q3": "D. average utility",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	What are inferior goods? These are goods",
+		"opts": {
+			"q0": "A. that are generally in short supply",
+			"q1": "B. that are no longer in demand",
+			"q2": "C. whose demand falls as income increases",
+			"q3": "D. whose price falls as demand increases",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	In the analysis of utility theory, the basis of demand is",
+		"opts": {
+			"q0": "A. marginal utility",
+			"q1": "B. average utility",
+			"q2": "C. fixed utility",
+			"q3": "D. diminishing utility",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	In the normal market situation, when the price of a commodity rises, the",
+		"opts": {
+			"q0": "A. demand for the commodity will rise",
+			"q1": "B. demand for the commodity will fall",
+			"q2": "C. supply of the commodity will be constant",
+			"q3": "D. supply of the commodity will fall",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	When the quantity of a commodity supplied increases and the quantity demanded decreases, there will be",
+		"opts": {
+			"q0": "A. a rise in price",
+			"q1": "B. no change in price",
+			"q2": "C. price fluctuation",
+			"q3": "D. a fall in price",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The market price of a commodity is normally determined by the",
+		"opts": {
+			"q0": "A. law of demand",
+			"q1": "B. interaction of the forces of demand and supply",
+			"q2": "C. total number of people in the market",
+			"q3": "D. total quantity of the commodity in the market",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The mechanism which allows the price of a commodity to be fixed either above or below the equilibrium is known as",
+		"opts": {
+			"q0": "A. monopolistic competition",
+			"q1": "B. price discrimination",
+			"q2": "C. perfect competitive market",
+			"q3": "D. price control",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	A debenture holder is entitled to payments in the form of",
+		"opts": {
+			"q0": "A. allowance",
+			"q1": "B. interest",
+			"q2": "C. salary",
+			"q3": "D. donation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The main difference between a private and a public enterprise is the",
+		"opts": {
+			"q0": "A. amount of profit realized",
+			"q1": "B. mode of operation",
+			"q2": "C. objective of the business",
+			"q3": "D. ownership structure",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The total amount of money raised by a company through issuance of shares to the public is",
+		"opts": {
+			"q0": "A. debentures",
+			"q1": "B. nominal capital",
+			"q2": "C. ordinary shares",
+			"q3": "D. paid-up capital",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Buying and selling of shares is a function performed mostly by the",
+		"opts": {
+			"q0": "A. insurance companies",
+			"q1": "B. stock exchange",
+			"q2": "C. merchant banks",
+			"q3": "D. discount houses",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Which of the following is not a reason for establishing public enterprises?",
+		"opts": {
+			"q0": "A. Discouraging investors",
+			"q1": "B. Opening up neglected parts of the country",
+			"q2": "C. Effective control of a natural monopoly",
+			"q3": "D. Rapid economic development",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	For a monopolist, the average revenue (AR) curve is",
+		"opts": {
+			"q0": "A. above the total cost curve",
+			"q1": "B. the same as the marginal cost curve",
+			"q2": "C. above the marginal revenue curve",
+			"q3": "D. the same as that of the perfect competitor",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Advertising expenses would not be necessary under perfect competition because",
+		"opts": {
+			"q0": "A. consumers would have complete knowledge of goods",
+			"q1": "B. cost of production would be at the maximum level",
+			"q2": "C. every firm would enjoy the benefits of large scale production",
+			"q3": "D. incomes of the consumers in the community would be high",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The equilibrium level of output of a monopolist is determined at a point where",
+		"opts": {
+			"q0": "A. marginal cost equals average revenue",
+			"q1": "B. marginal cost equals average cost",
+			"q2": "C. marginal cost equals marginal revenue",
+			"q3": "D. marginal revenue equals average cost",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following is a legal tender in West Africa?",
+		"opts": {
+			"q0": "A. Treasury bill",
+			"q1": "B. Share",
+			"q2": "C. Credit card",
+			"q3": "D. Currency",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The policy of government to increase the supply of money to meet its own expenditure plans is likely to be",
+		"opts": {
+			"q0": "A. speculative",
+			"q1": "B. deflationary",
+			"q2": "C. inflationary",
+			"q3": "D. contractionary",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The tendency for prices to rise while the value of money falls is known as",
+		"opts": {
+			"q0": "A. bills of exchange",
+			"q1": "B. inflation",
+			"q2": "C. depreciation",
+			"q3": "D. deflation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	One way to solve the economic problem of inflation in a country is by increasing the",
+		"opts": {
+			"q0": "A. supply of commodities",
+			"q1": "B. supply of currency",
+			"q2": "C. salaries of workers",
+			"q3": "D. demand for commodities",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The motive for holding money for investing in securities is referred to as",
+		"opts": {
+			"q0": "A. transactionary",
+			"q1": "B. speculative",
+			"q2": "C. accumulation",
+			"q3": "D. deflationary",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	A cheque book is issued to customers of a bank operating a",
+		"opts": {
+			"q0": "A. savings account",
+			"q1": "B. time deposit account",
+			"q2": "C. current account",
+			"q3": "D. fixed deposit account",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Amount proposed for payments of wages and salaries in a budget is regarded as part of",
+		"opts": {
+			"q0": "A. recurrent expenditure",
+			"q1": "B. direct investment",
+			"q2": "C. recurrent revenue",
+			"q3": "D. capital receipts",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The difference between the Gross National Product (GNP) and the Gross Domestic Product (GDP) is",
+		"opts": {
+			"q0": "A. total interest payment",
+			"q1": "B. net income generated internally",
+			"q2": "C. total national savings",
+			"q3": "D. net income from abroad",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following agricultural systems is mainly for the cultivation of food crops for family consumption?",
+		"opts": {
+			"q0": "A. Co-operative farming",
+			"q1": "B. Commercial farming",
+			"q2": "C. Subsistence farming",
+			"q3": "D. Plantation farming",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Agriculture is important to the economy of West African countries because it is the source of",
+		"opts": {
+			"q0": "A. power",
+			"q1": "B. equipment supply",
+			"q2": "C. industrial input",
+			"q3": "D. technological progress",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The economic system in which the state takes the economic decisions through detailed planning is",
+		"opts": {
+			"q0": "A. capitalism",
+			"q1": "B. socialism",
+			"q2": "C. traditional economic system",
+			"q3": "D. mixed economic system",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	A mixed economy combines the characteristics of both",
+		"opts": {
+			"q0": "A. planned and capitalist economies",
+			"q1": "B. exchange and subsistence economies",
+			"q2": "C. subsistence and planned economies",
+			"q3": "D. capitalist and exchange economies",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	In a rapidly growing economy a change in technology which is labour saving is likely to cause",
+		"opts": {
+			"q0": "A. residual unemployment",
+			"q1": "B. structural unemployment",
+			"q2": "C. disguised unemployment",
+			"q3": "D. frictional unemployment",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following is a form of tax evasion?",
+		"opts": {
+			"q0": "A. Wrong declaration of earnings",
+			"q1": "B. Payments of flat rate tax",
+			"q2": "C. Constant change of employment",
+			"q3": "D. Low capacity utilization",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Where the burden of a tax finally rests is called",
+		"opts": {
+			"q0": "A. tax object",
+			"q1": "B. tax rate",
+			"q2": "C. incidence of taxation",
+			"q3": "D. system of taxation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	An increase in the quantity of goods and services produced in a country which raises her national income is known as",
+		"opts": {
+			"q0": "A. economic development",
+			"q1": "B. economic growth",
+			"q2": "C. domestic investment",
+			"q3": "D. productivity",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The formula <sup>Index of export prices</sup>&frasl;<sub>Index of import prices</sub> X 100 is used to measure the",
+		"opts": {
+			"q0": "A. volume of trade between countries",
+			"q1": "B. direction of international trade",
+			"q2": "C. commodity terms of trade",
+			"q3": "D. volume of imports",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	<img src='eco_2006_sectionb_qst45.jpg'> Use the table below to answer question 45. If specialization should take place, then",
+		"opts": {
+			"q0": "A. Ghana should produce coffee and cocoa",
+			"q1": "B. Ghana would benefit by producing cocoa only",
+			"q2": "C. Sierra Leone should not produce any of the products",
+			"q3": "D. Sierra Leone should produce cocoa and Ghana coffee",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of the following is an invisible item?",
+		"opts": {
+			"q0": "A. Banking services",
+			"q1": "B. Petroleum products",
+			"q2": "C. Processed rice",
+			"q3": "D. Processed milk",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	In an attempt to correct a deficit balance of payment, a country may decide to increase",
+		"opts": {
+			"q0": "A. domestic production",
+			"q1": "B. imports",
+			"q2": "C. domestic expenditure",
+			"q3": "D. tax on infant industries",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following is an objective of economic integration?",
+		"opts": {
+			"q0": "A. Harmonization of cultural practices",
+			"q1": "B. Free movement of persons, goods and services",
+			"q2": "C. Payment of high tariffs",
+			"q3": "D. Dumping of goods in less developed countries",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	One of the functions of the International Monetary Fund (IMF) is to",
+		"opts": {
+			"q0": "A. devalue the currency of member states",
+			"q1": "B. reduce drastically the size of deficit financing of member states",
+			"q2": "C. give financial assistance to member states that have temporary balance of payment difficulties",
+			"q3": "D. discourage the rapid industrialization process in the less developed nations of the world",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The full meaning of OPEC is",
+		"opts": {
+			"q0": "A. Oil and Petroleum Exporting Countries",
+			"q1": "B. Original Petroleum Exporting Companies",
+			"q2": "C. Organization of Petrol Exporting Countries",
+			"q3": "D. Organization of Petroleum Exporting Countries",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

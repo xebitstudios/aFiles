@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The three principal economic units in any system are",
+		"opts": {
+			"q0": "A. trade, industry and banking",
+			"q1": "B. workers, consumers and shareholders",
+			"q2": "C. households, firms and governments",
+			"q3": "D. companies, industry and plants",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The satisfaction derived from the use of a commodity is its",
+		"opts": {
+			"q0": "A. demand",
+			"q1": "B. elasticity",
+			"q2": "C. wealth",
+			"q3": "D. utility",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The reward which accrues to labour for participating in production is",
+		"opts": {
+			"q0": "A. interest",
+			"q1": "B. wage",
+			"q2": "C. bonus",
+			"q3": "D. profit",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The Malthusian theory of population does not concern itself with",
+		"opts": {
+			"q0": "A. growth of food production in arithmetical progression",
+			"q1": "B. growth of population in geometric progression",
+			"q2": "C. positive checks to population growth",
+			"q3": "D. development and growth of manpower",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	One characteristic of labour is that it is",
+		"opts": {
+			"q0": "A. fixed in demand",
+			"q1": "B. fixed in supply",
+			"q2": "C. mobile",
+			"q3": "D. untrainable",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A country where labour is not sufficient to make proper use of the natural resources is said to have an",
+		"opts": {
+			"q0": "A. active population",
+			"q1": "B. optimum population",
+			"q2": "C. over-population",
+			"q3": "D. under-population",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	When population is classified according to professions, it is called",
+		"opts": {
+			"q0": "A. geographical distribution of population",
+			"q1": "B. age distribution of population",
+			"q2": "C. sex distribution of population",
+			"q3": "D. occupational distribution of population",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	What must be added to variable cost to give total cost?",
+		"opts": {
+			"q0": "A. Average total cost",
+			"q1": "B. Average variable cost",
+			"q2": "C. Fixed cost",
+			"q3": "D. Marginal cost",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Revenue is the",
+		"opts": {
+			"q0": "A. total profit made after sales",
+			"q1": "B. amount spent on purchases",
+			"q2": "C. amount of goods produced",
+			"q3": "D. total money realized from sales",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Given that TR is total revenue, then TR<sub>n</sub>- TR<sub>(n-1)</sub> can be used to find the",
+		"opts": {
+			"q0": "A. marginal revenue",
+			"q1": "B. marginal cost",
+			"q2": "C. average cost",
+			"q3": "D. average revenue",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The lower the price of a commodity, the greater the quantity demanded. This is based on the assumption that consumers’",
+		"opts": {
+			"q0": "A. income is diminished",
+			"q1": "B. income remains the same",
+			"q2": "C. utility is diminished",
+			"q3": "D. population is high",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The demand for beans in bags is given by the function Q - 36 + 0.4P = O. Where P is price in naira and Q is quantity, find Q when P = 20 naira.",
+		"opts": {
+			"q0": "A. 12 bags",
+			"q1": "B. 24 bags",
+			"q2": "C. 28 bags",
+			"q3": "D. 30 bags",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	If the price of good X rises and the quantity demanded of good Y increases then the two goods X and Y must be",
+		"opts": {
+			"q0": "A. inferior goods",
+			"q1": "B. substitutes",
+			"q2": "C. complements",
+			"q3": "D. free goods",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	<img src='eco_2007_sectionb_qst14.jpg'> Use the following demand schedule to answer question 14. The percentage change in quantity demanded is",
+		"opts": {
+			"q0": "A. 12.7%",
+			"q1": "B. 15.7%",
+			"q2": "C. 16.7%",
+			"q3": "D. 19.7%",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	In a situation where demand is perfectly elastic, imposition of a tax on a commodity to raise its price will result in",
+		"opts": {
+			"q0": "A. consumers increasing their demand for the product",
+			"q1": "B. consumers’ demand for the product remaining unchanged",
+			"q2": "C. consumers shifting completely to substitute products",
+			"q3": "D. suppliers increasing the supply of the product",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Patents are examples of",
+		"opts": {
+			"q0": "A. natural barriers to entry",
+			"q1": "B. legal barriers to entry",
+			"q2": "C. illegal barriers to entry",
+			"q3": "D. unnatural barriers to entry",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following is a characteristic of monopoly?",
+		"opts": {
+			"q0": "A. Many sellers",
+			"q1": "B. Homogenous commodity",
+			"q2": "C. A single seller",
+			"q3": "D. Perfect knowledge",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	When a firm is nationalized,",
+		"opts": {
+			"q0": "A. former owners are removed without compensation",
+			"q1": "B. it has the right to draw on state funds for capital investment",
+			"q2": "C. it must break even within a specified period",
+			"q3": "D. workers take control of the firm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The practice whereby a business is owned by two or more independent firms is termed",
+		"opts": {
+			"q0": "A. indigenization",
+			"q1": "B. joint venture",
+			"q2": "C. commercialization",
+			"q3": "D. foreign investment",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The main objective of privatizing a government business is to",
+		"opts": {
+			"q0": "A. create additional employment",
+			"q1": "B. increase expenditure",
+			"q2": "C. source for new funds",
+			"q3": "D. increase the level of efficiency",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The return on investment that is just sufficient to satisfy the owner of a business is called",
+		"opts": {
+			"q0": "A. economic profit",
+			"q1": "B. business profit",
+			"q2": "C. normal profit",
+			"q3": "D. excess profit",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following is a middleman in the chain of distribution?",
+		"opts": {
+			"q0": "A. An entrepreneur",
+			"q1": "B. A producer",
+			"q2": "C. A banker",
+			"q3": "D. A retailer",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	A negative effect of the presence of a large number of middlemen in the distributive network is",
+		"opts": {
+			"q0": "A. greater variety of goods",
+			"q1": "B. greater quality of goods",
+			"q2": "C. lower price of goods",
+			"q3": "D. higher price of goods",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	An example of a producer good is a",
+		"opts": {
+			"q0": "A. tin of milk",
+			"q1": "B. hammer",
+			"q2": "C. loaf of bread",
+			"q3": "D. shirt",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	To promote the development of the agricultural sector, governments of West African countries should",
+		"opts": {
+			"q0": "A. encourage rural-urban drift",
+			"q1": "B. discourage foreign investment in agriculture",
+			"q2": "C. support the marketing of farm produce",
+			"q3": "D. reduce tariff on food imports",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The most important quality of money is that it must be",
+		"opts": {
+			"q0": "A. relatively scarce",
+			"q1": "B. generally acceptable",
+			"q2": "C. portable",
+			"q3": "D. durable",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	A certain amount of money is needed for everyday expenditure like buying of goods, transportation and others. This is",
+		"opts": {
+			"q0": "A. transaction demand for money",
+			"q1": "B. precautionary demand for money",
+			"q2": "C. derived demand for money",
+			"q3": "D. speculative demand for money",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Long-term loans can be secured from",
+		"opts": {
+			"q0": "A. commercial banks",
+			"q1": "B. discount houses",
+			"q2": "C. development banks",
+			"q3": "D. acceptance houses",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The value of money is generally measured in relation to the",
+		"opts": {
+			"q0": "A. interest rate charged",
+			"q1": "B. general price level",
+			"q2": "C. size of a country’s gold stock",
+			"q3": "D. volume of imports",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following is true under rapid inflation? People",
+		"opts": {
+			"q0": "A. demand less foreign exchange",
+			"q1": "B. set up businesses",
+			"q2": "C. rush to pay their taxes",
+			"q3": "D. hardly want to lend money",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following financial institutions was originally known as a Building Society?",
+		"opts": {
+			"q0": "A. Development bank",
+			"q1": "B. Insurance company",
+			"q2": "C. Mortgage bank",
+			"q3": "D. Merchant bank",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	A non-bank financial intermediary which is regarded as a pool of risks is the",
+		"opts": {
+			"q0": "A. co-operative society",
+			"q1": "B. stock exchange",
+			"q2": "C. insurance company",
+			"q3": "D. post office",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	A foreign exchange market deals in",
+		"opts": {
+			"q0": "A. treasury bills",
+			"q1": "B. currencies",
+			"q2": "C. government bonds",
+			"q3": "D. commodities",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following institutions assists the government in managing the national debt?",
+		"opts": {
+			"q0": "A. Commercial banks",
+			"q1": "B. The Central Bank",
+			"q2": "C. The capital market",
+			"q3": "D. The World Bank",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	If tax takes a large proportion of the income of people with lower income, the tax is",
+		"opts": {
+			"q0": "A. progressive",
+			"q1": "B. proportional",
+			"q2": "C. regressive",
+			"q3": "D. ad-valorem",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following is an example of direct tax?",
+		"opts": {
+			"q0": "A. Import duties",
+			"q1": "B. Income tax",
+			"q2": "C. Export duties",
+			"q3": "D. Purchase tax",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Monetary control measures are coordinated by",
+		"opts": {
+			"q0": "A. development banks",
+			"q1": "B. merchant banks",
+			"q2": "C. commercial banks",
+			"q3": "D. the Central Bank",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	A country whose economy is buoyant is likely to have",
+		"opts": {
+			"q0": "A. a weak currency",
+			"q1": "B. devaluation from time to time",
+			"q2": "C. a strong currency",
+			"q3": "D. balance of payment problems",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The Net National Product (NNP) is Gross National Product (GNP) less",
+		"opts": {
+			"q0": "A. domestic product",
+			"q1": "B. foreign product",
+			"q2": "C. depreciation",
+			"q3": "D. investment",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	If the population of a country is low and the Gross National Product is high, the per capita income will be",
+		"opts": {
+			"q0": "A. high",
+			"q1": "B. low",
+			"q2": "C. average",
+			"q3": "D. unitary",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	The population of a country in a certain year was fifty million and the per capita income was $2,050. What was the national income?",
+		"opts": {
+			"q0": "A. $750,000 million",
+			"q1": "B. $100,250 million",
+			"q2": "C. $102,500 million",
+			"q3": "D. $125,050 million",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	One of the advantages of capitalism is that",
+		"opts": {
+			"q0": "A. consumers are exploited",
+			"q1": "B. private initiative is discouraged",
+			"q2": "C. efficient allocation of resources is assured",
+			"q3": "D. job security is assured",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Which of the following contributes the highest amount of foreign exchange to the economy of West African nations?",
+		"opts": {
+			"q0": "A. Construction, manufacturing and banking",
+			"q1": "B. Shipping, trading and fishing",
+			"q2": "C. Power, telecommunications and sports",
+			"q3": "D. Extraction, farming and tourism",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	International trade depends on the concept of",
+		"opts": {
+			"q0": "A. marginal cost advantage",
+			"q1": "B. comparative cost disadvantage",
+			"q2": "C. comparative cost advantage",
+			"q3": "D. absolute cost",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	One advantage of international trade is that",
+		"opts": {
+			"q0": "A. countries depend on each other",
+			"q1": "B. it introduces variation in prices",
+			"q2": "C. it increases demand for foreign goods",
+			"q3": "D. it makes variety of goods available",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The practice of selling goods overseas and often below the cost of production is known as",
+		"opts": {
+			"q0": "A. retailing",
+			"q1": "B. dumping",
+			"q2": "C. internal trade",
+			"q3": "D. advertising",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	A summary of all the receipts and payments of a country in international transactions is called",
+		"opts": {
+			"q0": "A. terms of trade",
+			"q1": "B. balance of payment",
+			"q2": "C. balance of payment adjustment",
+			"q3": "D. capital account",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following countries export cocoa?",
+		"opts": {
+			"q0": "A. Liberia and The Gambia",
+			"q1": "B. Ghana and Sierra Leone",
+			"q2": "C. Nigeria and Ghana",
+			"q3": "D. Sierra Leone and Nigeria",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following are examples of transfer payments?",
+		"opts": {
+			"q0": "A. Gifts and donations",
+			"q1": "B. Rents and rates",
+			"q2": "C. Profits and dividends",
+			"q3": "D. Internal and external debts",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	ECA means",
+		"opts": {
+			"q0": "A. Economic Commission for Africa",
+			"q1": "B. Economic Community of Africa",
+			"q2": "C. Exporting Countries of Africa",
+			"q3": "D. Economic Conference on Africa",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

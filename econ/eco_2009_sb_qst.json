@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The study of Economics becomes necessary because of the",
+		"opts": {
+			"q0": "A. large population size of the world",
+			"q1": "B. scarcity of resources",
+			"q2": "C. opportunity cost of goods and services",
+			"q3": "D. need to satisfy every desire of man",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The concept of opportunity cost is also referred to as",
+		"opts": {
+			"q0": "A. social cost",
+			"q1": "B. real cost",
+			"q2": "C. fixed cost",
+			"q3": "D. variable cost",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Choice is necessitated by",
+		"opts": {
+			"q0": "A. demand and supply",
+			"q1": "B. cost of production",
+			"q2": "C. production possibility curve",
+			"q3": "D. scarcity of resources",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	A type of unemployment which occurs due to technological progress is called",
+		"opts": {
+			"q0": "A. frictional unemployment",
+			"q1": "B. residual unemployment",
+			"q2": "C. structural unemployment",
+			"q3": "D. mass unemployment",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	All the following are features of market economies except",
+		"opts": {
+			"q0": "A. competition among producers",
+			"q1": "B. demand and supply forces guiding production decisions",
+			"q2": "C. that profit motive is paramount",
+			"q3": "D. public ownership of capital",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The economic system which relies mainly on the price mechanism for the allocation of scarce resources is known as",
+		"opts": {
+			"q0": "A. capitalist economic system",
+			"q1": "B. command economic system",
+			"q2": "C. combined economic system",
+			"q3": "D. traditional economic system",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	In a capitalist economy, resources are",
+		"opts": {
+			"q0": "A. collectively owned",
+			"q1": "B. jointly owned",
+			"q2": "C. privately owned",
+			"q3": "D. communally owned",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	An economic system where the central planning authority determines what goods to produce and in what quantity is known as a",
+		"opts": {
+			"q0": "A. market economy",
+			"q1": "B. socialist economy",
+			"q2": "C. welfare economy",
+			"q3": "D. traditional economy",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The main objective of setting up a private business organization is to",
+		"opts": {
+			"q0": "A. protect the interest of the owners",
+			"q1": "B. promote exports",
+			"q2": "C. provide infrastructure",
+			"q3": "D. maximize profits",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The demand and supply functions of a commodity are given as follows: Qd = 20 -2p and Qs = 6p-12 where p = price in naira, Qd = Quantity demanded and Qs = Quantity supplied. The equilibrium price is",
+		"opts": {
+			"q0": "A. 2 Naira",
+			"q1": "B. 4 Naira",
+			"q2": "C. 6 Naira",
+			"q3": "D. 20 Naira",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The type of demand that exists between torchlight and battery is",
+		"opts": {
+			"q0": "A. competitive demand",
+			"q1": "B. complementary demand",
+			"q2": "C. composite demand",
+			"q3": "D. independent demand",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	When the price of a commodity increases and the quantity demanded also increases, this is a case of",
+		"opts": {
+			"q0": "A. exceptional demand",
+			"q1": "B. derived demand",
+			"q2": "C. competitive demand",
+			"q3": "D. joint demand",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	If a fall in price of one commodity leads to an increase in the supply of another commodity, both commodities have",
+		"opts": {
+			"q0": "A. composite supply",
+			"q1": "B. joint supply",
+			"q2": "C. competitive supply",
+			"q3": "D. short run supply",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	At a co-efficient of price elasticity of supply of 0.5, supply is",
+		"opts": {
+			"q0": "A. perfectly inelastic",
+			"q1": "B. inelastic",
+			"q2": "C. perfectly elastic",
+			"q3": "D. elastic",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	If in the short-run commodity X and commodity Y are supplied jointly, which of the following is correct?",
+		"opts": {
+			"q0": "A. An increase in demand for X will increase supply of Y",
+			"q1": "B. An increase in demand for X will leave the supply of Y unchanged",
+			"q2": "C. An increase in demand for Y will raise the price of X",
+			"q3": "D. An increase in demand for X will cause less of Y to be produced",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	If an increase in earnings leads to more of a commodity being demanded, the good is said to have",
+		"opts": {
+			"q0": "A. positive income elasticity",
+			"q1": "B. negative income elasticity",
+			"q2": "C. positive cross elasticity",
+			"q3": "D. negative cross elasticity",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Interaction of supply and demand for labour determines",
+		"opts": {
+			"q0": "A. production",
+			"q1": "B. income",
+			"q2": "C. wage",
+			"q3": "D. profit",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Government fixing of prices below the equilibrium point is aimed at protecting the",
+		"opts": {
+			"q0": "A. sellers",
+			"q1": "B. industries",
+			"q2": "C. distributors",
+			"q3": "D. consumers",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	A consumer maximizes his utility in consuming a good ‘x’ when",
+		"opts": {
+			"q0": "A. Mux = Px",
+			"q1": "B. Px > Mux",
+			"q2": "C. Price is falling",
+			"q3": "D. Mux > Px",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The relationship between Marginal Product (MP) and Average Product (AP) is such that they are equal when",
+		"opts": {
+			"q0": "A. Average Product is maximum",
+			"q1": "B. Average Product is minimum",
+			"q2": "C. Marginal Product is maximum",
+			"q3": "D. Marginal Product is increasing",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Who among the following is the intermediary between the producer and the retailer?",
+		"opts": {
+			"q0": "A. Agent",
+			"q1": "B. Wholesaler",
+			"q2": "C. Consumer",
+			"q3": "D. Distributor",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following sectors is most capital intensive?",
+		"opts": {
+			"q0": "A. Insurance",
+			"q1": "B. Petroleum",
+			"q2": "C. Commerce",
+			"q3": "D. Tourism",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	A society that operates below the production possibility curve is using its productive resources",
+		"opts": {
+			"q0": "A. optimally",
+			"q1": "B. efficiently",
+			"q2": "C. inefficiently",
+			"q3": "D. maximally",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Labour can be efficient when there are",
+		"opts": {
+			"q0": "A. adequate tools to work with",
+			"q1": "B. high levels of employment",
+			"q2": "C. limited vacancies",
+			"q3": "D. government restrictions",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	What accounts for the ‘U-shape’ of the short run average cost (AC) curve?",
+		"opts": {
+			"q0": "A. The law of variable proportions",
+			"q1": "B. Increasing returns to scale",
+			"q2": "C. Decreasing use of inputs",
+			"q3": "D. Changing output during the production period",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of these is true of a perfect competitor?",
+		"opts": {
+			"q0": "A. P = AR < MR",
+			"q1": "B. P > AR = MR",
+			"q2": "C. P = MR < AR",
+			"q3": "D. P = AR = MR",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	One advantage of a sole proprietorship is that",
+		"opts": {
+			"q0": "A. it can be managed without conflicts",
+			"q1": "B. the sole proprietor raises money from the public",
+			"q2": "C. it makes an increase in the volume of business possible",
+			"q3": "D. there is no limit to the number of people who may bring in capital",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following is a condition necessary for a perfect market?",
+		"opts": {
+			"q0": "A. The goods are heterogeneous",
+			"q1": "B. There is preferential treatment",
+			"q2": "C. There is a large number of buyers and sellers",
+			"q3": "D. Buyers and sellers are easily influenced",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	A market in which a single price obtains for a product is known as",
+		"opts": {
+			"q0": "A. a product market",
+			"q1": "B. a capital price market",
+			"q2": "C. an imperfect market",
+			"q3": "D. a perfect market",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	What is the effect of pursuit of higher education on the size of labour force?",
+		"opts": {
+			"q0": "A. It makes labour force to be defective",
+			"q1": "B. It brings higher wage rate",
+			"q2": "C. It increases the size of labour force",
+			"q3": "D. It reduces the size of labour force",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The population density of town Y made up of 50 square kilometre land area and 100 million people is",
+		"opts": {
+			"q0": "A. 50,000 people per square kilometre",
+			"q1": "B. 0.2 million people per square kilometre",
+			"q2": "C. 0.5 million people per square kilometre",
+			"q3": "D. 2 million people per square kilometre",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Manufacturing involves the process of",
+		"opts": {
+			"q0": "A. making goods available",
+			"q1": "B. providing finished products",
+			"q2": "C. changing items to new states",
+			"q3": "D. producing capital goods only",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Disposable income is total income",
+		"opts": {
+			"q0": "A. less tax",
+			"q1": "B. divided by tax",
+			"q2": "C. plus tax",
+			"q3": "D. multiplied by tax",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	<img src='eco_2009_sectionb_qst34_36.jpg'> Use the information below to answer questions 34 to 36. The Gross National Product is equal to",
+		"opts": {
+			"q0": "A. $40,000",
+			"q1": "B. $50,000",
+			"q2": "C. $105,000",
+			"q3": "D. $125,000",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	<img src='eco_2009_sectionb_qst34_36.jpg'> Use the information below to answer questions 34 to 36. The National Income is equal to",
+		"opts": {
+			"q0": "A. $45,000",
+			"q1": "B. $60,000",
+			"q2": "C. $65,000",
+			"q3": "D. $195,000",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	<img src='eco_2009_sectionb_qst34_36.jpg'> Use the information below to answer questions 34 to 36. The Net Domestic Product is",
+		"opts": {
+			"q0": "A. $55,000",
+			"q1": "B. $60,000",
+			"q2": "C. $140,000",
+			"q3": "D. $165,000",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following is specialized in lending money for the purpose of developing real estate?",
+		"opts": {
+			"q0": "A. Merchant banks",
+			"q1": "B. Mortgage banks",
+			"q2": "C. Discount houses",
+			"q3": "D. Commercial banks",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The marketing of government securities by the Central Bank is termed",
+		"opts": {
+			"q0": "A. retail banking",
+			"q1": "B. open market operations",
+			"q2": "C. selective credit control",
+			"q3": "D. credit creation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Which one of the following serves as a banker’s bank?",
+		"opts": {
+			"q0": "A. Commercial Bank",
+			"q1": "B. The Mortgage Bank",
+			"q2": "C. The Central Bank",
+			"q3": "D. Development Bank",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The tax imposed on goods manufactured within a country is",
+		"opts": {
+			"q0": "A. an excise tax",
+			"q1": "B. a capital gains tax",
+			"q2": "C. profit tax",
+			"q3": "D. a sales tax",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Government expenditure on the construction of roads and bridges is",
+		"opts": {
+			"q0": "A. recurrent expenditure",
+			"q1": "B. capital expenditure",
+			"q2": "C. Supplementary expenditure",
+			"q3": "D. variable expenditure",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Fiscal policy is associated with",
+		"opts": {
+			"q0": "A. taxation and government expenditure",
+			"q1": "B. re-structuring of the banks",
+			"q2": "C. injection of more money into the economy",
+			"q3": "D. reduction in economic activities",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The need for development planning arises largely from the fact that",
+		"opts": {
+			"q0": "A. aggregate savings exceed aggregate consumption",
+			"q1": "B. aggregate consumption equals aggregate savings",
+			"q2": "C. productive resources are in excess of the demand for them",
+			"q3": "D. productive resources are scarce relative to the demand for them",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Economic development is reflected in",
+		"opts": {
+			"q0": "A. scarcity of capital",
+			"q1": "B. increase in the price level",
+			"q2": "C. decline in agricultural production",
+			"q3": "D. increase in productive capacity",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Terms of trade may be defined as the",
+		"opts": {
+			"q0": "A. trade between one country and another",
+			"q1": "B. relationships between country’s receipt from others and payment to others",
+			"q2": "C. rate at which a country’s exports exchange for imports",
+			"q3": "D. difference between the value of exports and imports",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The terms of trade is described as unfavourable when",
+		"opts": {
+			"q0": "A. the price of imports rise relative to those of exports",
+			"q1": "B. the price of exports rise relative to those of imports",
+			"q2": "C. the net income from abroad does not change",
+			"q3": "D. the value of exports exceeds those of imports",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Expenditure by foreign tourists in a country will be recorded as",
+		"opts": {
+			"q0": "A. invisible exports",
+			"q1": "B. official transfers",
+			"q2": "C. transfer income",
+			"q3": "D. visible exports",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	One major aim of a cartel is to",
+		"opts": {
+			"q0": "A. increase production",
+			"q1": "B. regulate output through quota system",
+			"q2": "C. have a joint account",
+			"q3": "D. share profits equally",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The five countries that established the Organization of Petroleum Exporting Countries (OPEC) are",
+		"opts": {
+			"q0": "A. Nigeria, Iraq, Venezuela, Kuwait and Ghana",
+			"q1": "B. Saudi Arabia, Kuwait, Sierra Leone, Iran and Iraq",
+			"q2": "C. Algeria, Kuwait, Venezuela, Iran and The Gambia",
+			"q3": "D. Kuwait, Venezuela, Iran, Iraq and Saudi Arabia",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The headquarters of the African Development Bank (ADB) was originally located at",
+		"opts": {
+			"q0": "A. Cotonou",
+			"q1": "B. Harare",
+			"q2": "C. Abidjan",
+			"q3": "D. Lagos",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

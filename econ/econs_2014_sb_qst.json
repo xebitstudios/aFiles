@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Human wants are unlimited because",
+		"opts": {
+			"q0": "A. production is inadequate",
+			"q1": "B. resources have alternative uses",
+			"q2": "C. new wants always arise",
+			"q3": "D. resources are limited",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	A basic economic problem of any society is",
+		"opts": {
+			"q0": "A. high level of illiteracy",
+			"q1": "B. irregular power supply",
+			"q2": "C. population growth",
+			"q3": "D. resource allocation",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	In a centrally planned economy, what to produce is",
+		"opts": {
+			"q0": "A. determined by the forces of demand and supply",
+			"q1": "B. driven by profit motive",
+			"q2": "C. determined by consumers",
+			"q3": "D. the responsibility of state’s bureaucrats",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following is related to resource allocation in an economy?",
+		"opts": {
+			"q0": "A. How to produce ",
+			"q1": "B. What to produce",
+			"q2": "C. For whom to produce",
+			"q3": "D. Efficient use of inputs",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Which of the following is not a feature of socialism?",
+		"opts": {
+			"q0": "A. Collective ownership of productive resources",
+			"q1": "B. Freedom of enterprise",
+			"q2": "C. Production is not based on the profit motive",
+			"q3": "D. Maximization of public welfare",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Households make economic decisions because they want to",
+		"opts": {
+			"q0": "A. make more profit",
+			"q1": "B. increase their salaries and wages",
+			"q2": "C. increase their purchases",
+			"q3": "D. maximize their satisfaction",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	State owned enterprises are more common in",
+		"opts": {
+			"q0": "A. centrally planned economies",
+			"q1": "B. mixed economies",
+			"q2": "C. capitalist economies",
+			"q3": "D. developed economies",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	A normal supply curve has a positive slope which indicates that",
+		"opts": {
+			"q0": "A. sellers are willing to sell more at a lower price",
+			"q1": "B. sellers are indifferent to prices",
+			"q2": "C. sellers are willing to sell more at a higher price",
+			"q3": "D. there is always a fixed supply",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	To control inflation, the central bank of a country may adopt",
+		"opts": {
+			"q0": "A. an expansionary monetary policy",
+			"q1": "B. a restrictive monetary policy",
+			"q2": "C. an increased wage policy",
+			"q3": "D. a deficit financing policy",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Disposable income is the income earned",
+		"opts": {
+			"q0": "A. by the nationals of a country resident within the country",
+			"q1": "B. from productive activities of nationals of a country both at home and abroad",
+			"q2": "C. when personal income tax is deducted from personal income",
+			"q3": "D. when the gross income of an individual is added to person income tax",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Livestock production in West Africa is hindered mainly",
+		"opts": {
+			"q0": "A. inadequate demand",
+			"q1": "B. use of traditional implements",
+			"q2": "C. land tenure system",
+			"q3": "D. pests and diseases",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The components of a three-sector economy are",
+		"opts": {
+			"q0": "A. banks, schools and hospitals",
+			"q1": "B. workers, producers and marketers",
+			"q2": "C. households, firms and the government",
+			"q3": "D. producers, retailers and wholesalers",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	A declining population is one in which the population is",
+		"opts": {
+			"q0": "A. experiencing a high rate of emigration.",
+			"q1": "B. made up of large number of old people",
+			"q2": "C. not producing enough goods",
+			"q3": "D. not contributing enough to the national income",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Which of the following agencies help to stabilize farmers’ income?",
+		"opts": {
+			"q0": "A. Local government authorities",
+			"q1": "B. Trade unions",
+			"q2": "C. Marketing boards",
+			"q3": "D. Co-operative organizations",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Other things being equal, an increase in supply will lead to",
+		"opts": {
+			"q0": "A. a fall in price and an increase in quantity bought and sold",
+			"q1": "B. an increase in price and increase in quantity bought and sold",
+			"q2": "C. a fall in price and a fall in quantity bought and sold",
+			"q3": "D. an increase in quantity supplied and demanded only",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Examples of joint stock banks are",
+		"opts": {
+			"q0": "A. commercial banks",
+			"q1": "B. co-operative credit societies",
+			"q2": "C. central banks",
+			"q3": "D. development banks",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following is not a characteristic of a developing country? High",
+		"opts": {
+			"q0": "A. real per capita income",
+			"q1": "B. level of primary production",
+			"q2": "C. population growth rate",
+			"q3": "D. level of illiteracy",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Goods consumed out of habit have",
+		"opts": {
+			"q0": "A. elastic demand",
+			"q1": "B. perfectly elastic demand",
+			"q2": "C. inelastic demand",
+			"q3": "D. unitary elastic demand",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following items is not a recurrent expenditure?",
+		"opts": {
+			"q0": "A. Building of schools and colleges",
+			"q1": "B. Maintenance of school buildings",
+			"q2": "C. Payment of teachers’ salaries",
+			"q3": "D. Purchase of stationery for examinations",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	If the coefficient of price elasticity of demand is 0.1, demand is",
+		"opts": {
+			"q0": "A. elastic",
+			"q1": "B. inelastic",
+			"q2": "C. zero elastic",
+			"q3": "D. unitary elastic",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The profit of a producer is the difference between",
+		"opts": {
+			"q0": "A. total cost and marginal cost",
+			"q1": "B. total revenue and total cost",
+			"q2": "C. average cost and total cost",
+			"q3": "D. price and total cost",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The rate of increase in utility is",
+		"opts": {
+			"q0": "A. average utility",
+			"q1": "B. increasing utility",
+			"q2": "C. total utility",
+			"q3": "D. marginal utility",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The supply of tea is linearly presented as P=0.2Q, where P is the price and Q is the quantity. What is P when Q=25?",
+		"opts": {
+			"q0": "A. $0.08",
+			"q1": "B. $5.00",
+			"q2": "C. $25.02",
+			"q3": "D. $125",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Increase in supply due to changes in plant size will take place only in the",
+		"opts": {
+			"q0": "A. normal time",
+			"q1": "B. long run",
+			"q2": "C. market period",
+			"q3": "D. short run",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The long-run average cost curve is made up of several short-run",
+		"opts": {
+			"q0": "A. marginal and average cost curves",
+			"q1": "B. average cost curves",
+			"q2": "C. average variable cost curves",
+			"q3": "D. average variable and total cost curves",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	<img src='econs_2014_sectionb_qst26_27.jpg'> Use the table below to answer questions 26 and 27. From the table, the mean of the distribution is",
+		"opts": {
+			"q0": "A. 2.2",
+			"q1": "B. 2.5",
+			"q2": "C. 3.2",
+			"q3": "D. 4.5",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	<img src='econs_2014_sectionb_qst26_27.jpg'> Use the table below to answer questions 26 and 27. What is the median of the distribution?",
+		"opts": {
+			"q0": "A. 5",
+			"q1": "B. 4",
+			"q2": "C. 3",
+			"q3": "D. 2",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Co-operative societies formed to market the output of their members are called",
+		"opts": {
+			"q0": "A. Consumers’ co-operative societies",
+			"q1": "B. Wholesale co-operative societies",
+			"q2": "C. Credit and thrift co-operative societies",
+			"q3": "D. Producers’ co¬operative societies",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Money will serve as a standard of deferred payment if it is",
+		"opts": {
+			"q0": "A. homogeneous",
+			"q1": "B. durable",
+			"q2": "C. easily recognized",
+			"q3": "D. stable in value",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Due to an increase in price, a seller increases the quantity offered for sale from 400 units to 450 units. What is the percentage change in quantity supplied?",
+		"opts": {
+			"q0": "A. 1%",
+			"q1": "B. 7.5%",
+			"q2": "C. 12.5%",
+			"q3": "D. 20%",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following, will increase the nominal value of national income?",
+		"opts": {
+			"q0": "A. High rate of inflation",
+			"q1": "B. Increase in the value of money ",
+			"q2": "C. Increase in import ",
+			"q3": "D. High rate of subsistence production",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Cyclical unemployment is one associated with",
+		"opts": {
+			"q0": "A. inadequate information",
+			"q1": "B. trade fluctuations",
+			"q2": "C. structural changes",
+			"q3": "D. seasonal changes",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following, best defines inflation?",
+		"opts": {
+			"q0": "A. Cyclical increase in prices",
+			"q1": "B. Periodic increase in prices",
+			"q2": "C. Persistent increase m prices",
+			"q3": "D. Occasional increase in prices",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Perfect knowledge of events in a perfect market will be made possible by the existence of",
+		"opts": {
+			"q0": "A. many buyers and sellers",
+			"q1": "B. homogeneous products",
+			"q2": "C. means of communication",
+			"q3": "D. large number of traders",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	An increase in the price of a commodity from $10 to $15 leads to an increase in the quantity supplied from 10 units to 15 units. The price elasticity of supply is",
+		"opts": {
+			"q0": "A. 0",
+			"q1": "B. 0.5",
+			"q2": "C. 1",
+			"q3": "D. 5",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Economic development may be hindered if there is",
+		"opts": {
+			"q0": "A. a high pool of skilled labour",
+			"q1": "B. a high rate of economic growth",
+			"q2": "C. political stability",
+			"q3": "D. rapid population growth",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following, types of unemployment results from changes in the pattern of aggregate demand?",
+		"opts": {
+			"q0": "A. Technological unemployment",
+			"q1": "B. Structural unemployment",
+			"q2": "C. Frictional unemployment",
+			"q3": "D. Seasonal unemployment",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Which of the following is not a reason countries import goods?",
+		"opts": {
+			"q0": "A. Differences in natural endowments",
+			"q1": "B. The law of absolute advantage",
+			"q2": "C. Differences in tastes",
+			"q3": "D. The love for other nations",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Provision of short-term loans to solve balance of payments problems is done by the",
+		"opts": {
+			"q0": "A. International Finance Corporation",
+			"q1": "B. International Monetary Fund",
+			"q2": "C. International Bank for Reconstruction and Development",
+			"q3": "D. African Development Bank",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	West African countries are experiencing worsening terms of trade because",
+		"opts": {
+			"q0": "A. they are primary producers",
+			"q1": "B. their currencies are overvalued",
+			"q2": "C. they import less machines",
+			"q3": "D. they are tertiary producers",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following statements is correct?",
+		"opts": {
+			"q0": "A. As total utility increases, the marginal utility also increases",
+			"q1": "B. The marginal utility is always zero whenever the total utility reaches the maximum",
+			"q2": "C. The total utility is at maximum whenever marginal utility is at it’s maximum",
+			"q3": "D. There is no relationship between total utility and the marginal utility",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	A change in the quantity demanded of a given commodity is determined by the",
+		"opts"	 {
+			"q0": "A. size of the population",
+			"q1": "B. income of the consumer",
+			"q2": "C. price of the commodity",
+			"q3": "D. taste and fashion",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The likely implication of the devaluation of a country’s currency is that",
+		"opts": {
+			"q0": "A. exports of such a country become cheaper",
+			"q1": "B. importation of goods into such a country becomes cheaper",
+			"q2": "C. the value of such a country’s currency rises",
+			"q3": "D. foreign goods are attracted into the country",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	International trade is desirable because it",
+		"opts": {
+			"q0": "A. may lead to overproduction",
+			"q1": "B. brings about over-dependence of countries on one another",
+			"q2": "C. provides foreign market for local goods",
+			"q3": "D. brings about unhealthy competition and rivalries",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	A financial institution established for the purpose of providing specialized services like acceptance of bills of exchange and equipment leasing is known as",
+		"opts": {
+			"q0": "A. Merchant Bank",
+			"q1": "B. Development Bank",
+			"q2": "C. Central Bank",
+			"q3": "D. Insurance Company",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of the following functions of money is mostly affected during inflation?",
+		"opts": {
+			"q0": "A. Medium of exchange",
+			"q1": "B. Unit of Account",
+			"q2": "C. Store of value",
+			"q3": "D. Standard of deferred payment",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Precautionary motive for holding money is to",
+		"opts": {
+			"q0": "A. meet daily and regular transactions",
+			"q1": "B. take advantage of changes in the prices of goods and services",
+			"q2": "C. cover unforeseen events",
+			"q3": "D. cover expenses on house rent",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following measures will not encourage industrialization in West Africa?",
+		"opts": {
+			"q0": "A. Taking over of all forms of industries by the government",
+			"q1": "B. Provision of social infrastructure",
+			"q2": "C. Giving tax incentives, especially to infant industries",
+			"q3": "D. Using tariffs to discourage the use of imported items",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The concentration of many firms of a particular industry in a particular area is known as",
+		"opts": {
+			"q0": "A. location of industry",
+			"q1": "B. amalgamation of industries",
+			"q2": "C. localization of industries",
+			"q3": "D. nationalization of industry",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following is not an effect ofthe discovery of mineral resources in an area?",
+		"opts": {
+			"q0": "A. Increase in wealth",
+			"q1": "B. Overcrowding",
+			"q2": "C. Increase in crime rate",
+			"q3": "D. Under population",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

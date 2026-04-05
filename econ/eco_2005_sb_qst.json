@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Economic activities are undertaken to soive the problem of",
+		"opts": {
+			"q0": "A. consumption",
+			"q1": "B. opportunity cost",
+			"q2": "C. production",
+			"q3": "D. scarcity",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Farming, mining and fishing are",
+		"opts": {
+			"q0": "A. primary production",
+			"q1": "B. secondary production",
+			"q2": "C. tertiary production",
+			"q3": "D. intermediate production",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	A list of consumers’ wants arranged in order of priority is known as",
+		"opts": {
+			"q0": "A. a budget",
+			"q1": "B. an opportunity cost",
+			"q2": "C. a scale of preference",
+			"q3": "D. choice",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The 150.00 Naira which Olu would have used to purchase a textbook was used to buy a T-shirt. This implies that",
+		"opts": {
+			"q0": "A. Olu’s real cost is 15.00 Naira",
+			"q1": "B. Olu’s opportunity cost is the T-shirt he bought",
+			"q2": "C. Olu’s opportunity cost is the textbook",
+			"q3": "D. Olu’s money cost is also the real cost",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The remuneration of the entrepreneur as a factor of production is called",
+		"opts": {
+			"q0": "A. wages",
+			"q1": "B. salary",
+			"q2": "C. interest",
+			"q3": "D. profit",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The production factor, whose entire world supply is fixed is",
+		"opts": {
+			"q0": "A. land",
+			"q1": "B. skilled labour",
+			"q2": "C. capital goods",
+			"q3": "D. entrepreneurship",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	When all factor inputs are reduced by half, the production possibility curve will shift",
+		"opts": {
+			"q0": "A. outwards",
+			"q1": "B. inwards",
+			"q2": "C. downwards",
+			"q3": "D. upwards",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	When a worker changes from one type of iob to another, it is called",
+		"opts": {
+			"q0": "A. geographical mobility of labour",
+			"q1": "B. occupational mobility of labour",
+			"q2": "C. immobility of labour",
+			"q3": "D. rural-urban migration",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Which of the following determines the size of a country’s population? (I) Birthrate (II) Death rate (lII) Migration rate (IV) Importation rate (V) Unemployment rate",
+		"opts": {
+			"q0": "A. (I), (II) and (V)",
+			"q1": "B. (II) and (IV)",
+			"q2": "C. (I), (II) and (III)",
+			"q3": "D. (I) and (V)",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Age distribution is important because it helps the government to",
+		"opts": {
+			"q0": "A. check rural-urban drift",
+			"q1": "B. determine the number of foreigners",
+			"q2": "C. determine the number of factories",
+			"q3": "D. undertake effective planning",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	A group of firms producing similar commodities for the same market constitute",
+		"opts": {
+			"q0": "A. a cartel",
+			"q1": "B. an industry",
+			"q2": "C. a co-operative",
+			"q3": "D. wholesalers",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A factor that has slowed down the rate of industrial development in West Africa is",
+		"opts": {
+			"q0": "A. inadequate technology",
+			"q1": "B. increasing rate of manpower production",
+			"q2": "C. increased demand for local goods",
+			"q3": "D. intervention of the government in business activities",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	To achieve an equilibrium position the consumer must buy so much of each commodity whose price is equal to its",
+		"opts": {
+			"q0": "A. marginal utility",
+			"q1": "B. total utility",
+			"q2": "C. average utility",
+			"q3": "D. variable utility",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Price control refers to",
+		"opts": {
+			"q0": "A. the ways of making more goods available in the market",
+			"q1": "B. a policy of ensuring stable price in the market",
+			"q2": "C. a general reduction in the price level",
+			"q3": "D. effective working of the forces ot demand and supply",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The desire for goods without the ability to pay is called",
+		"opts": {
+			"q0": "A. choice",
+			"q1": "B. effective demand",
+			"q2": "C. joint demand",
+			"q3": "D. wants",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Amount of goods offered to the market at respective prices and presented in a table is called",
+		"opts": {
+			"q0": "A. price schedule",
+			"q1": "B. supply schedule",
+			"q2": "C. scale of preference",
+			"q3": "D. demand schedule",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	At the equilibrium price, quantity demanded is",
+		"opts": {
+			"q0": "A. greater than quantity supplied",
+			"q1": "B. equal to quantity supplied",
+			"q2": "C. less than quantity supplied",
+			"q3": "D. equal to excess supply",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	If the government fixed a price of a commodity above the equilibrium price, the quantity supplied will be",
+		"opts": {
+			"q0": "A. less than quantity demanded",
+			"q1": "B. equal to the quantity demanded",
+			"q2": "C. greater than quantity demanded",
+			"q3": "D. equal to zero",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	One of the factors determining price elasticity of demand for a commodity is the",
+		"opts": {
+			"q0": "A. availability of close substitutes",
+			"q1": "B. number of producers",
+			"q2": "C. government policy",
+			"q3": "D. price of other commodities",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	If elasticity of demand for a commodity is less than one demand is",
+		"opts": {
+			"q0": "A. unitary elastic",
+			"q1": "B. inelastic",
+			"q2": "C. infinitely elastic",
+			"q3": "D. zero elastic",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The transfer of ownership of a public enterprise to individuals and firms is called",
+		"opts": {
+			"q0": "A. commercialization",
+			"q1": "B. nationalization",
+			"q2": "C. privatization",
+			"q3": "D. restructuring",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	One-man businesses are popular in West Africa because of all the following except the",
+		"opts": {
+			"q0": "A. ease of entry",
+			"q1": "B. small capital required",
+			"q2": "C. limited entrepreneurial skill needed",
+			"q3": "D. tendency to become joint-stock companies",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Wholesalers are often criticized because they",
+		"opts": {
+			"q0": "A. help to break the bulk",
+			"q1": "B. finance producers",
+			"q2": "C. increase prices",
+			"q3": "D. provide after-sale services",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	In which of the following business units are the owners mostly the customers?",
+		"opts": {
+			"q0": "A. Co-operatives",
+			"q1": "B. Limited liability companies",
+			"q2": "C. Partnerships",
+			"q3": "D. Public corporations",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Information about new goods is passed on to buyers through",
+		"opts": {
+			"q0": "A. advertising",
+			"q1": "B. retail trade",
+			"q2": "C. the manufacturer",
+			"q3": "D. wholesale trade",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	<img src='eco_2005_sectionb_qst26.jpg'> In the figure above, PN equals average revenue or the marginal revenue cure of",
+		"opts": {
+			"q0": "A. an imperfect competitive firm",
+			"q1": "B. a monopoly",
+			"q2": "C. a perfectly competitive firm",
+			"q3": "D. a monopolistic competitive firm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The profit of the producer can be calculated as",
+		"opts": {
+			"q0": "A. total cost less total revenue",
+			"q1": "B. average revenue less average cost",
+			"q2": "C. total revenue less total cost",
+			"q3": "D. marginal revenue less marginal cost",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The direct exchange of one goods for another without the use of money is known",
+		"opts": {
+			"q0": "A. foreign exchange",
+			"q1": "B. exchange rate",
+			"q2": "C. expenditure",
+			"q3": "D. barter",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Acceptability, durability, homogeneity and portability are all attributes of good",
+		"opts": {
+			"q0": "A. markets",
+			"q1": "B. money",
+			"q2": "C. banks",
+			"q3": "D. government",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The term demand for money means",
+		"opts": {
+			"q0": "A. desire to borrow money from people",
+			"q1": "B. desire of a individual to invest all his money in projects",
+			"q2": "C. willingness of people to hold money",
+			"q3": "D. willingness of people to keep all their resources in assets",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	A persistent and appreciable rise in the general level of prices is known as",
+		"opts": {
+			"q0": "A. depreciation",
+			"q1": "B. inflation",
+			"q2": "C. deflation",
+			"q3": "D. production",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The commercial bank, deposits are",
+		"opts": {
+			"q0": "A. liabilities",
+			"q1": "B. assets",
+			"q2": "C. capital",
+			"q3": "D. cash at hand",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The lender of last resort in the banking system is the",
+		"opts": {
+			"q0": "A. industrial bank",
+			"q1": "B. mortgage bank",
+			"q2": "C. commercial bank",
+			"q3": "D. central bank",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Discounting a bill of exchange means the bill is",
+		"opts": {
+			"q0": "A. cashed over the counter",
+			"q1": "B. sold on the stock exchange",
+			"q2": "C. bought for less than its face value",
+			"q3": "D. sold to the highest bidder",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The central bank controls credit in the economy through the use of",
+		"opts": {
+			"q0": "A. legal tender",
+			"q1": "B. travellers cheques",
+			"q2": "C. foreign exchange instruments",
+			"q3": "D. open market operations",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Among principles of taxation propounded by Adan T Smith was that",
+		"opts": {
+			"q0": "A. a tax should be impossible to evade",
+			"q1": "B. a tax should be convenient to pay",
+			"q2": "C. no tax should be levied on food",
+			"q3": "D. there should be no taxation without representation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Mr. Bala’s income is $800.00 per month while that of Mr. Jatau is $1,200.00. If Messrs. Bala and Jatau pay $80.00 and $120.00 respectively as taxes, the tax system is",
+		"opts": {
+			"q0": "A. progressive",
+			"q1": "B. regressive",
+			"q2": "C. proportional",
+			"q3": "D. ad-valorem",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Government revenue from the groundnut industry is from",
+		"opts": {
+			"q0": "A. licenses",
+			"q1": "B. rents",
+			"q2": "C. royalties",
+			"q3": "D. taxes",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The theory of comparative cost advantage is associated with",
+		"opts": {
+			"q0": "A. Alfred Marshal",
+			"q1": "B. Adam Smith",
+			"q2": "C. David Ricardo",
+			"q3": "D. J. B. Say",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	When the value of a nation’s exports is greater than its imports",
+		"opts": {
+			"q0": "A. a favourable balance of trade exists",
+			"q1": "B. an unfavourable balance of payment exists",
+			"q2": "C. the net foreign trade is zero",
+			"q3": "D. inflation occurs",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	To improve the balance of payments position of West African countries, there must be",
+		"opts": {
+			"q0": "A. removal of barriers to importation of goods and services",
+			"q1": "B. increases rate of exportation of goods and services",
+			"q2": "C. increased domestic consumption of foreign produced goods",
+			"q3": "D. the development of the local market",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	The Economic Community of West African States (ECOWAS) is an example of",
+		"opts": {
+			"q0": "A. bilateral trade",
+			"q1": "B. economic integration",
+			"q2": "C. regional marketing board",
+			"q3": "D. international competition",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	One reason for the low agricultural production in West African countries is that",
+		"opts": {
+			"q0": "A. agriculture employs the highest percentage of the labour force",
+			"q1": "B. too much money is invested in agriculture",
+			"q2": "C. farmers lack the finance and technology required",
+			"q3": "D. the farms are too large",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Mono-product economies are those that",
+		"opts": {
+			"q0": "A. produce one main commodity",
+			"q1": "B. produce only raw materials",
+			"q2": "C. depend on the export of their raw materials",
+			"q3": "D. specialize in agricultural industries",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	An essential characteristic of a market economy is",
+		"opts": {
+			"q0": "A. government control",
+			"q1": "B. producer surplus",
+			"q2": "C. consumer surplus",
+			"q3": "D. consumer sovereignty",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	In a capitalist system goods are produced for those who",
+		"opts": {
+			"q0": "A. want them most but cannot pay for them",
+			"q1": "B. can pay for them but do not want them",
+			"q2": "C. want them and can also pay for them",
+			"q3": "D. are dependent on the labour force",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	An economy which exhibits features of both private and State enterprises is known as a",
+		"opts": {
+			"q0": "A. capitalist economy",
+			"q1": "B. mixed economy",
+			"q2": "C. communist economy",
+			"q3": "D. socialist economy",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	In calculating the national income of a country x, the cost of both raw materials and the finished products were included. This is a case of",
+		"opts": {
+			"q0": "A. double counting",
+			"q1": "B. price fluctuations",
+			"q2": "C. price differentiation",
+			"q3": "D. price discrimination",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Economic development is defined as",
+		"opts": {
+			"q0": "A. outward shift of the production possibility curve",
+			"q1": "B. availability of more goods and services",
+			"q2": "C. growth accompanied by qualitative change in living standards",
+			"q3": "D. growth in the national income",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following is not an objective of the Organisation of Petroleum Exporting Countries (OPEC)?",
+		"opts": {
+			"q0": "A. Stabilization of oil prices",
+			"q1": "B. Co-ordinating prices",
+			"q2": "C. Harmonizing oil prices",
+			"q3": "D. Stagnation of developed economies",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

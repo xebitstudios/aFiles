@@ -1,0 +1,483 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The definition of Economics as ‘the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses’ was given by",
+		"opts": {
+			"q0": "A. Adam Smith",
+			"q1": "B. David Ricardo",
+			"q2": "C. Lionel Robbins",
+			"q3": "D. Thomas R. Matlthus",
+			"q4": "E. Robert Giffen"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The concept of economic efficiency primarily implies",
+		"opts": {
+			"q0": "A. obtaining the maximum output from available resources at the lowest possible cost",
+			"q1": "B. conserving our petroleum resources",
+			"q2": "C. equity in the distribution of the nation’s wealth",
+			"q3": "D. producing without waste",
+			"q4": "E. the limited wants unlimited resources dilemma"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Which of the following is true of NEPA as a public corporation in Nigeria? It is",
+		"opts": {
+			"q0": "A. a solar energy distributor",
+			"q1": "B. organized in a perfectly competitive market",
+			"q2": "C. a duopoly",
+			"q3": "D. a monopolistically competitive industry",
+			"q4": "E. a monopoly"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	A situation of full employment exists when",
+		"opts": {
+			"q0": "A. every adult is employed",
+			"q1": "B. all adults who can work are employed",
+			"q2": "C. all persons who have attained the age of 15 years and above are employed",
+			"q3": "D. only the disabled are not employed",
+			"q4": "E. all those who are able and eligible to work are employed"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Which of the following functions of money makes it possible for any person to provide for old age?",
+		"opts": {
+			"q0": "A. Medium of exchange",
+			"q1": "B. Store of value",
+			"q2": "C. Measure of value",
+			"q3": "D. Unit of account",
+			"q4": "E. Standard for deferred payments"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The primary objective of the Agricultural Credit Guarantee Scheme is the prevision of",
+		"opts": {
+			"q0": "A. guarantee for loans granted by banks for agricultural purposes",
+			"q1": "B. agricultural inputs to facilitate credit from banks",
+			"q2": "C. loans for every farmer",
+			"q3": "D. agricultural products for farmers",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Which of the following is not an advantage of localization of industries?",
+		"opts": {
+			"q0": "A. Enjoyment of external economies",
+			"q1": "B. Development of subsidiary industries",
+			"q2": "C. Development of organized markets",
+			"q3": "D. Growth of conurbation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Which of the following is not an advantage of government ownership of enterprises?",
+		"opts": {
+			"q0": "A. More capital is provided",
+			"q1": "B. Pricing policy may be in the interest of consumers",
+			"q2": "C. Government workers may be indifferent towards the public",
+			"q3": "D. Infrastructures are rapidly developed",
+			"q4": "E. Income may be more evenly distributed"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	If the foreign exchange rate is N8 to £1, then a bicycle bought for £40 will cost",
+		"opts": {
+			"q0": "A. N15.00",
+			"q1": "B. N60.00",
+			"q2": "C. N100.00",
+			"q3": "D. N250.00",
+			"q4": "E. N320.00"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	All the following are assets of a commercial bank except",
+		"opts": {
+			"q0": "A. cash",
+			"q1": "B. bills discounted",
+			"q2": "C. bank deposits",
+			"q3": "D. investment",
+			"q4": "E. advances to customers"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The Central Bank controls commercial banks through all the following measures except",
+		"opts": {
+			"q0": "A. the use of directives",
+			"q1": "B. the use of bank rate",
+			"q2": "C. open market operations",
+			"q3": "D. accepting deposits",
+			"q4": "E. demanding special deposits"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	If a person supplements his current income by drawing on past savings in order to make both ends meet, he is said to be living",
+		"opts": {
+			"q0": "A. good life",
+			"q1": "B. an average life",
+			"q2": "C. on his savings",
+			"q3": "D. a reckless life",
+			"q4": "E. on borrowed money"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Which of the following is not a set of measures of central tendency?",
+		"opts": {
+			"q0": "A. Mode and median",
+			"q1": "B. Mean and median",
+			"q2": "C. Mean and mode",
+			"q3": "D. Median and percentage",
+			"q4": "E. Mode, mean and median"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	<img src='eco_1994_sectionb_qst14.jpg'> The diagram below is a",
+		"opts": {
+			"q0": "A. bar chart",
+			"q1": "B. pie chart",
+			"q2": "C. ball chart",
+			"q3": "D. histogram",
+			"q4": "E. histo-chart"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following pairs can be referred to as middlemen?",
+		"opts": {
+			"q0": "A. Wholesalers and agents",
+			"q1": "B. Retailers and consumers",
+			"q2": "C. Consumers and agents",
+			"q3": "D. Wholesalers and retailers",
+			"q4": "E. Wholesalers and consumers"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Mono-product economies are those that",
+		"opts": {
+			"q0": "A. have a rich cultural heritage",
+			"q1": "B. produce only raw materials",
+			"q2": "C. live on the exportation of their raw products",
+			"q3": "D. produce one main commodity",
+			"q4": "E. specialize in agricultural industries"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	<img src='eco_1994_sectionb_qst17.jpg'> In the figure above, the broken line labelled Pm is the Marginal Revenue Curve of a",
+		"opts": {
+			"q0": "A. monopoly",
+			"q1": "B. competitive firm",
+			"q2": "C. state corporation",
+			"q3": "D. partnership",
+			"q4": "E. monopsony"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	A Nigeria household’s demand curve for semovita is downward sloping because",
+		"opts": {
+			"q0": "A. the demand for semovita is high",
+			"q1": "B. the local markets are flooded with semovita",
+			"q2": "C. semovita is produced in Nigeria",
+			"q3": "D. every household can afford to buy semovita",
+			"q4": "E. the higher the price of semovita, the lower the quantity demanded"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	To the economist a stock of goods existing at a particular time and conforming to certain requirements such as having utility, money value and being limited in supply, is known as",
+		"opts": {
+			"q0": "A. consumer goods",
+			"q1": "B. products",
+			"q2": "C. wealth",
+			"q3": "D. commercial goods",
+			"q4": "E. durable goods"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The decision to consume more of one product will under normal circumstances imply that",
+		"opts": {
+			"q0": "A. more of another product will be consumed",
+			"q1": "B. less of something else will be consumed",
+			"q2": "C. no other product will be consumed",
+			"q3": "D. decision-making is basic in Economics",
+			"q4": "E. enough resources are available"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The difference between the Gross Domestic Product (GDP) and the Gross National Product (GNP) is the",
+		"opts": {
+			"q0": "A. allowance for total depreciation",
+			"q1": "B. total interest payment",
+			"q2": "C. net income from abroad",
+			"q3": "D. total tax and interest payments",
+			"q4": "E. net internally generated income"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	One of the functions of a commercial bank is that it",
+		"opts": {
+			"q0": "A. is responsible for formulating monetary policies",
+			"q1": "B. accepts demand and time deposits from customers",
+			"q2": "C. is the lender of last resort",
+			"q3": "D. is the banker of the government",
+			"q4": "E. is responsible for issuing currency notes"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following is not a problem of distribution of goods in Nigeria?",
+		"opts": {
+			"q0": "A. Poor communication network",
+			"q1": "B. Inadequate storage facilities",
+			"q2": "C. Ignorance of consumers",
+			"q3": "D. Dishonesty of middlemen",
+			"q4": "E. Inadequate market"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Mr. Idowu needs a television and a refrigerator. Each cost N500.00, the exact amount he has. If Mr. Idowu buys the television, the refrigerator would be regarded as the",
+		"opts": {
+			"q0": "A. marginal cost",
+			"q1": "B. inferior item",
+			"q2": "C. opportunity cost",
+			"q3": "D. supplementary item",
+			"q4": "E. prime cost"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Petro-chemical industries are located in Rivers State of Nigeria due to the presence of",
+		"opts": {
+			"q0": "A. a favourable climate",
+			"q1": "B. coal deposits",
+			"q2": "C. oil palm products",
+			"q3": "D. an undulating terrain",
+			"q4": "E. oil deposits"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Foreign exchange control In Nigeria is enforced by the",
+		"opts": {
+			"q0": "A. Commercial Banks",
+			"q1": "B. Merchant Banks",
+			"q2": "C. Mortgage Banks",
+			"q3": "D. Central Bank",
+			"q4": "E. Agricultural Development Bank"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The difference between the number of immigrants and emigrants is",
+		"opts": {
+			"q0": "A. internal mobility",
+			"q1": "B. internal migration",
+			"q2": "C. net migration",
+			"q3": "D. marginal migration",
+			"q4": "E. external migration"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Risk bearing and managerial control are the main functions of the",
+		"opts": {
+			"q0": "A. managing director",
+			"q1": "B. manager",
+			"q2": "C. entrepreneur",
+			"q3": "D. chief executive",
+			"q4": "E. chief accountant"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	<img src='eco_1994_sectionb_qst29.jpg'> In the table below, the marginal cost when output is 2 units, is",
+		"opts": {
+			"q0": "A. N16.00",
+			"q1": "B. N20.00",
+			"q2": "C. N36.00",
+			"q3": "D. N40.00",
+			"q4": "E. N48.00"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	If successive units of labour are added to a piece of land while capital and technology remain constant, a point will be reached in the level of production when each additional unit of labour will add less to the output than previous units. This concept is known as the",
+		"opts": {
+			"q0": "A. productivity of labour",
+			"q1": "B. law of diminishing marginal utility",
+			"q2": "C. law of diminishing returns",
+			"q3": "D. law of diminishing returns of a variable factor",
+			"q4": "E. internal economies of scale"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	<img src='eco_1994_sectionb_qst31.jpg'> Which of the following pairs gives the values of X and Y in the table above?",
+		"opts": {
+			"q0": "A. X = 20, Y = 6",
+			"q1": "B. X = 10, Y = 10",
+			"q2": "C. X = 38, Y = 9",
+			"q3": "D. X = 46, Y = 9",
+			"q4": "E. X = 46, Y = 14"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	When a firm’s total revenue is at the maximum, marginal revenue is",
+		"opts": {
+			"q0": "A. at the maximum",
+			"q1": "B. negative",
+			"q2": "C. zero",
+			"q3": "D. positive",
+			"q4": "E. constant"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Under normal circumstances, a producer will bear the entire burden of taxation on his output if the",
+		"opts": {
+			"q0": "A. supply of his goods is more elastic than the demand",
+			"q1": "B. demand for his product is completely elastic",
+			"q2": "C. production of his commodities is subject to diminishing returns",
+			"q3": "D. demand for his product is more elastic than the supply",
+			"q4": "E. demand for his product is completely inelastic"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Limited liability means that",
+		"opts": {
+			"q0": "A. the debts of a company can only be paid from its own assets",
+			"q1": "B. the debts of a company are paid from business as well as private funds of the owners",
+			"q2": "C. a company does not have to pay its debts",
+			"q3": "D. the debts of a company must be paid from private funds only",
+			"q4": "E. government cannot tax a company"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Factory buildings, machinery and raw materials are known in Economics as",
+		"opts": {
+			"q0": "A. personal wealth",
+			"q1": "B. social wealth",
+			"q2": "C. government wealth",
+			"q3": "D. business wealth",
+			"q4": "E. public wealth"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Abstention from consumption enables capital to be produced. Such abstention is called",
+		"opts": {
+			"q0": "A. saving",
+			"q1": "B. production",
+			"q2": "C. accumulation",
+			"q3": "D. factors of production",
+			"q4": "E. opportunity cost"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Tax evasion in Economics means",
+		"opts": {
+			"q0": "A. false declaration of assets",
+			"q1": "B. paying tax only as and when due",
+			"q2": "C. declaration of assets",
+			"q3": "D. tax payment according to income received",
+			"q4": "E. quarrelling with tax collectors"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The magnitude of the national income of a country depends on all the following except the",
+		"opts": {
+			"q0": "A. quantity of natural resources available",
+			"q1": "B. level of technical know-how",
+			"q2": "C. mobility of labour",
+			"q3": "D. level of productivity",
+			"q4": "E. quality and quantity of factors of production"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The Quantity Theory of Money states that an increase in the quantity of money would bring about",
+		"opts": {
+			"q0": "A. a geometrical rise in prices",
+			"q1": "B. an unequal rise in prices",
+			"q2": "C. a proportionate rise in prices",
+			"q3": "D. an absolute rise in prices",
+			"q4": "E. a less than proportionate increase in prices"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Under the ECOWAS agreement, a Nigerian can enter and stay in Ghana without a visa for a	period of",
+		"opts": {
+			"q0": "A. 14 days",
+			"q1": "B. 30 days",
+			"q2": "C. 60 days",
+			"q3": "D. 90 days",
+			"q4": "E. 100 days"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

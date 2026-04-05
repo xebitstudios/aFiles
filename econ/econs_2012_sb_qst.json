@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following problems arises where there are more than one technically possible methods of production?",
+		"opts": {
+			"q0": "A. Where to produce",
+			"q1": "B. For whom to produce",
+			"q2": "C. How to produce",
+			"q3": "D. What to produce",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Visible balance is also known as",
+		"opts": {
+			"q0": "A. terms of trade",
+			"q1": "B. balance of payments",
+			"q2": "C. balance of trade",
+			"q3": "D. capital balance",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	A shift in the demand curve'indicates",
+		"opts": {
+			"q0": "A. exceptional demand",
+			"q1": "B. change in demand",
+			"q2": "C. change in quantity demanded",
+			"q3": "D. elasticity of demand",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	If a 6% decrease in price results in more than 6% decrease in quantity supplied, supply can be regarded as",
+		"opts": {
+			"q0": "A. elastic",
+			"q1": "B. unitary elastic",
+			"q2": "C. perfectly inelastic",
+			"q3": "D. perfectly elastic",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	A condition for consumer utility maximization is",
+		"opts": {
+			"q0": "A. equality of the ratio of marginal utilities and the ratio of prices",
+			"q1": "B. equality of the ratio of average utilities and the ratio of prices",
+			"q2": "C. equality of the marginal utility to total utility ratio for both commodities",
+			"q3": "D. total utility and marginal utility must be zero",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the following best describes the mode? The",
+		"opts": {
+			"q0": "A. observation with the highest frequency",
+			"q1": "B. average of two middle numbers",
+			"q2": "C. item that occupies the middle position",
+			"q3": "D. difference of two extreme values",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Where a commodity takes an insignificant proportion of the consumer's income, demand for it will be",
+		"opts": {
+			"q0": "A. unitary elastic",
+			"q1": "B. price inelastic",
+			"q2": "C. fairly elastic",
+			"q3": "D. income inelastic",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	A demand schedule shows the quantities of goods that are",
+		"opts": {
+			"q0": "A. bought at given prices at a time",
+			"q1": "B. supplied at given prices at a time",
+			"q2": "C. produced at given prices at a time",
+			"q3": "D. reserved for future consumption",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The demand curve for a commodity is downward sloping because the consumer will pay",
+		"opts": {
+			"q0": "A. less as the marginal utility falls",
+			"q1": "B. more as the marginal utility falls",
+			"q2": "C. less as the total utility falls",
+			"q3": "D. more as the average utility falls",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	A decrease in the demand for a product X resulted in a decrease in the demand for another product Y. The demand for X and Y is",
+		"opts": {
+			"q0": "A. derived",
+			"q1": "B. composite",
+			"q2": "C. joint",
+			"q3": "D. competitive",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Any price below the equilibrium price will lead to",
+		"opts": {
+			"q0": "A. increase in supply",
+			"q1": "B. excess demand",
+			"q2": "C. equality of demand and supply",
+			"q3": "D. decrease in demand",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The allocation of goods and services in a free market economy is performed by",
+		"opts": {
+			"q0": "A. the price system",
+			"q1": "B. the banking system",
+			"q2": "C. the central planning body",
+			"q3": "D. government budgets",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Given the demand function Qd = 20-<sup>1</sup>&frasl;<sub>2</sub>p. What is Qd when P is $12? ",
+		"opts": {
+			"q0": "A. 6 units",
+			"q1": "B. 10 units",
+			"q2": "C. 12 units",
+			"q3": "D. 14 units",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	If a particular consumer derives total utility of 22 utils having consumed 4 units of a given product, his average utility will be",
+		"opts": {
+			"q0": "A. 88 utils",
+			"q1": "B. 18 utils",
+			"q2": "C. 5.5 utils",
+			"q3": "D. 3.5 utils",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The law of diminishing marginal utility applies to a",
+		"opts": {
+			"q0": "A. firm which minimizes cost",
+			"q1": "B. consumer who maximizes satisfaction",
+			"q2": "C. producer who maximizes marginal product",
+			"q3": "D. consumer who minimizes total utility",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Why is the law of diminishing returns a short run phenomenon?",
+		"opts": {
+			"q0": "A. All inputs are fixed",
+			"q1": "B. All inputs are variable",
+			"q2": "C. Some outputs are variable",
+			"q3": "D. Some inputs are variable",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following is capable of increasing the population of a country?",
+		"opts": {
+			"q0": "A. Decrease in death rate",
+			"q1": "B. Increase in death rate",
+			"q2": "C. Poor medical facilities",
+			"q3": "D. Decrease in birth rate",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	In the firm’s production process, marginal cost",
+		"opts": {
+			"q0": "A. falls continuously throughout",
+			"q1": "B. falls and later rises",
+			"q2": "C. remains unchanged throughout",
+			"q3": "D. rises and later falls",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	If a firm’s price is less than average cost but.more than average variable cost, the firm is covering",
+		"opts": {
+			"q0": "A. cost and variable cost",
+			"q1": "B. all of its fixed cost and part of variable cost",
+			"q2": "C. all of its variable cost and part iof	fixed cost",
+			"q3": "D. part of its fixed cost and part of variable cost",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	An arrangement in which the debts of a company can only be paid from its own assets implies",
+		"opts": {
+			"q0": "A. unlimited liability",
+			"q1": "B. transferred liability",
+			"q2": "C. limited liability",
+			"q3": "D. capital liability",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	One reason why small scale businesses are very common in West Africa is that",
+		"opts": {
+			"q0": "A. they can easily float shares",
+			"q1": "B. their management boards are easily formed",
+			"q2": "C. their initial capital is easy to raise",
+			"q3": "D. their dividend payments are very regular",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	A public limited company could finance its operations through",
+		"opts": {
+			"q0": "A. government taxes",
+			"q1": "B. equity shares",
+			"q2": "C. dividend payments",
+			"q3": "D. import duties",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The factor of production which takes the initiative in combining resources for production is known as",
+		"opts": {
+			"q0": "A. capital",
+			"q1": "B. land",
+			"q2": "C. entrepreneur",
+			"q3": "D. labour",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	The type of monopoly that develops as a result of granting patent right is known as",
+		"opts": {
+			"q0": "A. natural monopoly",
+			"q1": "B. state monopoly",
+			"q2": "C. legal monopoly",
+			"q3": "D. discriminating monopoly",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Which of the following markets determines its own price or output?",
+		"opts": {
+			"q0": "A. Perfect market",
+			"q1": "B. Common market",
+			"q2": "C. Monopoly market",
+			"q3": "D. Commodity market",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following is a function of a retailer?",
+		"opts": {
+			"q0": "A. Banking services",
+			"q1": "B. Hoarding services",
+			"q2": "C. Storage services",
+			"q3": "D. Sales services",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The difference between the number of immigrants and emigrants is",
+		"opts": {
+			"q0": "A. natural growth rate",
+			"q1": "B. natural increase",
+			"q2": "C. net migration",
+			"q3": "D. census",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	All the following are features of optimum population except",
+		"opts": {
+			"q0": "A. full employment of available resources",
+			"q1": "B. unlimited amount of unexploited resources",
+			"q2": "C. maximum per capita production and income",
+			"q3": "D. high standard of living",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The financial institution that specializes in risk spreading is called",
+		"opts": {
+			"q0": "A. an investment bank",
+			"q1": "B. a development bank",
+			"q2": "C. an insurance company",
+			"q3": "D. the stock exchange",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The following are means of reducing the population of a country except encouraging",
+		"opts": {
+			"q0": "A. emigration",
+			"q1": "B. family planning",
+			"q2": "C. early marriage",
+			"q3": "D. sex education",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following features best describes peasant agriculture in West Africa? it",
+		"opts": {
+			"q0": "A. specializes in the production of one crop",
+			"q1": "B. involves the use of small farm holdings",
+			"q2": "C. is a capital-intensive system of farming",
+			"q3": "D. is mostly associated with tree crops",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	One of the problems facing industrial development in West African countries is",
+		"opts": {
+			"q0": "A. inadequate large market",
+			"q1": "B. inadequate infrastructure",
+			"q2": "C. inadequate supply of labour",
+			"q3": "D. unavailability of natural resources",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	In a situation where the finished product of an industry is fragile, bulky and perishable, such an industry should be located close to its",
+		"opts": {
+			"q0": "A. raw materials",
+			"q1": "B. market",
+			"q2": "C. labour supply",
+			"q3": "D. power supply",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	If Y = Income, C = Consumption, I = Investment, X = Export and M = import, then national income is",
+		"opts": {
+			"q0": "A. Y = C - I + (x + m)",
+			"q1": "B. Y = C + I + (x + m)",
+			"q2": "C. Y = C + I + (x - m)",
+			"q3": "D. Y = C + I + (m - x)",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The national income is the",
+		"opts": {
+			"q0": "A. Gross Domestic Product at market prices",
+			"q1": "B. Gross National Product at factor cost",
+			"q2": "C. Net National Product at factor cost",
+			"q3": "D. Net National Product at market prices",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	When depreciation is deducted from Gross National Product, the result is",
+		"opts": {
+			"q0": "A. total national income",
+			"q1": "B. gross domestic product",
+			"q2": "C. net national product",
+			"q3": "D. net domestic product",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Mr. Okpoti has	meat and wants maize, while Mr. Adama has maize and wants meat. A transaction is possible because of",
+		"opts": {
+			"q0": "A. joint demand",
+			"q1": "B. scale of preference",
+			"q2": "C. double coincidence of wants",
+			"q3": "D. opportunity cost",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Which of the following is not a form of money?",
+		"opts": {
+			"q0": "A. Coins",
+			"q1": "B. Bank notes",
+			"q2": "C. Bank balance",
+			"q3": "D. Bank deposit",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	A price index as a statistic, measures",
+		"opts": {
+			"q0": "A. how the value of money changes over time",
+			"q1": "B. the volume of currency in the economy",
+			"q2": "C. the exchange rate of a country’s currency",
+			"q3": "D. the composition of goods and services",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The difference between birth rate and death rate is known as",
+		"opts": {
+			"q0": "A. demographic transition",
+			"q1": "B. natural growth rate",
+			"q2": "C. migration rate",
+			"q3": "D. fertility rate",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	In open market operations, what the Central Bank sells or buys are",
+		"opts": {
+			"q0": "A. shares",
+			"q1": "B. debentures",
+			"q2": "C. securities",
+			"q3": "D. equities",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	The following are reasons for the failure of agricultural policies in West Africa except",
+		"opts": {
+			"q0": "A. vague policy statements",
+			"q1": "B. negation of policies",
+			"q2": "C. creation of agro-service stations",
+			"q3": "D. provision of obsolete implements",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	A situation in which the estimated government revenue is less than the propose expenditure for a given year can be described as",
+		"opts": {
+			"q0": "A. surplus budgeting",
+			"q1": "B. supplementary	budgeting",
+			"q2": "C. balanced budgeting",
+			"q3": "D. deficit budgeting",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	An excise tax is imposed on goods",
+		"opts": {
+			"q0": "A. smuggled into the country",
+			"q1": "B. manufactured locally",
+			"q2": "C. imported into the country",
+			"q3": "D. seized by custom officials",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following will not retard economic development in West Africa?",
+		"opts": {
+			"q0": "A. Dependence on imports",
+			"q1": "B. Population control",
+			"q2": "C. High level of illiteracy",
+			"q3": "D. Low level of savings",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	When there is improvement in a country’s terms of trade, it means that the country’s",
+		"opts": {
+			"q0": "A. exports are cheaper relative to imports",
+			"q1": "B. imports are cheaper relative to exports",
+			"q2": "C. volume of imports has declined",
+			"q3": "D. volume of exports has declined",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following is true about import substitution? It",
+		"opts": {
+			"q0": "A. helps in increasing exportation",
+			"q1": "B. is meant to reduce exportation",
+			"q2": "C. enables a country to curtail importation",
+			"q3": "D. enables a country to improve on importation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Balance of payments problem can be corrected through",
+		"opts": {
+			"q0": "A. increasing foreign reserves",
+			"q1": "B. increasing domestic borrowing",
+			"q2": "C. import promotion strategies",
+			"q3": "D. export promotion strategies",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	One of the reasons why government may erect a trade barrier is to",
+		"opts": {
+			"q0": "A. control foreign currencies",
+			"q1": "B. protect infant industries",
+			"q2": "C. promote importation",
+			"q3": "D. diversify the economy",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following is not a function of the West African Development Bank?",
+		"opts": {
+			"q0": "A. Promotion of both private and public investments in member states",
+			"q1": "B. Financing and executing projects in member states",
+			"q2": "C. Promotion of social development of member states",
+			"q3": "D. harmonization of oil prices to the advantage of member states",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

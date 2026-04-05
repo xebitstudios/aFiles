@@ -1,0 +1,483 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Economics is often described as a science because it",
+		"opts": {
+			"q0": "A. adopts the use of laboratory experiments",
+			"q1": "B. involves accurate prediction of human beings",
+			"q2": "C. makes use of controlled experiments",
+			"q3": "D. uses scientific methods to explain observed phenomena",
+			"q4": "E. deals with observations and field work"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Scarcity in Economics means that",
+		"opts": {
+			"q0": "A. the economy can scarcely produce anything",
+			"q1": "B. human wants are limitless",
+			"q2": "C. the economy has very few resources",
+			"q3": "D. human wants are limited, relative to resources",
+			"q4": "E. resources are limited relative to wants"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Which of the following has a derived demand?",
+		"opts": {
+			"q0": "A. labour",
+			"q1": "B. butter",
+			"q2": "C. television sets",
+			"q3": "D. bread",
+			"q4": "E. motor cars"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	In Economics, production is complete when",
+		"opts": {
+			"q0": "A. goods are manufactured in the factories",
+			"q1": "B. commodities are sold to the final consumer",
+			"q2": "C. goods and services are distributed by the government",
+			"q3": "D. producers fix the price of the goods produced",
+			"q4": "E. goods and services get to the retailers"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Goods are said to be in competitive demand when they",
+		"opts": {
+			"q0": "A. are substitutes",
+			"q1": "B. are complementary to each other",
+			"q2": "C. are jointly demanded",
+			"q3": "D. have equal coefficients of elasticity",
+			"q4": "E. are identical"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The formula for calculating price elasticity of demand coefficient is",
+		"opts": {
+			"q0": "A. <sup>percentage change in price</sup>&frasl;<sub>percentage change in quantity demanded</sub>",
+			"q1": "B. <sup>absolute decline in price</sup>&frasl;<sub>absolute increase in quantity demanded</sub>",
+			"q2": "C. <sup>percentage change in quantity demanded</sup>&frasl;<sub>percentage change in price</sub>",
+			"q3": "D. <sup>absolute decline in quantity demanded</sup>&frasl;<sub>absolute increase in price</sub>",
+			"q4": "E. <sup>change in quantity demanded</sup>&frasl;<sub>decrease in price</sub>"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	When the price of a given product is reduced from N100 to N90, the quantity demanded increases from 50 to 60 units. From this we can conclude that the product’s",
+		"opts": {
+			"q0": "A. demand is elastic",
+			"q1": "B. demand is inelastic",
+			"q2": "C. demand is perfectly inelastic",
+			"q3": "D. supply is not elastic",
+			"q4": "E. demand has declined"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	A shift in the supply curve to the right will result in a",
+		"opts": {
+			"q0": "A. fall in both the price and supply",
+			"q1": "B. fall in price but an increase in supply",
+			"q2": "C. rise in both price and supply",
+			"q3": "D. rise in price and a fall in supply",
+			"q4": "E. no change in price and supply"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	One of the disadvantages of division of labour is that it",
+		"opts": {
+			"q0": "A. saves time",
+			"q1": "B. makes work monotonous",
+			"q2": "C. encourages full utilization of capital",
+			"q3": "D. makes workers skilled at their work",
+			"q4": "E. allows greater use of machinery"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The value of money is affected by the",
+		"opts": {
+			"q0": "A. speculative motive",
+			"q1": "B. price level",
+			"q2": "C. transactionary motive",
+			"q3": "D. precautionary motive",
+			"q4": "E. employment level"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of following is not a problem in the barter economy?",
+		"opts": {
+			"q0": "A. multiple exchange rate",
+			"q1": "B. indivisibility of goods and services",
+			"q2": "C. double coincidence of wants",
+			"q3": "D. bulkness of commodities",
+			"q4": "E. inflation"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The optimum population of a country is reached when the",
+		"opts": {
+			"q0": "A. production of goods and services is less than optimum",
+			"q1": "B. output per head is at its highest with a given volume of resources",
+			"q2": "C. total production increases with a given volume of resources",
+			"q3": "D. national resources increases as population increases",
+			"q4": "E. working population rises at a geometrical rate"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	When the death rate for old people and the infant mortality rate are high, with no migration, there will be in the population a higher number of",
+		"opts": {
+			"q0": "A. younger people in the population",
+			"q1": "B. children in the population",
+			"q2": "C. old people in the population",
+			"q3": "D. women in the population",
+			"q4": "E. men in the population"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	In the long-run, potential GNP is variable because I. technological change takes place II. the quantity of labour and capital is not fixed III. unemployment is not constant",
+		"opts": {
+			"q0": "A. I only",
+			"q1": "B. II only",
+			"q2": "C. I and II only",
+			"q3": "D. I and III only",
+			"q4": "E. III only"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	For two commodities A and Bt MA and MB are the respective marginal utitilies while PA and PB are the respective prices. Marginal utilities of the two commodities are maximized when",
+		"opts": {
+			"q0": "A. <sup>MA</sup>&frasl;<sub>PA</sub> = <sup>MB</sup>&frasl;<sub>PB</sub>",
+			"q1": "B. <sup>MA</sup>&frasl;<sub>PA</sub> > <sup>MB</sup>&frasl;<sub>PB</sub>",
+			"q2": "C. <sup>MA</sup>&frasl;<sub>PA</sub> < <sup>MB</sup>&frasl;<sub>PB</sub>",
+			"q3": "D. <sup>PA</sup>&frasl;<sub>MA</sub> < <sup>PB</sup>&frasl;<sub>MB</sub>",
+			"q4": "E. <sup>PA</sup>&frasl;<sub>MA</sub> > <sup>PB</sup>&frasl;<sub>MB</sub>"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	If the price of product K declines, the demand curve for the complementary product J wil",
+		"opts": {
+			"q0": "A. remain unchanged",
+			"q1": "B. shift to the right",
+			"q2": "C. decrease",
+			"q3": "D. shift to the left",
+			"q4": "E. slope upwards"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	A stock exchange is a market that",
+		"opts": {
+			"q0": "A. deals with the exchange of commodities",
+			"q1": "B. deals with the purchase and sale of securities",
+			"q2": "C. exchanges stockfish for lady fish",
+			"q3": "D. exchanges Treasury Bills for Bills of Exchange",
+			"q4": "E. selLs foreign exchange"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The situation whereby government revenue is less than government expenditure is referred to as",
+		"opts": {
+			"q0": "A. budget deficit",
+			"q1": "B. balanced budget",
+			"q2": "C. budget surplus",
+			"q3": "D. budget statement",
+			"q4": "E. unfavourable budget"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following would not increase the population of a country?",
+		"opts": {
+			"q0": "A. An increase in birth rate",
+			"q1": "B. A decrease in death rate",
+			"q2": "C. Better medical services",
+			"q3": "D. Immigration",
+			"q4": "E. Emigration"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The actual output of an economy is the output",
+		"opts": {
+			"q0": "A. which would exist if all resources were fully employed",
+			"q1": "B. produced by currently employed labour capital and land",
+			"q2": "C. produced in the consumer goods sector",
+			"q3": "D. produced in the capital goods sector",
+			"q4": "E. produced by the agriculture sector"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	One of the instruments of protection of infant industries is the",
+		"opts": {
+			"q0": "A. price control board",
+			"q1": "B. open market operation",
+			"q2": "C. tariff",
+			"q3": "D. GDP-deflator",
+			"q4": "E. multiplier"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Inflation caused by increase in demand can be curbed by",
+		"opts": {
+			"q0": "A. exporting more goods and services",
+			"q1": "B. hoarding of goods",
+			"q2": "C. increasing the level of output",
+			"q3": "D. increasing the level of money supply",
+			"q4": "E. reducing importation"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following is a function of commercial banks?",
+		"opts": {
+			"q0": "A. Issue currencies",
+			"q1": "B. Accept deposits",
+			"q2": "C. Are the bankers’ bank",
+			"q3": "D. Determine the rate of interest",
+			"q4": "E. The lenders of last resort"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Division of labour leads to",
+		"opts": {
+			"q0": "A. employment of everybody",
+			"q1": "B. decrease in output",
+			"q2": "C. monotony of work",
+			"q3": "D. increase of time in workshops",
+			"q4": "E. increase of time in learning a trade"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The largest employment sector in a typical West African country is",
+		"opts": {
+			"q0": "A. construction",
+			"q1": "B. transportation",
+			"q2": "C. petroleum",
+			"q3": "D. agriculture",
+			"q4": "E. manufacturing"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The Indigenisation Policy in Nigeria is aimed at",
+		"opts": {
+			"q0": "A. nationalising foreign businesses",
+			"q1": "B. alternating foreign investors",
+			"q2": "C. commandeering foreign business in Nigeria",
+			"q3": "D. expelling foreign investors and taking over their investments",
+			"q4": "E. increasing equity participation and control by Nigerians"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The foregone alternative in Economics is simply the",
+		"opts": {
+			"q0": "A. marginal cost",
+			"q1": "B. cost of a foregone product",
+			"q2": "C. total cost",
+			"q3": "D. opportunity cost",
+			"q4": "E. average cost"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	All the following are different forms of money except",
+		"opts": {
+			"q0": "A. bank notes",
+			"q1": "B. demand deposits",
+			"q2": "C. coins",
+			"q3": "D. currency",
+			"q4": "E. bank tellers"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The development banks are essentially different from commercial banks because they",
+		"opts": {
+			"q0": "A. give medium and long term loans",
+			"q1": "B. open current accounts for their customers",
+			"q2": "C. discount bills of exchange",
+			"q3": "D. are lenders of last resort",
+			"q4": "E. carry out open market operations"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The outward shift of the production possibility curve could be due to",
+		"opts": {
+			"q0": "A. military conquest",
+			"q1": "B. increased money supply",
+			"q2": "C. inflation",
+			"q3": "D. economic growth",
+			"q4": "E. massive importation"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following is not true of a firm in equilibrium condition in perfect competition?",
+		"opts": {
+			"q0": "A. MC is rising",
+			"q1": "B. MC curve cuts AC curve from below",
+			"q2": "C. MR > AR",
+			"q3": "D. MC = AC = MR = AR",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Hoarding in distributive trade leads to",
+		"opts": {
+			"q0": "A. non-availability of commodities",
+			"q1": "B. production of inferior goods",
+			"q2": "C. increase in the supply of goods",
+			"q3": "D. decrease in the price of goods",
+			"q4": "E. artificial scarcity of goods"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	If an economy grows at an annual rate of 6% of which 4% is deemed to be due to improvement in the productivity of labour and capital combined, the remaining 2% is generally attributed to the",
+		"opts": {
+			"q0": "A. amount of natural resources",
+			"q1": "B. improvement in banking services",
+			"q2": "C. size of the population",
+			"q3": "D. quality of human resources",
+			"q4": "E. improvement in government fiscal policies"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	When the government imposes a unit tax on a commodity with perfectly inelastic demand the",
+		"opts": {
+			"q0": "A. tax is borne entirely by the seller",
+			"q1": "B. tax is shared equally between the seller and the buyer",
+			"q2": "C. seller bears 70% and the consumer bears 30% of the tax",
+			"q3": "D. tax is borne entirely by the consumer",
+			"q4": "E. tax is borne by nobody"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Free Trade means",
+		"opts": {
+			"q0": "A. producers are free to determine their prices",
+			"q1": "B. market forces are allowed to determined prices ",
+			"q2": "C. non-restriction of international trade",
+			"q3": "D. goods are to be sold free of charge",
+			"q4": "E. people are free to buy in foreign countries"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	In a public company, entrepreneural functions are performed by the",
+		"opts": {
+			"q0": "A. workers",
+			"q1": "B. shareholders",
+			"q2": "C. creditors",
+			"q3": "D. board of directors",
+			"q4": "E. chairman"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Terms of trade is the",
+		"opts": {
+			"q0": "A. ratio of capital movements to export movements",
+			"q1": "B. ratio of import to short-term export",
+			"q2": "C. difference between exports and imports",
+			"q3": "D. ratio of short-term capital movements to long-term capital movements",
+			"q4": "E. ratio of index of export prices to index of import prices"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Tariff can be defined as a compulsory levy on",
+		"opts": {
+			"q0": "A. goods that are produced and consumed locally",
+			"q1": "B. foreign exchange earnings",
+			"q2": "C. imported but inferior goods",
+			"q3": "D. foreigners working in a country",
+			"q4": "E. imports and exports"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	International trade is different from internal trade because of the",
+		"opts": {
+			"q0": "A. manufactured goods involved",
+			"q1": "B. currency differentials",
+			"q2": "C. homogeneity of products",
+			"q3": "D. heterogeneity of products",
+			"q4": "E. uniformity of prices"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Which of the following is not a visible item in international trade payments?",
+		"opts": {
+			"q0": "A. Payments for imported cars",
+			"q1": "B. Receipts from cocoa exports",
+			"q2": "C. Receipts from oil exports",
+			"q3": "D. Payments for steel imports",
+			"q4": "E. Payments to foreign shipping companies"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+};

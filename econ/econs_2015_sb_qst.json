@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Economics is regarded as a science because it",
+		"opts": {
+			"q0": "A. studies laws that govern human behaviour",
+			"q1": "B. uses scientific method to explain human behaviour",
+			"q2": "C. makes use of controlled experiments to explain human behavior",
+			"q3": "D. makes use of machines to study human behaviour",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Which of the following cannot be described as land?",
+		"opts": {
+			"q0": "A. forest",
+			"q1": "B. Diamond",
+			"q2": "C. Roads",
+			"q3": "D. Crude oil",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	An outward shift of the production possibility curve shows that",
+		"opts": {
+			"q0": "A. production is shifting to the right",
+			"q1": "B. resources are underutilized",
+			"q2": "C. economic growth has taken place",
+			"q3": "D. factors of production are moving outward",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The following constitute the criteria for identifying an economic system except",
+		"opts": {
+			"q0": "A. ownership of resources",
+			"q1": "B. scarcity of resources",
+			"q2": "C. method of decision making",
+			"q3": "D. motivation for production",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	A disadvantage of the mean as a measure of central tendency is that, it",
+		"opts": {
+			"q0": "A. is affected by extreme values",
+			"q1": "B. can only be used for continuous data",
+			"q2": "C. cannot be used to measure the qualities of a population",
+			"q3": "D. cannot be determined in grouped data",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the following is not an effect of many middlemen in the chain of distribution?",
+		"opts": {
+			"q0": "A. Shortage of commodities",
+			"q1": "B. Low retail prices",
+			"q2": "C. Hoarding of goods",
+			"q3": "D. High retail prices",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	If the price of flour rises then bread’s",
+		"opts": {
+			"q0": "A. demand curve will shift to the left while supply curve will shift to the right.",
+			"q1": "B. supply curve will shift to the left",
+			"q2": "C. supply curve will shift to the right",
+			"q3": "D. demand curve will shift to the right while supply curve remains unchanged",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Which of the following is not a reason for abnormal demand?",
+		"opts": {
+			"q0": "A. Price of the commodity",
+			"q1": "B. Goods of ostentation",
+			"q2": "C. Giffen goods",
+			"q3": "D. Rare commodity",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Increase in production subsidies will shift",
+		"opts": {
+			"q0": "A. the demand curve to the left",
+			"q1": "B. the supply curve to the right",
+			"q2": "C. both the supply and demand curves to the left",
+			"q3": "D. the supply curve to the left and demand curve to the right",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The market supply curve slopes upwards from left to right indicating that",
+		"opts": {
+			"q0": "A. producers pay high taxes",
+			"q1": "B. two commodities can be supplied at the same time",
+			"q2": "C. at a lower price, less is supplied",
+			"q3": "D. at a lower price, .more is supplied and demanded",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Government revenue will increase if taxes are levied on goods, with",
+		"opts": {
+			"q0": "A. perfectly elastic demand",
+			"q1": "B. fairly elastic demand",
+			"q2": "C. perfectly inelastic demand",
+			"q3": "D. unitary elastic demand",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	If a given change in price brings about a proportionately larger change in quantity demanded then",
+		"opts": {
+			"q0": "A. demand is relatively price elastic",
+			"q1": "B. demand is relatively price inelastic",
+			"q2": "C. price elasticity of demand is unitary",
+			"q3": "D. price elasticity of demand is constant",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	If the price of a commodity Z falls and a consumer buys less of it, then commodity Z is a",
+		"opts": {
+			"q0": "A. necessity",
+			"q1": "B. good of ostentation",
+			"q2": "C. Giffen good",
+			"q3": "D. normal good",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	In order to calculate total utility (TU) from given levels of marginal utility (MU), one has to",
+		"opts": {
+			"q0": "A. subtract MU from TU",
+			"q1": "B. add MU from the various levels",
+			"q2": "C. multiply MU by the initial TU",
+			"q3": "D. divide current MU by previous MU",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following will not affect the market price of a commodity?",
+		"opts": {
+			"q0": "A. Increase in demand",
+			"q1": "B. Change in tastes",
+			"q2": "C. Intersection of demand and supply",
+			"q3": "D. Increase in supply",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	All the following are methods of determining prices except",
+		"opts": {
+			"q0": "A. maximum pricing",
+			"q1": "B. rationing",
+			"q2": "C. minimum pricing",
+			"q3": "D. auctioning",
+			"q4": "E. "
+		},
+		"ans": B"",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	The law of diminishing returns relates to",
+		"opts": {
+			"q0": "A. total utility",
+			"q1": "B. average utility",
+			"q2": "C. total product",
+			"q3": "D. marginal product",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	By adding all the marginal products at each level of employment of the variable input, we obtain a value equal to",
+		"opts": {
+			"q0": "A. average product",
+			"q1": "B. total product",
+			"q2": "C. average variable cost",
+			"q3": "D. total cost",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Total cost is obtained by",
+		"opts": {
+			"q0": "A. adding up the marginal cost at each level",
+			"q1": "B. dividing the total cost by output at each level",
+			"q2": "C. adding up the average variable cost at each level",
+			"q3": "D. adding up the average variable cost and total fixed cost",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following cost curves is not U-shaped? The",
+		"opts": {
+			"q0": "A. marginal cost curve",
+			"q1": "B. average fixed cost curve",
+			"q2": "C. average total cost curve",
+			"q3": "D. average variable cost curve",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following business organizations is likely to experience disagreements between management and shareholders?",
+		"opts": {
+			"q0": "A. Co-operative society",
+			"q1": "B. Sole trader",
+			"q2": "C. Partnership",
+			"q3": "D. Joint-stock company.",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following is not a method of controlling monopoly?",
+		"opts": {
+			"q0": "A. Preventing mergers",
+			"q1": "B. Indigenization",
+			"q2": "C. Privatization",
+			"q3": "D. Imposing high profit tax",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following features distinguishes a public limited company from a private limited company",
+		"opts": {
+			"q0": "A. Perpetual existence",
+			"q1": "B. Limited liability",
+			"q2": "C. Legal entity",
+			"q3": "D. Sale of shares to the public'",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Inflation may occur if there is",
+		"opts": {
+			"q0": "A. excess supply over demand",
+			"q1": "B. increase in productivity",
+			"q2": "C. excessive demand with limited supply",
+			"q3": "D. increased government spending in a depressed economy",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Frictional unemployment occurs when",
+		"opts": {
+			"q0": "A. there is a change in the technique of production",
+			"q1": "B. job seekers lack information where jobs exist",
+			"q2": "C. bad weather prevents work from progressing",
+			"q3": "D. job seekers have disabilities",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following will increase the demand for labour?",
+		"opts": {
+			"q0": "A. Increased wage rate",
+			"q1": "B. Labour’s demand for output",
+			"q2": "C. Low wage rate",
+			"q3": "D. Low marginal productivity of labour",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	One reason for low agricultural productivity in most West African countries is that",
+		"opts": {
+			"q0": "A. farmers are not capable of cultivating cash crops",
+			"q1": "B. it does not provide income to farmers with large families",
+			"q2": "C. farmers find it difficult getting help from financial institutions",
+			"q3": "D. it is not the only source of raw materials for agro-based industries",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The movement of labour from one grade to an entirely different grade is an example of",
+		"opts": {
+			"q0": "A. industrial labour mobility",
+			"q1": "B. horizontal occupational mobility",
+			"q2": "C. vertical occupational mobility",
+			"q3": "D. geographical mobility",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Ten bags of wheat bought for $50 by a flour miller were sold for $65. What is the Value Added Tax payable by the flour miller, if the tax rate is 5%? ",
+		"opts": {
+			"q0": "A. $7.50",
+			"q1": "B. $3.25",
+			"q2": "C. $2.25",
+			"q3": "D. $0.75",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following is not a strong basis for trade union’s demand for higher wages? The",
+		"opts": {
+			"q0": "A. company is making higher profit",
+			"q1": "B. productivity of the workers has increased",
+			"q2": "C. members of the union have high qualifications",
+			"q3": "D. commodity produced by the workers is very essential",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The difference between the gross domestic product (GDP) and gross national product (GNP) is",
+		"opts": {
+			"q0": "A. depreciation",
+			"q1": "B. transfer payment",
+			"q2": "C. net income from abroad",
+			"q3": "D. direct taxes",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Location of firms of an industry is not influenced by",
+		"opts": {
+			"q0": "A. availability of raw materials",
+			"q1": "B. existence of other firms",
+			"q2": "C. nearness to the source of money supply",
+			"q3": "D. government policy",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	In national income accounting , the term net is used to indicate that a value",
+		"opts": {
+			"q0": "A. includes income of foreigners",
+			"q1": "B. excludes income of citizens",
+			"q2": "C. includes depreciation",
+			"q3": "D. excludes depreciation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "Which of the following best describes token money?",
+		"opts": {
+			"q0": "A. Money in the vaults of commercial banks",
+			"q1": "B. Currency and coins in circulation",
+			"q2": "C. Money with face value higher than its material content",
+			"q3": "D. Coins and notes made of poor quality materials",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	An industry is best described as",
+		"opts": {
+			"q0": "A. firm that sells a set of closely related commodities",
+			"q1": "B. a factory that produces different lines of products",
+			"q2": "C. a group of firms that sell a closely related set of products",
+			"q3": "D. industrial concern that is into production and selling of goods",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	In developing countries, a larger percentage of the labour force is employed in the",
+		"opts": {
+			"q0": "A. trade sector",
+			"q1": "B. tertiary sector",
+			"q2": "C. primary sector",
+			"q3": "D. secondary sector",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The main item traded on a stock exchange market is",
+		"opts": {
+			"q0": "A. treasury bills",
+			"q1": "B. travellers’cheques",
+			"q2": "C. foreign currencies",
+			"q3": "D. new shares",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The proportion of commercial banks’ total assets kept in the form of highly liquid assets is known as",
+		"opts": {
+			"q0": "A. demand deposit",
+			"q1": "B. fixed deposit",
+			"q2": "C. cash ratio",
+			"q3": "D. moral suasion",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='econs_2015_sectionb_qst39_40.jpg'> Use the information contained in the table above to answer questions 39 and 40. What is the total revenue from indirect taxes?",
+		"opts": {
+			"q0": "A. $686.00 m",
+			"q1": "B. $400.20 m",
+			"q2": "C. $135.80 m",
+			"q3": "D. $100.00 m",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='econs_2015_sectionb_qst39_40.jpg'> Use the information contained in the table above to answer questions 39 and 40. What is the total revenue from non-tax sources?",
+		"opts": {
+			"q0": "A. $400.20 m",
+			"q1": "B. $375.20 m",
+			"q2": "C. $135.80 m ",
+			"q3": "D. $75.00 m",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following is not an objective of economic planning is?",
+		"opts": {
+			"q0": "A. Need to direct economic development of the country towards the desired direction",
+			"q1": "B. Desire to ensure a sustained structural development of the country",
+			"q2": "C. Desire to widen the gap between developing countries and the developed world",
+			"q3": "D. Management of scarce resources in the face of unlimited wants of the citizens",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	In order to control inflation, the government should",
+		"opts": {
+			"q0": "A. reduce the cost of borrowing",
+			"q1": "B. buy securities in the open market",
+			"q2": "C. adopt restrictive monetary policy",
+			"q3": "D. discourage savings",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	When the demand for foreign exchange exceeds its supply, the value of the domestic currency",
+		"opts": {
+			"q0": "A. appreciates",
+			"q1": "B. depreciates",
+			"q2": "C. remains unchanged",
+			"q3": "D. expands",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The exports of West African countries are mainly composed of",
+		"opts": {
+			"q0": "A. services",
+			"q1": "B. raw materials",
+			"q2": "C. manufactured goods",
+			"q3": "D. consumer goods",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	A conscious effort of government to achieve a specific set of goals is",
+		"opts": {
+			"q0": "A. economic planning",
+			"q1": "B. economic development",
+			"q2": "C. economic growth",
+			"q3": "D. economic target",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	A country has favourable terms of trade when the prices of her",
+		"opts": {
+			"q0": "A. exports rise relative to the prices of imports",
+			"q1": "B. exports fall relative to the prices of imports",
+			"q2": "C. imports rise faster than the prices of exports.",
+			"q3": "D. imports and exports move in the same direction",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The abolition of all forms of trade barriers among member countries while maintaining common external tariffs against non-members is a feature of a",
+		"opts": {
+			"q0": "A. free trade",
+			"q1": "B. customs union",
+			"q2": "C. common market",
+			"q3": "D. economic union",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	In order to correct adverse balance of payments problem, government should",
+		"opts": {
+			"q0": "A. reduce tariffs",
+			"q1": "B. increase subsidies on exports",
+			"q2": "C. increase tax on local industries",
+			"q3": "D. reduce personal income tax",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following is a benefit to a member country of the World Bank?",
+		"opts": {
+			"q0": "A. Easy access to long term loans",
+			"q1": "B. Management of foreign exchange",
+			"q2": "C. Mediating in labour disputes",
+			"q3": "D. Financing balance of payments deficit",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following is an objective of OPEC? To",
+		"opts": {
+			"q0": "A. prevent fluctuation in prices of all commodities",
+			"q1": "B. protect the economic interest of all countries",
+			"q2": "C. control the level of output of oil",
+			"q3": "D. discover oil in all countries",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

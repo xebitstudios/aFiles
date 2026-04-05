@@ -1,0 +1,483 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The study of Economics enables the individual to",
+		"opts": {
+			"q0": "A. be misserly in the spending of his money",
+			"q1": "B. satisfaction from the money he spends",
+			"q2": "C. determine the right market to visit",
+			"q3": "D. avoid the purchase of luxurious items",
+			"q4": "E. derive solutions to all problems"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	One way of solving the problem of scaricity that faces individuals is for",
+		"opts": {
+			"q0": "A. the government to import goods massively so that the citizens can get all they want",
+			"q1": "B. them to work very hard so that they are able To buy all their wants",
+			"q2": "C. them to choose between alternatives since they cannot meet all their wants",
+			"q3": "D. the government to study people’s behaviour in order to know their wants",
+			"q4": "E. them to use their resources as they want"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='eco_1998_sectionb_qst3_4.jpg'> Use the table below to answer questions 3 and 4. In the distribution above, the mode is",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 3",
+			"q2": "C. 4",
+			"q3": "D. 5",
+			"q4": "E. 6"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='eco_1998_sectionb_qst3_4.jpg'> Use the table below to answer questions 3 and 4. The median is",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 3",
+			"q2": "C. 4",
+			"q3": "D. 5",
+			"q4": "E. 6"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	At what price will a trader be ready to sell 6 oranges using the equation below: p= <sup>1</sup>&frasl;<sub>2</sub>q + 2. Where p is price and q is quantity?",
+		"opts": {
+			"q0": "A. N3.00",
+			"q1": "B. N4.00",
+			"q2": "C. N5.00",
+			"q3": "D. N6.00",
+			"q4": "E. N8.00"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	If the last Naira spent on each commodity by a consumer gave him equal satisfaction, it means the consumer has been able to",
+		"opts": {
+			"q0": "A. cut cost",
+			"q1": "B. maximize costs",
+			"q2": "C. increase profits",
+			"q3": "D. maximize utility",
+			"q4": "E. manage scarce resources"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Which of the following will shift the demand curve for Milo to the right?",
+		"opts": {
+			"q0": "A. an increase in consumer’s income",
+			"q1": "B. a rise in the price of Milo",
+			"q2": "C. a tax on cocoa producers",
+			"q3": "D. a fall in the quantity demanded of Milo",
+			"q4": "E. a fall in the price of Milo"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	An exceptional demand is one in which the",
+		"opts": {
+			"q0": "A. supplier sells all that he takes to the market",
+			"q1": "B. consumers do not buy from the market",
+			"q2": "C. quantity demanded falls as price falls",
+			"q3": "D. purchase of services and not products is considered",
+			"q4": "E. quantity demanded and price move in opposite directions"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The equilibrium price of mangoes is N1.00. If the price falls to 50k, there will be",
+		"opts": {
+			"q0": "A. an excess demand",
+			"q1": "B. an excess supply",
+			"q2": "C. a surplus in the market",
+			"q3": "D. many sellers in the market",
+			"q4": "E. no seller in the market"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The introduction of division of labour in a firm will lead to",
+		"opts": {
+			"q0": "A. a fall in output",
+			"q1": "B. a decline in the efficiency of labour",
+			"q2": "C. an increase output",
+			"q3": "D. the separation of ownership from management",
+			"q4": "E. an increase in unit cost"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Total cost is the addition of",
+		"opts": {
+			"q0": "A. real cost and money cost",
+			"q1": "B. price and taxes",
+			"q2": "C. fixed cost and variable cost",
+			"q3": "D. average cost and marginal cost",
+			"q4": "E. cost of raw materials and wages"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	External economies refers to the",
+		"opts": {
+			"q0": "A. cost-saving advantages a firm enjoys by being close to other firms in the same industry",
+			"q1": "B. disadvantages to a firm that is close to other firms",
+			"q2": "C. economies of large scale production",
+			"q3": "D. ",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	To the economist, efficiency of resource use means",
+		"opts": {
+			"q0": "A. the maximum use of resources to achieve minimum objective",
+			"q1": "B. the reduction of cost for adequate output",
+			"q2": "C. relating value of input to that of output",
+			"q3": "D. using appropriate resources for desired wants",
+			"q4": "E. maximizing output from a given amount of resources"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	The shape of the average cost (AC) curve shows that as production increases",
+		"opts": {
+			"q0": "A. total cost decreases",
+			"q1": "B. average cost decreases and then increases",
+			"q2": "C. average cost increases",
+			"q3": "D. marginal cost steadily increases",
+			"q4": "E. total cost remains constant"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	One of the advantages of localization of industry is that firms",
+		"opts": {
+			"q0": "A. make abnormal profits",
+			"q1": "B. are given tax holidays",
+			"q2": "C. are unified under one management",
+			"q3": "D. pay high wages",
+			"q4": "E. can have a large pool of skilled labour"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the following is not a type of industry",
+		"opts": {
+			"q0": "A. Export",
+			"q1": "B. Construction",
+			"q2": "C. Mining",
+			"q3": "D. Manufacturing",
+			"q4": "E. Transport"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	In a Joint-Stock Company shareholders are the",
+		"opts": {
+			"q0": "A. owners",
+			"q1": "B. managers",
+			"q2": "C. chief executives",
+			"q3": "D. company advisers",
+			"q4": "E. day-to-day decision makers"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The distribution of goods by the price system is distorted when",
+		"opts": {
+			"q0": "A. there is a high degree of competition among producers",
+			"q1": "B. producers and consumers operate freely",
+			"q2": "C. factors of production are mobile",
+			"q3": "D. no allowance is made for social costs and social benefits",
+			"q4": "E. there is price control measure in the system"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	An appropriate industrialization strategy in an under-populated country is",
+		"opts": {
+			"q0": "A. import substitution",
+			"q1": "B. capital intensive",
+			"q2": "C. the contract method",
+			"q3": "D. the use of foreigners in factories",
+			"q4": "E. labour intensive"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The power of trade unions may be weakened when there is",
+		"opts": {
+			"q0": "A. optimum population",
+			"q1": "B. a weak government in power",
+			"q2": "C. over-population",
+			"q3": "D. a civilian government in power",
+			"q4": "E. under-population"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Malthus’ major contention is that",
+		"opts": {
+			"q0": "A. population increased in arithmetic progression while food production increased in geometric progression",
+			"q1": "B. population increased in geometric progression while food production increased in arithmetic progression",
+			"q2": "C. population and food growth rate will, in future, be at par",
+			"q3": "D. nations have to get enough manpower to cultivate available land for food",
+			"q4": "E. output from agriculture decreased as more and more of the poorer lands were brought into cultivation"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The problem of small markets in West Africa can be solved through",
+		"opts": {
+			"q0": "A. separate planning among the West African countries",
+			"q1": "B. meaningful co-operation among the West African countries",
+			"q2": "C. political stability in West Africa",
+			"q3": "D. imposition of high tariffs on West African exports",
+			"q4": "E. the central banks of West African countries"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	An imperfect competitor is in equilibrium when",
+		"opts": {
+			"q0": "A. Marginal Cost (MC) is equal to Marginal Revenue (MR)",
+			"q1": "B. Marginal Revenue (MR) is equal to Price (P)",
+			"q2": "C. Average Revenue (AR) is equal to Average Cost (AC)",
+			"q3": "D. Output (Q) is equal to Average Revenue (AR)",
+			"q4": "E. Average Revenue (AR) is equal to Marginal Revenue (MR)"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Which of the following is used to measure inflation?",
+		"opts": {
+			"q0": "A. Open market operation",
+			"q1": "B. Cash-Deposit ratio",
+			"q2": "C. Price index",
+			"q3": "D. Multiplier",
+			"q4": "E. Fiscal policy"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	If a government which owed a company N10,000 in 1976 paid the debt fully in 1985 when the value of money had depreciated by 20 percent, such a government had",
+		"opts": {
+			"q0": "A. lost",
+			"q1": "B. been placed at par with the company",
+			"q2": "C. gained",
+			"q3": "D. stabilized the value of the money",
+			"q4": "E. increased the value of the money"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Banks create money by",
+		"opts": {
+			"q0": "A. giving drafts to customers",
+			"q1": "B. printing more money",
+			"q2": "C. lending out deposits to borrowers",
+			"q3": "D. issuing cheques",
+			"q4": "E. depositing excess cash in the tills"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The West African Clearing House was established to",
+		"opts": {
+			"q0": "A. finance development projects in Africa",
+			"q1": "B. enhance financial transaction among member countries",
+			"q2": "C. provide technical assistance to member countries",
+			"q3": "D. stabilize price in developing countries",
+			"q4": "E. service the debts of the Africa countries"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following is a factor affecting the size of national income?",
+		"opts": {
+			"q0": "A. size of the active population",
+			"q1": "B. Taste of the consumers",
+			"q2": "C. Number of registered trade unions",
+			"q3": "D. Credit-worthiness of the neighbouring countries",
+			"q4": "E. Regularity of payment of national debt"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The expenditure of a firm on goods and services for the expansion of its productive capacity is known as",
+		"opts": {
+			"q0": "A. income",
+			"q1": "B. investment",
+			"q2": "C. savings",
+			"q3": "D. profits",
+			"q4": "E. interest"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	An increase in marginal propensity to save will lead to",
+		"opts": {
+			"q0": "A. an increase in marginal propensity to consume",
+			"q1": "B. a decrease in the level of consumption",
+			"q2": "C. an immediate decrease in the net national income",
+			"q3": "D. an increase in the level of consumption",
+			"q4": "E. a decrease in the level of savings"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Progressive system of taxation implies that the",
+		"opts": {
+			"q0": "A. poor pay relatively more",
+			"q1": "B. tax rate falls as the tax base increases",
+			"q2": "C. tax rate increases as the tax base increases",
+			"q3": "D. average and marginal rate of tax will be the same",
+			"q4": "E. rich and the poor pay the same amount as tax"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Development plans in Nigeria have deviated from their targets due to",
+		"opts": {
+			"q0": "A. lack of manpower",
+			"q1": "B. political instability",
+			"q2": "C. high population growth rate",
+			"q3": "D. brain drain in the country",
+			"q4": "E. inadequate land"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The level economic development is low in Nigeria because",
+		"opts": {
+			"q0": "A. planning has no practical relevance",
+			"q1": "B. of the pattern of consumers’ spending",
+			"q2": "C. the country is too large",
+			"q3": "D. of ineffective plan implementation",
+			"q4": "E. there is no unique planning model"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	The stability of the Nigerian economy depends mainly on the export price of",
+		"opts": {
+			"q0": "A. groundnut",
+			"q1": "B. cotton",
+			"q2": "C. cocoa",
+			"q3": "D. mineral oil",
+			"q4": "E. palm kernel"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Which of the following countries is a major trading partner of Nigeria?",
+		"opts": {
+			"q0": "A. Britain",
+			"q1": "B. Canada",
+			"q2": "C. Japan",
+			"q3": "D. Germany",
+			"q4": "E. China"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The instruments used in many countries to restrict imports include",
+		"opts": {
+			"q0": "A. high tariffs",
+			"q1": "B. price index",
+			"q2": "C. excise duties",
+			"q3": "D. bank rate",
+			"q4": "E. subsidies"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	One of the major objectives of the African Development Bank (ADB) is the mobilization of",
+		"opts": {
+			"q0": "A. blacks in developed countries to assist Africa",
+			"q1": "B. qualified manpower for member states",
+			"q2": "C. foreigners to assist Africa",
+			"q3": "D. women for economic development",
+			"q4": "E. Africans towards economic progress"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Which of the following constitutes the largest exports of the developing countries to the developed ones?",
+		"opts": {
+			"q0": "A. Raw materials",
+			"q1": "B. Finished consumer goods",
+			"q2": "C. Labour services",
+			"q3": "D. Arms and ammunition",
+			"q4": "E. Automobiles"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The economic system in which the decisions about what to produce, how to produce and for whom to produce are made by private firms is called",
+		"opts": {
+			"q0": "A. socialism",
+			"q1": "B. welfarism",
+			"q2": "C. communism",
+			"q3": "D. capitalism",
+			"q4": "E. traditionalism"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	A major setback in any mixed economy is",
+		"opts": {
+			"q0": "A. that is combines both the capitalist and socialist systems",
+			"q1": "B. the freedom of choice in the production and consumption of goods and services",
+			"q2": "C. that government intervenes to secure full utilization of resources",
+			"q3": "D. that economic decisions are determined by market forces",
+			"q4": "E. that the absence of profit motive in the public sector may reduce incentive for hard work"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+};
