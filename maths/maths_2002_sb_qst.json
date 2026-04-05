@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='maths_2002_sectionb_qst1.jpg'> In the diagram, <PQU = 36&deg;, <QRT = 29&deg;, PQ||RS and UQ||RT. Find <PQR.",
+		"opts": {
+			"q0": "A. 94&deg;",
+			"q1": "B. 65&deg;",
+			"q2": "C. 61&deg;",
+			"q3": "D. 54&deg;",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Simplify 5<sup>1</sup>&frasl;<sub>4</sub> &div; (1<sup>2</sup>&frasl;<sub>3</sub> - <sup>1</sup>&frasl;<sub>2</sub>)",
+		"opts": {
+			"q0": "A. 1<sup>3</sup>&frasl;<sub>4</sub>",
+			"q1": "B. 3<sup>1</sup>&frasl;<sub>2</sub>",
+			"q2": "C. 4<sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. 8<sup>1</sup>&frasl;<sub>2</sub>",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The variance of a given distribution is 25. What is the standard deviation?",
+		"opts": {
+			"q0": "A. 125",
+			"q1": "B. 75",
+			"q2": "C. 25",
+			"q3": "D. 5",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Given that P = {b, d, e, f} and Q = {a, c, f, g} are subsets of the universal set U = {a, b, c, d, e, f, g}. Find P' &cap; Q.",
+		"opts": {
+			"q0": "A. {a, c}",
+			"q1": "B. {a, c, d, g}",
+			"q2": "C. {c, d, g}",
+			"q3": "D. {a, c, g}",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Find the value of x in 0.5x + 2.6 = 5x + 0.35",
+		"opts": {
+			"q0": "A. 0.5",
+			"q1": "B. 2",
+			"q2": "C. 2.6",
+			"q3": "D. 5",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='maths_2002_sectionb_qst6.jpg'> Find the value of x in the diagram",
+		"opts": {
+			"q0": "A. 31&deg;",
+			"q1": "B. 35&deg;",
+			"q2": "C. 37&deg;",
+			"q3": "D. 41&deg;",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	If M5<sub>ten</sub> =1001011<sub>two</sub>, find the value of M.",
+		"opts": {
+			"q0": "A. 5",
+			"q1": "B. 6",
+			"q2": "C. 7",
+			"q3": "D. 8",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='maths_2002_sectionb_qst8_10.jpg'> The diagram is the graph of y = 6 + x - x<sup>2</sup>. The graph intercepts the x-axis at P and R and the y-axis at Q. Use the information to answer Questions 8 to 10. What is the value of y at Q?",
+		"opts": {
+			"q0": "A. 6<sup>1</sup>&frasl;<sub>3</sub>",
+			"q1": "B. 6",
+			"q2": "C. 3",
+			"q3": "D. 0",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='maths_2002_sectionb_qst8_10.jpg'> The diagram is the graph of y = 6 + x - x<sup>2</sup>. The graph intercepts the x-axis at P and R and the y-axis at Q. Use the information to answer Questions 8 to 10. What is the length of RP?",
+		"opts": {
+			"q0": "A. 6",
+			"q1": "B. 5",
+			"q2": "C. 3",
+			"q3": "D. 2",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='maths_2002_sectionb_qst8_10.jpg'> The diagram is the graph of y = 6 + x - x<sup>2</sup>. The graph intercepts the x-axis at P and R and the y-axis at Q. Use the information to answer Questions 8 to 10. When y = 3 - 1, what is the positive value of x?",
+		"opts": {
+			"q0": "A. 2<sup>1</sup>&frasl;<sub>2</sub>",
+			"q1": "B. 2<sup>1</sup>&frasl;<sub>5</sub>",
+			"q2": "C. 1<sup>1</sup>&frasl;<sub>5</sub>",
+			"q3": "D. 0",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The lengths, in cm, of the sides of a right-angled triangle are x, (x + 2) and (x + 1) where x > 0. Find, in cm, the length of its hypotenuse.",
+		"opts": {
+			"q0": "A. 4",
+			"q1": "B. 5",
+			"q2": "C. 13",
+			"q3": "D. 17",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	If log 2 = 0.3010 and log2<sup>y</sup> = 1.8062, find, correct to the nearest whole number, the value of y",
+		"opts": {
+			"q0": "A. 6",
+			"q1": "B. 5",
+			"q2": "C. 4",
+			"q3": "D. -5",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Points X, Y and Z are located in the same horizontal plane such that Y is 12 km north of X and Z is on a bearing of 270&deg; from X. If |XZ| = 6km, calculate, correct to one decimal place, |YZ|",
+		"opts": {
+			"q0": "A. 18km",
+			"q1": "B. 13.4km",
+			"q2": "C. 13km",
+			"q3": "D. 10.4km",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	The ratio of the number of men to the number of women in a 20-member committee is 3:1. How many women must be added to the 20-member committee so as to make the ratio of men to women 3:2?",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 5",
+			"q2": "C. 7",
+			"q3": "D. 9",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	If (x + 3) varies directly as y and x = 3 when y = 12, what is the value of x when y = 8?",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q2": "C. -<sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. -1",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	<img src='maths_2002_sectionb_qst16.jpg'> From the diagram, find the bearing of Q from P.",
+		"opts": {
+			"q0": "A. 236&deg;",
+			"q1": "B. 214&deg;",
+			"q2": "C. 146&deg;",
+			"q3": "D. 124&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Find the nth term of the sequence 4, 10, 16, ...",
+		"opts": {
+			"q0": "A. 2(3n - 1)",
+			"q1": "B. 2(2 + 3<sup>n-1</sup>)",
+			"q2": "C. 2<sup>n</sup> + 2",
+			"q3": "D. 2(3n + 2)",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	If (-3, -4) is a point on the line y = mx + 2, find the value of m.",
+		"opts": {
+			"q0": "A. -2",
+			"q1": "B. <sup>7</sup>&frasl;<sub>4</sub>",
+			"q2": "C. 2",
+			"q3": "D. <sup>8</sup>&frasl;<sub>3</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='maths_2002_sectionb_qst19.jpg'> Which of the following is represented by the above sketch?",
+		"opts": {
+			"q0": "A. y = x<sup>2</sup> + x - 6 ",
+			"q1": "B. y = x<sup>2</sup> - x - 6",
+			"q2": "C. y = x<sup>2</sup> - x + 6",
+			"q3": "D. y = x<sup>2</sup> + x + 6",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	<img src='maths_2002_sectionb_qst20.jpg'> In the diagram, SQ is a tangent to the circle at P, XP||YQ, <XPY = 56&deg; and <PXY = 80&deg;. Find angle PQY",
+		"opts": {
+			"q0": "A. 24&deg;",
+			"q1": "B. 36&deg;",
+			"q2": "C. 44&deg;",
+			"q3": "D. 46&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	For what values of x is the expression <sup>3x - 2</sup>&frasl;<sub>4x<sup>2</sup> + 9x - 9</sub> undefined?",
+		"opts": {
+			"q0": "A. -<sup>3</sup>&frasl;<sub>4</sub> or 3",
+			"q1": "B. -<sup>2</sup>&frasl;<sub>3</sub> or -3",
+			"q2": "C. <sup>2</sup>&frasl;<sub>3</sub> or 3",
+			"q3": "D. <sup>3</sup>&frasl;<sub>4</sub> or -3",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Simplify <sup>1</sup>&frasl;<sub>1 - x</sub> + <sup>2</sup>&frasl;<sub>1 + x</sub>",
+		"opts": {
+			"q0": "A. <sup>x + 3</sup>&frasl;<sub>1 - x<sup>2</sup></sub>",
+			"q1": "B. <sup>x - 3</sup>&frasl;<sub>1 + x<sup>2</sup></sub>",
+			"q2": "C. <sup>3 - x</sup>&frasl;<sub>1 - x<sup>2</sup></sub>",
+			"q3": "D. <sup>3 - x</sup>&frasl;<sub>1 + x<sup>2</sup></sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The lengths of their parallel sides of a trapezium are 9 cm and 12 cm. If the area of the trapezium is 105 cm<sup>2</sup>, find the perpendicular distance between the parallel sides.",
+		"opts": {
+			"q0": "A. 5cm",
+			"q1": "B. 7cm",
+			"q2": "C. 10cm",
+			"q3": "D. 15cm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	<img src='maths_2002_sectionb_qst24_26.jpg'> The graph is a cumulative frequency curve. Use it to answer questions 24 - 26. The median of the distribution is",
+		"opts": {
+			"q0": "A. 25",
+			"q1": "B. 17.5",
+			"q2": "C. 15",
+			"q3": "D. 12.5",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	<img src='maths_2002_sectionb_qst24_26.jpg'> The graph is a cumulative frequency curve. Use it to answer questions 24 - 26. The range of the distribution is",
+		"opts": {
+			"q0": "A. 50",
+			"q1": "B. 30",
+			"q2": "C. 25",
+			"q3": "D. 15",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	<img src='maths_2002_sectionb_qst24_26.jpg'> The graph is a cumulative frequency curve. Use it to answer questions 24 - 26. The upper quartile of the distribution is",
+		"opts": {
+			"q0": "A. 30",
+			"q1": "B. 27.5",
+			"q2": "C. 25",
+			"q3": "D. 17.75",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The base diameter of a cone is 14cm, and its volume is 462 cm<sup>3</sup>. Find its height. [Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>]",
+		"opts": {
+			"q0": "A. 3.5cm",
+			"q1": "B. 5cm",
+			"q2": "C. 7cm",
+			"q3": "D. 9cm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	A number is selected at random from the set Y = {18, 19, 20,...28, 29}. Find the probability that the number is prime",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>4</sub>",
+			"q1": "B. <sup>3</sup>&frasl;<sub>11</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. <sup>3</sup>&frasl;<sub>4</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	<img src='maths_2002_sectionb_qst29.jpg'> In the diagram O and O' are the centres of the circles radii 15cm and 8cm respectively. If PQ = 12cm, find |00'|.",
+		"opts": {
+			"q0": "A. 8.46cm",
+			"q1": "B. 19.04cm",
+			"q2": "C. 20.81cm",
+			"q3": "D. 26.16cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	<img src='maths_2002_sectionb_qst30.jpg'> In the diagram, O is the centre of the circle. Which of the following is/are not true? I. a = b II. b + c = 180&deg; III. a + b = c",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. II and III only",
+			"q2": "C. II only",
+			"q3": "D. III only",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Simplify <img src='maths_2002_sectionb_qst31.jpg'>",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 2",
+			"q2": "C. 4",
+			"q3": "D. 16",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	<img src='maths_2002_sectionb_qst31.jpg'> In the diagram, |SR|= |RQ| and <PRQ = 58&deg;, <VQT = 19&deg;. PQT, SQV and PSR are straight lines. Find <QPS.",
+		"opts": {
+			"q0": "A. 42&deg;",
+			"q1": "B. 39&deg;",
+			"q2": "C. 38&deg;",
+			"q3": "D. 30&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The angle of depression of a point Q from a vertical tower PR, 30m high, is 40&deg;. If the foot P of the tower is on the same horizontal level as Q, find, correct to 2 decimal places, |PQ|.",
+		"opts": {
+			"q0": "A. 35.75m",
+			"q1": "B. 25.00m",
+			"q2": "C. 22.98m",
+			"q3": "D. 19.28m",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	The volume of a cylinder of radius 14cm is 210cm<sup>3</sup>. What is the curved surface area of the cylinder?",
+		"opts": {
+			"q0": "A. 15cm<sup>2</sup>",
+			"q1": "B. 30cm<sup>2</sup>",
+			"q2": "C. 616cm<sup>2</sup>",
+			"q3": "D. 1262cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Simplify 3&radic;12 + 10&radic;3 - <sup>6</sup>&frasl;<sub>&radic;3</sub>",
+		"opts": {
+			"q0": "A. 7&radic;3",
+			"q1": "B. 10&radic;3",
+			"q2": "C. 14&radic;3",
+			"q3": "D. 18&radic;3",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Factorize m(2a - b) - 2n(b - 2a).",
+		"opts": {
+			"q0": "A. (2a - b) (2n - m)",
+			"q1": "B. (2a + b) (m - 2n)",
+			"q2": "C. (2a - b) (m + 2n)",
+			"q3": "D. (2a - b) (m - 2n)",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	If q oranges are sold for t Naira, how many oranges can be bought for p Naira?",
+		"opts": {
+			"q0": "A. <sup>p</sup>&frasl;<sub>2</sub>t",
+			"q1": "B. <sup>qt</sup>&frasl;<sub>p</sub>",
+			"q2": "C. <sup>q</sup>&frasl;<sub>pt</sub>",
+			"q3": "D. <sup>pq</sup>&frasl;<sub>t</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='maths_2002_sectionb_qst38.jpg'> In the diagram, QRT is a straight line. If angle PTR = 90&deg;, angle PRT = 60&deg;, angle PQR = 30&deg; and |PQ| = 6&radic;3 cm, calculate |RT|",
+		"opts": {
+			"q0": "A. 0.3cm",
+			"q1": "B. <sup>&radic;3</sup>&frasl;<sub>2</sub>cm",
+			"q2": "C. 3cm",
+			"q3": "D. 3&radic;3cm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='maths_2002_sectionb_qst39.jpg'> In the diagram, calculate the value of x",
+		"opts": {
+			"q0": "A. 35&deg;",
+			"q1": "B. 80&deg;",
+			"q2": "C. 100&deg;",
+			"q3": "D. 115&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='maths_2002_sectionb_qst40.jpg'> In the diagram, PS and QT are two altitudes of &#8710;PQR. Which of the following is equal to <RQT?",
+		"opts": {
+			"q0": "A. <PQT",
+			"q1": "B. <SRP",
+			"q2": "C. <PQR",
+			"q3": "D. <SPR",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='maths_2002_sectionb_qst41.jpg'> In the diagram, |QR| = 10cm, PR|QS, angle PSR = 30&deg; and angle PQR= 45&deg;. Calculate in metres, |QS|.",
+		"opts": {
+			"q0": "A. 10(1 + &radic;3)",
+			"q1": "B. 20&radic;3",
+			"q2": "C. 10&radic;3",
+			"q3": "D. (10 + &radic;3)",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Calculate, correct to two significant figures, the percentage error in approximating 0.375 to 0.4.",
+		"opts": {
+			"q0": "A. 2.0",
+			"q1": "B. 2.5",
+			"q2": "C. 6.6",
+			"q3": "D. 6.7",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	To arrive on schedule, a train is to cover a distance of 60km at 72km/hr. If it starts 10 minutes late, at what speed must it move to arrive on schedule?",
+		"opts": {
+			"q0": "A. 60km/hr",
+			"q1": "B. 80km/hr",
+			"q2": "C. 90km/hr",
+			"q3": "D. 108km/hr",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	<img src='maths_2002_sectionb_qst44.jpg'> In the diagram, QR||TP and WPT = 88&deg;. Find the value of x",
+		"opts": {
+			"q0": "A. 92&deg;",
+			"q1": "B. 68&deg;",
+			"q2": "C. 67&deg;",
+			"q3": "D. 23&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	<img src='maths_2002_sectionb_qst45.jpg'> In the diagram, O is the centre of the circle, <SOR = 64&deg; and <PSO = 36&deg;. Calculate <PQR",
+		"opts": {
+			"q0": "A. 100&deg;",
+			"q1": "B. 96&deg;",
+			"q2": "C. 94&deg;",
+			"q3": "D. 86&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	<img src='maths_2002_sectionb_qst46.jpg'> Which of the following represents the solution to the inequality above?",
+		"opts": {
+			"q0": "A. <img src='maths_2002_sectionb_qst46_1.jpg'>",
+			"q1": "B. <img src='maths_2002_sectionb_qst46_2.jpg'>",
+			"q2": "C. <img src='maths_2002_sectionb_qst46_3.jpg'>",
+			"q3": "D. <img src='maths_2002_sectionb_qst46_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	47.	Given that p = x - <sup>1</sup>&frasl;<sub>x</sub> and q = x<sup>2</sup> + <sup>1</sup>&frasl;<sub>x<sup>2</sup></sub>, express q in terms of p",
+		"opts": {
+			"q0": "A. (p<sup>2</sup> + 2)",
+			"q1": "B. (p - 2)<sup>2</sup>",
+			"q2": "C. (p + 2)<sup>2</sup>",
+			"q3": "D. (p<sup>2</sup> - 2)",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The number of goals scored by a school team in 10 netball matches are as follows: 3, 5, 7, 7, 8, 8, 8, 11, 11, 12. Find the probability that in a match, the school team will score at most 8 goals.",
+		"opts": {
+			"q0": "A. <sup>7</sup>&frasl;<sub>10</sub>",
+			"q1": "B. <sup>2</sup>&frasl;<sub>5</sub>",
+			"q2": "C. <sup>3</sup>&frasl;<sub>5</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>5</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following is not a rational number?",
+		"opts": {
+			"q0": "A. -5",
+			"q1": "B. &radic;4",
+			"q2": "C. 3<sup>3</sup>&frasl;<sub>4</sub>",
+			"q3": "D. &radic;90",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	<img src='maths_2002_sectionb_qst50.jpg'> In the diagram, LMT is a straight line. If O is the centre of circle LMN, OMN = 20&deg;, LTN = 32&deg; and |NM| = |MT|, find LNM.",
+		"opts": {
+			"q0": "A. 44&deg;",
+			"q1": "B. 46&deg;",
+			"q2": "C. 52&deg;",
+			"q3": "D. 70&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

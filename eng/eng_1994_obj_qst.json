@@ -1,0 +1,1233 @@
+﻿[
+	{
+		"headd": "Objective Test Questions: Answer all the questions",	
+		"S1": [
+			{
+				"headd": "Instruction: Choose the word opposite in meaning to the underlined word"
+			},
+			{
+				"qs": "1.	**Polygamy** is very common in Africa, were as the only acceptable form of marriage in Europe is .........................",
+				"opts": {
+					"q0": "A. bigamy",
+					"q1": "B. celibacy",
+					"q2": "C. polyandry",
+					"q3": "D. ordination",
+					"q4": "E. monogamy"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "2.	The principal wants us to ................... the moltion, so don’t **oppose** it",
+				"opts": {
+					"q0": "A. sustain",
+					"q1": "B. support",
+					"q2": "C. defame",
+					"q3": "D. applaud",
+					"q4": "E. deride"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "3.	He **denied** that he ever ................ commiting the offence in his earlier statement",
+				"opts": {
+					"q0": "A. admitted",
+					"q1": "B. argued",
+					"q2": "C. emphasized",
+					"q3": "D. negated",
+					"q4": "E. colluded"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "4.	The **brevity** of the Guest-of-honour’s address contrasts with the ..................... of the Chairman’s opening remarks",
+				"opts": {
+					"q0": "A. intensity",
+					"q1": "B. propensity",
+					"q2": "C. solidity",
+					"q3": "D. affinity",
+					"q4": "E. verbosity"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "5.	The long trek **exhausted** him so he needed to rest to ........... himself",
+				"opts": {
+					"q0": "A. repose",
+					"q1": "B. remake",
+					"q2": "C. recuperate",
+					"q3": "D. replace",
+					"q4": "E. rejuvenate"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "6.	The motorists said the splashing of the waters was ................. not **deliberate**",
+				"opts": {
+					"q0": "A. incidental",
+					"q1": "B. intentional",
+					"q2": "C. accidental",
+					"q3": "D. avoidable",
+					"q4": "E. unnecessary"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "7.	One of the aims of the structural adjustment policy is to make us .................. rather than **consumers**",
+				"opts": {
+					"q0": "A. parasites",
+					"q1": "B. developers",
+					"q2": "C. designers",
+					"q3": "D. producers",
+					"q4": "E. founders"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "8.	The **computerized** services of the new bank contrast with the ................... operations of the old ones",
+				"opts": {
+					"q0": "A. mechanical",
+					"q1": "B. electrical",
+					"q2": "C. aerial",
+					"q3": "D. condensed",
+					"q4": "E. manual"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "9.	Tunde says he always looks **sober** because there is nothing to be ............... about",
+				"opts": {
+					"q0": "A. serious",
+					"q1": "B. excited",
+					"q2": "C. happy",
+					"q3": "D. witty",
+					"q4": "E. worried"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "10.	I felt as if I was in an **oven** throughout my stay in the Sahara, while our room here in Jos is like a .....................",
+				"opts": {
+					"q0": "A. freezer",
+					"q1": "B. chimney",
+					"q2": "C. ventilator",
+					"q3": "D. furnace",
+					"q4": "E. delta"
+				},
+				"ans": "A",
+				"sel": ""
+			}
+		],
+		"S2": [
+			{
+				"headd": "From the words lettered A to E. Choose the word or group of words, that best completes each of the following sentences"
+			},
+			{
+				"qs": "11.	The prices of cars have become .......................",
+				"opts": {
+					"q0": "A. painful",
+					"q1": "B. unbearable",
+					"q2": "C. stringent",
+					"q3": "D. harsh",
+					"q4": "E. exorbitant"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "12.	 I had .................... trust in the boy before he woefully disappointed me",
+				"opts": {
+					"q0": "A. essential",
+					"q1": "B. flagrant",
+					"q2": "C. absolute",
+					"q3": "D. effective",
+					"q4": "E. fruitful"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "13.	We need to .................. our resources in these hard times",
+				"opts": {
+					"q0": "A. squander",
+					"q1": "B. economize",
+					"q2": "C. minimize",
+					"q3": "D. retrench",
+					"q4": "E. withhold"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "14.	Ngozi's soothing remarks were made to .................. Femi’s anger",
+				"opts": {
+					"q0": "A. rekindle",
+					"q1": "B. incense",
+					"q2": "C. accommodate",
+					"q3": "D. mollify",
+					"q4": "E. petrify"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "15.	The poor boy was ................... when he stepped on live wire",
+				"opts": {
+					"q0": "A. blazed",
+					"q1": "B. electrified",
+					"q2": "C. radiated",
+					"q3": "D. burnt",
+					"q4": "E. electrocuted"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "16.	The politician ran to another country to seek .....................",
+				"opts": {
+					"q0": "A. refuge",
+					"q1": "B. safeguard",
+					"q2": "C. retreat",
+					"q3": "D. safety",
+					"q4": "E. privacy"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "17.	The governor ordered that the work done by any contractor should be properly .................. so as to know the correct amount to pay",
+				"opts": {
+					"q0": "A. processed",
+					"q1": "B. investigated",
+					"q2": "C. accounted",
+					"q3": "D. probed",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "18.	The University awarded ..................... doctorate degrees to four distinguished members of the community",
+				"opts": {
+					"q0": "A. honourable",
+					"q1": "B. expensive",
+					"q2": "C. ceremonious",
+					"q3": "D. ceremonial",
+					"q4": "E. honorary"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "19.	The students threatened to embark on a ................ of lectures if their demands were not met",
+				"opts": {
+					"q0": "A. condonation",
+					"q1": "B. suspension",
+					"q2": "C. rejection",
+					"q3": "D. strike",
+					"q4": "E. boycott"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "20.	",
+				"opts": {
+					"q0": "A. ",
+					"q1": "B. ",
+					"q2": "C. ",
+					"q3": "D. ",
+					"q4": "E. "
+				},
+				"ans": "E",
+				"sel": ""
+			}
+		],
+		"S3": [
+			{
+				"headd": "After each of the following sentences, a list of possible interpretations of the sentences is given. Choose the interpretation that you consider most appropriate for each sentence."
+			},
+			{
+				"qs": "21.	When the striking workers were threatened with dismissal, they decided to make a virtue of necessity. This means that they",
+				"opts": {
+					"q0": "A. all resigned",
+					"q1": "B. continued the strike action",
+					"q2": "C. had to call off the strike",
+					"q3": "D. accused some of their colleagues of treachery",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "22.	The students stuck to their guns even after the principal had appealed to them to go back to their classes. This means that the students",
+				"opts": {
+					"q0": "A. went back willingly",
+					"q1": "B. refused to go back",
+					"q2": "C. went back reluctantly",
+					"q3": "D. attacked the school authorities",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "23.	The sudden death of his friend made Etim have his heart in his boots. This means that Etim",
+				"opts": {
+					"q0": "A. became greatly discouraged",
+					"q1": "B. was a good footballer",
+					"q2": "C. was very excited",
+					"q3": "D. took the matter very seriously",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "24.	The last promotion exercise was the bone of contention between the two friends. This means that the last promotion exercise",
+				"opts": {
+					"q0": "A. was the cause of their dispute",
+					"q1": "B. forced them to reason together",
+					"q2": "C. made them to become enemies",
+					"q3": "D. united them in their fight against their common enemy",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "25.	When Ibrahim was asked to state his case, he started to beat about the bush. This means that Ibrahim",
+				"opts": {
+					"q0": "A. started clearing the bush",
+					"q1": "B. failed to go straight to the point",
+					"q2": "C. went to the bush",
+					"q3": "D. stated his case very clearly",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "26.	The workers suspect that the boss has a skeleton in his cupboard. This means the boss",
+				"opts": {
+					"q0": "A. is a very wicked man",
+					"q1": "B. has a skeleton hidden in his room",
+					"q2": "C. is not liked by the workers",
+					"q3": "D. has an ugly secret",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "27.	The chairman’s explanation threw a new light on the matter. This means that the chairman’s explanation",
+				"opts": {
+					"q0": "A. provided fresh information on the matter",
+					"q1": "B. showed a bias against the matter",
+					"q2": "C. used his veto to rule against the matter",
+					"q3": "D. convinced everybody to accept the matter",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "28.	Halima decided to make a clean breast of everything. This means that Halima",
+				"opts": {
+					"q0": "A. said that her breast was clean",
+					"q1": "B. remained firm in her earlier assertion",
+					"q2": "C. denied any knowledge of the matter",
+					"q3": "D. told the whole truth",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "29.	By embarking on that journey, he intends to kill two birds with one stone. This means that he",
+				"opts": {
+					"q0": "A. promises to bring his children two birds",
+					"q1": "B. engages in double dealing",
+					"q2": "C. intends to achieve two aims at once",
+					"q3": "D. attends to two people at the same time",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "30.	Ajala earns a fat salary but cannot make both ends meet. This means that Ajala",
+				"opts": {
+					"q0": "A. keeps two lucrative jobs",
+					"q1": "B. does not live within his income",
+					"q2": "C. lives very comfortably",
+					"q3": "D. quarrels very often with his wife",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			}
+		],
+		"S4": [
+			{
+				"headd": "From the words lettered A to E below each of the followed sentences, choose the word or group of words that is nearest in meaning to the underlined word or phrase as it is used in the sentence"
+			},
+			{
+				"qs": "31.	Though corruption is very prevalent in the society, there are still some **virtuous** men around",
+				"opts": {
+					"q0": "A. intelligent",
+					"q1": "B. clever",
+					"q2": "C. devious",
+					"q3": "D. loquacious",
+					"q4": "E. upright"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "32.	Chinua Achebe is a **renowned** novelist",
+				"opts": {
+					"q0": "A. wonderful",
+					"q1": "B. famous",
+					"q2": "C. trustworthy",
+					"q3": "D. fascinating",
+					"q4": "E. witty"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "33.	He was kept in **solitary** confinement",
+				"opts": {
+					"q0": "A. quite",
+					"q1": "B. inimical",
+					"q2": "C. harsh",
+					"q3": "D. lonely",
+					"q4": "E. idle"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "34.	Nelson Mandela **surmounted** all the oppressive measures to break his will",
+				"opts": {
+					"q0": "A. overcame",
+					"q1": "B. fought",
+					"q2": "C. renounced",
+					"q3": "D. accepted",
+					"q4": "E. embraced"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "35.	The guest speaker was described as a man of very **alluring** personality",
+				"opts": {
+					"q0": "A. tempestuous",
+					"q1": "B. mercurial",
+					"q2": "C. charming",
+					"q3": "D. valuble",
+					"q4": "E. intricate"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "36.	The comments of the host further **incensed** the angry man",
+				"opts": {
+					"q0": "A. calmed",
+					"q1": "B. incised",
+					"q2": "C. pacified",
+					"q3": "D. challenged",
+					"q4": "E. infuriated"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "37.	Corruption is **inimical** to the progress of any nation",
+				"opts": {
+					"q0": "A. harmful",
+					"q1": "B. predominant",
+					"q2": "C. unavoidable",
+					"q3": "D. inevitable",
+					"q4": "E. necessary"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "38.	The task before us is **enormous**",
+				"opts": {
+					"q0": "A. great",
+					"q1": "B. awkward",
+					"q2": "C. heavy",
+					"q3": "D. ominous",
+					"q4": "E. serious"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "39.	The professor showed much **erudition** in the lecture he delivered",
+				"opts": {
+					"q0": "A. quotation",
+					"q1": "B. learning",
+					"q2": "C. ostentation",
+					"q3": "D. acclamation",
+					"q4": "E. tautology"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "40.	The outcome of the matter has **vindicated** my earlier stand",
+				"opts": {
+					"q0": "A. invalidated",
+					"q1": "B. nullified",
+					"q2": "C. disproved",
+					"q3": "D. negated",
+					"q4": "E. justified"
+				},
+				"ans": "E",
+				"sel": ""
+			}
+		],
+		"S5": [
+			{
+				"headd": "From the words letters A to D, choose the word or group of words that best completes each of the following sentences"
+			},
+			{
+				"qs": "41.	You will need to commit the formual .................. memory",
+				"opts": {
+					"q0": "A. to",
+					"q1": "B. by",
+					"q2": "C. on",
+					"q3": "D. in",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "42.	His journey ................ life has been rough",
+				"opts": {
+					"q0": "A. around",
+					"q1": "B. over",
+					"q2": "C. across",
+					"q3": "D. through",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "43.	The old woman has been ill ................ many months now",
+				"opts": {
+					"q0": "A. before",
+					"q1": "B. for",
+					"q2": "C. since",
+					"q3": "D. through",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "44.	We came ................... rail",
+				"opts": {
+					"q0": "A. on",
+					"q1": "B. with",
+					"q2": "C. by",
+					"q3": "D. in",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "45.	.................... he is learned, he is fraudulent",
+				"opts": {
+					"q0": "A. Since",
+					"q1": "B. Even",
+					"q2": "C. Although",
+					"q3": "D. When",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "46.	There is a serious conflict ................... the two of them",
+				"opts": {
+					"q0": "A. between",
+					"q1": "B. amidst",
+					"q2": "C. across",
+					"q3": "D. among",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "47.	..................... I am your junior does not mean you should order me about like a houseboy",
+				"opts": {
+					"q0": "A. Even",
+					"q1": "B. That",
+					"q2": "C. If",
+					"q3": "D. Though",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "48.	Fatimat kept quiet all the ...................",
+				"opts": {
+					"q0": "A. period",
+					"q1": "B. where",
+					"q2": "C. whole",
+					"q3": "D. while",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "49.	.................. rich has its own problems",
+				"opts": {
+					"q0": "A. On been",
+					"q1": "B. Being",
+					"q2": "C. On being",
+					"q3": "D. Been",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "50.	...................... stolen the goods, the thief ran away",
+				"opts": {
+					"q0": "A. Having",
+					"q1": "B. On",
+					"q2": "C. After",
+					"q3": "D. Since",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "51.	The boy .................... his father in everything",
+				"opts": {
+					"q0": "A. makes after",
+					"q1": "B. makes for",
+					"q2": "C. takes after",
+					"q3": "D. takes for",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "52.	We have to ................. for lost time",
+				"opts": {
+					"q0": "A. make up",
+					"q1": "B. make with",
+					"q2": "C. take up",
+					"q3": "D. take with",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "53.	Time is really ................ so let's hurry up",
+				"opts": {
+					"q0": "A. moving through",
+					"q1": "B. running out",
+					"q2": "C. moving out",
+					"q3": "D. . running through",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "54.	We haven’t confirmed ................. signature this is",
+				"opts": {
+					"q0": "A. what",
+					"q1": "B. whose",
+					"q2": "C. who’s",
+					"q3": "D. which",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "55.	The issue on ....................... I disagreed with him is very simple",
+				"opts": {
+					"q0": "A. what",
+					"q1": "B. whom",
+					"q2": "C. which",
+					"q3": "D. whose",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "56.	...................... that can happen is that he’ll be suspended",
+				"opts": {
+					"q0": "A. The worst",
+					"q1": "B. worst",
+					"q2": "C. The worse",
+					"q3": "D. worse",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "57.	Jide was absent for ................. time",
+				"opts": {
+					"q0": "A. much",
+					"q1": "B. most",
+					"q2": "C. the most",
+					"q3": "D. most of the",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "58.	How did you arrive at ................. wonderful idea?",
+				"opts": {
+					"q0": "A. that a",
+					"q1": "B. such a",
+					"q2": "C. a such",
+					"q3": "D. that such",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "59.	The ...................... of all the states in the Federation are having a meeting at Abuja",
+				"opts": {
+					"q0": "A. attorney-general",
+					"q1": "B. attorneys-generals",
+					"q2": "C. attorneys-general",
+					"q3": "D. attorney-general",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "60.	The local governments are authorized to pass .................",
+				"opts": {
+					"q0": "A. by-laws",
+					"q1": "B. byes'-laws",
+					"q2": "C. bye's-laws",
+					"q3": "D. bys-law",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "61.	 Hammed's ideas are ............. wrong",
+				"opts": {
+					"q0": "A. almost always",
+					"q1": "B. almost often",
+					"q2": "C. always almost",
+					"q3": "D. often almost",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "62.	John was Mary yesterday ....................?",
+				"opts": {
+					"q0": "A. doesn’t she",
+					"q1": "B. wasn’t she",
+					"q2": "C. was she",
+					"q3": "D. didn’t he",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "63.	I said John saw Mary .................. ?",
+				"opts": {
+					"q0": "A. didn’t I",
+					"q1": "B. didn't he",
+					"q2": "C. hadn’t he",
+					"q3": "D. wasn’t he",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "64.	The story he told me can’t be true ................... ?",
+				"opts": {
+					"q0": "A. can he",
+					"q1": "B. can it",
+					"q2": "C. could he",
+					"q3": "D. could it",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "65.	Yours is to command ............... is to obey",
+				"opts": {
+					"q0": "A. theirs'",
+					"q1": "B. their's",
+					"q2": "C. their",
+					"q3": "D. theirs",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "66.	That book belongs to the .................... lady",
+				"opts": {
+					"q0": "A. tall American black",
+					"q1": "B. American tall black",
+					"q2": "C. tall black American",
+					"q3": "D. black tall American",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "67.	The boys are ................... for the match",
+				"opts": {
+					"q0": "A. all fully set",
+					"q1": "B. fully all set",
+					"q2": "C. set all fully",
+					"q3": "D. fully set all",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "68.	Ngozi is by far .................. of the girls",
+				"opts": {
+					"q0": "A. a most brilliant",
+					"q1": "B. the most brilliant",
+					"q2": "C. the more brilliant",
+					"q3": "D. more brilliant",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "69.	..................... you wish to do, do it properly",
+				"opts": {
+					"q0": "A. Whenever",
+					"q1": "B. However",
+					"q2": "C. Whoever",
+					"q3": "D. Whatever",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "70.	We have started operating the .....................",
+				"opts": {
+					"q0": "A. national new education policy",
+					"q1": "B. new education policy national",
+					"q2": "C. new national education policy",
+					"q3": "D. new national policy education",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "71.	The lady ................. here tomorrow",
+				"opts": {
+					"q0": "A. arrive",
+					"q1": "B. arriving",
+					"q2": "C. arrives",
+					"q3": "D. arrived",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "72.	It’s high time you ................ seeing her",
+				"opts": {
+					"q0": "A. stop",
+					"q1": "B. stops",
+					"q2": "C. will stop",
+					"q3": "D. stopped",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "73.	Elaho enjoys ................ soccer",
+				"opts": {
+					"q0": "A. to play",
+					"q1": "B. play",
+					"q2": "C. playing",
+					"q3": "D. to be playing",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "74.	Miss Onassis was a .......................",
+				"opts": {
+					"q0": "A. young rich lady",
+					"q1": "B. rich young lady",
+					"q2": "C. lady young rich",
+					"q3": "D. young lady rich",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "75.	Did Aminu come here as he promised? ....................",
+				"opts": {
+					"q0": "A. No, he did",
+					"q1": "B. Yes, he didn’t",
+					"q2": "C. No, he didn’t",
+					"q3": "D. Yes, he doesn’t",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			}
+		],
+		"S6": [
+			{
+				"headd": "In the following passages, the numbered gaps indicate missing words. Against each number in the list below each passage, five choices are offered A to E. For each question, choose the word that is the most suitable to fill the numbered gap in the passage.",
+				"PA": [
+					"A nation that wants to --76-- her citizens cannot rely on traditional methods of --77-- but a large scale --78--. Rather than depend on simple --79-- like the hoe and the cutlass, it is high time we thought in terms of --80--.",
+					"Large areas of --81-- land must be opened up, and aid must be given to young farmers to acquire their own --82--.",
+					"The effort must start from schools, where students need to be taught both --83-- of crops as well as animal --84--. To make land available to more people, the land --85-- practices in most parts of the nation need to be revised.",
+					"Above all, --86-- should be generated through loans with reasonable --87-- rates.",
+				]
+			},
+			{
+				"qst": [				
+					{
+						"opts": {
+							"q0": "A. groom",
+							"q1": "B. fatten",
+							"q2": "C. feed",
+							"q3": "D. feast",
+							"q4": "E. nourish"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. farming",
+							"q1": "B. peasantry",
+							"q2": "C. planting",
+							"q3": "D. sowing",
+							"q4": "E. gardening"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. horticulture",
+							"q1": "B. silage",
+							"q2": "C. tillage",
+							"q3": "D. husbandry",
+							"q4": "E. agriculture"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. instruments",
+							"q1": "B. facilities",
+							"q2": "C. machines",
+							"q3": "D. implements",
+							"q4": "E. aids"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. harrowing",
+							"q1": "B. mechanisation",
+							"q2": "C. robots",
+							"q3": "D. automation",
+							"q4": "E. computerization"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. fallow",
+							"q1": "B. waste",
+							"q2": "C. arable",
+							"q3": "D. paddy",
+							"q4": "E. ranch"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. appliances",
+							"q1": "B. vehicles",
+							"q2": "C. engines",
+							"q3": "D. arms",
+							"q4": "E. tractors"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. digging",
+							"q1": "B. mowing",
+							"q2": "C. pruning",
+							"q3": "D. ploughing",
+							"q4": "E. cultivation"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. husbandry",
+							"q1": "B. economy",
+							"q2": "C. manuring",
+							"q3": "D. ranching",
+							"q4": "E. flowering"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. purchase",
+							"q1": "B. Hold on",
+							"q2": "C. proxy",
+							"q3": "D. tenure",
+							"q4": "E. tendering"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. labour",
+							"q1": "B. capital",
+							"q2": "C. debenture",
+							"q3": "D. resources",
+							"q4": "E. profits"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. credit",
+							"q1": "B. loan",
+							"q2": "C. investment",
+							"q3": "D. premium",
+							"q4": "E. interest"
+						},
+						"ans": "E",
+						"sel": ""
+					}
+				]
+			},
+			{
+				"headd": "In the following passages, the numbered gaps indicate missing words. Against each number in the list below each passage, five choices are offered A to E. For each question, choose the word that is the most suitable to fill the numbered gap in the passage.",
+				"PB": [
+					"The --88-- to have children is deep rooted in the hearts of both men and women, and on entering into --89-- union they regara the --90-- of children as the first and most --91-- duty.",
+					"A childless marriage in an African --92-- is practically a failure, for children bring joy not only to their parents but also to the --93-- as a whole.",
+					"The --94-- of a family brings with it a rise in social --95-- The social position or a --96-- who has children is of greater importance and dignity than that of a bachelor or --97--.",
+					"After the --98-- of the first child, the married --99-- becomes the object of higher --100-- among their fellows than they were before.",
+				]
+			},
+			{
+				"qst": [
+					{
+						"opts": {
+							"q0": "A. lust",
+							"q1": "B. attraction",
+							"q2": "C. fancy",
+							"q3": "D. passion",
+							"q4": "E. desire"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. fraternal",
+							"q1": "B. domestic",
+							"q2": "C. matrimonial",
+							"q3": "D. polygamous",
+							"q4": "E. bigamous"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. minding",
+							"q1": "B. procreation",
+							"q2": "C. conception",
+							"q3": "D. tendering",
+							"q4": "E. moulding"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. homely",
+							"q1": "B. voluntary",
+							"q2": "C. ancient",
+							"q3": "D. necessary",
+							"q4": "E. important"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. congregation",
+							"q1": "B. community",
+							"q2": "C. guild",
+							"q3": "D. race",
+							"q4": "E. sect"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. kingdom",
+							"q1": "B. establishment",
+							"q2": "C. company",
+							"q3": "D. region",
+							"q4": "E. society"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. rearing",
+							"q1": "B. nursing",
+							"q2": "C. grooming",
+							"q3": "D. governing",
+							"q4": "E. reviving"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. value",
+							"q1": "B. rank",
+							"q2": "C. cadre",
+							"q3": "D. status",
+							"q4": "E. promotion"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. people",
+							"q1": "B. duet",
+							"q2": "C. couple",
+							"q3": "D. team",
+							"q4": "E. stock"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. spinster",
+							"q1": "B. girl",
+							"q2": "C. virgin",
+							"q3": "D. nun",
+							"q4": "E. maiden"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. launching",
+							"q1": "B. ceremony",
+							"q2": "C. celebration",
+							"q3": "D. dawn",
+							"q4": "E. birth"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. twain",
+							"q1": "B. pair",
+							"q2": "C. twin",
+							"q3": "D. company",
+							"q4": "E. syndicate"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. adulation",
+							"q1": "B. influence",
+							"q2": "C. affluence",
+							"q3": "D. regard",
+							"q4": "E. position"
+						},
+						"ans": "D",
+						"sel": ""
+					}
+				]
+			}
+		]
+	}
+]

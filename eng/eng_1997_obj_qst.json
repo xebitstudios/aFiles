@@ -1,0 +1,1226 @@
+﻿[
+	{
+		"headd": "Objective Test Questions: Answer all the questions",	
+		"S1": [
+			{
+				"headd": "In each of the following sentences, there is one word or group of words underlined and one gap. From the list of words lettered A to D, choose the word or group of words that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence."
+			},
+			{
+				"qs": "1.	The minister was accused of making utterances that could **increase** rather than ................. anxiety among the citizen",
+				"opts": {
+					"q0": "A. modify",
+					"q1": "B. diminish",
+					"q2": "C. intensify",
+					"q3": "D. remove",
+					"q4": "E. inculcate"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "2.	At the end of the crisis, the leader declared that there was no **victor** and no .................",
+				"opts": {
+					"q0": "A. winner",
+					"q1": "B. rebel",
+					"q2": "C. patriot",
+					"q3": "D. opponent",
+					"q4": "E. vanquished"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "3.	I was impressed by the man’s **eagerness** but was rather put off by his wife’s ...........",
+				"opts": {
+					"q0": "A. anxiety",
+					"q1": "B. impatience",
+					"q2": "C. indifference",
+					"q3": "D. negligence",
+					"q4": "E. calmness"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "4.	He is a **famous** artist but has a ............... drinking habit",
+				"opts": {
+					"q0": "A. remarkable",
+					"q1": "B. admirable",
+					"q2": "C. notorious",
+					"q3": "D. wicked",
+					"q4": "E. hostile"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "5.	The first twin is so **vain** and the second so .................... that one would think they were not brothers",
+				"opts": {
+					"q0": "A. proud",
+					"q1": "B. complacent",
+					"q2": "C. selfish",
+					"q3": "D. humble",
+					"q4": "E. harmless"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "6.	Mary: "I wonder why armed robbers are so **hard- hearted**” John: “The fact is that to be an armed robber you cannot be ................. ”",
+				"opts": {
+					"q0": "A. considerate",
+					"q1": "B. intolerant",
+					"q2": "C. revengeful",
+					"q3": "D. softspoken",
+					"q4": "E. grateful"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "7.	To **ascend** this steep hill is the problem, to ................ is quite easy",
+				"opts": {
+					"q0": "A. depart",
+					"q1": "B. decline",
+					"q2": "C. drop",
+					"q3": "D. descend",
+					"q4": "E. disengage"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "8.	Working in the field is easy when your machete is **sharp** and not when it is ............. ",
+				"opts": {
+					"q0": "A. jagged",
+					"q1": "B. coarse",
+					"q2": "C. sound",
+					"q3": "D. keen",
+					"q4": "E. blunt"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "9.	The **gradual** process of transition to civil rule came to an .................... end",
+				"opts": {
+					"q0": "A. unnecessary",
+					"q1": "B. anticipated",
+					"q2": "C. invidious",
+					"q3": "D. unhappy",
+					"q4": "E. abrupt"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "10.	The **exterior** and the ................... parts of the fruit remain very hard even after it is ripe",
+				"opts": {
+					"q0": "A. inward",
+					"q1": "B. inner",
+					"q2": "C. intrinsic",
+					"q3": "D. peripheral",
+					"q4": "E. extraneous"
+				},
+				"ans": "B",
+				"sel": ""
+			}
+		],
+		"S2": [
+			{
+				"headd": "From the words labelled A to E, choose the word that best completes each of the following sentences"
+			},
+			{
+				"qs": "11.	The committee set up to investigate the cause of the riot has called for .................. from the public",
+				"opts": {
+					"q0": "A. witnesses",
+					"q1": "B. agenda",
+					"q2": "C. reports",
+					"q3": "D. memoranda",
+					"q4": "E. confessions"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "12.	The Satellite maintains a constant ....................... round the earth",
+				"opts": {
+					"q0": "A. path",
+					"q1": "B. orbit",
+					"q2": "C. circle",
+					"q3": "D. route",
+					"q4": "E. chart"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "13.	The chairman called him to ................. when his comments were getting off the point",
+				"opts": {
+					"q0": "A. order",
+					"q1": "B. command",
+					"q2": "C. rule",
+					"q3": "D. stop",
+					"q4": "E. question"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "14.	His ............... came through only a few days before he was to be executed",
+				"opts": {
+					"q0": "A. excuse",
+					"q1": "B. remission",
+					"q2": "C. clearance",
+					"q3": "D. discharge",
+					"q4": "E. pardon"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "15.	The power failure .............. normal services for days",
+				"opts": {
+					"q0": "A. activated",
+					"q1": "B. energized",
+					"q2": "C. paralyzed",
+					"q3": "D. deadened",
+					"q4": "E. frozened"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "16.	The interest of the students should be of ............... importance to any school administrator",
+				"opts": {
+					"q0": "A. paramount",
+					"q1": "B. super",
+					"q2": "C. superior",
+					"q3": "D. dominant",
+					"q4": "E. pre-eminent"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "17.	My father wanted to buy a car but the prices of those available were not within his ...................",
+				"opts": {
+					"q0": "A. limit",
+					"q1": "B. target",
+					"q2": "C. scope",
+					"q3": "D. range",
+					"q4": "E. reach"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "18.	The robbers .................. all the rooms, looking for jewels",
+				"opts": {
+					"q0": "A. raked",
+					"q1": "B. ransacked",
+					"q2": "C. explored",
+					"q3": "D. sought",
+					"q4": "E. sacked"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "19.	We reasoned that the kidnappers might kill the young girl if we didn’t pay the ....................",
+				"opts": {
+					"q0": "A. money",
+					"q1": "B. charge",
+					"q2": "C. deposit",
+					"q3": "D. ransom",
+					"q4": "E. settlement"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "20.	The players would expect some form of ................. after working hard to win the cup",
+				"opts": {
+					"q0": "A. compensation",
+					"q1": "B. gain",
+					"q2": "C. reward",
+					"q3": "D. premium",
+					"q4": "E. fees"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "21.	The surgeons ................ the operation successfully",
+				"opts": {
+					"q0": "A. transplanted",
+					"q1": "B. executed",
+					"q2": "C. diagnosed",
+					"q3": "D. transacted",
+					"q4": "E. performed"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "22.	The old man took his sons to the zoo as a special New Year ...................",
+				"opts": {
+					"q0": "A. treat",
+					"q1": "B. feast",
+					"q2": "C. discourse",
+					"q3": "D. convenant",
+					"q4": "E. banquet"
+				},
+				"ans": "A",
+				"sel": ""
+			}
+		],
+		"S3": [
+			{
+				"headd": "After each of the following sentences, a list of possible interpretations of the sentences is given. Choose the interpretation that you consider the most appropriate for each sentence."
+			},
+			{
+				"qs": "23.	Although Etiebet had earlier insisted that he was right, he later ate his words. This means that he later",
+				"opts": {
+					"q0": "A. denied saying so",
+					"q1": "B. admitted that he was wrong",
+					"q2": "C. apologized for being so rude",
+					"q3": "D. realized that he was more correct than he taught",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "24.	The young girl swept the board at the recent competitions. This means that the young girl",
+				"opts": {
+					"q0": "A. came last in the competitions",
+					"q1": "B. cleaned the score-board very well",
+					"q2": "C. won some of the competitions",
+					"q3": "D. won everything that could be won",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "25.	The listeners were swept off their feet by the politician's arguments. This means that the politician",
+				"opts": {
+					"q0": "A. failed to impress the people",
+					"q1": "B. completely impressed everybody",
+					"q2": "C. confused all the people",
+					"q3": "D. told them things they didn’t expect",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "26.	I was struck by the broad sweep of her argument. This means that her argument",
+				"opts": {
+					"q0": "A. covered all parts of	the subject",
+					"q1": "B. focused only on a specific aspect of the subject",
+					"q2": "C. was well presented and in good language",
+					"q3": "D. was poorly presented and not well focused",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "27.	The party was really going with a swing when somebody called me out. This means that when I was called out the party was",
+				"opts": {
+					"q0": "A. just starting",
+					"q1": "B. almost ended",
+					"q2": "C. about mid-way",
+					"q3": "D. very enjoyable",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "28.	She started the game poorly but later turned the tables on her opponent. This means that, she",
+				"opts": {
+					"q0": "A. remained a poor player and lost",
+					"q1": "B. changed her position of play and so won",
+					"q2": "C. suddenly improved and won",
+					"q3": "D. disorganized the whole competition",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "29.	The boys ran away with their tails between their legs. This shows that the boys left",
+				"opts": {
+					"q0": "A. as great winners",
+					"q1": "B. completely defeated",
+					"q2": "C. utterly confused",
+					"q3": "D. after destroying so much",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "30.	He said he was a master of electronics, but I knew he was talking through his hat. This means that I knew he was",
+				"opts": {
+					"q0": "A. relying on someone else’s ideas",
+					"q1": "B. merely relying on what he had studied",
+					"q2": "C. talking very modestly",
+					"q3": "D. claiming what he knew nothing about",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "31.	My brother’s driving could make one tear one's hair out. This means that his driving could make one",
+				"opts": {
+					"q0": "A. get very worried",
+					"q1": "B. enjoy one’s journey",
+					"q2": "C. feel very bored",
+					"q3": "D. feel very relaxed",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "32.	It is really hard to come to terms with going blind, This means that if one goes blind one",
+				"opts": {
+					"q0": "A. finds it easy to accept",
+					"q1": "B. has no choice but to adjust",
+					"q2": "C. finds it difficult to accept",
+					"q3": "D. gradually gets used to it",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			}
+		],
+		"S4": [
+			{
+				"headd": "From the words or groups of words labeled AtoE below each of the following sentences, choose the word or group of words that is nearest in meaning to the underlined word or group of words."
+			},
+			{
+				"qs": "33.	Climbing great heights **terrifies** me",
+				"opts": {
+					"q0": "A. threatens",
+					"q1": "B. annoys",
+					"q2": "C. shocks",
+					"q3": "D. startles",
+					"q4": "E. frightens"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "34.	Flight WT509 from Lagos **terminates** in Maiduguri",
+				"opts": {
+					"q0": "A. closes",
+					"q1": "B. concludes",
+					"q2": "C. lands",
+					"q3": "D. ends",
+					"q4": "E. ceases"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "35.	Her **terse** remarks brought the conversation to an end",
+				"opts": {
+					"q0": "A. curt",
+					"q1": "B. abusive",
+					"q2": "C. studied",
+					"q3": "D. gentle",
+					"q4": "E. polished"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "36.	The orison officials usually **torture** the inmates",
+				"opts": {
+					"q0": "A. lynch",
+					"q1": "B. murder",
+					"q2": "C. torment",
+					"q3": "D. destroy",
+					"q4": "E. humiliate"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "37.	I would regard what he has done as a **treacherous** act",
+				"opts": {
+					"q0": "A. noble",
+					"q1": "B. reliable",
+					"q2": "C. commendable",
+					"q3": "D. dangerous",
+					"q4": "E. deceitful"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "38.	I don’t agree that the problem is **intractable**",
+				"opts": {
+					"q0": "A. easy",
+					"q1": "B. insoluble",
+					"q2": "C. baseless",
+					"q3": "D. understandable",
+					"q4": "E. unusual"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "39.	This problem may prove rather **tricky** for the government",
+				"opts": {
+					"q0": "A. deceitful",
+					"q1": "B. trivial",
+					"q2": "C. mischievous",
+					"q3": "D. unexpected",
+					"q4": "E. difficult"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "40.	The Iona war ended when **an armistice** was agreed upon",
+				"opts": {
+					"q0": "A. a truce",
+					"q1": "B. a recess",
+					"q2": "C. a surrender",
+					"q3": "D. an intermission",
+					"q4": "E. a declaration"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "41.	The assassination of the statesman threw the country into a state of **turmoil**",
+				"opts": {
+					"q0": "A. inactivity",
+					"q1": "B. mourning",
+					"q2": "C. confusion",
+					"q3": "D. revolution",
+					"q4": "E. anxiety"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "42.	To become an artisan one has to undergo a period of **apprenticeship**",
+				"opts": {
+					"q0": "A. directorship",
+					"q1": "B. testing",
+					"q2": "C. tutorship",
+					"q3": "D. practice",
+					"q4": "E. training"
+				},
+				"ans": "E",
+				"sel": ""
+			}
+		],
+		"S5": [
+			{
+				"headd": "From the words or group of words labeled A to D, choose the one that best completes each of the following sentences"
+			},
+			{
+				"qs": "43.	This is an improvement ................... your last essay",
+				"opts": {
+					"q0": "A. on",
+					"q1": "B. with",
+					"q2": "C. by",
+					"q3": "D. for",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "44.	The team has suffered defeat ................. defeat",
+				"opts": {
+					"q0": "A. before",
+					"q1": "B. with",
+					"q2": "C. over",
+					"q3": "D. after",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "45.	Unemployment has been ................ the increase since last year",
+				"opts": {
+					"q0": "A. of",
+					"q1": "B. at",
+					"q2": "C. on",
+					"q3": "D. in",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "46.	Cats sleep ................. day and hunt at night",
+				"opts": {
+					"q0": "A. at",
+					"q1": "B. by",
+					"q2": "C. in",
+					"q3": "D. during",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "47.	I don’t want anything to interfere .............. my project",
+				"opts": {
+					"q0": "A. with",
+					"q1": "B. on",
+					"q2": "C. over",
+					"q3": "D. by",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "48.	The two brothers came in ............... the back door ",
+				"opts": {
+					"q0": "A. within",
+					"q1": "B. along",
+					"q2": "C. across",
+					"q3": "D. through",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "49.	...................... the terms of the agreement with your landlord, you should not sub-let the house",
+				"opts": {
+					"q0": "A. On",
+					"q1": "B. Under",
+					"q2": "C. Upon",
+					"q3": "D. By",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "50.	Nigeria's economy was buoyant ................ the 1970s",
+				"opts": {
+					"q0": "A. through",
+					"q1": "B. on",
+					"q2": "C. in",
+					"q3": "D. with",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "51.	The musician ................... waxed that record died fifty years ago",
+				"opts": {
+					"q0": "A. who",
+					"q1": "B. whom",
+					"q2": "C. which",
+					"q3": "D. whose",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "52.	The author ............... book you are reading now, won the Nobel Prize for Literature last year",
+				"opts": {
+					"q0": "A. which",
+					"q1": "B. that",
+					"q2": "C. whose",
+					"q3": "D. whom",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "53.	The lady .............. you were talking about yesterday is here now",
+				"opts": {
+					"q0": "A. which",
+					"q1": "B. whom",
+					"q2": "C. who's",
+					"q3": "D. whose",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "54.	The pencil .............. you gave me yesterday is lost",
+				"opts": {
+					"q0": "A. whose",
+					"q1": "B. whom",
+					"q2": "C. that",
+					"q3": "D. who",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "55.	I honestly don’t understand ............... you hate that man",
+				"opts": {
+					"q0": "A. when",
+					"q1": "B. where",
+					"q2": "C. why",
+					"q3": "D. how",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "56.	I’d like to know .................. he'll wriggle out of this case",
+				"opts": {
+					"q0": "A. how",
+					"q1": "B. whenever",
+					"q2": "C. where",
+					"q3": "D. what",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "57.	................. of the two pencils is yours?",
+				"opts": {
+					"q0": "A. Where",
+					"q1": "B. Who",
+					"q2": "C. Which",
+					"q3": "D. Whose",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "58	.............. university is ............... institution of higher learning",
+				"opts": {
+					"q0": "A. An.........an",
+					"q1": "B. An..........a",
+					"q2": "C. A...........a",
+					"q3": "D. A..........an",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "59.	I’d give up smoking, if I ................ you",
+				"opts": {
+					"q0": "A. am",
+					"q1": "B. were",
+					"q2": "C. was",
+					"q3": "D. are",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "60.	It is high time you ................ visiting that friend of yours",
+				"opts": {
+					"q0": "A. should stop",
+					"q1": "B. stopped",
+					"q2": "C. stop",
+					"q3": "D. must",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "61.	.................. had he entered when it started to rain",
+				"opts": {
+					"q0": "A. Hardly",
+					"q1": "B. Nearly",
+					"q2": "C. Almost",
+					"q3": "D. Fairly",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "62.	All your ................. like you very much",
+				"opts": {
+					"q0": "A. brother-in-law",
+					"q1": "B. brothers-in-laws",
+					"q2": "C. brother-in-laws",
+					"q3": "D. brothers-in-law",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "63.	I’m sure this bucket is ................",
+				"opts": {
+					"q0": "A. her’s",
+					"q1": "B. hers",
+					"q2": "C. hers'",
+					"q3": "D. her",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "64.	That uncle of .............. ought to see you through this",
+				"opts": {
+					"q0": "A. your",
+					"q1": "B. your's",
+					"q2": "C. yours",
+					"q3": "D. yours'",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "65.	............... of what he said is incorrect ",
+				"opts": {
+					"q0": "A. Many",
+					"q1": "B. Much",
+					"q2": "C. Few",
+					"q3": "D. Plenty",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "66.	He comes here ................. often",
+				"opts": {
+					"q0": "A. much",
+					"q1": "B. ever",
+					"q2": "C. quite",
+					"q3": "D. rarely",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "67.	He is always asking for more .................?",
+				"opts": {
+					"q0": "A. isn't he",
+					"q1": "B. doesn’t he",
+					"q2": "C. was he",
+					"q3": "D. does he",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "68.	It was he who said he didn't fear death ...............?",
+				"opts": {
+					"q0": "A. didn’t he",
+					"q1": "B. wasn’t he",
+					"q2": "C. isn’t he",
+					"q3": "D. wasn’t it",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "69.	He said he didn’t fear death ...................?",
+				"opts": {
+					"q0": "A. didn’t he",
+					"q1": "B. wasn’t it",
+					"q2": "C. doesn’t he",
+					"q3": "D. was it",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "70.	The government has a special programme for .................",
+				"opts": {
+					"q0": "A. the poor",
+					"q1": "B. the poors",
+					"q2": "C. poor",
+					"q3": "D. poors",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			}
+		],
+		"S6": [
+			{
+				"headd": "Instruction: In the following passages the numbered gaps indicate missing words. Against each number in the list below each passage five choices are offered in columns labelled A to E. For each question, choose the word that is the most suitable to fill the numbered gap in the passage.",
+				"PA": [
+					""Now speaking seriously, ladies and --71--" continued the speaker, “it has --72-- a tradition for us to welcome new --73-- into the administrative --74-- of our civil service. This is because of the role which --75-- plays in society. It is not only in the civil service that administrators are --76--.",
+					"Administrative work is going on constantly in the business --77-- in the army, the church and in every organization, where human --78-- decide to organize themselves for a --79-- purpose.",
+					"Even among doctors, engineers and other --80-- much administration is going on, and infact you cannot be e --81-- doctor lawyer, engineer or teacher --82-- being a good administrator. And now to my young --83-- who have newly joined ranks of administrators in our service. I say the sky is The --84-- for those who are --85--.",
+				]
+			},
+			{
+				"qst": [				
+					{
+						"opts": {
+							"q0": "A. contemporaries",
+							"q1": "B. gentlemen",
+							"q2": "C. friends",
+							"q3": "D. comrades",
+							"q4": "E. well-wishers"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. formed",
+							"q1": "B. seemed",
+							"q2": "C. constituted",
+							"q3": "D. become",
+							"q4": "E. being"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. directors",
+							"q1": "B. applicants",
+							"q2": "C. entrants",
+							"q3": "D. workmen",
+							"q4": "E. operators"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. cadre",
+							"q1": "B. post",
+							"q2": "C. group",
+							"q3": "D. force ",
+							"q4": "E. department"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. direction",
+							"q1": "B. technology",
+							"q2": "C. government",
+							"q3": "D. governance",
+							"q4": "E. administration"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. wanted",
+							"q1": "B. necessary",
+							"q2": "C. needed",
+							"q3": "D. demand",
+							"q4": "E. requested"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. category",
+							"q1": "B. environment",
+							"q2": "C. society",
+							"q3": "D. community",
+							"q4": "E. world"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. beings",
+							"q1": "B. people",
+							"q2": "C. creatures",
+							"q3": "D. activists",
+							"q4": "E. performers"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. private",
+							"q1": "B. particular",
+							"q2": "C. special",
+							"q3": "D. separate",
+							"q4": "E. peculiar"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. officers",
+							"q1": "B. workers",
+							"q2": "C. technicians",
+							"q3": "D. professionals",
+							"q4": "E. artisans"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. prosperous",
+							"q1": "B. successful",
+							"q2": "C. fortunate",
+							"q3": "D. victorious",
+							"q4": "E. lucky"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. without",
+							"q1": "B. until",
+							"q2": "C. unless",
+							"q3": "D. except",
+							"q4": "E. through"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. companions",
+							"q1": "B. collaborators",
+							"q2": "C. classmates",
+							"q3": "D. colleagues",
+							"q4": "E. contemporaries"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. terminal",
+							"q1": "B. end",
+							"q2": "C. limit",
+							"q3": "D. boundary",
+							"q4": "E. frontier"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. indolent",
+							"q1": "B. aggressive",
+							"q2": "C. laborious",
+							"q3": "D. busy",
+							"q4": "E. industrious"
+						},
+						"ans": "E",
+						"sel": ""
+					}
+				]
+			},
+			{
+				"headd": "Instruction: In the following passages the numbered gaps indicate missing words. Against each number in the list below each passage five choices are offered in columns labelled A to E. For each question, choose the word that is the most suitable to fill the numbered gap in the passage.",
+				"PB": [
+					"When he had finished sweeping the sitting --86--, she took up the slightly moist --87-- and used it to wipe off the --88-- from the surfaces of the table, chairs, stools and window --89-- . After that she adjusted the --90-- on the windows and doors and --91-- the few books and other items on the table and stools.",
+					"She then moved to the --92-- where the dishes from the previous evenings --93-- remained piled up, unwashed. She turned on the --94-- and started washing. It took her thirty minutes to turn the dirty plates and --95-- into gleaming pieces. She lit the --96--, filled up the --97-- from the running tap and put it on the fire.",
+					"That was for tea. She took a tuber of --98-- peeled it clean, and put it into neat --99-- Then, she commenced the process for making omelette. She cracked open four --100-- on to a plate and mixed them thoroughly.",
+				]
+			},
+			{
+				"qst": [
+					{
+						"opts": {
+							"q0": "A. room",
+							"q1": "B. apartment",
+							"q2": "C. corridor",
+							"q3": "D. chamber",
+							"q4": "E. parlour"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. sweeper",
+							"q1": "B. wiper",
+							"q2": "C. cleaner",
+							"q3": "D. mop",
+							"q4": "E. duster"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. mould",
+							"q1": "B. mist",
+							"q2": "C. dust",
+							"q3": "D. sands",
+							"q4": "E. powder"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. frames",
+							"q1": "B. bars",
+							"q2": "C. glasses",
+							"q3": "D. sheets",
+							"q4": "E. panes"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. clothes",
+							"q1": "B. curtains",
+							"q2": "C. dresses",
+							"q3": "D. coverlets",
+							"q4": "E. covering"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. read",
+							"q1": "B. wrote",
+							"q2": "C. rearranged",
+							"q3": "D. compiled",
+							"q4": "E. remade"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. toilet",
+							"q1": "B. bedroom",
+							"q2": "C. store",
+							"q3": "D. pantry",
+							"q4": "E. kitchen"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. breakfast",
+							"q1": "B. supper",
+							"q2": "C. lunch",
+							"q3": "D. food",
+							"q4": "E. snacks"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. tap",
+							"q1": "B. switch",
+							"q2": "C. knob",
+							"q3": "D. handle",
+							"q4": "E. key"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. instruments",
+							"q1": "B. implements",
+							"q2": "C. cutlery",
+							"q3": "D. furniture",
+							"q4": "E. utensils"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. fire",
+							"q1": "B. heater",
+							"q2": "C. lantern",
+							"q3": "D. lamp",
+							"q4": "E. stove"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. plate",
+							"q1": "B. kettle",
+							"q2": "C. saucepan",
+							"q3": "D. frying-pan",
+							"q4": "E. warmer"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. banana",
+							"q1": "B. corn",
+							"q2": "C. lettuce",
+							"q3": "D. yam",
+							"q4": "E. cabbage"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. slices",
+							"q1": "B. cubes",
+							"q2": "C. morsels",
+							"q3": "D. portions",
+							"q4": "E. fragments"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. coconuts",
+							"q1": "B. tomatoes",
+							"q2": "C. eggs",
+							"q3": "D. onions",
+							"q4": "E. palm nuts"
+						},
+						"ans": "C",
+						"sel": ""
+					}
+				]
+			}
+		]
+	}
+]

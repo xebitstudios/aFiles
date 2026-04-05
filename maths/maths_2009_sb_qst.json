@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Simplify: <img src='math_2009_sectionb_qst1.jpg'>",
+		"opts": {
+			"q0": "A. 1<sup>1</sup>&frasl;<sub>4</sub>",
+			"q1": "B. 8<sup>1</sup>&frasl;<sub>2</sub>",
+			"q2": "C. 35",
+			"q3": "D. 47",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	In a particular year, the exchange rate of Naira (#} varies directly with the Dollar ($). If #1122 is equivalent to $8, find the Naira equivalent of $36.",
+		"opts": {
+			"q0": "A. #8976",
+			"q1": "B. #5049",
+			"q2": "C. #140.25",
+			"q3": "D. #31.17",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	If log 2 = x, log 3 = y and log 7 = z, find, in terms of x, y and z, the value of log (<sup>28</sup>&frasl;<sub>3</sub>).",
+		"opts": {
+			"q0": "A. 2x + y - z",
+			"q1": "B. 2x + z - y",
+			"q2": "C. x + y - 2z",
+			"q3": "D. x + z - y",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Arrange the following numbers in descending order of magnitude: 22<sub>three</sub>, 34<sub>five</sub>, 21<sub>six</sub>.",
+		"opts": {
+			"q0": "A. 21<sub>six</sub>, 22<sub>three</sub>, 34<sub>five</sub>",
+			"q1": "B. 21<sub>six</sub>, 34<sub>five</sub>, p>22<sub>three</sub>",
+			"q2": "C. 22<sub>three</sub>, 34<sub>five</sub>, 21<sub>six</sub>",
+			"q3": "D. 34<sub>five</sub>, 21<sub>six</sub>, 22<sub>three</sub>",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Find the value to which #3000.00 will amount in 5 years at 6% per annum simple interest",
+		"opts": {
+			"q0": "A. #3,900.00",
+			"q1": "B. #3,750.00",
+			"q2": "C. #3,600.00",
+			"q3": "D. #3,300.00",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Express the square root of 0.000144 in the standard form",
+		"opts": {
+			"q0": "A. 1.2 x 10<sup>-4</sup>",
+			"q1": "B. 1.2 x 10<sup>-3</sup>",
+			"q2": "C. 1.2 x 10<sup>-2</sup>",
+			"q3": "D. 1.2 x 10<sup>-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Two sets are disjoint if",
+		"opts": {
+			"q0": "A. they are both empty",
+			"q1": "B. their union is an empty set",
+			"q2": "C. their intersection is an empty set",
+			"q3": "D. one of them is a subset of the other",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Solve the following simultaneous equations: <img src='math_2009_sectionb_qst8.jpg'>",
+		"opts": {
+			"q0": "A. x = 5, y = -1",
+			"q1": "B. x = <sup>1</sup>&frasl;<sub>5</sub>, y = -1",
+			"q2": "C. x = -<sup>1</sup>&frasl;<sub>5</sub>, y = 1",
+			"q3": "D. x = -5, y = 1",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	If <img src='math_2009_sectionb_qst9.jpg'>, solve for x.",
+		"opts": {
+			"q0": "A. <sup>4</sup>&frasl;<sub>5</sub>",
+			"q1": "B. <sup>4</sup>&frasl;<sub>13</sub>",
+			"q2": "C. <sup>5</sup>&frasl;<sub>24</sub>",
+			"q3": "D. <sup>13</sup>&frasl;<sub>24</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The following is the graph of a quadratic function. Use it to answer questions 10. <img src='math_2009_sectionb_qst10_11.jpg'>. Find the co-ordinates of point P. ",
+		"opts": {
+			"q0": "A. (0,4)",
+			"q1": "B. (4,0)",
+			"q2": "C. (0,-4)",
+			"q3": "D. (-4,0)",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The following is the graph of a quadratic function. Use it to answer questions 11. <img src='math_2009_sectionb_qst10_11.jpg'>. Find the values of x when y = 0.",
+		"opts": {
+			"q0": "A. 1,3",
+			"q1": "B. 1,4",
+			"q2": "C. 2,3",
+			"q3": "D. 1,6",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Five bottles of Fanta and two packets of biscuits cost Ghc 6.00. Three bottles of Fanta and four packets of biscuits cost Ghc 500. Find the cost of a bottle of Fanta.",
+		"opts": {
+			"q0": "A. Ghc 0.50",
+			"q1": "B. Ghc 1.00",
+			"q2": "C. Ghc 1.50",
+			"q3": "D. Ghc 5.00",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	If (2x + 3)<sup>3</sup> = 125, find the value of x.",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 2",
+			"q2": "C. 3",
+			"q3": "D. 4",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Factorize x<sup>2</sup> - 2x - 3xy + 6y completely.",
+		"opts": {
+			"q0": "A. (x - 2)(3x - y)",
+			"q1": "B. (x - 3y)(x - 2)",
+			"q2": "C. (x - 2)(x + 3y)",
+			"q3": "D. (3x + y)(x - 2)",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following illustrates the solution of <img src='math_2009_sectionb_qst15.jpg'>",
+		"opts": {
+			"q0": "A. <img src='math_2009_sectionb_qst15_1.jpg'>",
+			"q1": "B. <img src='math_2009_sectionb_qst15_2.jpg'>",
+			"q2": "C. <img src='math_2009_sectionb_qst15_3.jpg'>",
+			"q3": "D. <img src='math_2009_sectionb_qst15_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The diameter of a bicycle wheel is 42 cm. If the wheel makes 16 complete revolutions, what will be the total distance covered by the wheel? [Take = <sup>22</sup>&frasl;<sub>7</sub>",
+		"opts": {
+			"q0": "A. 672 cm",
+			"q1": "B. 1056 cm",
+			"q2": "C. 2112 cm",
+			"q3": "D. 4224 cm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	<img src='math_2009_sectionb_qst17_18.jpg'> PQRS is a trapezium.QR//PS, /PQ/ = 5 cm, /QR/ = 6 cm, /PS/ = 10cm and angle QPS = 42&deg;. Use the information to answer question 17. Calculate the perpendicular distance between the parallel sides.",
+		"opts": {
+			"q0": "A. 3.35 cm",
+			"q1": "B. 3.72 cm",
+			"q2": "C. 4.50 cm",
+			"q3": "D. 4.62 cm",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	<img src='math_2009_sectionb_qst17_18.jpg'> PQRS is a trapezium.QR//PS, /PQ/ = 5 cm, /QR/ = 6 cm, /PS/ = 10cm and angle QPS = 42&deg;. Use the information to answer question 18. Calculate, correct to the nearest cm<sup>2</sup>, the area of the trapezium.",
+		"opts": {
+			"q0": "A. 27 cm<sup>2</sup>",
+			"q1": "B. 30 cm<sup>2</sup>",
+			"q2": "C. 36 cm<sup>2</sup>",
+			"q3": "D. 37 cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='math_2009_sectionb_qst19.jpg'> In the diagram,/TP/ = 12 cm and it is 6 cm from O, the centre of the circle. Calculate <TOP.",
+		"opts": {
+			"q0": "A. 120&deg;",
+			"q1": "B. 90&deg;",
+			"q2": "C. 60&deg;",
+			"q3": "D. 45&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The interior angles of a pentagon are (2x + 5)&deg;, (x + 20)&deg;, x&deg;, (3x - 20)&deg; and (x + 15)&deg;. Find the value of x.",
+		"opts": {
+			"q0": "A. 80&deg;",
+			"q1": "B. 70&deg;",
+			"q2": "C. 65&deg;",
+			"q3": "D. 40&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	<img src='math_2009_sectionb_qst21.jpg'> In the diagram, IG is parallel to JE, JEF = 120&deg; and FHG = 130&deg;. Find the angle marked t.",
+		"opts": {
+			"q0": "A. 40&deg;",
+			"q1": "B. 70&deg;",
+			"q2": "C. 80&deg;",
+			"q3": "D. 100&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	If M and N are two fixed points in a plane, find the locus L = {P: PM = PN}.",
+		"opts": {
+			"q0": "A. A line equal to MN",
+			"q1": "B. A line parallel to MN",
+			"q2": "C. Perpendicular bisector of MN",
+			"q3": "D. A circle centre P, radius MN",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	<img src='math_2009_sectionb_qst23.jpg'> Find the value of x in the diagram",
+		"opts": {
+			"q0": "A. 50&deg;",
+			"q1": "B. 30&deg;",
+			"q2": "C. 22&deg;",
+			"q3": "D. 17&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	<img src='math_2009_sectionb_qst24.jpg'> In the diagram, /SOI = 4 cm, /PT/ = 7 cm, /TR/ = 5 cm and ST//QR. If /SP/ = x cm, find the value of x.",
+		"opts": {
+			"q0": "A. 5.6",
+			"q1": "B. 6.5",
+			"q2": "C. 6.6",
+			"q3": "D. 6.8",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Given that <img src='math_2009_sectionb_qst25a.jpg'>, evaluate: <img src='math_2009_sectionb_qst25b.jpg'>",
+		"opts": {
+			"q0": "A. <img src='math_2009_sectionb_qst25_1.jpg'>",
+			"q1": "B. <img src='math_2009_sectionb_qst25_2.jpg'>",
+			"q2": "C. <img src='math_2009_sectionb_qst25_3.jpg'>",
+			"q3": "D. <img src='math_2009_sectionb_qst25_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	<img src='math_2009_sectionb_qst26_27.jpg'> Use the diagram below to answer questions 26. Find the bearing of X from Y.",
+		"opts": {
+			"q0": "A. 300&deg;",
+			"q1": "B. 240&deg;",
+			"q2": "C. 120&deg;",
+			"q3": "D. 60&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	<img src='math_2009_sectionb_qst26_27.jpg'> Use the diagram below to answer questions 27. If /XY/ = 50 m, how' far east of X is Y?",
+		"opts": {
+			"q0": "A. 25.5 m",
+			"q1": "B. 40.6 m",
+			"q2": "C. 40.8 m",
+			"q3": "D. 43.3 m",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	In an examination, Kofi scored x % in Physics, 50% in Chemistry and 70 % in Biology. If his mean score for the three subjects was 55 %. find X.",
+		"opts": {
+			"q0": "A. 40",
+			"q1": "B. 45",
+			"q2": "C. 55",
+			"q3": "D. 60",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	What is the median of the following scores: 22, 41, 35, 63, 82, 74?",
+		"opts": {
+			"q0": "A. 82",
+			"q1": "B. 52",
+			"q2": "C. 49",
+			"q3": "D. 22",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Express 2.7864 x 10<sup>-3</sup> to two significant figures",
+		"opts": {
+			"q0": "A. 0.28",
+			"q1": "B. 0.27",
+			"q2": "C. 0.0028",
+			"q3": "D. 0.0027",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	If 9<sup>2x</sup> = <sup>1</sup>&frasl;<sub>3</sub>(27<sup>x</sup>), find X.",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 1",
+			"q2": "C. -1",
+			"q3": "D. -2",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	If 85% of x is #3230, what is the value of x?",
+		"opts": {
+			"q0": "A. #2745.50",
+			"q1": "B. #3714.50",
+			"q2": "C. #3800.00",
+			"q3": "D. #4845.00",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The capacity of a water tank is 1,800 litres. If the tank is in the form of a cuboid with base 600 cm by 150 cm, find the height of the tank.",
+		"opts": {
+			"q0": "A. 2 cm",
+			"q1": "B. 20 cm",
+			"q2": "C. 200 cm",
+			"q3": "D. 2000 cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	An arc of a circle subtends an angle of 60&deg; at the centre. If the radius of the circle is 3 cm, find, in terms of &piv;, the length of the arc",
+		"opts": {
+			"q0": "A. &piv; cm",
+			"q1": "B. 2&piv; cm",
+			"q2": "C. 3&piv; cm",
+			"q3": "D. 6&piv; cm",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Solve: <sup>2x + 1</sup>&frasl;<sub>6</sub> - <sup>3x - 1</sup>&frasl;<sub>4</sub> = 0.",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. <sup>1</sup>&frasl;<sub>5</sub>",
+			"q2": "C. -<sup>1</sup>&frasl;<sub>5</sub>",
+			"q3": "D. -1",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	If x is a positive integer, list the values of x which satisfy the equations 3x - 4 < 6 and x - 1 > 0.",
+		"opts": {
+			"q0": "A. {1,2,3}",
+			"q1": "B. {2,3}",
+			"q2": "C. {2,3,4}",
+			"q3": "D. {2,3,4,5}",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	If c and k are the roots of 6 -x - x<sup>2</sup> = 0, find c + k.",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 1",
+			"q2": "C. -1",
+			"q3": "D. -3",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='math_2009_sectionb_qst38.jpg'> In the diagram, angle 200&deg; is subtended at the centre of the circle. Find the value of x.",
+		"opts": {
+			"q0": "A. 30&deg;",
+			"q1": "B. 50&deg;",
+			"q2": "C. 80&deg;",
+			"q3": "D. 100&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "Each of the interior angles of a regular polygon is 140&deg;. Calculate the sum of all the interior angles of the polygon.",
+		"opts": {
+			"q0": "A. 1080&deg;",
+			"q1": "B. 1260&deg;",
+			"q2": "C. 1800&deg;",
+			"q3": "D. 2160&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	A bucket holds 10 litres of water. How many buckets of water will fill a reservoir of size 8 m x 7 m x 5 m. (1 litre = 1000 cm<sup>2</sup>).",
+		"opts": {
+			"q0": "A. 28",
+			"q1": "B. 280",
+			"q2": "C. 2800",
+			"q3": "D. 28000",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	A box contains black, white and red identical balls. The probability of picking a black ball at random from the box is <sup>3</sup>&frasl;<sub>10</sub> and the probability of picking a white ball at random is <sup>2</sup>&frasl;<sub>5</sub> . If there are 30 balls in the box, how many of them are red?",
+		"opts": {
+			"q0": "A. 3",
+			"q1": "B. 7",
+			"q2": "C. 9",
+			"q3": "D. 12",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='math_2009_sectionb_qst42_43.jpg'> The pie chart shows the distribution of 4320 students who graduated from four Departments in a University. Use the information to answer questions 42. How many students graduated from the Science Department?",
+		"opts": {
+			"q0": "A. 840",
+			"q1": "B. 864",
+			"q2": "C. 920",
+			"q3": "D. 960",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	<img src='math_2009_sectionb_qst42_43.jpg'> The pie chart shows the distribution of 4320 students who graduated from four Departments in a University. Use the information to answer questions 43. If a student is picked at random from the four departments, what is the probability that he is not from the Education Department?",
+		"opts": {
+			"q0": "A. <sup>3</sup>&frasl;<sub>10</sub>",
+			"q1": "B. <sup>2</sup>&frasl;<sub>9</sub>",
+			"q2": "C. <sup>5</sup>&frasl;<sub>18</sub>",
+			"q3": "D. <sup>7</sup>&frasl;<sub>10</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Simplify: <sup>1</sup>&frasl;<sub>2</sub> &radic;32 - &radic;18 + &radic;2",
+		"opts": {
+			"q0": "A. 0",
+			"q1": "B. &radic;2",
+			"q2": "C. 2&radic;2",
+			"q3": "D. 4&radic;2",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	<img src='math_2009_sectionb_qst45.jpg'> From the diagram, which of the following statements is/are correct? I. XQ is a radius of a circle centre Q II. /XQ/ = /QY/ III. /QX/ =/XY/",
+		"opts": {
+			"q0": "A. I only",
+			"q1": "B. I and II only",
+			"q2": "C. II and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	<img src='math_2009_sectionb_qst46.jpg'> Find the value of X in the diagram.",
+		"opts": {
+			"q0": "A. 50&deg;",
+			"q1": "B. 60&deg;",
+			"q2": "C. 70&deg;",
+			"q3": "D. 80&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The angles of a triangle are (x + 10)&deg;, (2x - 40)&deg; and (3x - 90)&deg;. Which of the following accurately describes the triangle?",
+		"opts": {
+			"q0": "A. It is a scalene triangle",
+			"q1": "B. It is a right angled isosceles triangle",
+			"q2": "C. It is an equilateral triangle",
+			"q3": "D. It is an isosceles triangle but not right angled",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which shaded region in the following diagrams represents (P u Q) n R?",
+		"opts": {
+			"q0": "A. <img src='math_2009_sectionb_qst48_1.jpg'>",
+			"q1": "B. <img src='math_2009_sectionb_qst48_2.jpg'>",
+			"q2": "C. <img src='math_2009_sectionb_qst48_3.jpg'>",
+			"q3": "D. <img src='math_2009_sectionb_qst48_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Simplify: (x - 3y)<sup>2</sup> - (x + 3y)<sup>2</sup>",
+		"opts": {
+			"q0": "A. 2(x + 3y)",
+			"q1": "B. 2(x - 3y)",
+			"q2": "C. -12xy",
+			"q3": "D. 6xy",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Find the quadratic equation whose roots are -<sup>1</sup>&frasl;<sub>2</sub> and 3.",
+		"opts": {
+			"q0": "A. 2x<sup>2</sup> - 2x + 3 = 0",
+			"q1": "B. 2x<sup>2</sup> - 2x - 3 = 0",
+			"q2": "C. 2x<sup>2</sup> - 5x + 3 = 0",
+			"q3": "D. 2x<sup>2</sup> - 5x - 3 = 0",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

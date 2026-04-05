@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The 6th term of a G.P. is -<sup>2</sup>&frasl;<sub>27</sub> and its first term is 18. What is the common ratio?",
+		"opts": {
+			"q0": "A. -<sup>1</sup>&frasl;<sub>2</sub>",
+			"q1": "B. -<sup>1</sup>&frasl;<sub>3</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>4</sub>",
+			"q3": "D. 2",
+			"q4": "E. 3"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Convert the decimal number 89 to a binary number.",
+		"opts": {
+			"q0": "A. 101101",
+			"q1": "B. 111001",
+			"q2": "C. 1001001",
+			"q3": "D. 1001101",
+			"q4": "E. 1011001"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Simplify (2<sup>1</sup>&frasl;<sub>6</sub> - 1<sup>2</sup>&frasl;<sub>3</sub>) &divide; 2<sup>2</sup>&frasl;<sub>3</sub>",
+		"opts": {
+			"q0": "A. <sup>3</sup>&frasl;<sub>16</sub>",
+			"q1": "B. <sup>7</sup>&frasl;<sub>16</sub>",
+			"q2": "C. 1<sup>13</sup>&frasl;<sub>24</sub>",
+			"q3": "D. 2<sup>11</sup>&frasl;<sub>24</sub>",
+			"q4": "E. 10<sup>2</sup>&frasl;<sub>5</sub>"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Simplify 56x<sup>-4</sup> &divide; 14x<sup>-8</sup>",
+		"opts": {
+			"q0": "A. 2x<sup>-12</sup>",
+			"q1": "B. 3x<sup>-3</sup>",
+			"q2": "C. 4x<sup>-4</sup>",
+			"q3": "D. 4x<sup>-3</sup>",
+			"q4": "E. 4x<sup>-4</sup>"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Simplify log<sub>10</sub>4 + log<sub>10</sub>25",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 2",
+			"q2": "C. 3",
+			"q3": "D. 4",
+			"q4": "E. 5"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A boy measured the length and breadth of a rectangular lawn as 59.6m and 40.3m respectively instead of 60m and 40m. What is the percentage error in his calculation of the perimeter of the lawn?",
+		"opts": {
+			"q0": "A. 10%",
+			"q1": "B. 1.4%",
+			"q2": "C. 0.7%",
+			"q3": "D. 0.2%",
+			"q4": "E. 0.1%"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Find the 9th term of the Arithmetic Progression 18, 12, 6, 0, -6.........",
+		"opts": {
+			"q0": "A. -54",
+			"q1": "B. -30",
+			"q2": "C. 30",
+			"q3": "D. 42",
+			"q4": "E. 66"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The shaded portion in the Venn diagram represents",
+		"opts": {
+			"q0": "A. X &cap; Z'",
+			"q1": "B. X &cap; Y'",
+			"q2": "C. X' &cap; Y &cap; Z",
+			"q3": "D. X &cap; Y' &cap; Z",
+			"q4": "E. X &cap; Y &cap; Z'"
+		},
+		"ans": "No Venn Diagram. Hence no solution",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Expand (2x - 5)(x - 3).",
+		"opts": {
+			"q0": "A. x<sup>2</sup> - 1x - 15",
+			"q1": "B. 2x<sup>2</sup> - 11x + 15",
+			"q2": "C. 2x<sup>2</sup> - 5x - 8",
+			"q3": "D. x<sup>2</sup> - 5x - 15",
+			"q4": "E. 2x<sup>2</sup> - 6x + 15"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Simplify <sup>5</sup>&frasl;<sub>x-y</sub> - <sup>4</sup>&frasl;<sub>y-x</sub>",
+		"opts": {
+			"q0": "A. <sup>9</sup>&frasl;<sub>x-y</sub>",
+			"q1": "B. <sup>9</sup>&frasl;<sub>y-x</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>x-y</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>y-x</sub>",
+			"q4": "E. <sup>y-9x</sup>&frasl;<sub>x-y</sub>"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	If 3p-q=6 and 2p+3q=4, find q.",
+		"opts": {
+			"q0": "A. 0",
+			"q1": "B. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q2": "C. <sup>2</sup>&frasl;<sub>3</sub>",
+			"q3": "D. 1",
+			"q4": "E. 3<sup>3</sup>&frasl;<sub>7</sub>"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	M varies directly as n and inversely as the square of p. If M = 3, when n = 2 and p = 1, find M in terms of n and p.",
+		"opts": {
+			"q0": "A. M = <sup>2n</sup>&frasl;<sub>3p</sub>",
+			"q1": "B. M = <sup>3n<sup>2</sup></sup>&frasl;<sub>2p<sup>2</sup></sub>",
+			"q2": "C. M = <sup>n<sup>2</sup></sup>&frasl;<sub>2p</sub>",
+			"q3": "D. M = <sup>3n</sup>&frasl;<sub>2p<sup>2</sup></sub>",
+			"q4": "E. M = <sup>2n</sup>&frasl;<sub>3p<sup>2</sup></sub>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	<img src='maths_1996_sectionb_qst13.jpg'> If x is a real number which of the following is more illustrated on the number line?",
+		"opts": {
+			"q0": "A. x < 4",
+			"q1": "B. x > -2",
+			"q2": "C. -2 < x &le; 4",
+			"q3": "D. -3 &le; x < 4",
+			"q4": "E. -2 &le; x < 4"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Solve the equation <sup>4</sup>&frasl;<sub>a</sub> + <sup>1</sup>&frasl;<sub>5a</sub> = 3,
+		"opts": {
+			"q0": "A. 2<sup>1</sup>&frasl;<sub>5</sub>",
+			"q1": "B. 1<sup>2</sup>&frasl;<sub>5</sub>",
+			"q2": "C. 1<sup>1</sup>&frasl;<sub>3</sub>",
+			"q3": "D. 1<sup>4</sup>&frasl;<sub>15</sub>",
+			"q4": "E. <sup>1</sup>&frasl;<sub>3</sub>"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Make p the subject of the formula y = <sup>a+p</sup>&frasl;<sub>a-p</sub>",
+		"opts": {
+			"q0": "A. <sup>2a-y</sup>&frasl;<sub>a+y</sub> = p",
+			"q1": "B. <sup>ay-1</sup>&frasl;<sub>y+1</sub> = p",
+			"q2": "C. <sup>a(y-1)</sup>&frasl;<sub>y+1</sub> = p",
+			"q3": "D. <sup>ay</sup>&frasl;<sub>y+1</sub> = p",
+			"q4": "E. <sup>2y-1</sup>&frasl;<sub>y-1</sub> = p"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Factorise 32x<sup>3</sup> - 8xy<sup>2</sup>",
+		"opts": {
+			"q0": "A. 4(4x + y)(2x - y)",
+			"q1": "B. (16x-y)(2x + y)",
+			"q2": "C. 8x(2x-y)",
+			"q3": "D. 8x(2x + y)(2x - y)",
+			"q4": "E. 4(2x + y)(4x - y)"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	The roots of a quadratic equation are -<sup>1</sup>&frasl;<sub>4</sub> and 3. The quadratic equation is",
+		"opts": {
+			"q0": "A. 4x<sup>2</sup> - 13x - 3 = 0",
+			"q1": "B. 4x<sup>2</sup> - 11x - 3 = 0",
+			"q2": "C. 4x<sup>2</sup> + 11x - 3 = 0",
+			"q3": "D. 3x<sup>2</sup> + 11x - 3 = 0",
+			"q4": "E. 3x<sup>2</sup> - 11x + 3 = 0"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The graph of 2y = 5x<sup>2</sup> - 3x<sup>2</sup> - 2 cuts the y axis at the point",
+		"opts": {
+			"q0": "A. (1,0)",
+			"q1": "B. (-<sup>2</sup>&frasl;<sub>5</sub>,0)",
+			"q2": "C. (0,-1)",
+			"q3": "D. (0,-2)",
+			"q4": "E. (0,1)"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='maths_1996_sectionb_qst19_20.jpg'> In the diagram below, O is the centre of the circle of radius 3.5cm, <POQ = 60&deg;. Use the information to answer Questions 19 and 20 [Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>]. What is the length of the major arc PXQ?",
+		"opts": {
+			"q0": "A. 22cm",
+			"q1": "B. 18<sup>1</sup>&frasl;<sub>3</sub>cm",
+			"q2": "C. 11cm",
+			"q3": "D. 9<sup>1</sup>&frasl;<sub>6</sub>cm",
+			"q4": "E. 7<sup>1</sup>&frasl;<sub>3</sub>cm"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	<img src='maths_1996_sectionb_qst19_20.jpg'> In the diagram below, O is the centre of the circle of radius 3.5cm, <POQ = 60&deg;. Use the information to answer Questions 19 and 20 [Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>]. What is the area of the minor sector POQ?",
+		"opts": {
+			"q0": "A. 148<sup>1</sup>&frasl;<sub>2</sub>cm<sup>2</sup>",
+			"q1": "B. 77cm<sup>2</sup>",
+			"q2": "C. 33<sup>1</sup>&frasl;<sub>12</sub>cm<sup>2</sup>",
+			"q3": "D. 6<sup>5</sup>&frasl;<sub>12</sub>cm<sup>2</sup>",
+			"q4": "E. 1<sup>5</sup>&frasl;<sub>5</sub>cm<sup>2</sup>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	If the hypotenuse of a right-angled isosceles triangle is 2, what is the length of each of the other sides?",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>&radic;2</sub>",
+			"q1": "B. &radic;2 - 1",
+			"q2": "C. 1",
+			"q3": "D. &radic;2",
+			"q4": "E. &radic;3"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Find, correct to 1 decimal place, the volume of cylinder of height 8cm and base radius 3cm. [Take &pi; = 3.142]",
+		"opts": {
+			"q0": "A. 503.0cm<sup>3</sup>",
+			"q1": "B. 300.0cm<sup>3</sup>",
+			"q2": "C. 250.0cm<sup>3</sup>",
+			"q3": "D. 226.2cm<sup>3</sup>",
+			"q4": "E. 150.9cm<sup>3</sup>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	One side of a rectangle is 8cm and the diagonal is 10cm. What is the area of the rectangle?",
+		"opts": {
+			"q0": "A. 80cm<sup>2</sup>",
+			"q1": "B. 48cm<sup>2</sup>",
+			"q2": "C. 40cm<sup>2</sup>",
+			"q3": "D. 36cm<sup>2</sup>",
+			"q4": "E. 24cm<sup>2</sup>"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Two towns X and Y both on latitude 60&deg;S have longitude 27&deg;E and 33&deg;W respectively. Find to the nearest kilometres, the distance between X and Y measured along the parallel of latitude. [Take 2&pi;R = 4 X 10<sup>4</sup>km, where R is the radius of the earth]",
+		"opts": {
+			"q0": "A. 28850km",
+			"q1": "B. 16667km",
+			"q2": "C. 8333km",
+			"q3": "D. 6667km",
+			"q4": "E. 3333km"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The angle of a sector of a circle of radius 35cm is 288&deg;. Find the perimeter of the sector. [Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>]",
+		"opts": {
+			"q0": "A. 246cm",
+			"q1": "B. 211cm",
+			"q2": "C. 141cm",
+			"q3": "D. 114cm",
+			"q4": "E. 44cm"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	How many sides has a polygon if the sum of its interior angles is 1440&deg;?",
+		"opts": {
+			"q0": "A. 6",
+			"q1": "B. 7",
+			"q2": "C. 8",
+			"q3": "D. 9",
+			"q4": "E. 10"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Each interior angle of a regular nonagon (nine sided polygon) is equal to",
+		"opts": {
+			"q0": "A. 160&deg;",
+			"q1": "B. 144&deg;",
+			"q2": "C. 140&deg;",
+			"q3": "D. 132&deg;",
+			"q4": "E. 36&deg;"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	<img src='maths_1996_sectionb_qst28.jpg'> In the diagram below, find x correct to the nearest degree",
+		"opts": {
+			"q0": "A. 15&deg;",
+			"q1": "B. 25&deg;",
+			"q2": "C. 26&deg;",
+			"q3": "D. 36&deg;",
+			"q4": "E. 72&deg;"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	<img src='maths_1996_sectionb_qst29.jpg'> In the diagram below, TRQ is a straight line. Find p, if p = <sup>1</sup>&frasl;<sub>3</sub> (a + b + c)",
+		"opts": {
+			"q0": "A. 45&deg;",
+			"q1": "B. 60&deg;",
+			"q2": "C. 90&deg;",
+			"q3": "D. 120&deg;",
+			"q4": "E. 150&deg;"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following is not true? You may construct a",
+		"opts": {
+			"q0": "A. triangle given all the three sides",
+			"q1": "B. triangle given one side and two angles",
+			"q2": "C. triangle given two sides and the included angle",
+			"q3": "D. quadrilateral given all the four sides",
+			"q4": "E. parallelogram given two adjacent sides and the diagonal joining them"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	<img src='maths_1996_sectionb_qst31.jpg'> In the diagram below, PQ is parallel to RST. /RS/ = /SQ/ = /TQ/ and <PQR = 35&deg;. Calculate <SQT",
+		"opts": {
+			"q0": "A. 30&deg;",
+			"q1": "B. 35&deg;",
+			"q2": "C. 40&deg;",
+			"q3": "D. 70&deg;",
+			"q4": "E. 110&deg;"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	<img src='maths_1996_sectionb_qst32.jpg'> In the diagram below, /PQ/ = /PS/ and /QR/ = /SR/. Which of the following is/are true? I. the line PR bisects < QRS II. The line PR is the perpendicular bisector of the line segment QS III. Every point on PR is equidistant from SP and QP.",
+		"opts": {
+			"q0": "A. I only",
+			"q1": "B. III only",
+			"q2": "C. I and II only",
+			"q3": "D. I and III only",
+			"q4": "E. I, II and III"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	<img src='maths_1996_sectionb_qst33.jpg'> In the diagram, <PMN = <PRQ and <PNM = <PQR. If /PM/ = 3cm, /MQ/ = 7cm and /PN/ = 5cm, find /NR/",
+		"opts": {
+			"q0": "A. 1cm",
+			"q1": "B. 3cm",
+			"q2": "C. 3<sup>1</sup>&frasl;<sub>2</sub>cm",
+			"q3": "D. 5cm",
+			"q4": "E. 6cm"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	<img src='maths_1996_sectionb_qst34.jpg'> In the diagram below, PQ is a tangent to the circle MTN at T. What is the size of <MTN?",
+		"opts": {
+			"q0": "A. 52&deg;",
+			"q1": "B. 54&deg;",
+			"q2": "C. 66&deg;",
+			"q3": "D. 72&deg;",
+			"q4": "E. 128&deg;"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	<img src='maths_1996_sectionb_qst35.jpg'> In the diagram below, KLMN is a cyclic quadrilateral. /KL/ = /KN/, <NKM = 55&deg; and <KML = 40&deg;. Find <LKM",
+		"opts": {
+			"q0": "A. 35&deg;",
+			"q1": "B. 40&deg;",
+			"q2": "C. 45&deg;",
+			"q3": "D. 50&deg;",
+			"q4": "E. 55&deg;"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	<img src='maths_1996_sectionb_qst36.jpg'> In the diagram below, <SPQ = 79&deg;. Find <SRQ.",
+		"opts": {
+			"q0": "A. 11&deg;",
+			"q1": "B. 39<sup>1</sup>&frasl;<sub>2</sub>&deg;",
+			"q2": "C. 79&deg;",
+			"q3": "D. 90&deg;",
+			"q4": "E. 101&deg;"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Two angles (a + 31) and (b - 49)&deg; are adjacent angles on a straight line. Which of the following is true",
+		"opts": {
+			"q0": "A. a + b = 198&deg;",
+			"q1": "B. a + b = 180&deg;",
+			"q2": "C. a + b = 162&deg;",
+			"q3": "D. a + b = 100&deg;",
+			"q4": "E. a + b = 80&deg;"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='maths_1996_sectionb_qst38.jpg'> The trapezium PQRS has /PS/ = /PQ/, PQ is parallel to SR, <PQS = 34&deg; and <SPQ = 2 <SRQ. Find the size of SQR",
+		"opts": {
+			"q0": "A. 58&deg;",
+			"q1": "B. 68&deg;",
+			"q2": "C. 78&deg;",
+			"q3": "D. 90&deg;",
+			"q4": "E. 112&deg;"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='maths_1996_sectionb_qst39.jpg'> In the diagram, AB, CD and XY are straight lines intersecting at W. Find <CWX",
+		"opts": {
+			"q0": "A. 20&deg;",
+			"q1": "B. 80&deg;",
+			"q2": "C. 100&deg;",
+			"q3": "D. 120&deg;",
+			"q4": "E. 140&deg;"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	If sin &theta; cos &theta;, for 0&deg; < &theta; < 360&deg;, find the value of &theta;",
+		"opts": {
+			"q0": "A. 45&deg;,225&deg;",
+			"q1": "B. 135&deg;,315&deg;",
+			"q2": "C. 45&deg;,315&deg;",
+			"q3": "D. 135&deg;,225&deg;",
+			"q4": "E. 45&deg;,135&deg;"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	If tan x = 2<sup>2</sup>&frasl;<sub>5</sub>, find the value of sin x; 0 &le; x &le; 90&deg;",
+		"opts": {
+			"q0": "A. <sup>5</sup>&frasl;<sub>13</sub>",
+			"q1": "B. <sup>5</sup>&frasl;<sub>12</sub>",
+			"q2": "C. <sup>144</sup>&frasl;<sub>169</sub>",
+			"q3": "D. <sup>12</sup>&frasl;<sub>13</sub>",
+			"q4": "E. <sup>13</sup>&frasl;<sub>12</sub>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	A town P is 150km from a town Q in the direction 050&deg;. What is the bearing of Q from P?",
+		"opts": {
+			"q0": "A. 050&deg;",
+			"q1": "B. 130&deg;",
+			"q2": "C. 230&deg;",
+			"q3": "D. 270&deg;",
+			"q4": "E. 310&deg;"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The angle of elevation of the top X of a vertical pole from a point P on a level ground is 60&deg;. The distance from P to the foot of the pole is 55m. Without using tables, find the height of the pole.",
+		"opts": {
+			"q0": "A. <sup>50</sup>&frasl;<sub>3</sub>m",
+			"q1": "B. 50m",
+			"q2": "C. 55&radic;3m",
+			"q3": "D. 60m",
+			"q4": "E. 65m"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	<img src='maths_1996_sectionb_qst44_45.jpg'> The number of goals scored by a football team in 20 matches is shown in the table below. Use the table to answer questions 44 and 45. What is the mean goal scored?",
+		"opts": {
+			"q0": "A. 0.75",
+			"q1": "B. 1.75",
+			"q2": "C. 1.9",
+			"q3": "D. 2",
+			"q4": "E. 2.15"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	<img src='maths_1996_sectionb_qst44_45.jpg'> The number of goals scored by a football team in 20 matches is shown in the table below. Use the table to answer questions 44 and 45. What is the modal goal scored?",
+		"opts": {
+			"q0": "A. 0",
+			"q1": "B. 1",
+			"q2": "C. 2",
+			"q3": "D. 5",
+			"q4": "E. 7"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The cumulative frequency curve may be used to find the",
+		"opts": {
+			"q0": "A. variance",
+			"q1": "B. standard deviation",
+			"q2": "C. mode",
+			"q3": "D. median",
+			"q4": "E. mean"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The marks obtained by pupils of class are grouped as shown below; 0 - 4, 5 - 9, 10 - 14, 15 - 19. Which of the following is/are not true? I. The mid values of the grouped marks are 2,7,12 and 17. II The class interval is 4. Ill The class boundaries are 0.5, 4.5, 9.5, 14.5 and 19.5",
+		"opts": {
+			"q0": "A. I only",
+			"q1": "B. II only",
+			"q2": "C. III only",
+			"q3": "D. I and II only",
+			"q4": "E. II and III only"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	What percentage of observation lie outside interquartile range of any distribution?",
+		"opts": {
+			"q0": "A. 12<sup>1</sup>&frasl;<sub>2</sub>%",
+			"q1": "B. 25%",
+			"q2": "C. 50%",
+			"q3": "D. 62<sup>1</sup>&frasl;<sub>2</sub>%",
+			"q4": "E. 75%"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	A bag contains 3 red, 4 black and 5 green identical balls. Two balls are picked at random, one after the other without replacement. Find the probability that one is red and the other is green.",
+		"opts": {
+			"q0": "A. <sup>2</sup>&frasl;<sub>3</sub>",
+			"q1": "B. <sup>5</sup>&frasl;<sub>11</sub>",
+			"q2": "C. <sup>5</sup>&frasl;<sub>22</sub>",
+			"q3": "D. <sup>5</sup>&frasl;<sub>24</sub>",
+			"q4": "E. <sup>5</sup>&frasl;<sub>48</sub>"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	<img src='maths_1996_sectionb_qst50.jpg'> The table gives the distribution of outcomes obtained when a die was rolled 100 times. What is the experimental probability that it shows at most 4 when rolled again?",
+		"opts": {
+			"q0": "A. <sup>8</sup>&frasl;<sub>25</sub>",
+			"q1": "B. <sup>12</sup>&frasl;<sub>25</sub>",
+			"q2": "C. <sup>13</sup>&frasl;<sub>25</sub>",
+			"q3": "D. <sup>2</sup>&frasl;<sub>3</sub>",
+			"q4": "E. <sup>17</sup>&frasl;<sub>25</sub>"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+};

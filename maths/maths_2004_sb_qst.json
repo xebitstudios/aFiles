@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Evaluate 202<sup>2</sup><sub>three</sub>-112<sup>2</sup><sub>three</sub>",
+		"opts": {
+			"q0": "A. 21120",
+			"q1": "B. 21121",
+			"q2": "C. 21112",
+			"q3": "D. 21011",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	If y = 23<sub>five</sub> + 101<sub>three</sub>, find y, leaving your answer in base two",
+		"opts": {
+			"q0": "A. 1110",
+			"q1": "B. 10111",
+			"q2": "C. 11101",
+			"q3": "D. 111100",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Given that sin (5x - 28)&deg; = cos (3x - 50)&deg;, 0 < x < 90&deg;, find the value of x",
+		"opts": {
+			"q0": "A. 14&deg;",
+			"q1": "B. 21&deg;",
+			"q2": "C. 32&deg;",
+			"q3": "D. 39&deg;",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Solve for t in the equation <sup>3</sup>&frasl;<sub>4</sub>t + <sup>1</sup>&frasl;<sub>3</sub>(21 - t) = 11",
+		"opts": {
+			"q0": "A. <sup>9</sup>&frasl;<sub>13</sub>",
+			"q1": "B. <sup>9</sup>&frasl;<sub>13</sub>",
+			"q2": "C. 5",
+			"q3": "D. 9<sup>3</sup>&frasl;<sub>5</sub>",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	A school girl spends <sup>1</sup>&frasl;<sub>4</sub> of her pocket money on books and <sup>1</sup>&frasl;<sub>3</sub> on dress. What fraction remains?",
+		"opts": {
+			"q0": "A. <sup>5</sup>&frasl;<sub>6</sub>",
+			"q1": "B. <sup>7</sup>&frasl;<sub>12</sub>",
+			"q2": "C. <sup>5</sup>&frasl;<sub>12</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>6</sub>",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='maths_2004_sectionb_qst6.jpg'> In the diagram, RPQ = QRY, PQR = RYQ, |QP| = 8cm |QY| = 4cm and |RY| = 5cm. Find |QR|",
+		"opts": {
+			"q0": "A. 2.0cm",
+			"q1": "B. 2.5cm",
+			"q2": "C. 6.4cm",
+			"q3": "D. 10.0cm",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='maths_2004_sectionb_qst7.jpg'> Find the value of x in the diagram",
+		"opts": {
+			"q0": "A. 10&deg;",
+			"q1": "B. 28&deg;",
+			"q2": "C. 36&deg;",
+			"q3": "D. 44&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	There are m boys and 12 girls in a class. What is the probability of selecting at random a girl from the class?",
+		"opts": {
+			"q0": "A. <sup>m</sup>&frasl;<sub>12</sub>",
+			"q1": "B. <sup>12</sup>&frasl;<sub>m</sub>",
+			"q2": "C. <sup>12</sup>&frasl;<sub>m + 12</sub>",
+			"q3": "D. <sup>12</sup>&frasl;<sub>m + 12</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Simplify 7<sup>1</sup>&frasl;<sub>2</sub> - (2<sup>1</sup>&frasl;<sub>2</sub> + 3) + 16<sup>1</sup>&frasl;<sub>2</sub> and correct your answer to the nearest whole number",
+		"opts": {
+			"q0": "A. 33",
+			"q1": "B. 8",
+			"q2": "C. 7",
+			"q3": "D. 0",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The angle of elevation of the top of a tower from a point on the ground which is 36m awey from the foot of the tower is 30&deg;. Calculate the height of the tower.",
+		"opts": {
+			"q0": "A. 62.35m",
+			"q1": "B. 20.78m",
+			"q2": "C. 18.00m",
+			"q3": "D. 10.39",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Find the area of a rectangle of length 4cm and whose diagonal is 8cm. (Leave your answer in surd form)",
+		"opts": {
+			"q0": "A. 8&radic;3 cm<sup>2</sup>",
+			"q1": "B. 12&radic;3 cm<sup>2</sup>",
+			"q2": "C. 16&radic;2 cm<sup>2</sup>",
+			"q3": "D. 16&radic;3 cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Given that x + y = 7 and 3x - y = 5, evaluate <sup>y</sup>&frasl;<sub>2</sub> - 3.",
+		"opts": {
+			"q0": "A. -1",
+			"q1": "B. 1",
+			"q2": "C. 3",
+			"q3": "D. 4",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	<img src='maths_2004_sectionb_qst13.jpg'> In the diagram, POQ is the diameter of the circle centre O. Calculate <QRS",
+		"opts": {
+			"q0": "A. 35&deg;",
+			"q1": "B. 70&deg;",
+			"q2": "C. 100&deg;",
+			"q3": "D. 125&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	If (<sup>1</sup>&frasl;<sub>4</sub>)<sup>(2-y)</sup> = 1, find y.",
+		"opts": {
+			"q0": "A. -2",
+			"q1": "B. -<sup>1</sup>&frasl;<sub>2</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. 2",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm",
+		"opts": {
+			"q0": "A. 1920cm<sup>2</sup>",
+			"q1": "B. 592cm<sup>2</sup>",
+			"q2": "C. 296cm<sup>2</sup>",
+			"q3": "D. 148cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	If <sup>x</sup>&frasl;<sub>a + 1</sub> + <sup>y</sup>&frasl;<sub>b</sub> = 1. Make y the subject of the relation.",
+		"opts": {
+			"q0": "A. <sup>b(a + 1 - x)</sup>&frasl;<sub>a + 1</sub>",
+			"q1": "B. <sup>a + 1</sup>&frasl;<sub>b(a - x + 1)</sub>",
+			"q2": "C. <sup>a(b - x + 1)</sup>&frasl;<sub>b + 1</sub>",
+			"q3": "D. <sup>b</sup>&frasl;<sub>a(b - x + 1)</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	If log<sup>p</sup><sub>q</sub> = r, express p in terms of q and r.",
+		"opts": {
+			"q0": "A. p = qr",
+			"q1": "B. p = r<sup>q</sup>",
+			"q2": "C. p = <sup>r</sup>&frasl;<sub>q</sub>",
+			"q3": "D. p = q<sup>r</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Find the next two terms of the sequence 1,5,14,30,50......",
+		"opts": {
+			"q0": "A. 61,110",
+			"q1": "B. 67,116",
+			"q2": "C. 81,140",
+			"q3": "D. 91,140",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Each interior angle of a regular polygon is 108&deg;. How many sides has it?",
+		"opts": {
+			"q0": "A. 5",
+			"q1": "B. 7",
+			"q2": "C. 9",
+			"q3": "D. 14",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Solve the equation 10 - 3x - x<sup>2</sup> = 0",
+		"opts": {
+			"q0": "A. x = 2 or -5",
+			"q1": "B. x = -2 or 5",
+			"q2": "C. x = <sup>r</sup>&frasl;<sub>q</sub>1 or 10",
+			"q3": "D. x = 2 or 5",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Find, correct to two decimal places, the mean of 9, 13, 16, 17, 19, 23, 24.",
+		"opts": {
+			"q0": "A. 23.00",
+			"q1": "B. 17.29",
+			"q2": "C. 16.50",
+			"q3": "D. 16.33",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	<img src='maths_2004_sectionb_qst22.jpg'> In the diagram, &#8710;XYZ is similar to &#8710;PRQ, |XY| = 5cm, |XZ| = 3.5cm and |PR| = 8cm. Find |PG|",
+		"opts": {
+			"q0": "A. 5.6cm",
+			"q1": "B. 11.2cm",
+			"q2": "C. 11.4cm",
+			"q3": "D. 28.0cm",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Factorise 27p<sup>2</sup>x<sup>2</sup> - 48y<sup>2</sup>",
+		"opts": {
+			"q0": "A. 9(3px-4y)<sup>2</sup>",
+			"q1": "B. 3(3px - 4y)(3px - 4y)",
+			"q2": "C. 9(px - 4y)(3px + 4y)",
+			"q3": "D. 3(3px - 4y)(3px + 4y)",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	What is the volume of a solid cylinder of diameter 7cm and height 7cm? (Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>)",
+		"opts": {
+			"q0": "A. 38.5cm<sup>3</sup>",
+			"q1": "B. 77cm<sup>3</sup>",
+			"q2": "C. 269.5cm<sup>3</sup>",
+			"q3": "D. 1078cm<sup>3</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Find the sum of the roots of the equation 2x<sup>2</sup> + 3x -9 = 0",
+		"opts": {
+			"q0": "A. -18",
+			"q1": "B. -6",
+			"q2": "C. -<sup>9</sup>&frasl;<sub>2</sub>",
+			"q3": "D. -<sup>3</sup>&frasl;<sub>2</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Given that £ = {1,2,3,......,10}, P= (x: x is prime) and Q = {y: y is odd}, find P' &cap; Q",
+		"opts": {
+			"q0": "A. {2}",
+			"q1": "B. {1,9,}",
+			"q2": "C. {3,5,7}",
+			"q3": "D. {4, 6, 8, 10}",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	<img src='maths_2004_sectionb_qst27.jpg'> 27. In the diagram, KS is a tangent to the circle centre O at R and <ROQ = 80&deg;. Find <QRS.",
+		"opts": {
+			"q0": "A. 90&deg;",
+			"q1": "B. 80&deg;",
+			"q2": "C. 50&deg;",
+			"q3": "D. 40&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Find the mean deviation of 6, 7, 8, 9, 10",
+		"opts": {
+			"q0": "A. 1.2",
+			"q1": "B. 1.5",
+			"q2": "C. 2",
+			"q3": "D. 8",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	A point X is on the bearing 342&deg; from a point Y. What is the bearing of Y from X?",
+		"opts": {
+			"q0": "A. 342&deg;",
+			"q1": "B. 252&deg;",
+			"q2": "C. 198&deg;",
+			"q3": "D. 162&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	<img src='maths_2004_sectionb_qst30.jpg'> In the diagram, O is the centre of the circle where OS//QR and <SOR = 35&deg;. Find the value of <QPR",
+		"opts": {
+			"q0": "A. 35&deg;",
+			"q1": "B. 45&deg;",
+			"q2": "C. 55&deg;",
+			"q3": "D. 70&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Find the average of the first four prime numbers greater than 10.",
+		"opts": {
+			"q0": "A. 20",
+			"q1": "B. 19",
+			"q2": "C. 17",
+			"q3": "D. 15",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Given that &radic;128 + &radic;18 - &radic;k = 7&radic;2, find k,",
+		"opts": {
+			"q0": "A. 8",
+			"q1": "B. 16",
+			"q2": "C. 32",
+			"q3": "D. 48",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	<img src='maths_2004_sectionb_qst33.jpg'> In the diagram, PQRW is a circle. Line P, V and QR are produced to meet at M, where <WMR = 30&deg; and |WM| = |MR| Find the value of x",
+		"opts": {
+			"q0": "A. 10&deg;",
+			"q1": "B. 25&deg;",
+			"q2": "C. 35&deg;",
+			"q3": "D. 60&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	<img src='maths_2004_sectionb_qst34_35.jpg'> The table below gives the marks scored by a group of students in a test. Use the table to answer Question 34 and 35. What is the median mark?",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 2",
+			"q2": "C. 3",
+			"q3": "D. 4",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	<img src='maths_2004_sectionb_qst34_35.jpg'> The table below gives the marks scored by a group of students in a test. Use the table to answer Question 34 and 35. What is the probability of selecting a student from the group that scored 2 or 3?",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>11</sub>",
+			"q1": "B. <sup>5</sup>&frasl;<sub>22</sub>",
+			"q2": "C. <sup>7</sup>&frasl;<sub>22</sub>",
+			"q3": "D. <sup>6</sup>&frasl;<sub>11</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Find the range of values of x for which <sup>x + 2</sup>&frasl;<sub>4</sub> - <sup>x + 1</sup>&frasl;<sub>3</sub> > <sup>1</sup>&frasl;<sub>2</sub>",
+		"opts": {
+			"q0": "A. x > 4",
+			"q1": "B. x > -4",
+			"q2": "C. x < 4",
+			"q3": "D. x < -4",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	A boy walks 800 m in 20 minutes. Calculate his average speed in km per hour",
+		"opts": {
+			"q0": "A. 2.4",
+			"q1": "B. 4",
+			"q2": "C. 16",
+			"q3": "D. 24",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Simplify <sup>2</sup>&frasl;<sub>a + b</sub> - <sup>1</sup>&frasl;<sub>a -b</sub>",
+		"opts": {
+			"q0": "A. <sup>3</sup>&frasl;<sub>a + b</sub>",
+			"q1": "B. <sup>a - 3b</sup>&frasl;<sub>a<sup>2</sup> - b<sup>2</sup></sub>",
+			"q2": "C. <sup>3a - b</sup>&frasl;<sub>a<sup>2</sup> - b<sup>2</sup></sub>",
+			"q3": "D. <sup>a - 3b</sup>&frasl;<sub>a<sup>2</sup> + b<sup>2</sup></sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='maths_2004_sectionb_qst39.jpg'> The diagram is a circle centre O. Find the value of x",
+		"opts": {
+			"q0": "A. 30&deg;",
+			"q1": "B. 50&deg;",
+			"q2": "C. 61&deg;",
+			"q3": "D. 78&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='maths_2004_sectionb_qst40_41.jpg'> Use the graph to answer question 40 and 41. What are the roots of the equation x<sup>2</sup> + 3x - 4 = 0?",
+		"opts": {
+			"q0": "A. 1,4",
+			"q1": "B. -1,-4",
+			"q2": "C. -1,4",
+			"q3": "D. -4,1",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='maths_2004_sectionb_qst40_41.jpg'> Use the graph to answer question 40 and 41. The values of x when y = 3 are approximately",
+		"opts": {
+			"q0": "A. -4.7 and 1.4",
+			"q1": "B. -4.6 and 1.5",
+			"q2": "C. -3.6 amd 0.4",
+			"q3": "D. -3.6 and 1.5",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Which of the following quadratic equations has -<sup>1</sup>&frasl;<sub>2</sub> and <sup>3</sup>&frasl;<sub>4</sub> as its roots?",
+		"opts": {
+			"q0": "A. 8x<sup>2</sup> + 11x - 3 = 0",
+			"q1": "B. 8x<sup>2</sup> - 11x - 3 = 0",
+			"q2": "C. 8x<sup>2</sup> + 2x - 3 = 0",
+			"q3": "D. 8x<sup>2</sup> - 2x - 3 = 0",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The locus of a point which moves in a plane such that it is equidistant from two fixed points X and Y is",
+		"opts": {
+			"q0": "A. the perpendicular bisector of the line segment XY",
+			"q1": "B. a line parallel to the line segment XY",
+			"q2": "C. a circle with XY as diameter",
+			"q3": "D. the line perpendicular to the line segement XY",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Given that p &prop; <sup>1</sup>&frasl;<sub>&radic;r</sub> and p = 3 when r= 16, find the value of r when p = <sup>3</sup>&frasl;<sub>2</sub>",
+		"opts": {
+			"q0": "A. 48",
+			"q1": "B. 64",
+			"q2": "C. 72",
+			"q3": "D. 324",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following is/are true? A. In a plane, the locus of points I. Equidistant from a straight line is a circle radius d where d is the distance between the point and the straight line. II Equidistant from two given points P and Q is a circle of radius |PQ|. III. Equidistant from two points is the perpendicular bisector of the line joining the two points.",
+		"opts": {
+			"q0": "A. I only",
+			"q1": "B. II only",
+			"q2": "C. III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The sides of two cubes are in the ratio 2:5. What is the ratio of their volumes?",
+		"opts": {
+			"q0": "A. 4:5",
+			"q1": "B. 8:15",
+			"q2": "C. 6:125",
+			"q3": "D. 8:125",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Given that p = 2, q = -5 and r = - 4, evaluate 3p<sup>2</sup> - q<sup>2</sup> - r<sup>3</sup>",
+		"opts": {
+			"q0": "A. 101",
+			"q1": "B. 77",
+			"q2": "C. 51",
+			"q3": "D. -27",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	A Cooperative Society charges an interest of 5<sup>1</sup>&frasl;<sub>2</sub>% per annum on any amount borrowed by its members. If a member borrows N125,000, how much does he pay back after one year?",
+		"opts": {
+			"q0": "A. N136,875",
+			"q1": "B. N131,875",
+			"q2": "C. N128,750",
+			"q3": "D. N126,250",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	A bag contains 3 red and 2 white identical balls. If 2 balls are picked at random from the bag, one after the other and with replacement, find the probability that they are of different colours",
+		"opts": {
+			"q0": "A. <sup>36</sup>&frasl;<sub>625</sub>",
+			"q1": "B. <sup>16</sup>&frasl;<sub>625</sub>",
+			"q2": "C. <sup>12</sup>&frasl;<sub>25</sub>",
+			"q3": "D. <sup>13</sup>&frasl;<sub>25</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "A point on the ground is 5m away from the foot of a vertical wall 7 m high, Calculate, correct to the nearest degree, the angle of depression of the point from the top of the wall",
+		"opts": {
+			"q0": "A. 36&deg;",
+			"q1": "B. 44&deg;",
+			"q2": "C. 46&deg;",
+			"q3": "D. 54&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

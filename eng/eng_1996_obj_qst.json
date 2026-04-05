@@ -1,0 +1,1233 @@
+﻿[
+	{
+		"headd": "Objective Test Questions: Answer all the questions",	
+		"S1": [
+			{
+				"headd": "In each of the following sentences, there is one word or group of words underlined and one gap. From the list of words lettered A to E, choose the word or group of words that is most nearly opposite in meaning to the underlined word and that will at the same time, correctly fill the gap in the sentence."
+			},
+			{
+				"qs": "1.	There is no doubt that **pride** is less desirable a quality than ...................",
+				"opts": {
+					"q0": "A. arrogance",
+					"q1": "B. honesty",
+					"q2": "C. tenderness",
+					"q3": "D. efficiency",
+					"q4": "E. humility"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "2.	Few people prefer the **rural** to the ............. areas",
+				"opts": {
+					"q0": "A. urban",
+					"q1": "B. pastoral",
+					"q2": "C. rustic",
+					"q3": "D. central",
+					"q4": "E. modern"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "3.	Emeka is quite **refined** in his manners but his colleague is rather ..................",
+				"opts": {
+					"q0": "A. arrogant",
+					"q1": "B. crude",
+					"q2": "C. courtly",
+					"q3": "D. cultured",
+					"q4": "E. unskilful"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "4.	Instead of helping to **preserve** our culture, the youth engage in activities that ................. it",
+				"opts": {
+					"q0": "A. denounce",
+					"q1": "B. alter",
+					"q2": "C. conserve",
+					"q3": "D. destroy",
+					"q4": "E. remove"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "5.	We should regard donations as ................. and not **compulsory**",
+				"opts": {
+					"q0": "A. mandatory",
+					"q1": "B. necessary",
+					"q2": "C. voluntary",
+					"q3": "D. gratuitous",
+					"q4": "E. obligatory"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "6.	The **affluence** of the politicians contrasts with the .................. of the masses",
+				"opts": {
+					"q0": "A. poverty",
+					"q1": "B. paucity",
+					"q2": "C. misery",
+					"q3": "D. plenty",
+					"q4": "E. suffering"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "7.	The importation of rice is **permitted** while that of wheat is ................",
+				"opts": {
+					"q0": "A. allowed",
+					"q1": "B. suspended",
+					"q2": "C. licensed",
+					"q3": "D. inhibited",
+					"q4": "E. prohibited"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "8.	The goal lifted the team from the **agony** of defeat to the ............... of victory",
+				"opts": {
+					"q0": "A. hope",
+					"q1": "B. desire",
+					"q2": "C. celebration",
+					"q3": "D. ceremony",
+					"q4": "E. ecstasy"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "9.	One species of the animal has gone into **extinction** while the other is still in ...................",
+				"opts": {
+					"q0": "A. antiquity",
+					"q1": "B. execution",
+					"q2": "C. oblivion",
+					"q3": "D. irrelevance",
+					"q4": "E. existence"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "10.	The Council **ratified** the controversial recommendation which we thought would be ....................",
+				"opts": {
+					"q0": "A. refuted",
+					"q1": "B. rejected",
+					"q2": "C. authenticated",
+					"q3": "D. corroborated",
+					"q4": "E. reviewed"
+				},
+				"ans": "B",
+				"sel": ""
+			}
+		],
+		"S2": [
+			{
+				"headd": "From the words lettered A to E, choose the word that best completes each of the following sentences"
+			},
+			{
+				"qs": "11.	He was sent to the Remand Home in the hope that the place would ..................... him",
+				"opts": {
+					"q0": "A. reform",
+					"q1": "B. amend",
+					"q2": "C. improve",
+					"q3": "D. renovate",
+					"q4": "E. commend"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "12.	Since there was no further comments the chairman called for the ................... of the minutes of the last meeting",
+				"opts": {
+					"q0": "A. objection",
+					"q1": "B. resolution",
+					"q2": "C. admission",
+					"q3": "D. adoption",
+					"q4": "E. correction"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "13.	There was a ten-minute .................. during the stage-performance of the play",
+				"opts": {
+					"q0": "A. interim",
+					"q1": "B. interview",
+					"q2": "C. interlude",
+					"q3": "D. interplay",
+					"q4": "E. intercession"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "14.	The judge restrained the landlord from .................. the tenant",
+				"opts": {
+					"q0": "A. ejecting",
+					"q1": "B. sacking",
+					"q2": "C. dismissing",
+					"q3": "D. punishing",
+					"q4": "E. attacking"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "15.	The soldiers pledged their ................. loyalty to their commander",
+				"opts": {
+					"q0": "A. divided",
+					"q1": "B. unalloyed",
+					"q2": "C. enormous",
+					"q3": "D. effective",
+					"q4": "E. remarkable"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "16.	Many children are suffering from .................. because of poor feeding",
+				"opts": {
+					"q0": "A. maltreatment",
+					"q1": "B. meningitis",
+					"q2": "C. hepatitis",
+					"q3": "D. conjunctivitis",
+					"q4": "E. malnutrition"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "17.	",
+				"opts": {
+					"q0": "A. ",
+					"q1": "B. ",
+					"q2": "C. ",
+					"q3": "D. ",
+					"q4": "E. "
+				},
+				"ans": "",
+				"sel": ""
+			},
+			{
+				"qs": "18.	The audience gave the actor a standing ................... for his beautiful performance",
+				"opts": {
+					"q0": "A. proclamation",
+					"q1": "B. appraisal",
+					"q2": "C. ovation",
+					"q3": "D. reward",
+					"q4": "E. clapping"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "19.	If the customer fails to honour his pledge again, his ............... will surely be in doubt",
+				"opts": {
+					"q0": "A. responsibility",
+					"q1": "B. validity",
+					"q2": "C. credulity",
+					"q3": "D. credibility",
+					"q4": "E. ability"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "20.	The judge warned that he would not tolerate any interruption of the .................. of the court",
+				"opts": {
+					"q0": "A. proceeds",
+					"q1": "B. deliberations",
+					"q2": "C. debates",
+					"q3": "D. proceedings",
+					"q4": "E. processions"
+				},
+				"ans": "D",
+				"sel": ""
+			}
+		],
+		"S3": [
+			{
+				"headd": "After each of the following sentences, a list of possible interpretations of the sentence is given. Choose tho interpretation that you consider most appropriate for each sentence"
+			},
+			{
+				"qs": "21.	I can make a little out of Tolu’s story. This means that",
+				"opts": {
+					"q0": "A. I don’t understand Tolu’s story",
+					"q1": "B. I quite appreciate Tolu’s story",
+					"q2": "C. Tolu's story is unreliable",
+					"q3": "D. Tolu’s story is biased",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "22.	Bola promised to pay Sade in her own coin. This means that Bola",
+				"opts": {
+					"q0": "A. will return Sade’s coin",
+					"q1": "B. defaulted in the repayment of a loan from Sade",
+					"q2": "C. took a loan from Sade",
+					"q3": "D. threatened to take revenge on Sade",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "23.	Contrary to our expectations, the principal rose to the occasion. This means that the principal",
+				"opts": {
+					"q0": "A. was the chairman of the occasion",
+					"q1": "B. made the most beautiful speech at the occasion",
+					"q2": "C. proved himself able to handle the situation",
+					"q3": "D. was invited as the guest-of-honour despite our objection",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "24.	The workers accused the manager of lying to take the bread out of their mouth. This means that the manager",
+				"opts": {
+					"q0": "A. wanted to deprive them of their means of livelihood",
+					"q1": "B. was very selfish",
+					"q2": "C. did not tolerate lazy workers",
+					"q3": "D. did not show enough sympathy with problems",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "25.	The journalist said his story on the minister was made from observation at close quarters. This means that the",
+				"opts": {
+					"q0": "A. journalist wrote the story within short notice",
+					"q1": "B. story was based on an interview conducted in the minister’s quarters",
+					"q2": "C. journalist had access to certain confidential materials",
+					"q3": "D. journalist observed the minister intimately",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "26.	Amaka was the cynosure of all eyes at the party. This means that",
+				"opts": {
+					"q0": "A. everybody looked down at her",
+					"q1": "B. everybody was surprised that she attended the party",
+					"q2": "C. she was notorious for her behaviour",
+					"q3": "D. she attracted everybody’s attention",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "27.	Olu often goes about with a chip on his shoulder. This means that Olu",
+				"opts": {
+					"q0": "A. behaves in a very rude manner",
+					"q1": "B. looks exactly like his father",
+					"q2": "C. moves about with the injury on his shoulder",
+					"q3": "D. walks with an air of pride and defiance",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "28.	Adamu just can’t help giving alms to the poor. This means that Adamu",
+				"opts": {
+					"q0": "A. gives alms to the poor compulsively",
+					"q1": "B. thinks poor people do not deserve pity",
+					"q2": "C. helps the poor only",
+					"q3": "D. does and give alms to the poor",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "29.	On a crucial issue like this, I am sure that Peter, as usual, will sit on the fence. This means that Peter will",
+				"opts": {
+					"q0": "A. speak out his true feelings",
+					"q1": "B. not commit himself to any side",
+					"q2": "C. be relaxing in his house instead of speaking out",
+					"q3": "D. sit on the wall between the two parties",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "30.	When Nosa applied for a loan, the bank manager requested him to put his cards on the table. This means that",
+				"opts": {
+					"q0": "A. the bank manager requested for a bribe",
+					"q1": "B. Nosa should show that he has the ability to repay the money",
+					"q2": "C. Nosa should state openly and honestly what he needed the loan for",
+					"q3": "D. the bank manager is unwilling to grant Nosa any loan",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "31.	Considering that he earns a very fat salary, the engineer ought to have built a house by now. This means that the engineer",
+				"opts": {
+					"q0": "A. has not built a house because he is still considering his salary",
+					"q1": "B. has not built a house though he earns a handsome salary",
+					"q2": "C. will spend all the money he earns if he wants to build a house",
+					"q3": "D. wants to build a house but he has not earned sufficient money",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "32.	John is too courageous a man to be dispirited by that setback. This means that John",
+				"opts": {
+					"q0": "A. experienced some difficulties but is still determined to succeed",
+					"q1": "B. gave up after the setback",
+					"q2": "C. lost the will to continue after the difficulties he encountered",
+					"q3": "D. gave up the struggle because he did not have enough courage",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "33.	Hassan should have had that promotion. This means that Hassan",
+				"opts": {
+					"q0": "A. has had the promotion",
+					"q1": "B. will have the promotion",
+					"q2": "C. will not have had the promotion",
+					"q3": "D. did not have the promotion",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "34.	By December this year, I shall have moved from Ibadan to Port Harcourt. This means that I will",
+				"opts": {
+					"q0": "A. move from Ibadan after this December",
+					"q1": "B. be in Ibadan until the end of December",
+					"q2": "C. be in Port Harcourt this December",
+					"q3": "D. move to Port Harcourt after this December",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			}
+		],
+		"S4": [
+			{
+				"headd": "From the words or group of words lettered AtoE below each of the following sentences, choose the one that is nearest in meaning to the underlined word or group of words as it is used in the sentence"
+			},
+			{
+				"qs": "35.	The minister explained that the execution of the project had been **impeded** by lack of funds",
+				"opts": {
+					"q0": "A. terminated",
+					"q1": "B. suspended",
+					"q2": "C. banned",
+					"q3": "D. cancelled",
+					"q4": "E. hindered"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "36.	The clerk was dismissed for **dereliction** of duty",
+				"opts": {
+					"q0": "A. insurbordination",
+					"q1": "B. irresponsibility",
+					"q2": "C. laziness",
+					"q3": "D. dishonesty",
+					"q4": "E. negligence"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "37.	We had to **prevail** upon him to accept the offer",
+				"opts": {
+					"q0": "A. persuade",
+					"q1": "B. over-rule",
+					"q2": "C. cajole",
+					"q3": "D. provoke",
+					"q4": "E. force"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "38.	He worked very hard all through his life but he died in **penury**",
+				"opts": {
+					"q0": "A. affluence",
+					"q1": "B. disillusionment",
+					"q2": "C. poverty",
+					"q3": "D. disappointment",
+					"q4": "E. sickness"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "39.	Mountaineering is really **an arduous** exercise",
+				"opts": {
+					"q0": "A. a troublesome",
+					"q1": "B. a strenuous",
+					"q2": "C. a severe",
+					"q3": "D. a heavy",
+					"q4": "E. an enjoyable"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "40.	He was so **engrossed** in his reading that he didn’t notice when I entered",
+				"opts": {
+					"q0": "A. absolved",
+					"q1": "B. excited",
+					"q2": "C. thrilled",
+					"q3": "D. absorbed",
+					"q4": "E. fascinated"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "41.	All that were left after the riots were the **charred** remains of vehicles and houses",
+				"opts": {
+					"q0": "A. broken",
+					"q1": "B. burnt",
+					"q2": "C. rotten",
+					"q3": "D. ugly",
+					"q4": "E. looted "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "42.	The manager warned the workers that the company would no longer tolerate their **incessant** demand for salary increase",
+				"opts": {
+					"q0": "A. unnecessary",
+					"q1": "B. irresponsible",
+					"q2": "C. discourteous",
+					"q3": "D. unreasonable",
+					"q4": "E. frequent"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "43.	The social critic was asked to **recant** the allegations he made against the government",
+				"opts": {
+					"q0": "A. withdraw",
+					"q1": "B. confirm",
+					"q2": "C. substantiate",
+					"q3": "D. elaborate",
+					"q4": "E. recount"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "44.	The politician has an **inordinate** ambition to rule the country",
+				"opts": {
+					"q0": "A. incredible",
+					"q1": "B. unwarranted",
+					"q2": "C. erratic",
+					"q3": "D. obtuse",
+					"q4": "E. excessive"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "45.	The robber’s two jail terms are to run **concurrently**",
+				"opts": {
+					"q0": "A. consecutively",
+					"q1": "B. conspicuously",
+					"q2": "C. consistently",
+					"q3": "D. alternatively",
+					"q4": "E. simultaneously"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "46.	A journalist would do well not to express **prejudicial** view",
+				"opts": {
+					"q0": "A. unbiased",
+					"q1": "B. coloured",
+					"q2": "C. biased",
+					"q3": "D. hostile",
+					"q4": "E. spiteful"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "47.	A reasonable man will never refuse to **review** his action if it becomes necessary",
+				"opts": {
+					"q0": "A. re-examine",
+					"q1": "B. inspect",
+					"q2": "C. reverse",
+					"q3": "D. recapitulate",
+					"q4": "E. visualize"
+				},
+				"ans": "C",
+				"sel": ""
+			}
+		],
+		"S5": [
+			{
+				"headd": "From the words or group of words lettered A to D, choose the one that best completes each of the following sentences"
+			},
+			{
+				"qs": "48.	His account of the incident isn’t true, he just ................",
+				"opts": {
+					"q0": "A. made it up",
+					"q1": "B. made it out",
+					"q2": "C. made it on",
+					"q3": "D. made it off",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "49.	The newly married couple are not ............... with each other",
+				"opts": {
+					"q0": "A. getting by",
+					"q1": "B. getting along",
+					"q2": "C. getting through",
+					"q3": "D. getting fine",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "50.	Ibrahim is gradually ..................... his problems",
+				"opts": {
+					"q0": "A. pulling over",
+					"q1": "B. pulling off",
+					"q2": "C. pulling through",
+					"q3": "D. pulling out",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "51.	Jide was absent from the meeting yesterday, .....................",
+				"opts": {
+					"q0": "A. didn’t he?",
+					"q1": "B. isn’t it?",
+					"q2": "C. wasn’t it?",
+					"q3": "D. wasn’t he?",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "52.	He got into trouble in an attempt to conceal the truth ............... me",
+				"opts": {
+					"q0": "A. to",
+					"q1": "B. against",
+					"q2": "C. for",
+					"q3": "D. from",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "53.	He was accompanied ........................ his friend to the party",
+				"opts": {
+					"q0": "A. with",
+					"q1": "B. by",
+					"q2": "C. over",
+					"q3": "D. around",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "54.	My father said he once saw snake ................... a chicken",
+				"opts": {
+					"q0": "A. having swallowing",
+					"q1": "B. swallowed",
+					"q2": "C. being swallowed",
+					"q3": "D. swallowing",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "55.	Mary ................. passed the examination without the extra lessons she had",
+				"opts": {
+					"q0": "A. might not",
+					"q1": "B. couldn’t have",
+					"q2": "C. would not",
+					"q3": "D. will not have",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "56.	Many people are now used to ................. without lunch",
+				"opts": {
+					"q0": "A. have gone",
+					"q1": "B. be going",
+					"q2": "C. going",
+					"q3": "D. to",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "57.	....................... round the house, I observed that there were more broken louvers than had been reported",
+				"opts": {
+					"q0": "A. Moved",
+					"q1": "B. In moving",
+					"q2": "C. To move",
+					"q3": "D. Moving",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "58.	The beleaguered soldiers skillfully .................. themselves out of trouble",
+				"opts": {
+					"q0": "A. dispatched",
+					"q1": "B. catapulted",
+					"q2": "C. maneuvered",
+					"q3": "D. proceeded",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "59.	................... so dejected, he decided to stay at home",
+				"opts": {
+					"q0": "A. Been",
+					"q1": "B. Having being",
+					"q2": "C. Being",
+					"q3": "D. Having been",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "60.	How I wish she ..................... the note in time",
+				"opts": {
+					"q0": "A. has seen",
+					"q1": "B. sees",
+					"q2": "C. has seen",
+					"q3": "D. see",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "61.	The principal, with all the teachers .................... and students",
+				"opts": {
+					"q0": "A. has arrived",
+					"q1": "B. were arriving",
+					"q2": "C. have arrived",
+					"q3": "D. were to arrive",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "62.	What ....................... these last three years?",
+				"opts": {
+					"q0": "A. are you doing with yourself",
+					"q1": "B. have you been doing with yourself",
+					"q2": "C. you have been doing with yourself",
+					"q3": "D. had you being doing with yourself",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "63.	The government has been urged to provide more facilities for training ................",
+				"opts": {
+					"q0": "A. physically disabled and mentally retardeds",
+					"q1": "B. the physically disabled and mentally retardeds",
+					"q2": "C. the physically disabled and mentally retarded",
+					"q3": "D. physically disabled and mentally retarded",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "64.	I am looking forward ..................... from you before long",
+				"opts": {
+					"q0": "A. of hearing",
+					"q1": "B. to hear",
+					"q2": "C. for hearing",
+					"q3": "D. to hearing",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "65.	The road cannot be constructed without ...........................",
+				"opts": {
+					"q0": "A. those huge earth-moving machines",
+					"q1": "B. huge machines those earth moving",
+					"q2": "C. those earth-moving huge machines",
+					"q3": "D. machines those huge earth-moving",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "66.	It was reported that he stole the radio ....................",
+				"opts": {
+					"q0": "A. didn’t he?",
+					"q1": "B. wasn’t it?",
+					"q2": "C. doesn't he?",
+					"q3": "D. wasn’t he?",
+					"q4": "E. "
+				},
+				"ans": B"",
+				"sel": ""
+			},
+			{
+				"qs": "67.	He willed his property to the poor ....................",
+				"opts": {
+					"q0": "A. isn’t it?",
+					"q1": "B. didn’t he?",
+					"q2": "C. didn’t it?",
+					"q3": "D. doesn’t he?",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "68.	I would think Sam is .................... to join the senior football team",
+				"opts": {
+					"q0": "A. so much good",
+					"q1": "B. good enough",
+					"q2": "C. more good",
+					"q3": "D. as good",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "69.	Tolu: I like playing table-tennis Yemi: ..........................",
+				"opts": {
+					"q0": "A. So am I",
+					"q1": "B. Also I do",
+					"q2": "C. I am too",
+					"q3": "D. So do I",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "70.	The bicycle ..................... on the wet grass for several days",
+				"opts": {
+					"q0": "A. has been lying",
+					"q1": "B. has laid",
+					"q2": "C. is been lying",
+					"q3": "D. have been lying",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "71.	Didn’t I give Ada the pen a while ago? ........................",
+				"opts": {
+					"q0": "A. Yes you didn’t",
+					"q1": "B. No you didn’t",
+					"q2": "C. Yes, you did",
+					"q3": "D. No she didn’t",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "72.	You didn't knock before you entered .................",
+				"opts": {
+					"q0": "A. did you?",
+					"q1": "B. isn’t it?",
+					"q2": "C. is it?",
+					"q3": "D. were you?",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "73.	Our tour of London came to an end all .................... soon",
+				"opts": {
+					"q0": "A. very",
+					"q1": "B. much",
+					"q2": "C. rather",
+					"q3": "D. too",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "74.	Ranti: 'Must we finish cracking all the nuts before noon?' Ike: No, we ........................",
+				"opts": {
+					"q0": "A. mustn’t",
+					"q1": "B. needn’t",
+					"q2": "C. shouldn’t",
+					"q3": "D. couldn't",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "75.	Each of the players .................. to receive a gift of N 10,000.00",
+				"opts": {
+					"q0": "A. are",
+					"q1": "B. were",
+					"q2": "C. is",
+					"q3": "D. have",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			}
+		],
+		"S6": [
+			{
+				"headd": "In the following passage the numbered gaps indicate missing words. Against each number in the list below each passage, five choices are offered in columns lettered A to E. For each question choose the word that is the most suitable to fill the numbered gap in the passage.",
+				"PA": [
+					"If the advantages of international trade and division of labour are as strong and --76-- as economists assert, the student of international trade may well be puzzled by the --77-- to which governments impose --78-- on their --79-- trade.",
+					"The actions of governments, however, are not swayed entirely by economic --80--. When a country aims at economic self-sufficiency, the reasons are generally --81--.",
+					"For example, a country may wish to --82-- its farming industry in order to be able to feed itself in time of war, or it may try to build an iron and --83-- industry as part of an --84-- programme.",
+					"If a conference is called to consider a reduction of --85--, a country that had imposed no restrictions on imports would find itself at a --86--, since it would have no --87-- to offer.",
+				]
+			},
+			{
+				"qst": [				
+					{
+						"opts": {
+							"q0": "A. irrefutable",
+							"q1": "B. detestable",
+							"q2": "C. invincible",
+							"q3": "D. plausible",
+							"q4": "E. honourable"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. sphere",
+							"q1": "B. range",
+							"q2": "C. stretch",
+							"q3": "D. scope",
+							"q4": "E. extent"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. limitations",
+							"q1": "B. conditions",
+							"q2": "C. inhibitions",
+							"q3": "D. constraints",
+							"q4": "E. restrictions"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. multi-lateral",
+							"q1": "B. foreign",
+							"q2": "C. bilateral",
+							"q3": "D. regional",
+							"q4": "E. local"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. contemplations",
+							"q1": "B. deliberations",
+							"q2": "C. resolutions",
+							"q3": "D. considerations",
+							"q4": "E. decisions"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. controversial",
+							"q1": "B. critical",
+							"q2": "C. tactical",
+							"q3": "D. national",
+							"q4": "E. political"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. elevate",
+							"q1": "B. appreciate",
+							"q2": "C. protect",
+							"q3": "D. keep",
+							"q4": "E. guide"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. steel",
+							"q1": "B. aluminium",
+							"q2": "C. ore",
+							"q3": "D. gold",
+							"q4": "E. petroleum"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. ammunition",
+							"q1": "B. agricultural",
+							"q2": "C. investment",
+							"q3": "D. economic",
+							"q4": "E. industrial"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. duties",
+							"q1": "B. charges",
+							"q2": "C. prices",
+							"q3": "D. tariffs",
+							"q4": "E. bills"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. handicap",
+							"q1": "B. disadvantage",
+							"q2": "C. regret",
+							"q3": "D. disfavour",
+							"q4": "E. license"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. propositions",
+							"q1": "B. adjustments",
+							"q2": "C. concessions",
+							"q3": "D. proposals",
+							"q4": "E. grants"
+						},
+						"ans": "C",
+						"sel": ""
+					}
+				]
+			},
+			{
+				"headd": "In the following passage the numbered gaps indicate missing words. Against each number in the list below each passage, five choices are offered in columns lettered A to E. For each question choose the word that is the most suitable to fill the numbered gap in the passage.",
+				"PB": [
+					"I made a visit to the University Teaching Hospital the other day. At the -88- Department where accident --89-- are treated, the doctors were battling to save the life of a man who had just been knocked down in a road accident.",
+					"They --90-- the injured man thoroughly with the aid of several --91-- instruments such as the --92-- used in measuring body temperature and the --93-- used in listening to the sound of the heart and the lungs.",
+					"By using --94--, several internal parts of the patient’s body were photographed --95-- and pain-killing injections were given. His bleeding was stopped.",
+					"The nurses --96-- his wounds and he was carried on a --97-- to the special care --98-- where those under --99-- care are kept. The doctor asked the nurses to keep the patient under close --100--.",
+				]
+			},
+			{
+				"qst": [
+					{
+						"opts": {
+							"q0": "A. Mortuary",
+							"q1": "B. Psychiatry",
+							"q2": "C. Pediatrics",
+							"q3": "D. Anatomy",
+							"q4": "E. Casualty"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. drivers",
+							"q1": "B. victims",
+							"q2": "C. motorists",
+							"q3": "D. convicts",
+							"q4": "E. culprits"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. examined",
+							"q1": "B. inspected",
+							"q2": "C. tested",
+							"q3": "D. consulted",
+							"q4": "E. healed"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. biological",
+							"q1": "B. laboratory",
+							"q2": "C. scientific",
+							"q3": "D. clinical",
+							"q4": "E. pathological"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. barometer",
+							"q1": "B. odometer",
+							"q2": "C. speedometer",
+							"q3": "D. ammeter",
+							"q4": "E. thermometer"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. microscope",
+							"q1": "B. heliotrope",
+							"q2": "C. stethoscope",
+							"q3": "D. horoscope",
+							"q4": "E. telescope"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. xerox",
+							"q1": "B. x-ray",
+							"q2": "C. xylophone",
+							"q3": "D. heat rays",
+							"q4": "E. sun rays"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. Anti-malaria",
+							"q1": "B. Immunization",
+							"q2": "C. Pathological",
+							"q3": "D. Anti-tetanus",
+							"q4": "E. Cerebral"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. decorated",
+							"q1": "B. plastered",
+							"q2": "C. rinsed",
+							"q3": "D. bathed",
+							"q4": "E. dressed"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. stretcher",
+							"q1": "B. trolley",
+							"q2": "C. bed",
+							"q3": "D. coffin",
+							"q4": "E. lift"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. house",
+							"q1": "B. ward",
+							"q2": "C. cell",
+							"q3": "D. compartment",
+							"q4": "E. room"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. critical",
+							"q1": "B. fatal",
+							"q2": "C. potent",
+							"q3": "D. serious",
+							"q4": "E. intensive"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. restriction",
+							"q1": "B. diagnosis",
+							"q2": "C. observation",
+							"q3": "D. inspection",
+							"q4": "E. confinement"
+						},
+						"ans": "C",
+						"sel": ""
+					}
+				]
+			}
+		]
+	}
+]

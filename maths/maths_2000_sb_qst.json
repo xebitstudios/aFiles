@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Express <sup>7</sup>&frasl;<sub>19</sub> as a percentage, correct to 1 decimal place",
+		"opts": {
+			"q0": "A. 2.7%",
+			"q1": "B. 3.7%",
+			"q2": "C. 27.1%",
+			"q3": "D. 36.8%",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Express 398753 correct to three significant figures",
+		"opts": {
+			"q0": "A. 398000",
+			"q1": "B. 398700",
+			"q2": "C. 398800",
+			"q3": "D. 399000",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Simplify <sup>10</sup>&frasl;<sub>&radic;32</sub>",
+		"opts": {
+			"q0": "A. <sup>5</sup>&frasl;<sub>4</sub>&radic;2",
+			"q1": "B. <sup>4</sup>&frasl;<sub>5</sub>&radic;2",
+			"q2": "C. <sup>5</sup>&frasl;<sub>16</sub>&radic;2",
+			"q3": "D. <sup>16</sup>&frasl;<sub>5</sub>&radic;2",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='maths_2000_sectionb_qst4.jpg'> Find the missing number in the addiiton of the following numbers, in base seven.",
+		"opts": {
+			"q0": "A. 3453",
+			"q1": "B. 5556",
+			"q2": "C. 6016",
+			"q3": "D. 13453",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	What fraction must be subtracted from the sum of 2<sup>1</sup>&frasl;<sub>6</sub> and 2<sup>7</sup>&frasl;<sub>12</sub> to give 3<sup>1</sup>&frasl;<sub>4</sub>?",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>3</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q2": "C. 1<sup>1</sup>&frasl;<sub>6</sub>",
+			"q3": "D. 1<sup>1</sup>&frasl;<sub>2</sub>",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Simplify (<sup>16</sup>&frasl;<sub>81</sub>) - <sup>3</sup>&frasl;<sub>4</sub> x &radic;<sup>100</sup>&frasl;<sub>81</sub>",
+		"opts": {
+			"q0": "A. <sup>80</sup>&frasl;<sub>243</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>64</sub>",
+			"q2": "C. <sup>25</sup>&frasl;<sub>6</sub>",
+			"q3": "D. <sup>15</sup>&frasl;<sub>4</sub>",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Which of the follwing numbers is a perfect cube?",
+		"opts": {
+			"q0": "A. 350",
+			"q1": "B. 504",
+			"q2": "C. 950",
+			"q3": "D. 1728",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	If 104<sub>x</sub> = 68, find the value of x",
+		"opts": {
+			"q0": "A. 5",
+			"q1": "B. 7",
+			"q2": "C. 8",
+			"q3": "D. 9",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The ages of three men are in the ratio 3 : 4 : 5. If the difference between the ages of the oldest and youngest is 18 years, find the sum of the ages of the three men.",
+		"opts": {
+			"q0": "A. 45 years",
+			"q1": "B. 72 years",
+			"q2": "C. 108 years",
+			"q3": "D. 216 years",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Given that log<sub>4</sub>x = -3, find x.",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>81</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>64</sub>",
+			"q2": "C. 64",
+			"q3": "D. 81",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Given that the logarithm of a number is 1.8732, find, correct to 2 significant figures, the square root of the number.",
+		"opts": {
+			"q0": "A. 0.29",
+			"q1": "B. 0.75",
+			"q2": "C. 0.86",
+			"q3": "D. 0.93",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A car moves at an average speed of 30kmh<sup>-1</sup>, how long does it take to cover 200 metres?",
+		"opts": {
+			"q0": "A. 2.4 sec",
+			"q1": "B. 24 sec",
+			"q2": "C. 144 sec",
+			"q3": "D. 240 sec",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	A man bought a television set on hire purchase for N25,000, out of which he paid N10,000. If he is allowed to pay the balance in eight equal instalments, find the value of each instalment.",
+		"opts": {
+			"q0": "A. N1250",
+			"q1": "B. N1578",
+			"q2": "C. N1875",
+			"q3": "D. N3125",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	A tree is 8km due south of a building. Kofi is standing 8km west of the tree. How far is Kofi from the building?",
+		"opts": {
+			"q0": "A. 4&radic;2 km",
+			"q1": "B. 8 km",
+			"q2": "C. 8&radic;2 km",
+			"q3": "D. 16 km",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	A tree is 8km due south of a building. Kofi is standing 8km west of the tree. Find the bearing of Kofi from the building.",
+		"opts": {
+			"q0": "A. 315&deg;",
+			"q1": "B. 270&deg;",
+			"q2": "C. 225&deg;",
+			"q3": "D. 135&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the following bearings is equivalent to S50&deg;W?",
+		"opts": {
+			"q0": "A. 040&deg;",
+			"q1": "B. 130&deg;",
+			"q2": "C. 220&deg;",
+			"q3": "D. 230&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	<img src='maths_2000_sectionb_qst17.jpg'> In the diagram, AB is a vertical pole and BC is horizontal. If |AC| = 10m and |BC| = 5m, calculate the angle of depression of C from A",
+		"opts": {
+			"q0": "A. 63&deg;",
+			"q1": "B. 60&deg;",
+			"q2": "C. 45&deg;",
+			"q3": "D. 27&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	<img src='maths_2000_sectionb_qst18_19.jpg'> The bar chart shows the distribution of marks scored by a group of students in a test. Use the chart to answer questions, 18 and 19. How many students scored 4 marks and above?",
+		"opts": {
+			"q0": "A. 15",
+			"q1": "B. 11",
+			"q2": "C. 10",
+			"q3": "D. 7",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='maths_2000_sectionb_qst18_19.jpg'> The bar chart shows the distribution of marks scored by a group of students in a test. Use the chart to answer questions, 18 and 19. How many students took the test?",
+		"opts": {
+			"q0": "A. 38",
+			"q1": "B. 22",
+			"q2": "C. 15",
+			"q3": "D. 11",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Calculate the standard deviation of the following marks: 2, 3, 6, 2, 5, 0, 4, 2.",
+		"opts": {
+			"q0": "A. 1.5",
+			"q1": "B. 1.7",
+			"q2": "C. 1.8",
+			"q3": "D. 1.9",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The probabilities that Kodjo and Adoga pass an examination are <sup>3</sup>&frasl;<sub>4</sub> and <sup>3</sup>&frasl;<sub>5</sub> respectively. Find the probability of both boys failing the examination.",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>10</sub>",
+			"q1": "B. <sup>3</sup>&frasl;<sub>10</sub>",
+			"q2": "C. <sup>9</sup>&frasl;<sub>20</sub>",
+			"q3": "D. <sup>2</sup>&frasl;<sub>3</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following triangles is congruent? I. <img src='maths_2000_sectionb_qst22_1.jpg'> II. <img src='maths_2000_sectionb_qst22_2.jpg'> III. <img src='maths_2000_sectionb_qst22_3.jpg'> IV. <img src='maths_2000_sectionb_qst22_4.jpg'>",
+		"opts": {
+			"q0": "A. I and III only",
+			"q1": "B. II and IV only",
+			"q2": "C. I and II only",
+			"q3": "D. II and III only",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following statements is/are not true about a rectangle? I. Each diagonal cuts the rectangle into two congruent triangles. II. A rectangle has four lines of symmetry. III. The diagonals intersect at right angles.",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. III only",
+			"q2": "C. II only",
+			"q3": "D. II and III only",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	<img src='maths_2000_sectionb_qst24.jpg'> In the diagram, PQRS is a circle centre O. POR is a diameter and <PRQ = 40&deg;. Calculate <QSR.",
+		"opts": {
+			"q0": "A. 30&deg;",
+			"q1": "B. 40&deg;",
+			"q2": "C. 45&deg;",
+			"q3": "D. 50&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Each side of a regular convex polygon subtends an angle of 30&deg; at its centre. Calculate each interior angle ",
+		"opts": {
+			"q0": "A. 75&deg;",
+			"q1": "B. 150&deg;",
+			"q2": "C. 160&deg;",
+			"q3": "D. 168&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	If the interior angles of a hexagon are 107&deg;, 2x&deg;, 150&deg;, 95&deg;,(2x - 15)&deg; and 123&deg;, find x.",
+		"opts": {
+			"q0": "A. 57<sup>1</sup>&frasl;<sub>2</sub>&deg;",
+			"q1": "B. 65&deg;",
+			"q2": "C. 106&deg;",
+			"q3": "D. 120&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	<img src='maths_2000_sectionb_qst27.jpg'> In the diagram, POS and ROT are straight lines. OPQR is a parallelogram. |OS| = |OT| and ZOST = 50&deg;. Calculate <OPQ.",
+		"opts": {
+			"q0": "A. 160&deg;",
+			"q1": "B. 140&deg;",
+			"q2": "C. 120&deg;",
+			"q3": "D. 100&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Given that x = and y = 4, evaluate 3x<sup>2</sup>y + xy<sup>2</sup>",
+		"opts": {
+			"q0": "A. -5",
+			"q1": "B. -1",
+			"q2": "C. 4",
+			"q3": "D. 11",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Given that 27<sup>(1 + x)</sup> = 9, find x.",
+		"opts": {
+			"q0": "A. -3",
+			"q1": "B. -<sup>1</sup>&frasl;<sub>3</sub>",
+			"q2": "C. <sup>5</sup>&frasl;<sub>3</sub>",
+			"q3": "D. 2",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	If x varies inversely as y and x = <sup>2</sup>&frasl;<sub>3</sub> when y = 9, find the value of y when x = <sup>3</sup>&frasl;<sub>4</sub>",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>18</sub>",
+			"q1": "B. <sup>8</sup>&frasl;<sub>81</sub>",
+			"q2": "C. <sup>9</sup>&frasl;<sub>2</sub>",
+			"q3": "D. 8",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Given that (2x + 7) is a factor of 2x<sup>2</sup> + 3x - 14, find the other factor.",
+		"opts": {
+			"q0": "A. x + 2",
+			"q1": "B. 2 - x",
+			"q2": "C. x - 2",
+			"q3": "D. x + 1",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Simplify <sup>1</sup>&frasl;<sub>x - 3</sub> - <sup>3(x - 1)</sup>&frasl;<sub>x<sup>2</sup> - 9</sub>",
+		"opts": {
+			"q0": "A. <sup>x - 1</sup>&frasl;<sub>x - 3</sub>",
+			"q1": "B. <sup>-2</sup>&frasl;<sub>x + 3</sub>",
+			"q2": "C. <sup>x - 1</sup>&frasl;<sub>x + 3</sub>",
+			"q3": "D. <sup>4x</sup>&frasl;<sub>x<sup>2</sup> - 9</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following number lines represents the inequality 2 &le; x < 9?",
+		"opts": {
+			"q0": "A. <img src='maths_2000_sectionb_qst33_1.jpg'>",
+			"q1": "B. <img src='maths_2000_sectionb_qst33_2.jpg'>",
+			"q2": "C. <img src='maths_2000_sectionb_qst33_3.jpg'>",
+			"q3": "D. <img src='maths_2000_sectionb_qst33_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	For an inequality for a distance d metres which is more than 18m, but not more than 23m.",
+		"opts": {
+			"q0": "A. 18 &le; d &le; 23",
+			"q1": "B. 18 < d &le; 23",
+			"q2": "C. 18 &le; d < 23",
+			"q3": "D. d < 18 or d > 23",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Find the equation whose roots are -8 and 5.",
+		"opts": {
+			"q0": "A. x<sup>2</sup> + 13x + 40 = 0",
+			"q1": "B. x<sup>2</sup> - 13x - 40 = 0",
+			"q2": "C. x<sup>2</sup> - 3x + 40 = 0",
+			"q3": "D. x<sup>2</sup> + 3x - 40 = 0",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Make t the subject of the formula k = m&radic;<sup>t-p</sup>&frasl;<sub>r</sub>",
+		"opts": {
+			"q0": "A. <sup>rk<sup>2</sup> + p</sup>&frasl;<sub>m<sup>2</sup></sub>",
+			"q1": "B. <sup>rk<sup>2</sup> + pm<sup>2</sup></sup>&frasl;<sub>m<sup>2</sup></sub>",
+			"q2": "C. <sup>rk<sup>2</sup> - p</sup>&frasl;<sub>m<sup>2</sup></sub>",
+			"q3": "D. <sup>rk<sup>2</sup> - p<sup>2</sup></sup>&frasl;<sub>m<sup>2</sup></sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Solve the equation 3y<sup>2</sup> = 27y.",
+		"opts": {
+			"q0": "A. y = 0 or 3",
+			"q1": "B. y = 0 or 9",
+			"q2": "C. y = -3 or 3",
+			"q3": "D. y = 3 or 9",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Find the value of x such that the expression <sup>1</sup>&frasl;<sub>x</sub> + <sup>4</sup>&frasl;<sub>3x</sub> - <sup>5</sup>&frasl;<sub>6x</sub> + 1 equals zero.",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>6</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>4</sub>",
+			"q2": "C. <sup>-3</sup>&frasl;<sub>2</sub>",
+			"q3": "D. <sup>-7</sup>&frasl;<sub>6</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Given that p varies directly as q while q varies inversely as r, which of the following statements is true?",
+		"opts": {
+			"q0": "A. r varies directly as p",
+			"q1": "B. p varies inversely as r",
+			"q2": "C. p varies directly as r",
+			"q3": "D. q varies inversely as p",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='maths_2000_sectionb_qst40.jpg'> In the diagram, PQS is a circle with centre O. RST is a tangent at S and <SOP = 96&deg;. Find <PST ",
+		"opts": {
+			"q0": "A. 42&deg;",
+			"q1": "B. 48&deg;",
+			"q2": "C. 60&deg;",
+			"q3": "D. 66&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	A bicycle wheel of radius 42cm is rolled over a distance 66 metres. How many revolutions does it make? [Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>]",
+		"opts": {
+			"q0": "A. 2.5",
+			"q1": "B. 5",
+			"q2": "C. 25",
+			"q3": "D. 50",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	The height of a pyramid on a square base is 15cm. If the volume is 80cm<sup>3</sup>, find the area of the square base.",
+		"opts": {
+			"q0": "A. 8cm<sup>2</sup>",
+			"q1": "B. 9.6cm<sup>2</sup>",
+			"q2": "C. 16cm<sup>2</sup>",
+			"q3": "D. 25cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	A tap leaks at the rate of 2cm<sup>3</sup> per second. How long will it take the tap to fill a container of 45 litres capacity? (1 litre = 1000cm<sup>3</sup>)",
+		"opts": {
+			"q0": "A. 8 hours",
+			"q1": "B. 6 hr 15 min",
+			"q2": "C. 4 hr 25 min",
+			"q3": "D. 3 hours",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The lengths of the parallel sides of a trapezium are 5cm and 7cm. If its area is 120cm<sup>2</sup>, find the perpendicular distance between the parallel sides.",
+		"opts": {
+			"q0": "A. 5.0 cm",
+			"q1": "B. 6.9 cm",
+			"q2": "C. 10.0 cm",
+			"q3": "D. 20.0 cm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The arc of a circle 50cm long, subtends an angle of 75&deg; at the centre of the circle. Find, correct to 3 significant figures, the radius of the circle. [Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>]",
+		"opts": {
+			"q0": "A. 8.74 cm",
+			"q1": "B. 38.2 cm",
+			"q2": "C. 61.2 cm",
+			"q3": "D. 76.4 cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	<img src='maths_2000_sectionb_qst46.jpg'> In the diagram, |PQ| = |PS| Which of the following statements is true?",
+		"opts": {
+			"q0": "A. <QPS = QRS",
+			"q1": "B. |PO| = |RO|",
+			"q2": "C. QR||PS",
+			"q3": "D. <PQR = <PSR",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The area of a circle is 38.5cm<sup>2</sup>. Find its diameter. [Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>]",
+		"opts": {
+			"q0": "A. 22 cm",
+			"q1": "B. 14 cm",
+			"q2": "C. 7 cm",
+			"q3": "D. 6 cm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	<img src='maths_2000_sectionb_qst48.jpg'> Find the volume (in cm<sup>3</sup>) of the solid shown below.",
+		"opts": {
+			"q0": "A. 100 cm<sup>3</sup>",
+			"q1": "B. 150 cm<sup>3</sup>",
+			"q2": "C. 175 cm<sup>3</sup>",
+			"q3": "D. 250 cm<sup>3</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Solve the equation 3 + 5x - 2x<sup>2</sup> = 0",
+		"opts": {
+			"q0": "A. -<sup>1</sup>&frasl;<sub>2</sub>,-3",
+			"q1": "B. 2,3",
+			"q2": "C. -2,3",
+			"q3": "D. -<sup>1</sup>&frasl;<sub>2</sub>,3",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	If the simple interest on N2,000 after 9 months is N60, at what rate per annum is the interest charged?",
+		"opts": {
+			"q0": "A. 2<sup>1</sup>&frasl;<sub>4</sub>%",
+			"q1": "B. 4%",
+			"q2": "C. 5%",
+			"q3": "D. 6%",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Evaluate (0.13)<sup>3</sup> correct to three significant figures.",
+		"opts": {
+			"q0": "A. 0.00219",
+			"q1": "B. 0.00220",
+			"q2": "C. 0.00300",
+			"q3": "D. 0.00390",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Simplify: 11011<sub>two</sub> - 1101<sub>two</sub>",
+		"opts": {
+			"q0": "A. 101000<sub>two</sub>",
+			"q1": "B. 1100<sub>two</sub>",
+			"q2": "C. 1110<sub>two</sub>",
+			"q3": "D. 1011<sub>two</sub>",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Simplify: <img src='math_2006_sectionb_qst3.jpg'>",
+		"opts": {
+			"q0": "A. 25",
+			"q1": "B. 1",
+			"q2": "C. <sup>1</sup>&frasl;<sub>5</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>25</sub>",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Simplify: <sup>x - 4</sup>&frasl;<sub>4</sub> - <sup>x - 3</sup>&frasl;<sub>6</sub>",
+		"opts": {
+			"q0": "A. <sup>x - 18</sup>&frasl;<sub>12</sub>",
+			"q1": "B. <sup>x - 6</sup>&frasl;<sub>12</sub>",
+			"q2": "C. <sup>x - 18</sup>&frasl;<sub>24</sub>",
+			"q3": "D. <sup>x - 6</sup>&frasl;<sub>24</sub>",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Given that y = 1 - <sup>2x</sup>&frasl;<sub>4x - 3</sub>, find the value of x for which is undefined.",
+		"opts": {
+			"q0": "A. 3",
+			"q1": "B. <sup>3</sup>&frasl;<sub>4</sub>",
+			"q2": "C. -<sup>3</sup>&frasl;<sub>4</sub>",
+			"q3": "D. -3",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	P is a point on the same plane with a fixed point A. If P moves such that it is always equidistant from A, the locus of P is",
+		"opts": {
+			"q0": "A. a straight line joining A and P",
+			"q1": "B. the perpendicular bisector of AP",
+			"q2": "C. a circle with centre A",
+			"q3": "D. the triangle with centre P",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	A fair coin is tossed three times. Find the probability of getting two heads and one tail.",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q1": "B. <sup>3</sup>&frasl;<sub>8</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>4</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>8</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	If 30% of y is equal to x, what, in terms of x, is 30% of 3y?",
+		"opts": {
+			"q0": "A. <sup>x</sup>&frasl;<sub>9</sub>",
+			"q1": "B. <sup>x</sup>&frasl;<sub>3</sub>",
+			"q2": "C. x",
+			"q3": "D. 3x",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	A baker used 40% of a 50 kg bag of flour. If <sup>1</sup>&frasl;<sub>8</sub> of the amount used was for cake, how kilograms of flour was used for cake?",
+		"opts": {
+			"q0": "A. 2<sup>1</sup>&frasl;<sub>2</sub>",
+			"q1": "B. 6<sup>1</sup>&frasl;<sub>4</sub>",
+			"q2": "C. 15<sup>5</sup>&frasl;<sub>8</sub>",
+			"q3": "D. 17<sup>1</sup>&frasl;<sub>2</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	If tan y = 0.404, where y is acute, find cos 2y",
+		"opts": {
+			"q0": "A. 0.035",
+			"q1": "B. 0.719",
+			"q2": "C. 0.808",
+			"q3": "D. 0.927",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	<img src='math_2006_sectionb_qst11.jpg'> In the diagram, PQUV, PQTU, QRTU and QRST are parallelograms. |UV| = 4.8 cm and the perpendicular distance between PR and VS is 5 cm. Calculate the area of quadrilateral PRSV",
+		"opts": {
+			"q0": "A. 96 cm<sub>2</sub>",
+			"q1": "B. 72 cm<sub>2</sub>",
+			"q2": "C. 60 cm<sub>2</sub>",
+			"q3": "D. 24 cm<sub>2</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='math_2006_sectionb_qst12.jpg'> Which of these diagrams show(s) the correct method of constructing a perpendicular line to another line PQ at a given point X on PQ?",
+		"opts": {
+			"q0": "A. I only",
+			"q1": "B. II only",
+			"q2": "C. I and II only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	<img src='math_2006_sectionb_qst13.jpg'> In the diagram, |QR| = 5 cm, PQR = 60&deg; and PSR = 45&deg;. Find |PS|, leaving your answer in surd form.",
+		"opts": {
+			"q0": "A. 4&radic;5 cm",
+			"q1": "B. 3&radic;7 cm",
+			"q2": "C. 4&radic;6 cm",
+			"q3": "D. 5&radic;6 cm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Represent the solution of the inequality <sup>x - 2</sup>&frasl;<sub>2</sub> &ge; <sup>x + 3</sup>&frasl;<sub>4</sub> on the number line.",
+		"opts": {
+			"q0": "A. <img src='math_2006_sectionb_qst14_1.jpg'>",
+			"q1": "B. <img src='math_2006_sectionb_qst14_2.jpg'>",
+			"q2": "C. <img src='math_2006_sectionb_qst14_3.jpg'>",
+			"q3": "D. <img src='math_2006_sectionb_qst14_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	<img src='math_2006_sectionb_qst15.jpg'> In the diagram, PQ//RS, find x&deg; + y&deg;",
+		"opts": {
+			"q0": "A. 360&deg;",
+			"q1": "B. 300&deg;",
+			"q2": "C. 270&deg;",
+			"q3": "D. 180&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The ratio of boys to girls in a class is 5:3. Find the probability of selecting at random, a girl from the class.",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>8</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>3</sub>",
+			"q2": "C. <sup>3</sup>&frasl;<sub>8</sub>",
+			"q3": "D. <sup>3</sup>&frasl;<sub>5</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	<img src='math_2006_sectionb_qst17.jpg'> In the diagram, PR is a diameter of the circle centre O. RS is a tangent at R and QPR = 58&deg;. Find <QRS.",
+		"opts": {
+			"q0": "A. 112&deg;",
+			"q1": "B. 116&deg;",
+			"q2": "C. 122&deg;",
+			"q3": "D. 148&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The table below satisfies the relation y = k&radic;x, where k is a positive constant. Use it to answer questions 18 and 19. Find the value of k <img src='math_2006_sectionb_qst18_19.jpg'>",
+		"opts": {
+			"q0": "A. 0.5",
+			"q1": "B. 1",
+			"q2": "C. 1.5",
+			"q3": "D. 2",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The table below satisfies the relation y = k&radic;x, where k is a positive constant. Use it to answer questions 18 and 19. Find the value of P <img src='math_2006_sectionb_qst18_19.jpg'>",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 4",
+			"q2": "C. 10",
+			"q3": "D. 25",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	What must be added to x<sup>2</sup> - 3x to make it a perfect square?",
+		"opts": {
+			"q0": "A. <sup>9</sup>&frasl;<sub>4</sub>",
+			"q1": "B. <sup>9</sup>&frasl;<sub>2</sub>",
+			"q2": "C. 6",
+			"q3": "D. 9",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	<img src='math_2006_sectionb_qst21.jpg'> In the diagram P,Q,R,S are points on the circle, RQS = 30&deg;, PRS = 50&deg; and PSQ = 20&deg;. What is the value of x&deg; + y&deg;?",
+		"opts": {
+			"q0": "A. 260&deg;",
+			"q1": "B. 130&deg;",
+			"q2": "C. 100&deg;",
+			"q3": "D. 80&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Given that (2x - 1)(x + 5) = 2x<sup>2</sup> - mx - 5, what is the value of m?",
+		"opts": {
+			"q0": "A. 11",
+			"q1": "B. 5",
+			"q2": "C. -9",
+			"q3": "D. -10",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	What is the place value of 9 in the number 3.0492?",
+		"opts": {
+			"q0": "A. <sup>9</sup>&frasl;<sub>10000</sub>",
+			"q1": "B. <sup>9</sup>&frasl;<sub>1000</sub>",
+			"q2": "C. <sup>9</sup>&frasl;<sub>100</sub>,
+			"q3": "D. <sup>9</sup>&frasl;<sub>10</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	If the simple interest on a sum of money invested at 3% per annum for 2<sup>1</sup>&frasl;<sub>2</sub> years is #123, find the principal.",
+		"opts": {
+			"q0": "A. #676.50",
+			"q1": "B. #820",
+			"q2": "C. #1,640",
+			"q3": "D. #4,920",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	A machine valued at #20,000 depreciates by 10% every year. What will be the value of the machine at the end of two years?",
+		"opts": {
+			"q0": "A. #16,200",
+			"q1": "B. #14,200",
+			"q2": "C. #12,000",
+			"q3": "D. #8,000",
+			"q4": "E. "
+		},
+		"ans": A"",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	If 2x + y = 10, and y &ne; 0, which of the following is not a possible value of x?",
+		"opts": {
+			"q0": "A. 4",
+			"q1": "B. 5",
+			"q2": "C. 8",
+			"q3": "D. 10",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	<img src='math_2006_sectionb_qst27.jpg'> In the diagram, P, Q and R are three points in a plane such that the bearing of R from Q is 110&deg; and the bearing of Q from P is 050&deg;. Find angle PQR.",
+		"opts": {
+			"q0": "A. 60&deg;",
+			"q1": "B. 70&deg;",
+			"q2": "C. 120&deg;",
+			"q3": "D. 160&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	If x + y = 12 and 3x - y = 20, find the value of 2x -y.",
+		"opts": {
+			"q0": "A. 8",
+			"q1": "B. 10",
+			"q2": "C. 12",
+			"q3": "D. 15",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Use the qraphs below to answer questions 29 and 30. What is the equation of the curve? <img src='math_2006_sectionb_qst29_30.jpg'>",
+		"opts": {
+			"q0": "A. y = 3 + 2x - x<sup>2</sup>",
+			"q1": "B. y = 3 - 2x - x<sup>2</sup>",
+			"q2": "C. y = x<sup>2</sup> + 2x - 3",
+			"q3": "D. y = x<sup>2</sup> + 2x + 3",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Use the qraphs below to answer questions 29 and 30. Which of these equations best describes the points of intersection of the curve and the line? <img src='math_2006_sectionb_qst29_30.jpg'>",
+		"opts": {
+			"q0": "A. x<sup>2</sup> + 5x - 6 = 0",
+			"q1": "B. x<sup>2</sup> - 5x - 6 = 0",
+			"q2": "C. x<sup>2</sup> + x - 6 = 0",
+			"q3": "D. x<sup>2</sup> - x - 6 = 0",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	If log<sub>a</sub>270 - log<sub>a</sub>10 + log<sub>a</sub><sup>1</sup>&frasl;<sub>3</sub>= 2, what is the value of a?",
+		"opts": {
+			"q0": "A. 3",
+			"q1": "B. 4",
+			"q2": "C. 5",
+			"q3": "D. 6",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	A conical water-jug is 7 cm in diameter and 6 cm deep. Find the volume of water it can hold. Take &pi;=<sup>22</sup>&frasl;<sub>7</sub>",
+		"opts": {
+			"q0": "A. 22 cm<sup>3</sup>",
+			"q1": "B. 44 cm<sup>3</sup>",
+			"q2": "C. 77 cm<sup>3</sup>",
+			"q3": "D. 308 cm<sup>3</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	<img src='math_2006_sectionb_qst33.jpg'> In the diagram, the two circles have a common centre O. If the area of the larger circle is 100&pi; and that of the smaller circle is 49&pi;, find x.",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 3",
+			"q2": "C. 4",
+			"q3": "D. 6",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	If <img src='math_2006_sectionb_qst34.jpg'>, make T the subject of the relation",
+		"opts": {
+			"q0": "A. T = <sup>R + P<sup>3</sup></sup>&frasl;<sub>15Q</sub>",
+			"q1": "B. T = <sup>R - 15P<sup>3</sup></sup>&frasl;<sub>Q</sub>",
+			"q2": "C. T = R - <sup>15P<sup>3</sup></sup>&frasl;<sub>Q</sub>",
+			"q3": "D. T = <sup>15R - Q</sup>&frasl;<sub>P<sup>3</sup></sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	<img src='math_2006_sectionb_qst35.jpg'> In the diagram, PQR is a straight line, QRST is a parallelogram, <TPQ = 72&deg; and <RST = 126&deg;. What type of triangle is &#x2206;PQT?",
+		"opts": {
+			"q0": "A. An equilateral triangle",
+			"q1": "B. A right-angled triangle",
+			"q2": "C. An isosceles triangle",
+			"q3": "D. A scalene triangle",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	A seller allows 20% discount for cash payment on the marked price of his goods. What is the ratio of the cash payment to the marked price?",
+		"opts": {
+			"q0": "A. 1:4",
+			"q1": "B. 1:5",
+			"q2": "C. 3:4",
+			"q3": "D. 4:5",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	<img src='math_2006_sectionb_qst37_38.jpg'> The histogram shows the marks scored by a group of pupils in a test. Use the information provided to answer questions 37 and 38. How many pupils took the test?",
+		"opts": {
+			"q0": "A. 36",
+			"q1": "B. 38",
+			"q2": "C. 39",
+			"q3": "D. 40",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='math_2006_sectionb_qst37_38.jpg'> The histogram shows the marks scored by a group of pupils in a test. Use the information provided to answer questions 37 and 38. If the pass mark was 4, what percentage of the pupils failed the test?",
+		"opts": {
+			"q0": "A. 20.0%",
+			"q1": "B. 37.5%",
+			"q2": "C. 62.5%",
+			"q3": "D. 80.0%",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Find the n<sup>th</sup> term of the sequence 5, 10, 20, 40, 80, ...",
+		"opts": {
+			"q0": "A. 5 x 2<sup>n+1</sup>",
+			"q1": "B. 2 x 5<sup>n-1</sup>",
+			"q2": "C. 5 x 2<sup>n-1</sup>",
+			"q3": "D. 5 x 5<sup>n-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='math_2006_sectionb_qst40.jpg'> The diagram shows an arc MN of a circle, centre O, with radius I0 cm. If <MON = 72&deg;, calculate the length of the arc, correct to three significant figures. Take &pi;=<sup>22</sup>&frasl;<sub>7</sub>",
+		"opts": {
+			"q0": "A. 6.28 cm",
+			"q1": "B. 12.6 cm",
+			"q2": "C. 22.6 cm",
+			"q3": "D. 62.8 cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	The wheel of a tractor has diameter 1.4 m. What distance does it cover in 100 complete revolutions? Take &pi;=<sup>22</sup>&frasl;<sub>7</sub>",
+		"opts": {
+			"q0": "A. 140 m",
+			"q1": "B. 220 m",
+			"q2": "C. 280 m",
+			"q3": "D. 440 m",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	If P = { 1, 3, 5, 7, 9 } and Q = { 2, 4, 6, 8, 10 } are subsets of a universal set U = {1,2,3, 4, 5, 6, 7, 8, 9, 10}, what are the elements of P' &cap; Q'?",
+		"opts": {
+			"q0": "A. {1,3, 5, 7, 9 }",
+			"q1": "B. {2, 4, 6. 8. 10}",
+			"q2": "C. &empty;",
+			"q3": "D. {1, 2, 6. 8, 10}",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	<img src='math_2006_sectionb_qst43.jpg'> In the diagram, what is x + y in terms of z ?",
+		"opts": {
+			"q0": "A. 180&deg; - z",
+			"q1": "B. 180&deg; + z",
+			"q2": "C. z - 180&deg;",
+			"q3": "D. z",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The values of three angles at a point are 3y - 45&deg;,y + 25&deg; and y&deg;. Find the value of y.",
+		"opts": {
+			"q0": "A. 40&deg;",
+			"q1": "B. 58&deg;",
+			"q2": "C. 68&deg;",
+			"q3": "D. 76&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	A rectangular carpet 2.5 m long and 2.4 m wide covers 5% of a rectangular floor. Calculate the area of the floor.",
+		"opts": {
+			"q0": "A. 30 m<sup>2</sup>",
+			"q1": "B. 57 m<sup>2</sup>",
+			"q2": "C. 120 m<sup>2</sup>",
+			"q3": "D. 225 m<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	<img src='math_2006_sectionb_qst46.jpg'> In the diagram, |XY| = 12 cm, |XZ| = 9 cm, |ZN| =3 cm and ZY||NM. Calculate |MY|.",
+		"opts": {
+			"q0": "A. 3 cm",
+			"q1": "B. 4 cm",
+			"q2": "C. 5 cm",
+			"q3": "D. 6 cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following is not a measure of central tendency?",
+		"opts": {
+			"q0": "A. mean",
+			"q1": "B. mode",
+			"q2": "C. range",
+			"q3": "D. median",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The temperature in a chemical plant was -5&deg;C at 2.00 a.m. The temperature fell by 6&deg;C and then rose again by 7&deg;C. What was the final temperature?",
+		"opts": {
+			"q0": "A. -6&deg;C",
+			"q1": "B. -4&deg;C",
+			"q2": "C. 4&deg;C",
+			"q3": "D. 8&deg;C",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Simplify: <sup>20</sup>&frasl;<sub>5&radic;28 - 2&radic;63</sub>",
+		"opts": {
+			"q0": "A. <sup>5&radic;7</sup>&frasl;<sub>7</sub>",
+			"q1": "B. <sup>5&radic;5</sup>&frasl;<sub>7</sub>",
+			"q2": "C. <sup>7&radic;5</sup>&frasl;<sub>5</sub>",
+			"q3": "D. <sup>7&radic;7</sup>&frasl;<sub>5</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	A ladder 16m long leans against an elecir.c pole. If the ladder makes an angle of 65&deg; with the ground, how far up the electric pole does its top reach?",
+		"opts": {
+			"q0": "A. 6.8m",
+			"q1": "B. 14.5m",
+			"q2": "C. 17.7m",
+			"q3": "D. 34.3m",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

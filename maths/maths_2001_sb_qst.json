@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following correctly expresses 48 as a product of prime factors?",
+		"opts": {
+			"q0": "A. 3 x 4 x 4",
+			"q1": "B. 2 x 3 x 8",
+			"q2": "C. 2 x 2 x 3 x 4",
+			"q3": "D. 2 x 2 x 2 x 2 x 3",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Evaluate (20<sub>three</sub>)<sup>2</sup> - (11<sub>three</sub>)<sup>2</sup> in base three",
+		"opts": {
+			"q0": "A. 101",
+			"q1": "B. 121",
+			"q2": "C. 202",
+			"q3": "D. 2020",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Evaluate log<sub>10</sub>5 + log<sub>10</sub>20",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 3",
+			"q2": "C. 4",
+			"q3": "D. 5",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	In a class of 80 students, every student studies Economics or Geography or both. If 65 students study Economics and 50 study Geography, how many study both subjects?",
+		"opts": {
+			"q0": "A. 15",
+			"q1": "B. 30",
+			"q2": "C. 35",
+			"q3": "D. 45",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	If N varies directly as M and N = 8 when M = 20, find M when N = 7",
+		"opts": {
+			"q0": "A. 13",
+			"q1": "B. 15",
+			"q2": "C. 17<sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. 18<sup>1</sup>&frasl;<sub>2</sub>",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Express 0.0462 in standard form",
+		"opts": {
+			"q0": "A. 0.462 x 10<sup>-1</sup>",
+			"q1": "B. 0.462 x 10<sup>-2</sup>",
+			"q2": "C. 4.62 x 10<sup>-1</sup>",
+			"q3": "D. 4.62 x 10<sup>-2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	In a bag of oranges, the ratio of the good ones to the bad ones is 5:4. If the number of bad oranges in the bag is 36, how many oranges are there altogether?",
+		"opts": {
+			"q0": "A. 81",
+			"q1": "B. 72",
+			"q2": "C. 54",
+			"q3": "D. 45",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	A boy estimated his transport fare for a journey as N190 instead of N200. Find the percentage error in his estimate",
+		"opts": {
+			"q0": "A. 95%",
+			"q1": "B. 47.5%",
+			"q2": "C. 5.26%",
+			"q3": "D. 5%",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Evaluate <img src='maths_2001_sectionb_qst9.jpg'>",
+		"opts": {
+			"q0": "A. <sup>8</sup>&frasl;<sub>25</sub>",
+			"q1": "B. <sup>12</sup>&frasl;<sub>25</sub>",
+			"q2": "C. 3<sup>3</sup>&frasl;<sub>5</sub>",
+			"q3": "D. 4<sup>1</sup>&frasl;<sub>8</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The nth term of a sequence is 2<sup>2n - 1</sup>. Which term of the sequence is 2<sup>9</sup>?",
+		"opts": {
+			"q0": "A. 3rd",
+			"q1": "B. 4th",
+			"q2": "C. 5th",
+			"q3": "D. 6th",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Evaluate <sup>1</sup>&frasl;<sub>2</sub> + <sup>3</sup>&frasl;<sub>4</sub> of <sup>2</sup>&frasl;<sub>5</sub> &div; 1<sup>3</sup>&frasl;<sub>5</sub>",
+		"opts": {
+			"q0": "A. <sup>15</sup>&frasl;<sub>16</sub>",
+			"q1": "B. <sup>11</sup>&frasl;<sub>16</sub>",
+			"q2": "C. <sup>49</sup>&frasl;<sub>50</sub>",
+			"q3": "D. 3<sup>1</sup>&frasl;<sub>5</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A man is four times as old as his son. The difference between their ages is 36 years. Find the sum of their ages.",
+		"opts": {
+			"q0": "A. 45 years",
+			"q1": "B. 48 years",
+			"q2": "C. 60 years",
+			"q3": "D. 74 years",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Given that y = px + q and y = 5 when x = 3, while y = 4 when x = 2, find the values of p and q.",
+		"opts": {
+			"q0": "A. p = 1, q = 3",
+			"q1": "B. p = 1, q = 2",
+			"q2": "C. p = -2, q = 3",
+			"q3": "D. p = 3, q = -2",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Evaluate <sup>x<sup>2</sup> + x - 2</sup>&frasl;<sub>2x<sup>2</sup> + x - 3</sub>",
+		"opts": {
+			"q0": "A. -2",
+			"q1": "B. -1",
+			"q2": "C. -<sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. 1",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Factorize 6x<sup>2</sup> + 7x - 20",
+		"opts": {
+			"q0": "A. (6x-5)(x+4)",
+			"q1": "B. 2(3x-5)(x+2)",
+			"q2": "C. (3x+4)(2x-5)",
+			"q3": "D. (3x-4)(2x+5)",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Simplify <sup>2x - 1</sup>&frasl;<sub>3</sub> - <sup>x + 3</sup>&frasl;<sub>2</sub>",
+		"opts": {
+			"q0": "A. <sup>x + 7</sup>&frasl;<sub>6</sub>",
+			"q1": "B. <sup>x + 8</sup>&frasl;<sub>6</sub>",
+			"q2": "C. <sup>x - 11</sup>&frasl;<sub>6</sub>",
+			"q3": "D. <sup>x - 4</sup>&frasl;<sub>6</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	If <sup>y - 3</sup>&frasl;<sub>2</sub> < <sup>2y - 1</sup>&frasl;<sub>3</sub>, which of the following is true?",
+		"opts": {
+			"q0": "A. y > 7",
+			"q1": "B. y < -7",
+			"q2": "C. y > -7",
+			"q3": "D. y < 7",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	If <sup>4m + 3n</sup>&frasl;<sub>4m - 3n</sub> = <sup>5</sup>&frasl;<sub>2</sub>, find the rato m:n",
+		"opts": {
+			"q0": "A. 7:4",
+			"q1": "B. 4:3",
+			"q2": "C. 3:4",
+			"q3": "D. 4:7",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='maths_2001_sectionb_qst19.jpg'> The number line represents ",
+		"opts": {
+			"q0": "A. 0 > x &ge; -7",
+			"q1": "B. -7 &le; x < -1",
+			"q2": "C. -7 < x &le; -1",
+			"q3": "D. -7 < x < -1",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	If 2x<sup>2</sup> + Kx - 14 = (x + 2)(2x-7), find the value of K",
+		"opts": {
+			"q0": "A. -3",
+			"q1": "B. 5",
+			"q2": "C. 9",
+			"q3": "D. 11",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following is not a quadratic expression?",
+		"opts": {
+			"q0": "A. y = 2x<sup>2</sup> - 5x",
+			"q1": "B. y = x(x - 5)",
+			"q2": "C. y = x<sup>2</sup> - 5",
+			"q3": "D. y = 5(x - 1)",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The graph of the curve y = 2x<sup>2</sup> - 5x - 1 and a straight line PQ were drawn to solve the equation 2x<sup>2</sup> -5x + 2 = 0. What is the equation of the line PQ?",
+		"opts": {
+			"q0": "A. y = -1",
+			"q1": "B. y = 1",
+			"q2": "C. y = 3",
+			"q3": "D. y = -3",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Subtract (-y + 3x + 5z) from (4y - x - 2z)",
+		"opts": {
+			"q0": "A. 5y - 4x - 7z",
+			"q1": "B. 3y + 2x + 3z",
+			"q2": "C. -5y + 4x + 7z",
+			"q3": "D. 2x - 5y + 3z",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	If y &prop; <sup>1</sup>&frasl;<sub>&radic;x</sub> and x = 16 when y = 2, find x when y = 24",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>9</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>6</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>3</sub>",
+			"q3": "D. <sup>2</sup>&frasl;<sub>3</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	If 2x : (x + 1) = 3 : 2, what i the value of x?",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q1": "B. 1",
+			"q2": "C. 1<sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. 3",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The bearing S40&deg;E is the same as",
+		"opts": {
+			"q0": "A. 040&deg;",
+			"q1": "B. 050&deg;",
+			"q2": "C. 130&deg;",
+			"q3": "D. 140&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Given that sin p = <sup>5</sup>&frasl;<sub>13</sub>, where p is acute, find the value of cos p - tan p.",
+		"opts": {
+			"q0": "A. <sup>79</sup>&frasl;<sub>156</sub>",
+			"q1": "B. <sup>85</sup>&frasl;<sub>156</sub>",
+			"q2": "C. <sup>7</sup>&frasl;<sub>13</sub>",
+			"q3": "D. <sup>8</sup>&frasl;<sub>13</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Three observation posts P, Q and R are such that Q is due east of P and R is due north of Q. If |PQ| = 5km and |PR| = 10 km, find |QR|.",
+		"opts": {
+			"q0": "A. 5.0km",
+			"q1": "B. 7.5km",
+			"q2": "C. 7.6km",
+			"q3": "D. 8.7km",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Express 25&deg; 45' in decimal (Hint 1&deg; = 60')",
+		"opts": {
+			"q0": "A. 25.75&deg;",
+			"q1": "B. 25.55&deg;",
+			"q2": "C. 25.45&deg;",
+			"q3": "D. 25.15&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	A box contains 5 red, 3 green and 4 blue balls. A boy is allowed to take away two balls from the box. What is the probability that the two balls are red?",
+		"opts": {
+			"q0": "A. <sup>5</sup>&frasl;<sub>33</sub>",
+			"q1": "B. <sup>5</sup>&frasl;<sub>36</sub>",
+			"q2": "C. <sup>103</sup>&frasl;<sub>132</sub>",
+			"q3": "D. <sup>31</sup>&frasl;<sub>36</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	A box contains 5 red, 3 green and 4 blue balls. A boy is allowed to take away two balls from the box. What is the probability that one is green the other is blue?",
+		"opts": {
+			"q0": "A. <sup>2</sup>&frasl;<sub>11</sub>",
+			"q1": "B. <sup>5</sup>&frasl;<sub>12</sub>",
+			"q2": "C. <sup>8</sup>&frasl;<sub>12</sub>",
+			"q3": "D. <sup>7</sup>&frasl;<sub>11</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	If the probability that an event will occur is p and the probability that it will not occur is q, which of the following is true?",
+		"opts": {
+			"q0": "A. p - q = 1",
+			"q1": "B. q - p = 0",
+			"q2": "C. p + q = 1",
+			"q3": "D. p + q = 0",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	<img src='maths_2001_sectionb_qst33_35.jpg'> The histogram shows the distribution of a group of students according to their ages. Use the information to answer Questions 33 to 35. What is the range of their ages?",
+		"opts": {
+			"q0": "A. 14 years",
+			"q1": "B. 20 years",
+			"q2": "C. 30.5 years",
+			"q3": "D. 31 years",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	<img src='maths_2001_sectionb_qst33_35.jpg'> The histogram shows the distribution of a group of students according to their ages. Use the information to answer Questions 33 to 35. What is the mode?",
+		"opts": {
+			"q0": "A. 22.5 years",
+			"q1": "B. 23.0 years",
+			"q2": "C. 24.0 years",
+			"q3": "D. 24.5 years",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	<img src='maths_2001_sectionb_qst33_35.jpg'> The histogram shows the distribution of a group of students according to their ages. Use the information to answer Questions 33 to 35. How many students are there in the group?",
+		"opts": {
+			"q0": "A. 25",
+			"q1": "B. 30",
+			"q2": "C. 52",
+			"q3": "D. 55",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following is not the size of an exterior angle of a regular polygon?",
+		"opts": {
+			"q0": "A. 15&deg;",
+			"q1": "B. 18&deg;",
+			"q2": "C. 20&deg;",
+			"q3": "D. 21&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	<img src='maths_2001_sectionb_qst37.jpg'> In the diagram. PQR is a triangle. |PQ| = |PR|, |PS| = |SQ| and PRS = 50&deg;. What is the size of <PSQ?",
+		"opts": {
+			"q0": "A. 75&deg;",
+			"q1": "B. 80&deg;",
+			"q2": "C. 85&deg;",
+			"q3": "D. 95&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	PQRS is a rhombus of side 16 cm. The diagonal |QS| = 20 cm. Calculate, correct to the nearest degree, <PQR",
+		"opts": {
+			"q0": "A. 51&deg;",
+			"q1": "B. 64&deg;",
+			"q2": "C. 77&deg;",
+			"q3": "D. 103&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='maths_2001_sectionb_qst39.jpg'> In the diagram, PQ is a diamter of the circle and <PRS = 58&deg;. Find <STQ",
+		"opts": {
+			"q0": "A. 29&deg;",
+			"q1": "B. 32&deg;",
+			"q2": "C. 42&deg;",
+			"q3": "D. 53&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Which of the following pairs of triangles is/are similar? I. <img src='maths_2001_sectionb_qst40_1.jpg'> II. <img src='maths_2001_sectionb_qst40_2.jpg'> III. <img src='maths_2001_sectionb_qst40_3.jpg'>",
+		"opts": {
+			"q0": "A. II only",
+			"q1": "B. III only",
+			"q2": "C. I and III only",
+			"q3": "D. II and III only",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='maths_2001_sectionb_qst41.jpg'> In the diagram, O is the centre of the circle. Reflex angle XOY = 210&deg; and the length of the minor arc is 5.5m. Find, correct to the nearest metre, the length of the major arc.",
+		"opts": {
+			"q0": "A. 8m",
+			"q1": "B. 9m",
+			"q2": "C. 10m",
+			"q3": "D. 13m",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	A right pyramid is on a square base of side 4 cm. The slanting side of the pyramid is 2&radic;3 cm. Calculate the volume ofthe pyramid.",
+		"opts": {
+			"q0": "A. 5<sup>1</sup>&frasl;<sub>3</sub>cm<sup>3</sup>",
+			"q1": "B. 10<sup>2</sup>&frasl;<sub>3</sub>cm<sup>3</sup>",
+			"q2": "C. 16cm<sup>3</sup>",
+			"q3": "D. 32cm<sup>3</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The height of a right circular cone is 4 cm. The radius of its base is 3 cm. Find its curved surface area.",
+		"opts": {
+			"q0": "A. 9 &pi;cm<sup>2</sup>",
+			"q1": "B. 15 &pi;cm<sup>2</sup>",
+			"q2": "C. 16 &pi;cm<sup>2</sup>",
+			"q3": "D. 20 &pi;cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	A chord of length 30 cm is 8 cm away from the centre of the circle. What is the radius of the circle?",
+		"opts": {
+			"q0": "A. 16cm",
+			"q1": "B. 17cm",
+			"q2": "C. 18cm",
+			"q3": "D. 20cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	A sector of a circle radius 14 cm subtends an angle 135&deg; at the centre of the circle. What is the perimeter of the sector? [Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>]",
+		"opts": {
+			"q0": "A. 47 cm",
+			"q1": "B. 61 cm",
+			"q2": "C. 88 cm",
+			"q3": "D. 231 cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	<img src='maths_2001_sectionb_qst46.jpg'> In the diagram, MN||PQ, |LM| = 3 cm and |LP| = 4cm. If the area of ALMN is 18 cm<sup>2</sup>, find the area of quadrilateral MPQN",
+		"opts": {
+			"q0": "A. 3cm<sup>2</sup>",
+			"q1": "B. 6cm<sup>2</sup>",
+			"q2": "C. 14cm<sup>2</sup>",
+			"q3": "D. 24cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	<img src='maths_2001_sectionb_qst47_48.jpg'> The diagram shows a triangular prism of length 7 cm. The right-angled triangle PQR is a cross-section of the prism. |PR| = 5 cm and |RQ| = 3 cm. Use the information to answer Questions 47 and 48. What is the area of the cross-section?",
+		"opts": {
+			"q0": "A. 4cm<sup>2</sup>",
+			"q1": "B. 6cm<sup>2</sup>",
+			"q2": "C. 15cm<sup>2</sup>",
+			"q3": "D. 20cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	<img src='maths_2001_sectionb_qst47_48.jpg'> The diagram shows a triangular prism of length 7 cm. The right-angled triangle PQR is a cross-section of the prism. |PR| = 5 cm and |RQ| = 3 cm. Use the information to answer Questions 47 and 48. What is the volume of the prism?",
+		"opts": {
+			"q0": "A. 28cm<sup>3</sup>",
+			"q1": "B. 42cm<sup>3</sup>",
+			"q2": "C. 70cm<sup>3</sup>",
+			"q3": "D. 84cm<sup>3</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	A solid cylinder of radius 7 cm is 10 cm long. Find its total surface area.",
+		"opts": {
+			"q0": "A. 70 &pi;cm<sup>2</sup>",
+			"q1": "B. 189 &pi;cm<sup>2</sup>",
+			"q2": "C. 210 &pi;cm<sup>2</sup>",
+			"q3": "D. 238 &pi;cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	<img src='maths_2001_sectionb_qst50.jpg'> PQRS is a trapezium in which |PS| = 9 cm, |QR| = 15 cm, |PQ| = 2&radic;3, <PQR = 90&deg; and <QRS = 30&deg;. Calculate the area of the trapezium.",
+		"opts": {
+			"q0": "A. 24&radic;3cm<sup>2</sup>",
+			"q1": "B. 36&radic;3cm<sup>2</sup>",
+			"q2": "C. 42&radic;3cm<sup>2</sup>",
+			"q3": "D. 72&radic;3cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

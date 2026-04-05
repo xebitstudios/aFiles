@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Evaluate &radic;20 x (&radic;5)<sup>3</sup>",
+		"opts": {
+			"q0": "A. 10",
+			"q1": "B. 20",
+			"q2": "C. 25",
+			"q3": "D. 50",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	If P = {3, 7, 11, 13} and Q = {2, 4, 8, 16}, which of the following is correct?",
+		"opts": {
+			"q0": "A. (P &cap; Q)' = {2, 3, 4, 13}",
+			"q1": "B. &cap;(P &cup; Q) = 4",
+			"q2": "C. P &cup; Q = &empty;",
+			"q3": "D. P &cap; Q = &empty;",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	It is observed that 1 + 3 = 2<sup>2</sup>, 1 + 3 + 5 = 3<sup>2</sup>, 1 + 3 + 5 + 7 = 4<sup>2</sup>. If1 + 3+5 + 7 + 9 + 11 + 13 + 15 = p<sup>2</sup>, find P.",
+		"opts": {
+			"q0": "A. 6",
+			"q1": "B. 7",
+			"q2": "C. 8",
+			"q3": "D. 9",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Evaluate 3.0 x 10<sup>1</sup> - 2.8x 10<sup>-1</sup> leaving the answer in standard form.",
+		"opts": {
+			"q0": "A. 2 x 10<sup>-1</sup>",
+			"q1": "B. 2 x 10<sup>2</sup>",
+			"q2": "C. 2.972 x 10<sup>1</sup>",
+			"q3": "D. 2.972 x 10<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	A trader makes a loss of 15% when selling an article. Find the ratio, Selling Price : Cost Price.",
+		"opts": {
+			"q0": "A. 3 : 20",
+			"q1": "B. 3 : 17",
+			"q2": "C. 17 : 20",
+			"q3": "D. 20 : 23",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The side of a square is increased from 20cm to 21cm. Calculate the percentage increase in its area",
+		"opts": {
+			"q0": "A. 2.5%",
+			"q1": "B. 9.3%",
+			"q2": "C. 10.0%",
+			"q3": "D. 10.25%",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Arrange in ascending order of magnitude: 26<sub>8</sub>, 36<sub>7</sub> and 25<sub>9</sub>.",
+		"opts": {
+			"q0": "A. 25<sub>9</sub>26<sub>8</sub>36<sub>7</sub>",
+			"q1": "B. 26<sub>8</sub>25<sub>9</sub>36<sub>7</sub>",
+			"q2": "C. 36<sub>7</sub>26<sub>8</sub>25<sub>9</sub>",
+			"q3": "D. 36<sub>7</sub>25<sub>9</sub>26<sub>8</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The side of a rhombus is 10cm long, correct to the nearest whole number. Between what limits should the perimeter P lie?",
+		"opts": {
+			"q0": "A. 39cm &le; P &le; 41cm",
+			"q1": "B. 38cm &le; P < 42cm",
+			"q2": "C. 35.5 &le; P < 41.5cm",
+			"q3": "D. 38.5cm &le; P &le; 40cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Simplify log<sub>7</sub>8 -log<sub>7</sub>2 + log<sub>7</sub>4",
+		"opts": {
+			"q0": "A. 0",
+			"q1": "B. 2 log<sub>7</sub>2",
+			"q2": "C. 3 log<sub>7</sub>2",
+			"q3": "D. 4 log<sub>7</sub>2",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	If K&radic;28 + &radic;63 - &radic;70, find K.",
+		"opts": {
+			"q0": "A. -2",
+			"q1": "B. -1",
+			"q2": "C. 1",
+			"q3": "D. 2",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	From the set A = {3, &radic;2, 2&radic;3, &radic;9, &radic;7}, a number is selected at random. Find the probability that it is a rational number.",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>5</sub>",
+			"q1": "B. <sup>2</sup>&frasl;<sub>5</sub>",
+			"q2": "C. <sup>3</sup>&frasl;<sub>5</sub>",
+			"q3": "D. <sup>4</sup>&frasl;<sub>5</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='maths_1999_sectionb_qst12_13.jpg'> The pie chart illustrates the amount of private time a student spends in a week studying various subjects. Use it to answer Questions 12 and 13. Find the value of K",
+		"opts": {
+			"q0": "A. 15&deg;",
+			"q1": "B. 30&deg;",
+			"q2": "C. 60&deg;",
+			"q3": "D. 90&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	<img src='maths_1999_sectionb_qst12_13.jpg'> The pie chart illustrates the amount of private time a student spends in a week studying various subjects. Use it to answer Questions 12 and 13. If he spends 2% hours a week on Science, find the total number of hours he studies in a week.",
+		"opts": {
+			"q0": "A. 3<sup>1</sup>&frasl;<sub>2</sub> hours",
+			"q1": "B. 5 hours",
+			"q2": "C. 8 hours",
+			"q3": "D. 12 hours",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	A group of eleven people can speak either English or French or both. Seven can speak English and six can speak French. What is the probability that a person chosen at random can speak both English and French?",
+		"opts": {
+			"q0": "A. <sup>2</sup>&frasl;<sub>11</sub>",
+			"q1": "B. <sup>4</sup>&frasl;<sub>11</sub>",
+			"q2": "C. <sup>5</sup>&frasl;<sub>11</sub>",
+			"q3": "D. <sup>11</sup>&frasl;<sub>13</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The interior angle of a regular polygon is twice the exterior angle. How many sides has the polygon?",
+		"opts": {
+			"q0": "A. 5",
+			"q1": "B. 6",
+			"q2": "C. 8",
+			"q3": "D. 9",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the following figures have one line of symmetry only? I. Isosceles Triangle II. Rhombus III. Kite",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. II and III only",
+			"q2": "C. I and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	<img src='maths_1999_sectionb_qst17.jpg'> In the diagram below, |XR| = |RY| = |YZ| and <XRY= <YRZ = 62&deg;. Calculate <XYZ",
+		"opts": {
+			"q0": "A. 50&deg;",
+			"q1": "B. 62&deg;",
+			"q2": "C. 112&deg;",
+			"q3": "D. 115&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	<img src='maths_1999_sectionb_qst18.jpg'> In the diagram, RST is a tangent to circle VSU centre O <SVU = 50&deg; and UV is a diameter. Calculate <RSV",
+		"opts": {
+			"q0": "A. 90&deg;",
+			"q1": "B. 50&deg;",
+			"q2": "C. 45&deg;",
+			"q3": "D. 40&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='maths_1999_sectionb_qst19.jpg'> Calculate the value of y from the diagram",
+		"opts": {
+			"q0": "A. 18&deg;",
+			"q1": "B. 42&deg;",
+			"q2": "C. 48&deg;",
+			"q3": "D. 132&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	<img src='maths_1999_sectionb_qst20.jpg'> In the diagram, POR is a circle with centre O. In the diagram, FOR is a circle with centre O. <QPR = 50&deg;, <PQO = 30&deg; and <ORP = m.",
+		"opts": {
+			"q0": "A. 20&deg;",
+			"q1": "B. 25&deg;",
+			"q2": "C. 30&deg;",
+			"q3": "D. 50&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Given that m = -3 and n = 2, find the value of <sup>3n<sup>2</sup> - 2m<sup>3</sup></sup>&frasl;<sub>m</sub>",
+		"opts": {
+			"q0": "A. -22",
+			"q1": "B. -14",
+			"q2": "C. 14",
+			"q3": "D. 22",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Simplify <sup>2 - 18m<sup>2</sup></sup>&frasl;<sub>1 + 3m</sub>",
+		"opts": {
+			"q0": "A. 2(1 + 3m)",
+			"q1": "B. 2(1 + 3m<sup>2</sup>)",
+			"q2": "C. 2(1 - 3m)",
+			"q3": "D. 2(1 - 3m<sup>2</sup>)",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	If y = &radic;ax - b express x in terms of y, a and b.",
+		"opts": {
+			"q0": "A. x = <sup>y<sup>2</sup> - b</sup>&frasl;<sub>a</sub>",
+			"q1": "B. x = <sup>y + b</sup>&frasl;<sub>a</sub>",
+			"q2": "C. x = <sup>y - b</sup>&frasl;<sub>a</sub>",
+			"q3": "D. x = <sup>y<sup>2</sup> + b</sup>&frasl;<sub>a</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Given that 81 x 2<sup>2n-2</sup> = K, find &radic;K.",
+		"opts": {
+			"q0": "A. 4.5 x 2<sup>n</sup>",
+			"q1": "B. 4.5 x 2<sup>2n</sup>",
+			"q2": "C. 9 x 2<sup>n-1</sup>",
+			"q3": "D. 9 x 2<sup>2n</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Simplify <sup>4</sup>&frasl;<sub>x + 1</sub> = <sup>3</sup>&frasl;<sub>x - 1</sub>",
+		"opts": {
+			"q0": "A. <sup>x + 7</sup>&frasl;<sub>x<sup>2</sup> - 1</sub>",
+			"q1": "B. <sup>x - 7</sup>&frasl;<sub>x<sup>2</sup> + 1</sub>",
+			"q2": "C. <sup>x - 7</sup>&frasl;<sub>x<sup>2</sup> - 1</sub>",
+			"q3": "D. <sup>x - 11</sup>&frasl;<sub>x<sup>2</sup> - 1</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	If y varies inversely as x<sup>2</sup>, how does x vary with y?",
+		"opts": {
+			"q0": "A. x varies inversely as y<sup>2</sup>",
+			"q1": "B. x varies inversely as &radic;y ",
+			"q2": "C. x varies directly as y<sup>2</sup>",
+			"q3": "D. x varies directly as &radic;y",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	If tan x = <sup>1</sup>&frasl;<sub>&radic;3</sub>, find cos x - sin x such that 0&deg; &le; x &le; 90&deg;",
+		"opts": {
+			"q0": "A. <sup>&radic;3 + 1</sup>&frasl;<sub>2</sub>",
+			"q1": "B. <sup>2</sup>&frasl;<sub>&radic;3 + 1</sub>",
+			"q2": "C. <sup>&radic;3 - 1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. <sup>2</sup>&frasl;<sub>&radic;3 - 1</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	From the top of a cliff 20m high, a boat can be sighted at sea 75m from the foot of the cliff. Calculate the angle of depression of the boat from the top of the cliff.",
+		"opts": {
+			"q0": "A. 14.9&deg;",
+			"q1": "B. 15.5&deg;",
+			"q2": "C. 74.5&deg;",
+			"q3": "D. 75.1&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	From the diagram below. ABC is a triangle inscribed in a circle centre O. <ACB = 40&deg; and |AB| = x cm. Calculate the radius of the circle.",
+		"opts": {
+			"q0": "A. <sup>x</sup>&frasl;<sub>sin40&deg;</sub>",
+			"q1": "B. <sup>x</sup>&frasl;<sub>cos40&deg;</sub>",
+			"q2": "C. <sup>x</sup>&frasl;<sub>2sin40&deg;</sub>",
+			"q3": "D. <sup>x</sup>&frasl;<sub>2cos40&deg;</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	<img src='maths_1999_sectionb_qst30.jpg'> The diagram shows the position of three ships. A. B and C at sea. B. is due north of C such that |AB| = |BC| and the bearing of B from A = 040&deg;. What is the bearing of A from C?",
+		"opts": {
+			"q0": "A. 040&deg;",
+			"q1": "B. 070&deg;",
+			"q2": "C. 110&deg;",
+			"q3": "D. 290&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	<img src='maths_1999_sectionb_qst31.jpg'> A pole of length L leans against a vertical wall so that it makes an angle of 60&deg; with the horizontal ground. If the top of the pole is 8m above the ground, calculate L.",
+		"opts": {
+			"q0": "A. 16&radic;3m",
+			"q1": "B. 4&radic;3m",
+			"q2": "C. <sup>&radic;3</sup>&frasl;<sub>16</sub>m",
+			"q3": "D. <sup>16&radic;3</sup>&frasl;<sub>3</sub>m",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	<img src='maths_1999_sectionb_qst32.jpg'> In the diagram, POST and QRST are parallelograms. Calculate the area of the trapezium PRST.",
+		"opts": {
+			"q0": "A. 60cm<sup>2</sup>",
+			"q1": "B. 50cm<sup>2</sup>",
+			"q2": "C. 40cm<sup>2</sup>",
+			"q3": "D. 30cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	<img src='maths_1999_sectionb_qst33.jpg'> The height of a pyramid on a square base is 15cm. If the volume is 80cm<sup>3</sup>, find the length of the side of the base.",
+		"opts": {
+			"q0": "A. 3.3cm",
+			"q1": "B. 5.3cm",
+			"q2": "C. 4.0cm",
+			"q3": "D. 8.0cm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Simplify 3.72 x 0.025 and express your answer in the standard form.",
+		"opts": {
+			"q0": "A. 9.3 x 10<sup>3</sup>",
+			"q1": "B. 9.3 x 10<sup>2</sup>",
+			"q2": "C. 9.3 x 10<sup>-2</sup>",
+			"q3": "D. 9.3 x 10<sup>-3</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Two numbers 24 and 31 are equal in value when converted to base ten. Find the equation connecting x and y.",
+		"opts": {
+			"q0": "A. 2x = 3(y-1)",
+			"q1": "B. 4x-y = 1",
+			"q2": "C. 3y + 2x = 3",
+			"q3": "D. 3y = 2(x + 3)",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	A car travels at x km per hour for 1 hour and at y km per hour for 2 hours. Find its average speed.",
+		"opts": {
+			"q0": "A. <sup>2x + 2y</sup>&frasl;<sub>3</sub> km h<sup>-1</sup>",
+			"q1": "B. <sup>x + y</sup>&frasl;<sub>3</sub> km h<sup>-1</sup>",
+			"q2": "C. <sup>x + 2y</sup>&frasl;<sub>3</sub> km h<sup>-1</sup>",
+			"q3": "D. <sup>2x + y</sup>&frasl;<sub>3</sub> km h<sup>-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The height and base of a triangle are in ratio 1 : 3 respectively. If the area of the triangle is 216cm<sup>2</sup>, find the length of the base.",
+		"opts": {
+			"q0": "A. 24cm",
+			"q1": "B. 36cm",
+			"q2": "C. 72cm",
+			"q3": "D. 144cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Water flows from a tap into a cylindrical container at the rate of 5&pi; cm<sup>3</sup> per second. If the radius of the container is 3cm, calculate the level of water in the container at the end of 9 seconds.",
+		"opts": {
+			"q0": "A. 2cm",
+			"q1": "B. 5cm",
+			"q2": "C. 8cm",
+			"q3": "D. 15cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Amina had m mangoes. She ate 3 and shared the remainder equally with her brother Uche. Each had at least 10. Which of the following inequalities represents the statements above.",
+		"opts": {
+			"q0": "A. <sup>m</sup>&frasl;<sub>2</sub> - 3 &le; 10",
+			"q1": "B. <sup>m</sup>&frasl;<sub>2</sub> - 3 &ge; 10",
+			"q2": "C. <sup>m - 3</sup>&frasl;<sub>2</sub> &ge; 10",
+			"q3": "D. <sup>m - 3</sup>&frasl;<sub>2</sub> &le; 10",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='maths_1999_sectionb_qst40.jpg'> Which of the following pairs of inequalities is represented on the number line?",
+		"opts": {
+			"q0": "A. x < -2 and x &ge; 1",
+			"q1": "B. x &le; -2 and x > 1",
+			"q2": "C. x &le; -2 and x &ge; 1",
+			"q3": "D. x < -2 and x > 1",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	If x<sup>2</sup> + 15x + 50 = ax<sup>2</sup> + bx + c = 0, which of the following statements is not true?",
+		"opts": {
+			"q0": "A. x = -5",
+			"q1": "B. x = 10",
+			"q2": "C. x + 10 = 0",
+			"q3": "D. bc = 750",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	The roots of a quadratic equation in x, are -m and 2n. Find the equation.",
+		"opts": {
+			"q0": "A. x<sup>2</sup> + x(m - 2n) - 2mn = 0",
+			"q1": "B. x<sup>2</sup> - x(m - 2n) - 2mn = 0",
+			"q2": "C. x<sup>2</sup> + x(2n - m) + 2mn = 0",
+			"q3": "D. x<sup>2</sup> + x(m - 2n) + 2mn = 0",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	A survey shows that 28% of all the men in a village wear size 9 shoes. What is the probability that a man selected at random in the village wears size 9 shoes?",
+		"opts": {
+			"q0": "A. <sup>7</sup>&frasl;<sub>25</sub>",
+			"q1": "B. <sup>41</sup>&frasl;<sub>50</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. 1",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Solve the inequality 2x + 3 < 5x.",
+		"opts": {
+			"q0": "A. x > 1",
+			"q1": "B. x < <sup>3</sup>&frasl;<sub>7</sub>",
+			"q2": "C. x > <sup>3</sup>&frasl;<sub>7</sub>",
+			"q3": "D. x > -1",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	<img src='maths_1999_sectionb_qst45.jpg'> In the diagram, DE||BC, |AD| =x cm and |DB|=|AE| = ycm. Find |CE| in terms of x and y.",
+		"opts": {
+			"q0": "A. x",
+			"q1": "B. <sup>x<sup>2</sup></sup>&frasl;<sub>y</sub>",
+			"q2": "C. <sup>y</sup>&frasl;<sub>x<sup>2</sup></sub>",
+			"q3": "D. <sup>y<sup>2</sup></sup>&frasl;<sub>x</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	<img src='maths_1999_sectionb_qst46.jpg'> Describe the locus L shown in the diagram below.",
+		"opts": {
+			"q0": "A. Locus of points equidistant from X and Y",
+			"q1": "B. Locus of points equidistant from X and Z",
+			"q2": "C. Locus of points equidistant from line ZX and line ZY",
+			"q3": "D. Locus of points equidistant from line XY and line ZY",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	<img src='maths_1999_sectionb_qst47.jpg'> Which of the following statements is true from the diagram below?",
+		"opts": {
+			"q0": "A. m + n = 90&deg;",
+			"q1": "B. m = n",
+			"q2": "C. n > 45&deg;",
+			"q3": "D. m < 45&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	<img src='maths_1999_sectionb_qst48.jpg'> In the diagram, O is the centre of the circle. <PQR = 75&deg;, <OPS = y&deg; and line OR is parallel to line PS. Find y.",
+		"opts": {
+			"q0": "A. 15",
+			"q1": "B. 30",
+			"q2": "C. 45",
+			"q3": "D. 75",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The sides of a right-angle triangle, in ascending order of magnitude are 8cm, (x - 2) cm and x cm. Find x.",
+		"opts": {
+			"q0": "A. 16",
+			"q1": "B. 17",
+			"q2": "C. 34",
+			"q3": "D. 90",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	<img src='maths_1999_sectionb_qst50.jpg'> In the diagram, CDE is a triangle, ABEF is cyclic quadrilateral, AB || CD, <BAF = 65&deg; and <AFE = 85&deg;. Calculate <CDE",
+		"opts": {
+			"q0": "A. 20&deg;",
+			"q1": "B. 30&deg;",
+			"q2": "C. 50&deg;",
+			"q3": "D. 65&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

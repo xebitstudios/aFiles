@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Evaluate (111<sub>two</sub>)<sup>2</sup> and leave your answer in base 2.",
+		"opts": {
+			"q0": "A. 111001<sub>two</sub>",
+			"q1": "B. 110001<sub>two</sub>",
+			"q2": "C. 101001<sub>two</sub>",
+			"q3": "D. 10010<sub>two</sub>",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Find the LCM of 2<sup>3</sup> x 3 x 5<sup>2</sup>, 2 x 3<sup>2</sup> x 5 and 2<sup>2</sup> x 3<sup>3</sup> x 5.",
+		"opts": {
+			"q0": "A. 2<sup>2</sup> x 3<sup>3</sup> x 5<sup>2</sup>",
+			"q1": "B. 2<sup>3</sup> x 3<sup>3</sup> x 5",
+			"q2": "C. 2<sup>2</sup> x 3<sup>2</sup> x 5<sup>2</sup>",
+			"q3": "D. 2<sup>3</sup> x 3<sup>3</sup> x 5<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Simplify (0.3 x 10<sup>5</sup>) &#8725; (0.4 x 10<sup>7</sup>), leaving your answer in the standard form.",
+		"opts": {
+			"q0": "A. 7.5 x 10<sup>-4</sup>",
+			"q1": "B. 7.5 x 10<sup>-3</sup>",
+			"q2": "C. 7.5 x 10<sup>-2</sup>",
+			"q3": "D. 7.5 x 10<sup>-1</sup>",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	If p &prop; <sup>1</sup>&frasl;<sub>q</sub>, which of the following is true?",
+		"opts": {
+			"q0": "A. q &prop; p<sup>2</sup>",
+			"q1": "B. q &prop; <sup>1</sup>&frasl;<sub>p<sup>2</sup></sub>",
+			"q2": "C. q &prop; &radic;p",
+			"q3": "D. q &prop; <sup>1</sup>&frasl;<sub>p</sub>",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Simplify 3&radic;45 - 12&radic;5 + 16&radic;20, leaving your answer in surd form.",
+		"opts": {
+			"q0": "A. 29&radic;5",
+			"q1": "B. 14&radic;15",
+			"q2": "C. 12&radic;15",
+			"q3": "D. 11&radic;5",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the following statements is true for the set P = {-3.2 &le; x < 5} where x is an integer?",
+		"opts": {
+			"q0": "A. Least value of x is-3.2",
+			"q1": "B. Least value of x is -3",
+			"q2": "C. Greatest value of x is 4.9",
+			"q3": "D. Greatest value of x is 5",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Simplify: <sup>3x<sup>3</sup></sup>&frasl;<sub>(3x)<sup>3</sup></sub>",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. <sup>1</sup>&frasl;<sub>3</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>9</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>27</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	N140,000 is shared between Abu, Kayode and Uche. Abu has twice as much as Kayode, and Kayode has twice as much as Uche. What is Kayode’s share?",
+		"opts": {
+			"q0": "A. N80,000",
+			"q1": "B. N40,000",
+			"q2": "C. N20,000",
+			"q3": "D. N10,000",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	I am x years old and my brother is 3 years older. How old was my brother last year?",
+		"opts": {
+			"q0": "A. (x - 4) years",
+			"q1": "B. (x + 2) years",
+			"q2": "C. (3x - 1) years",
+			"q3": "D. (3x + 1) years",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	For what value of x is the expression <sup>2x - 1</sup>&frasl;<sub>x + 3</sub> not defined?",
+		"opts": {
+			"q0": "A. 3",
+			"q1": "B. 2",
+			"q2": "C. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. -3",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	If x = 3, y = 2 and z = 4, what is the value of 3x<sup>2</sup>-2y+ z?",
+		"opts": {
+			"q0": "A. 17",
+			"q1": "B. 27",
+			"q2": "C. 35",
+			"q3": "D. 71",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Solve the simultaneous equations: x + y= 2 and 3x - 2y = 1.",
+		"opts": {
+			"q0": "A. x = 2 and y = 1",
+			"q1": "B. x = 1 and y = 1",
+			"q2": "C. x = 1 and y = 2",
+			"q3": "D. x = -1 and y = 1",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	If 8<sup>x+1</sup> = <sup>1</sup>&frasl;<sub>4</sub>, find x",
+		"opts": {
+			"q0": "A. -<sup>5</sup>&frasl;<sub>3</sub>",
+			"q1": "B. -1",
+			"q2": "C. -<sup>1</sup>&frasl;<sub>3</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>3</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	The area of a square field is 110.25 m<sup>2</sup>. Find the cost of fencing it round at N75.00 per metre",
+		"opts": {
+			"q0": "A. N1,575.00",
+			"q1": "B. N3,150.00",
+			"q2": "C. N4,734.30",
+			"q3": "D. N8,268.75",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	A chord of length 6 cm is drawn in a circle of radius 5 cm. Find the distance of the chord from the centre of the circle.",
+		"opts": {
+			"q0": "A. 2.5 cm",
+			"q1": "B. 3.0 cm",
+			"q2": "C. 3.5 cm",
+			"q3": "D. 4.0 cm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	A sector of a circle of radius 14 cm containing an angle 60&deg; is folded to form a cone. Calculate the radius of the base of the cone.",
+		"opts": {
+			"q0": "A. 5<sup>1</sup>&frasl;<sub>2</sub> cm",
+			"q1": "B. 4<sup>2</sup>&frasl;<sub>3</sub> cm",
+			"q2": "C. 3<sup>1</sup>&frasl;<sub>2</sub> cm",
+			"q3": "D. 2<sup>1</sup>&frasl;<sub>3</sub> cm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	In the diagram, |LN| = 4 cm, LNM = 90&deg; and tan y = <sup>2</sup>&frasl;<sub>3</sub>. What is the area of the &#x2206;LMN? <img src='math_2007_sectionb_qst17.jpg'>",
+		"opts": {
+			"q0": "A. 24 cm<sup>2</sup>",
+			"q1": "B. 12 cm<sup>2</sup>",
+			"q2": "C. 10 cm<sup>2</sup>",
+			"q3": "D. 6 cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Find the volume of a solid cylinder with base radius 10 cm and height 14 cm. Take &pi;=<sup>22</sup>&frasl;<sub>7</sub>",
+		"opts": {
+			"q0": "A. 220 cm<sup>3</sup>",
+			"q1": "B. 880 cm<sup>3</sup>",
+			"q2": "C. 1400 cm<sup>3</sup>",
+			"q3": "D. 4400 cm<sup>3</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='math_2007_sectionb_qst19.jpg'> From the diagram, find the value of x.",
+		"opts": {
+			"q0": "A. 80&deg;",
+			"q1": "B. 70&deg;",
+			"q2": "C. 55&deg;",
+			"q3": "D. 35&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	<img src='math_2007_sectionb_qst20.jpg'> Find the value of x in the diagram.",
+		"opts": {
+			"q0": "A. 281&deg;",
+			"q1": "B. 269&deg;",
+			"q2": "C. 201&deg;",
+			"q3": "D. 179&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Each interior angle of a regular polygon is 162&deg;. How many sides has the polygon?",
+		"opts": {
+			"q0": "A. 8",
+			"q1": "B. 12",
+			"q2": "C. 16",
+			"q3": "D. 20",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	<img src='math_2007_sectionb_qst22.jpg'> From the diagram, find the value of x.",
+		"opts": {
+			"q0": "A. 40",
+			"q1": "B. 30",
+			"q2": "C. 25",
+			"q3": "D. 20",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	<img src='math_2007_sectionb_qst23.jpg'> In the diagram, /SP/ = /SR/ and <PRS = 50&deg;. Calculate <PQR.",
+		"opts": {
+			"q0": "A. 120&deg;",
+			"q1": "B. 110&deg;",
+			"q2": "C. 100&deg;",
+			"q3": "D. 80&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	<img src='math_2007_sectionb_qst24.jpg'> In the diagram, O is the centre of the circle and <PQR = 106&deg;. Find the value of y.",
+		"opts": {
+			"q0": "A. 16",
+			"q1": "B. 37",
+			"q2": "C. 74",
+			"q3": "D. 127",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	In a &#x2206;PQR, <PQR = <PRQ = 45&deg;. Which of the following statements is/ are correct? I.	&#x2206;PQR is an equilateral triangle II. &#x2206;PQR is an isosceles triangle III. &#x2206;PQR is a right-angled triangle.",
+		"opts": {
+			"q0": "A. II only",
+			"q1": "B. I and II only",
+			"q2": "C. II and III only",
+			"q3": "D. I and III only",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	<img src='math_2007_sectionb_qst26.jpg'> The table gives the distribution of the marks of a number of students in a test. Find the mode of the distribution.",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 3",
+			"q2": "C. 5",
+			"q3": "D. 6",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	If the probability of an event occurring is x, what is the probability of the event not occurring?",
+		"opts": {
+			"q0": "A. 1 - x",
+			"q1": "B. x - 1",
+			"q2": "C. 0",
+			"q3": "D. <sup>1</sup>&frasl;<sub>x</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	<img src='math_2007_sectionb_qst28_29.jpg'> The table shows the ages (in years) of twenty children chosen at random from a community Use the information provided to answer questions 28 and 29. What is the mean age?",
+		"opts": {
+			"q0": "A. 4.46 years",
+			"q1": "B. 3.35 years",
+			"q2": "C. 3.30 years",
+			"q3": "D. 3.00 years",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	<img src='math_2007_sectionb_qst28_29.jpg'> The table shows the ages (in years) of twenty children chosen at random from a community Use the information provided to answer questions 28 and 29. What is the median of the distribution?",
+		"opts": {
+			"q0": "A. 3.5 years",
+			"q1": "B. 3.0 years",
+			"q2": "C. 2.5 years",
+			"q3": "D. 2.0 years",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Divide the sum of 8, 6, 7, 2, 0, 4, 7, 2, 3 by their mean.",
+		"opts": {
+			"q0": "A. 9",
+			"q1": "B. 8",
+			"q2": "C. 7",
+			"q3": "D. 6",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Q is 32 km away from P on a bearing 042&deg; and R is 25 km from P on a bearing of 132&deg;. Calculate the bearing of R from Q.",
+		"opts": {
+			"q0": "A. 122&deg;",
+			"q1": "B. 184&deg;",
+			"q2": "C. 190&deg;",
+			"q3": "D. 226&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	<img src='math_2007_sectionb_qst32_33.jpg'>  In the diagram, |PQ| = 4 cm, |QR| = 6 cm, |RS[ = 12 cm and <QRS = 90&deg;. Find the value of x.",
+		"opts": {
+			"q0": "A. 27",
+			"q1": "B. 26",
+			"q2": "C. 18",
+			"q3": "D. 13",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The bearing of a point P from another point Q is 310&deg;. If |PQ| = 200 m, how far west of Q is P?",
+		"opts": {
+			"q0": "A. 128.6m",
+			"q1": "B. 153.2m",
+			"q2": "C. 167.8m",
+			"q3": "D. 187.9m",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Find the value of a if log<sub>10</sub>a + log<sub>10</sub>a<sup>2</sup> = 0.9030.",
+		"opts": {
+			"q0": "A. 4.0",
+			"q1": "B. 2.0",
+			"q2": "C. 1.6",
+			"q3": "D. 0.0",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	A messenger was paid N2.50 an hour during the normal working hours and N4.00 an hour during overtime. !f he received N31.00 for 10 hours work, how many hours are for overtime?",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 3",
+			"q2": "C. 4",
+			"q3": "D. 6",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	At what rate per cent per annum will N520.00 yield a simple interest of N39.00 in three years?",
+		"opts": {
+			"q0": "A. 4%",
+			"q1": "B. 3<sup>1</sup>&frasl;<sub>2</sub>%",
+			"q2": "C. 3%",
+			"q3": "D. 2<sup>1</sup>&frasl;<sub>2</sub>%",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	If the ratio x : y = 3 : 5 and y : z = 4 : 7, find the ratio x : y : z.",
+		"opts": {
+			"q0": "A. 15 : 28 : 84",
+			"q1": "B. 12 : 20 : 35",
+			"q2": "C. 3 : 5 : 4",
+			"q3": "D. 5 : 4 : 7",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='math_2007_sectionb_qst38_39.jpg'> The Venn diagram shows the choice of food of a number of visitors to a canteen. Use the information to answer Questions 38 and 39. If there were 35 visitors in all, find the value of x.",
+		"opts": {
+			"q0": "A. 5",
+			"q1": "B. 4",
+			"q2": "C. 3",
+			"q3": "D. 2",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='math_2007_sectionb_qst38_39.jpg'> The Venn diagram shows the choice of food of a number of visitors to a canteen. Use the information to answer Questions 38 and 39. How many people took at least two kinds of food?",
+		"opts": {
+			"q0": "A. 10",
+			"q1": "B. 12",
+			"q2": "C. 15",
+			"q3": "D. 17",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	PQR is an equilateral triangle with side 2&rad;3 cm. Calculate its height.",
+		"opts": {
+			"q0": "A. 1.7cm",
+			"q1": "B. 3.0cm",
+			"q2": "C. 3.2cm",
+			"q3": "D. 3.9cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following is a factor of 2 - x - x<sup>2</sup>?",
+		"opts": {
+			"q0": "A. 1 - x",
+			"q1": "B. 1 + x",
+			"q2": "C. x - 1",
+			"q3": "D. 2 - x",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Make w the subject of the relation <sup>a + bc</sup>&frasl;<sub>wd + f</sub> = g",
+		"opts": {
+			"q0": "A. <sup>a + bc - fg</sup>&frasl;<sub>dg</sub>",
+			"q1": "B. <sup>a - bc + fg</sup>&frasl;<sub>fg</sub>",
+			"q2": "C. <sup>a + bc - f</sup>&frasl;<sub>dg</sub>",
+			"q3": "D. <sup>a + bc - dg</sup>&frasl;<sub>dg</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Expand the expression (3a - xy)(3a + xy).",
+		"opts": {
+			"q0": "A. 9a<sup>2</sup> - x<sup>2</sup>y<sup>2</sup>",
+			"q1": "B. 9a<sup>2</sup> + x<sup>2</sup>y<sup>2</sup>",
+			"q2": "C. 9a<sup>2</sup> - xy",
+			"q3": "D. 9a<sup>2</sup> - x<sup>2</sup>y",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	For what range of values of x is 4x-3(2x-1)> 1?",
+		"opts": {
+			"q0": "A. x > -1",
+			"q1": "B. x > 1",
+			"q2": "C. x < 1",
+			"q3": "D. x < -1",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Find the smallest value of k such that 2<sup>2</sup> x 3<sup>3</sup> x 5 x k is a perfect square.",
+		"opts": {
+			"q0": "A. 3",
+			"q1": "B. 5",
+			"q2": "C. 15",
+			"q3": "D. 30",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Simplify: <sup>4</sup>&frasl;<sub>2x</sub> - <sup>2 + x</sup>&frasl;<sub>x</sub>",
+		"opts": {
+			"q0": "A. -1",
+			"q1": "B. -2x",
+			"q2": "C. 2x",
+			"q3": "D. <sup>2 - x</sup>&frasl;<sub>2x</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Two circles have radii 16 cm and 23 cm. What is the difference between their circumferences? Take &pi;=<sup>22</sup>&frasl;<sub>7</sub>",
+		"opts": {
+			"q0": "A. 244.92cm",
+			"q1": "B. 149.92cm",
+			"q2": "C. 44.00cm",
+			"q3": "D. 43.96cm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The volume of a cylinder is 1200 cm<sup>3</sup> and the area of its base is 150 cm<sup>2</sup>. Find the height of the cylinder.",
+		"opts": {
+			"q0": "A. 80.00cm",
+			"q1": "B. 8.00cm",
+			"q2": "C. 0.80cm",
+			"q3": "D. 0.08cm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	<img src='math_2007_sectionb_qst49.jpg'> In the diagram, |XR| =4 cm, |RZ| = 12 cm, |SR| = n, |YZ| = m and SR||YZ. Find m in terms of n.",
+		"opts": {
+			"q0": "A. m = 2n",
+			"q1": "B. m = 3n",
+			"q2": "C. m = 4n",
+			"q3": "D. m = 5n",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	<img src='math_2007_sectionb_qst50.jpg'> In the diagram, O is the centre of the circle and PQ is a diameter. Triangle RSO is an equilateral triangle of side 4 cm. Find the area of the shaded region.",
+		"opts": {
+			"q0": "A. 43.36 cm<sup>2</sup>",
+			"q1": "B. 32.07 cm<sup>2</sup>",
+			"q2": "C. 18.21 cm<sup>2</sup>",
+			"q3": "D. 6.93 cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

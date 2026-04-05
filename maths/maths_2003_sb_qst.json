@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Simplify (<sup>3</sup>&frasl;<sub>4</sub> - <sup>1</sup>&frasl;<sub>3</sub>) X 4<sup>1</sup>&frasl;<sub>3</sub> &div; 3<sup>1</sup>&frasl;<sub>4</sub>",
+		"opts": {
+			"q0": "A. <sup>5</sup>&frasl;<sub>9</sub>",
+			"q1": "B. <sup>5</sup>&frasl;<sub>16</sub>",
+			"q2": "C. <sup>8</sup>&frasl;<sub>13</sub>",
+			"q3": "D. <sup>16</sup>&frasl;<sub>5</sub>",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='maths_2003_sectionb_qst2_4.jpg'> The table below gives the distribution of marks obtained by a number of pupils in a class test. Use the information to answer question 2 - 4. The mode of the distribution is",
+		"opts": {
+			"q0": "A. 3",
+			"q1": "B. 5",
+			"q2": "C. 8",
+			"q3": "D. 18",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='maths_2003_sectionb_qst2_4.jpg'> The table below gives the distribution of marks obtained by a number of pupils in a class test. Use the information to answer question 2 - 4. Find the median of the distribution",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 2",
+			"q2": "C. 3",
+			"q3": "D. 4",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	How many pupils scored at least 2 marks?",
+		"opts": {
+			"q0": "A. 12",
+			"q1": "B. 23",
+			"q2": "C. 37",
+			"q3": "D. 49",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='maths_2003_sectionb_qst5.jpg'> Interprete the inequality represented on the number line",
+		"opts": {
+			"q0": "A. -4 < x &le; 5",
+			"q1": "B. -4 &le; x <5",
+			"q2": "C. -4 < x < 5",
+			"q3": "D. - 4 &le; x &le; 5",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A student bought 3 notebooks and 1 pen for N35. After misplacing these items, she again bought 2 notebooks and 2 pens, all of the same type for N30. What is the cost of a pen?",
+		"opts": {
+			"q0": "A. N5.00",
+			"q1": "B. N7.50",
+			"q2": "C. N10.00",
+			"q3": "D. N15.00",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Simplify <sup>4</sup>&frasl;<sub>a - 3</sub> - <sup>1</sup>&frasl;<sub>a + 3</sub>",
+		"opts": {
+			"q0": "A. <sup>3a + 11</sup>&frasl;<sub>(a - 3)(a - 2)</sub>",
+			"q1": "B. <sup>3a + 11</sup>&frasl;<sub>(a + 3)(a - 2)</sub>",
+			"q2": "C. <sup>3a + 11</sup>&frasl;<sub>(a + 3)(a + 2)</sub>",
+			"q3": "D. <sup>3a + 11</sup>&frasl;<sub>(a - 3)(a + 2)</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Simplify <sup>4&radic;18</sup>&frasl;<sub>&radic;8</sub>",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 3",
+			"q2": "C. 6",
+			"q3": "D. 12",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='maths_2003_sectionb_qst9.jpg'> In the diagram, PQ/RT /RS/ = /QS/, <QST = 70&deg; and <PQW = 55&deg;. Find the size of reflex <WQS",
+		"opts": {
+			"q0": "A. 235&deg;",
+			"q1": "B. 290&deg;",
+			"q2": "C. 305&deg;",
+			"q3": "D. 325&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Three men, Bedu, Bakre and Kofi shared N500 in the ratio 3:2:x respectively. If Bedu’s share is N150, find the value of x",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 4",
+			"q2": "C. 5",
+			"q3": "D. 6",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Simplify (1<sup>2</sup>&frasl;<sub>3</sub>)<sup>2</sup> - (<sup>2</sup>&frasl;<sub>3</sub>)<sup>2</sup>",
+		"opts": {
+			"q0": "A. 2<sup>1</sup>&frasl;<sub>3</sub>",
+			"q1": "B. 1<sup>1</sup>&frasl;<sub>3</sub>",
+			"q2": "C. 1",
+			"q3": "D. <sup>3</sup>&frasl;<sub>7</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Find the value of x which satisfies the equation 5(x-7) = 7 - 2x",
+		"opts": {
+			"q0": "A. x = 2",
+			"q1": "B. x = 4",
+			"q2": "C. x = 6",
+			"q3": "D. x = 14",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Evaluate <sup>log 8</sup>&frasl;<sub>log(<sup>1</sup>&frasl;<sub>4</sub>)</sub>",
+		"opts": {
+			"q0": "A. -2",
+			"q1": "B. <sup>-3</sup>&frasl;<sub>2</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. 4",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	A pyramid of volume 120cm<sup>3</sup> has a rectangular base which measures 5cm by 6cm. Calculate the height of the pyramid",
+		"opts": {
+			"q0": "A. 5cm",
+			"q1": "B. 9cm",
+			"q2": "C. 12cm",
+			"q3": "D. 15cm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	PQRS is a cyclic quadrilateral. If <QPS = 75&deg;, what is the size of <QRS?",
+		"opts": {
+			"q0": "A. 180&deg;",
+			"q1": "B. 150&deg;",
+			"q2": "C. 105&deg;",
+			"q3": "D. 75&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	<img src='maths_2003_sectionb_qst16.jpg'> In the diagram, ZM is a straight line. Calculate the value of x.",
+		"opts": {
+			"q0": "A. 27&deg;",
+			"q1": "B. 30&deg;",
+			"q2": "C. 35&deg;",
+			"q3": "D. 37&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Find the value of x in the equation 3x<sup>2</sup> - 8x - 3 = 0",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>3</sub>, -3",
+			"q1": "B. -<sup>1</sup>&frasl;<sub>3</sub>, -3",
+			"q2": "C. -<sup>1</sup>&frasl;<sub>3</sub>, 3",
+			"q3": "D. <sup>1</sup>&frasl;<sub>3</sub>, 3",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	In &#8710;PQR, PQP = 84&deg;, QPR = 43&deg; and /PQ/ = 5cm. Find /QR/ in cm, correct to 1 decimal place.",
+		"opts": {
+			"q0": "A. 3.4",
+			"q1": "B. 4.3",
+			"q2": "C. 5.9",
+			"q3": "D. 6.2",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Given, that 4P4<sub>5</sub> = 119<sub>10</sub>, find the value of P",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 2",
+			"q2": "C. 3",
+			"q3": "D. 4",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	A ladder, 6m long, leans against a vertical wall at an angle 53&deg; to the horizontal. How high up the wall does the ladder reach?",
+		"opts": {
+			"q0": "A. 3.611m",
+			"q1": "B. 4.521m",
+			"q2": "C. 4.792m",
+			"q3": "D. 7.962m",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	<img src='maths_2003_sectionb_qst21.jpg'> What is the size of angle x in the diagram?",
+		"opts": {
+			"q0": "A. 15&deg;",
+			"q1": "B. 30&deg;",
+			"q2": "C. 45&deg;",
+			"q3": "D. 60&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The four interior angles of a quadrilateral are (x + 20)&deg;, (x + 10)&deg; (2x - 45)&deg; and (x - 25)&deg;. Find the value of x",
+		"opts": {
+			"q0": "A. 60",
+			"q1": "B. 80",
+			"q2": "C. 100",
+			"q3": "D. 360",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	<img src='maths_2003_sectionb_qst23.jpg'> Calculate the value of y in the diagram",
+		"opts": {
+			"q0": "A. 17",
+			"q1": "B. 34",
+			"q2": "C. 44",
+			"q3": "D. 45",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Out of 60 members of an Association, 15 are Doctors and 9 are Lawyers. If a member is selected at random from the Association, what is the probability that the member is neither a Doctor nor a Lawyer?",
+		"opts": {
+			"q0": "A. <sup>3</sup>&frasl;<sub>5</sub>",
+			"q1": "B. <sup>9</sup>&frasl;<sub>10</sub>",
+			"q2": "C. <sup>3</sup>&frasl;<sub>20</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>4</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Find the values of x for which <sup>1</sup>&frasl;<sub>2x<sup>2</sup> - 13x + 15</sub> is not defined",
+		"opts": {
+			"q0": "A. 5 or <sup>3</sup>&frasl;<sub>2</sub>",
+			"q1": "B. 1 or <sup>15</sup>&frasl;<sub>13</sub>",
+			"q2": "C. 2 or 15",
+			"q3": "D. 13 or 15",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	<img src='maths_2003_sectionb_qst26.jpg'> In the diagram, PQS = 65&deg;, RPS = 40&deg; and QSR = 20&deg;. Find PSQ",
+		"opts": {
+			"q0": "A. 85&deg;",
+			"q1": "B. 60&deg;",
+			"q2": "C. 55&deg;",
+			"q3": "D. 45&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Evaluate (111<sub>two</sub>)<sup>2</sup> - (101<sub>two</sub>)<sup>2</sup>",
+		"opts": {
+			"q0": "A. 10<sub>two</sub>",
+			"q1": "B. 100<sub>two</sub>",
+			"q2": "C. 1100<sub>two</sub>",
+			"q3": "D. 11000<sub>two</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	<img src='maths_2003_sectionb_qst28_30.jpg'> The graphs above are for the relations y = ax2 + bx + c and y = d - x. Use the information to answer questions 28 - 30. The equation y = ax<sup>2</sup> + bx + c is equivalent to",
+		"opts": {
+			"q0": "A. y = 2 - x - x<sup>2</sup>",
+			"q1": "B. y = 2 - x + x<sup>2</sup>",
+			"q2": "C. y = 2 + x - x<sup>2</sup>",
+			"q3": "D. y = 2 + x + x<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	<img src='maths_2003_sectionb_qst28_30.jpg'> The graphs above are for the relations y = ax2 + bx + c and y = d - x. Use the information to answer questions 28 - 30. The value of d in equation y = d - x is",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 1",
+			"q2": "C. 0",
+			"q3": "D. -1",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	<img src='maths_2003_sectionb_qst28_30.jpg'> The graphs above are for the relations y = ax2 + bx + c and y = d - x. Use the information to answer questions 28 - 30. What are the values of x for which ax<sup>2</sup> + bx + c = 0?",
+		"opts": {
+			"q0": "A. 2,1",
+			"q1": "B. -2,-1",
+			"q2": "C. -2,1",
+			"q3": "D. -1,2",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Given that x <img src='maths_2003_sectionb_qst31.jpg'> 0.01202 correct to 3 significant figures, which of the following cannot be the actual value of x?",
+		"opts": {
+			"q0": "A. 0.01014",
+			"q1": "B. 0.01021",
+			"q2": "C. 0.01015",
+			"q3": "D. 0.01016",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	If <sup>3<sup>(1 - n)</sup></sup>&frasl;<sub>9<sup>(-2n)</sup></sub> = <sup>1</sup>&frasl;<sub>9</sub>, find n",
+		"opts": {
+			"q0": "A. -<sup>3</sup>&frasl;<sub>2</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>3</sub>",
+			"q2": "C. -1",
+			"q3": "D. -3",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following is/are not the interior angle (s) of a regular polygon? I.108&deg; II. 116&deg; III. 120&deg;",
+		"opts": {
+			"q0": "A. I only",
+			"q1": "B. II only",
+			"q2": "C. III only",
+			"q3": "D. I and III only",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	In a &#8710;XYZ, /YZ/ = 6cm YXZ = 60&deg; and XYZ is a right angle. Calculate /XZ/ in cm, leaving your answer in surd form.",
+		"opts": {
+			"q0": "A. 2&radic;3",
+			"q1": "B. 4&radic;3",
+			"q2": "C. 6&radic;3",
+			"q3": "D. 12&radic;3",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	If P = &radic;QR(1 + <sup>3t</sup>&frasl;<sub>R</sub>) make R the subject of the formula",
+		"opts": {
+			"q0": "A. R = <sup>3Qt</sup>&frasl;<sub>P<sup>2</sup> - Q</sub>",
+			"q1": "B. R = <sup>P<sup>2</sup> - 3t</sup>&frasl;<sub>Q + 1</sub>",
+			"q2": "C. R = <sup>P<sup>2</sup> - 3t</sup>&frasl;<sub>Q - 1</sub>",
+			"q3": "D. R = <sup>P<sup>2</sup> - 3Qt</sup>&frasl;<sub>P<sup>2</sup> - Q</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	<img src='maths_2003_sectionb_qst36_37.jpg'> Use the Venn diagram to answer Questions 36 and 37. How many elements are in P &cap; Q?",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 2",
+			"q2": "C. 4",
+			"q3": "D. 6",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	<img src='maths_2003_sectionb_qst36_37.jpg'> Use the Venn diagram to answer Questions 36 and 37. Find Q' &cap; R",
+		"opts": {
+			"q0": "A. (e)",
+			"q1": "B. (c, h)",
+			"q2": "C. (c, g, h)",
+			"q3": "D. (c, e, g, h)",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The square root of a number is 2k. What is half of the number",
+		"opts": {
+			"q0": "A. &radic;<sup>k</sup>&frasl;<sub>2</sub>",
+			"q1": "B. &radic;k",
+			"q2": "C. <sup>1</sup>&frasl;<sub>2</sub>k<sup>2</sup>",
+			"q3": "D. 2k<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Given that p varies as the square of q and q varies inversely as the square root of r. How does p vary with A?",
+		"opts": {
+			"q0": "A. p varies as the square of r",
+			"q1": "B. p varies as the square root of r",
+			"q2": "C. p varies inversely as the square of r",
+			"q3": "D. p varies inversely as r",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The probabilities of a boy passing English and Mathematics test are x and y respectively. Find the probability of the boy failing both tests",
+		"opts": {
+			"q0": "A. 1 - (x - y) + xy",
+			"q1": "B. 1 - (x + y) - xy ",
+			"q2": "C. 1 - (x + y) + xy",
+			"q3": "D. 1 - (x - y) + xy",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	The locus of points equidistant from two intersecting straight lines PQ and PR is",
+		"opts": {
+			"q0": "A. a circle centre P radius Q",
+			"q1": "B. a circle centre P radius PR",
+			"q2": "C. the point of intersection of the perpendicular bisectors of PQ and PR",
+			"q3": "D. the bisector of angle QPR",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='maths_2003_sectionb_qst42.jpg'> In the diagram, PR is a tangent at T to the circle O. Find the value of x",
+		"opts": {
+			"q0": "A. 9&deg;",
+			"q1": "B. 20&deg;",
+			"q2": "C. 26&deg;",
+			"q3": "D. 60&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Find the equation whose roots are -<sup>2</sup>&frasl;<sub>3</sub> and 3.",
+		"opts": {
+			"q0": "A. 3x<sup>2</sup> + 11x - 6 = 0",
+			"q1": "B. 3x<sup>2</sup> + 7x - 6 = 0",
+			"q2": "C. 3x<sup>2</sup> - 11x - 6 = 0",
+			"q3": "D. 3x<sup>2</sup> - 7x - 6 = 0",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Evaluate Cos 45&deg; Cos 30&deg; - Sin 45&deg; Sin 30&deg; leaving the answer in surd form",
+		"opts": {
+			"q0": "A. <sup>&radic;2 - 1</sup>&frasl;<sub>2</sub>",
+			"q1": "B. <sup>&radic;3 - &radic;2</sup>&frasl;<sub>4</sub>",
+			"q2": "C. <sup>&radic;6 - &radic;2</sup>&frasl;<sub>2</sub>",
+			"q3": "D. <sup>&radic;6 - &radic;2</sup>&frasl;<sub>4</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	In constructing an angle, Olu draws line OX. With centre O and a convenient radius, he draws an arc intersecting OX at P. With centres P and the same radius, he draws an arc intersecting the first arc at Q and finally joins OQ. What is the size of angle POQ so constructed?",
+		"opts": {
+			"q0": "A. 90&deg;",
+			"q1": "B. 75&deg;",
+			"q2": "C. 60&deg;",
+			"q3": "D. 45&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	<img src='maths_2003_sectionb_qst46.jpg'> In the diagram /PS/ = 9 cm, /OR/ = 5cm, PSR = 63&deg; and SPQ = PQR = 90&deg;. Find, correct to the nearest whole number, the area of the trapezium",
+		"opts": {
+			"q0": "A. 55cm<sup>2</sup>",
+			"q1": "B. 25cm<sup>2</sup>",
+			"q2": "C. 22cm<sup>2</sup>",
+			"q3": "D. 13cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	A right circular cone is such that its radius r is twice its height h. Find its volume in terms of h",
+		"opts": {
+			"q0": "A. <sup>2</sup>&frasl;<sub>3</sub> &pi;h<sup>2</sup>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>12</sub> &pi;h<sup>3</sup>",
+			"q2": "C. <sup>4</sup>&frasl;<sub>3</sub> &pi;h<sup>2</sup>",
+			"q3": "D. <sup>4</sup>&frasl;<sub>3</sub> &pi;h<sup>3</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	A man made a loss of 15% by selling an article for N595. Find the cost price of the article",
+		"opts": {
+			"q0": "A. N600.00",
+			"q1": "B. N684.25",
+			"q2": "C. N700.00",
+			"q3": "D. N892.50",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The bearing of P from Q is x, where 270&deg; < x < 360&deg;. Find the bearing of Q from P",
+		"opts": {
+			"q0": "A. (x - 90)&deg;",
+			"q1": "B. (x - 270)&deg;",
+			"q2": "C. (x - 135)&deg;",
+			"q3": "D. (x - 180)&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following is not a measure of dispersion?",
+		"opts": {
+			"q0": "A. Range",
+			"q1": "B. Mean deviation",
+			"q2": "C. Mean",
+			"q3": "D. Standard deviation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

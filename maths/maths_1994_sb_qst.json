@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Simplify: 2<sup>1</sup>&frasl;<sub>3</sub> &divide; 2<sup>2</sup>&frasl;<sub>3</sub> x 1<sup>1</sup>&frasl;<sub>7</sub>",
+		"opts": {
+			"q0": "A. 0",
+			"q1": "B. 1",
+			"q2": "C. 2",
+			"q3": "D. 3",
+			"q4": "E. 4"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Which of the following is equal to <sup>72</sup>&frasl;<sub>125</sub>?",
+		"opts": {
+			"q0": "A. <sup>2<sup>3</sup> x 3<sup>2</sup></sup>&frasl;<sub>5<sup>3</sup></sub>",
+			"q1": "B. <sup>2<sup>4</sup> x 3</sup>&frasl;<sub>5<sup>3</sup></sub>",
+			"q2": "C. <sup>2<sup>3</sup> x 3<sup>2</sup></sup>&frasl;<sub>5<sup>5</sup></sub>",
+			"q3": "D. <sup>2<sup>4</sup> x 3</sup>&frasl;<sub>5<sup>5</sup></sub>",
+			"q4": "E. <sup>2<sup>2</sup> x 3<sup>2</sup> x 4<sup>2</sup></sup>&frasl;<sub>5<sup>2</sup></sub>"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Express <sup>8.75</sup>&frasl;<sub>0.025</sub> in standard form",
+		"opts": {
+			"q0": "A. 3.5 x 10<sup>-3</sup>",
+			"q1": "B. 3.5 x 10<sup>-2</sup>",
+			"q2": "C. 3.5 x 10<sup>1</sup>",
+			"q3": "D. 3.5 x 10<sup>2</sup>",
+			"q4": "E. 3.5 x 10<sup>3</sup>"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Evaluate <sup>27<sup><sup>1</sup>&frasl;<sub>3</sub></sup></sup>&frasl;<sub>16<sup>-1</sup>&frasl;<sub>4</sub></sub>",
+		"opts": {
+			"q0": "A. 6",
+			"q1": "B. 5",
+			"q2": "C. 4",
+			"q3": "D. 3",
+			"q4": "E. 2"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Simplify 16<sup><sup>5</sup>&frasl;<sub>5</sub></sup> x 2<sup>-3</sup> x 3<sup>0</sup>",
+		"opts": {
+			"q0": "A. 0",
+			"q1": "B. 2",
+			"q2": "C. 4",
+			"q3": "D. 10",
+			"q4": "E. 20"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Simplify; 2log<sub>3</sub>6 + log<sub>3</sub>12 - log<sub>3</sub>16",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 3",
+			"q2": "C. 2 - 2log<sub>3</sub>2",
+			"q3": "D. 3 - log<sub>3</sub>2",
+			"q4": "E. 4 - log<sub>3</sub>2"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	What is the number whose logarithm to base 10 is 3.4771?",
+		"opts": {
+			"q0": "A. 3.0",
+			"q1": "B. 0.3",
+			"q2": "C. 0.03",
+			"q3": "D. 0.003",
+			"q4": "E. 0.0003"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	A house bought for N100,000 was later auctioned for N80.000. Find the loss percent.",
+		"opts": {
+			"q0": "A. 20%",
+			"q1": "B. 30%",
+			"q2": "C. 40%",
+			"q3": "D. 50%",
+			"q4": "E. 60%"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	A string is 4.8m. A boy measured it to be 4.95m. Find the percentage error.",
+		"opts": {
+			"q0": "A. <sup>5</sup>&frasl;<sub>16</sub>%",
+			"q1": "B. 1<sup>5</sup>&frasl;<sub>16</sub>%",
+			"q2": "C. 3<sup>1</sup>&frasl;<sub>33</sub>%",
+			"q3": "D. 3<sup>1</sup>&frasl;<sub>8</sub>%",
+			"q4": "E. 15%"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The sum of the 1st and 2nd terms of an A.R is 4 and the 10th term is 19. Find the sum of the 5th and 6th terms.",
+		"opts": {
+			"q0": "A. 11",
+			"q1": "B. 20",
+			"q2": "C. 21",
+			"q3": "D. 22",
+			"q4": "E. 24"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	If the 2nd and 5th terms of a G.R are 6 and 48 respectively, find the sum of the first four terms.",
+		"opts": {
+			"q0": "A. -45",
+			"q1": "B. -15",
+			"q2": "C. 15",
+			"q3": "D. 33",
+			"q4": "E. 45"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	&isin; = (integers 20), P = (multiples of 3), Q = (multiples of 4), what are the elements of P' &cap; Q?",
+		"opts": {
+			"q0": "A. (12)",
+			"q1": "B. (4,8,16,20)",
+			"q2": "C. (3,6,9,15,18)",
+			"q3": "D. (1, 2, 5, 7, 10, 11, 13, 17, 19)",
+			"q4": "E. (3, 4, 6, 8, 9, 12, 15, 16, 18, 20)"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Given that 2p - m = 6 and 2p + 4m = 1, find the value of (4p + 3m).",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 3",
+			"q2": "C. 5",
+			"q3": "D. 7",
+			"q4": "E. 9"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Which of the following is a point on the curve y = x<sup>2</sup>- 4x + 7?",
+		"opts": {
+			"q0": "A. (0,6)",
+			"q1": "B. (1,4)",
+			"q2": "C. (2,0)",
+			"q3": "D. (7,0)",
+			"q4": "E. (3,2)"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	If 8x - 4 = 6x - 10. find the value of 5x",
+		"opts": {
+			"q0": "A. -35",
+			"q1": "B. -15",
+			"q2": "C. -3",
+			"q3": "D. 3",
+			"q4": "E. 7"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	For what value of x is the expression <sup>x<sup>2</sup> + 15x + 50</sup>&frasl;<sub>x - 5</sub> not defined?",
+		"opts": {
+			"q0": "A. -10",
+			"q1": "B. -5",
+			"q2": "C. 0",
+			"q3": "D. 5",
+			"q4": "E. 10"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	If x is positive, for what range of values of x is 4 + 3x <10?",
+		"opts": {
+			"q0": "A. 0 < x < 2",
+			"q1": "B. x < 2",
+			"q2": "C. 1 < x < 2",
+			"q3": "D. 0 < x < 4<sup>3</sup>&frasl;<sub>4</sub>",
+			"q4": "E. 0 > x > 2"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	<img src='maths_1994_sectionb_qst18.jpg'> In the graph above, the gradient of the curve at the point P is",
+		"opts": {
+			"q0": "A. -1<sup>1</sup>&frasl;<sub>3</sub>",
+			"q1": "B. -<sup>3</sup>&frasl;<sub>4</sub>",
+			"q2": "C. <sup>3</sup>&frasl;<sub>7</sub>",
+			"q3": "D. <sup>3</sup>&frasl;<sub>4</sub>",
+			"q4": "E. 1<sup>1</sup>&frasl;<sub>3</sub>"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='maths_1994_sectionb_qst19_20.jpg'> Use the graph to answer Questions 19 and 20. What is the equation of the line PQ?",
+		"opts": {
+			"q0": "A. y = x - 5",
+			"q1": "B. y = x + 3",
+			"q2": "C. y = x + 5",
+			"q3": "D. y = 2x + 3",
+			"q4": "E. y = 2x - 3"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	<img src='maths_1994_sectionb_qst19_20.jpg'> Use the graph to answer Questions 19 and 20. Which of the following equations can be solved by the points of intersection P and Q of the curve and the line PQ?",
+		"opts": {
+			"q0": "A. x<sup>2</sup> - 2 = 0",
+			"q1": "B. x<sup>2</sup> - 4 = 0",
+			"q2": "C. x<sup>2</sup> + 6 = 0",
+			"q3": "D. x<sup>2</sup> - x - 2 = 0",
+			"q4": "E. x<sup>2</sup> - x + 4 = 0"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following	is not a factors of 2p<sup>2</sup> - 2?",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. p - 1",
+			"q2": "C. p + 1",
+			"q3": "D. 2p - 2",
+			"q4": "E. 2p + 1"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Find the quadratic equation whose roots are 3 and <sup>2</sup>&frasl;<sub>3</sub>",
+		"opts": {
+			"q0": "A. x<sup>2</sup> - <sup>11</sup>&frasl;<sub>3</sub>x + 6 = 0",
+			"q1": "B. x<sup>2</sup> - 11x + 6 = 0",
+			"q2": "C. 3x<sup>2</sup> - 11x + 2 = 0",
+			"q3": "D. 3x<sup>2</sup> - 11x - 2 = 0",
+			"q4": "E. 3x<sup>2</sup> - 11x + 6 = 0"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following is a root of the equation x<sup>2</sup> + 6x = 0?",
+		"opts": {
+			"q0": "A. 0",
+			"q1": "B. 1",
+			"q2": "C. 2",
+			"q3": "D. 3",
+			"q4": "E. it does not have any root"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Factorise: 6x<sup>2</sup> + 7xy - 5y<sup>2</sup>",
+		"opts": {
+			"q0": "A. (6x + 5y)(x - y)",
+			"q1": "B. (2x + 5y)(3x - y)",
+			"q2": "C. (3x + y)(2x - 5y)",
+			"q3": "D. (3x + 5y)(2x - y)",
+			"q4": "E. (2x + y)(3x - 5y)"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Solve the equation log<sub>8</sub>x - 4log<sub>8</sub>x = 2",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>4</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q2": "C. 1",
+			"q3": "D. 2",
+			"q4": "E. 4"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The angle subtended at the centre by a chord of a circle radius 6cm is 120&deg;. Find the length of the chord.",
+		"opts": {
+			"q0": "A. 3cm",
+			"q1": "B. 6cm",
+			"q2": "C. 4&radic;2cm",
+			"q3": "D. 3&radic;3cm",
+			"q4": "E. 6&radic;3cm"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	A cuboid of base 12.5cm by 20cm holds exactly 1 litre of water. What is the height of the cuboid? (1 litre = 1000cm<sup>3</sup>)",
+		"opts": {
+			"q0": "A. 2cm",
+			"q1": "B. 4cm",
+			"q2": "C. 5cm",
+			"q3": "D. 8cm",
+			"q4": "E. 10cm"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Two ships on the equator are on longitudes 45&deg;W and 45&deg;E respectively. Flow far are they apart along the equator, correct to 2 significant figures? (Take the radius of earth = 6400km and &pi; = <sup>22</sup>&frasl;<sub>7</sub>)",
+		"opts": {
+			"q0": "A. 15,000km",
+			"q1": "B. 10,000km",
+			"q2": "C. 6,400km",
+			"q3": "D. 5,000km",
+			"q4": "E. 3,200km"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Calculate, correct to 2 significant figures, the length of the arc of a circle of radius 3.5cm which subtends an angle of 75&deg; at the centre of the circle. (Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>).",
+		"opts": {
+			"q0": "A. 2.3cm",
+			"q1": "B. 4.6cm",
+			"q2": "C. 8cm",
+			"q3": "D. 16cm",
+			"q4": "E. 110cm"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	A circle has radius x cm. What is the area of a sector of the circle with angle 135&deg;, leaving the answer in terms of x and &pi;?",
+		"opts": {
+			"q0": "A. <sup>&pi;x<sup>2</sup></sup>&frasl;<sub>8</sub>",
+			"q1": "B. <sup>3&pi;x<sup>2</sup></sup>&frasl;<sub>8</sub>",
+			"q2": "C. <sup>5&pi;x<sup>2</sup></sup>&frasl;<sub>8</sub>",
+			"q3": "D. <sup>3&pi;x</sup>&frasl;<sub>8</sub>",
+			"q4": "E. <sup>3&pi;x</sup>&frasl;<sub>8</sub>"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	<img src='maths_1994_sectionb_qst31.jpg'> In the diagram, PQRS is a trapezium with PQ||SR. STR is a straight line, PS||QT, PT||QR. If |PQ| = 12cm and the height of the trapezium is 9cm, find its area.",
+		"opts": {
+			"q0": "A. 96cm<sup>2</sup>",
+			"q1": "B. 108cm<sup>2</sup>",
+			"q2": "C. 135cm<sup>2</sup>",
+			"q3": "D. 162cm<sup>2</sup>",
+			"q4": "E. 216cm<sup>2</sup>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Two solid shperes have volumes 250cm<sup>3</sup> and 128cm<sup>3</sup> respectively. Find the ratio of their radii.",
+		"opts": {
+			"q0": "A. 125:64",
+			"q1": "B. 25:16",
+			"q2": "C. 2:1",
+			"q3": "D. 4:3",
+			"q4": "E. 5:4"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	<img src='maths_1994_sectionb_qst33.jpg'> In the diagram ST and QR are parallel. |PS| = 6cm, |SQ| = 8cm and |PR| = 18 2/3. Find |PT|",
+		"opts": {
+			"q0": "A. 7cm",
+			"q1": "B. 8cm",
+			"q2": "C. 8<sup>2</sup>&frasl;<sub>3</sub>cm",
+			"q3": "D. 10cm",
+			"q4": "E. 10<sup>2</sup>&frasl;<sub>3</sub>cm"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	<img src='maths_1994_sectionb_qst34.jpg'> In the diagram, PQ||RS and the angles are as shown. Find x.",
+		"opts": {
+			"q0": "A. 145&deg;",
+			"q1": "B. 150&deg;",
+			"q2": "C. 155&deg;",
+			"q3": "D. 160&deg;",
+			"q4": "E. 165&deg;"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	If the exterior angles of a quadrilateral are y&deg;, (2y + 5)&deg;, (y + 15)&deg; and (3y - 10)&deg;. Find y&deg;",
+		"opts": {
+			"q0": "A. 61.43",
+			"q1": "B. 60",
+			"q2": "C. 52.86",
+			"q3": "D. 51.43",
+			"q4": "E. 50"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The sum of the angles of a regular polygon is 2520&deg;. How many sides does the polygon have?",
+		"opts": {
+			"q0": "A. 20",
+			"q1": "B. 18",
+			"q2": "C. 17",
+			"q3": "D. 16",
+			"q4": "E. 15"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following is not a property of all parallelograms?",
+		"opts": {
+			"q0": "A. the diagonals bisect each other",
+			"q1": "B. Each diagonal bisects the area",
+			"q2": "C. The diagonals cut at right angles",
+			"q3": "D. The opposite sides are equal",
+			"q4": "E. The opposite angles are equal"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='maths_1994_sectionb_qst38.jpg'> In the diagram, PQ is the tangent to the circle RST at T. |ST| = SR and <RTQ = 68&deg;. Find <PTS",
+		"opts": {
+			"q0": "A. 68&deg;",
+			"q1": "B. 62&deg;",
+			"q2": "C. 61&deg;",
+			"q3": "D. 56&deg;",
+			"q4": "E. 34&deg;"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='maths_1994_sectionb_qst39.jpg'> The diagram below shows a circle PQRS in which <PRQ = 54&deg; and <SPQ = 97&deg;, find <PQS",
+		"opts": {
+			"q0": "A. 61&deg;",
+			"q1": "B. 51&deg;",
+			"q2": "C. 43&deg;",
+			"q3": "D. 39&deg;",
+			"q4": "E. 29&deg;"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='maths_1994_sectionb_qst40.jpg'> In the diagram, |PS| is a diameter of circle PQRS. |PQ|=|QR| and <RSP = 74&deg;. Find <QPS",
+		"opts": {
+			"q0": "A. 32&deg;",
+			"q1": "B. 37&deg;",
+			"q2": "C. 48&deg;",
+			"q3": "D. 53&deg;",
+			"q4": "E. 74&deg;"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	If sin&theta; = k, find tan&theta;, 0&deg; &le; &theta; &le; 90&deg;",
+		"opts": {
+			"q0": "A. 1 - k",
+			"q1": "B. <sup>k</sup>&frasl;<sub>k - 1</sub>",
+			"q2": "C. <sup>k</sup>&frasl;<sub>&radic;1 - k<sup>2</sup></sub>",
+			"q3": "D. <sup>k</sup>&frasl;<sub>1 - k</sub>",
+			"q4": "E. <sup>k</sup>&frasl;<sub>&radic;k<sup>2</sup> - 1</sub>"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	A ladder 6m long leans against a vertical wall so that it makes an angle of 60&deg; with the wall. Calculate the distance of the foot of the ladder from the wall.",
+		"opts": {
+			"q0": "A. 3m",
+			"q1": "B. 6m",
+			"q2": "C. 2&radic;3m",
+			"q3": "D. 3&radic;3m",
+			"q4": "E. 6&radic;3m"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The bearing of Q from P is 122&deg;, what is the bearing of P from Q?",
+		"opts": {
+			"q0": "A. 212&deg;",
+			"q1": "B. 238&deg;",
+			"q2": "C. 248&deg;",
+			"q3": "D. 292&deg;",
+			"q4": "E. 302&deg;"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Cos 57&deg; has the ame value as",
+		"opts": {
+			"q0": "A. sin213&deg;",
+			"q1": "B. -cos303&deg;",
+			"q2": "C. sin147&deg;",
+			"q3": "D. cos123&deg;",
+			"q4": "E. cos237&deg;"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	<img src='maths_1994_sectionb_qst45_46.jpg'> The table shows the masses to the nearest kilogram, of 40 students in a university. Use the information to answer Questions 45 and 46. The median of the distribution is",
+		"opts": {
+			"q0": "A. 9.5kg",
+			"q1": "B. 11kg",
+			"q2": "C. 67kg",
+			"q3": "D. 65.5kg",
+			"q4": "E. 68kg"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	<img src='maths_1994_sectionb_qst45_46.jpg'> The table shows the masses to the nearest kilogram, of 40 students in a university. Use the information to answer Questions 45 and 46. The percentage of the students with mass less than 69kg is",
+		"opts": {
+			"q0": "A. 56%",
+			"q1": "B. 62.5%",
+			"q2": "C. 68%",
+			"q3": "D. 70%",
+			"q4": "E. 37.5%"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The mean heights of the three groups of students consisting of 20, 16 and 14 students are 1.67m, 1.50m and 1.40m respectively. Find the mean height of all the students.",
+		"opts": {
+			"q0": "A. 1.52m",
+			"q1": "B. 1.53m",
+			"q2": "C. 1.54m",
+			"q3": "D. 1.55m",
+			"q4": "E. 1.56m"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Two cards are drawn one after the other with replacement from a well-shuffled ordinary pack of 52 cards containing four Aces. Find the probability that they are both Aces.",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>221</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>169</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>52</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>26</sub>",
+			"q4": "E. <sup>1</sup>&frasl;<sub>13</sub>"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Find the probability that a number selected from the numbers 30 to 50 inclusive is a prime",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>4</sub>",
+			"q1": "B. <sup>5</sup>&frasl;<sub>21</sub>",
+			"q2": "C. <sup>2</sup>&frasl;<sub>7</sub>",
+			"q3": "D. <sup>3</sup>&frasl;<sub>10</sub>",
+			"q4": "E. <sup>1</sup>&frasl;<sub>3</sub>"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The length of an exercise book is given as 20cm correct to the nearest centimetre. In which of the following ranges of possible measurements does the actual length lie?",
+		"opts": {
+			"q0": "A. 19.5 - 20.5cm",
+			"q1": "B. 19.1 - 20.9cm",
+			"q2": "C. 19.9 - 20.1cm",
+			"q3": "D. 19.95 - 20.05cm",
+			"q4": "E. 19 - 21cm"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

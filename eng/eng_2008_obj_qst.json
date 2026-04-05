@@ -1,0 +1,1223 @@
+﻿[
+	{
+		"headd": "Objective Test Questions: Answer all the questions",	
+		"S1": [
+			{
+				"headd": "In each of the following sentences, there is one underlined word and one gap. From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence."
+			},
+			{
+				"qs": "1.	Good teaching **stimulates** the interest of students, whereas bad teaching ....................... it",
+				"opts": {
+					"q0": "A. dampens",
+					"q1": "B. encourages",
+					"q2": "C. supersedes",
+					"q3": "D. retracts",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "2.	Some youths of this generation are often **hard-hearted** compared to those of past generations who were ...............................",
+				"opts": {
+					"q0": "A. indifferent",
+					"q1": "B. fastidious",
+					"q2": "C. proficient",
+					"q3": "D. compassionate",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "3.	The doctor does not think the patient will recover; the signs are **ominous** rather than ............................",
+				"opts": {
+					"q0": "A. encouraging",
+					"q1": "B. feasible",
+					"q2": "C. obvious",
+					"q3": "D. gloomy",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "4.	The purpose of education is to **enhance** progress and not to ...................... it.",
+				"opts": {
+					"q0": "A. proscribe",
+					"q1": "B. intercept",
+					"q2": "C. impede",
+					"q3": "D. confuse",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "5.	The teacher gave him high marks and wrote **complimentary** remarks in the margin, which surprisingly gave him .................... feelings.",
+				"opts": {
+					"q0": "A. doubtful",
+					"q1": "B. secret",
+					"q2": "C. unpleasant",
+					"q3": "D. serious",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "6.	Many people find cod liver oil **disgusting** but soldiers find it ...................... ",
+				"opts": {
+					"q0": "A. refreshing",
+					"q1": "B. medicinal",
+					"q2": "C. pleasant",
+					"q3": "D. bitter",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "7.	The investigators relied solely on **conjectures**, which were not as reliable as .....................",
+				"opts": {
+					"q0": "A. facts",
+					"q1": "B. hearsay",
+					"q2": "C. figures",
+					"q3": "D. fabrications",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "8.	It was **obvious** that Modou committed the crime, but his friends were still ......................",
+				"opts": {
+					"q0": "A. unhappy",
+					"q1": "B. doubtful",
+					"q2": "C. suspicious",
+					"q3": "D. confident",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "9.	The government was blamed for implementing policies that favoured the **elite** at the expense of the ......................",
+				"opts": {
+					"q0": "A. workers",
+					"q1": "B. wealthy",
+					"q2": "C. masses",
+					"q3": "D. oppressed",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "10.	His suggestion on how to deal with the thief was **invaluable**, but the police considered it .....................",
+				"opts": {
+					"q0": "A. useless",
+					"q1": "B. impossible",
+					"q2": "C. necessary",
+					"q3": "D. timely",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			}
+		],
+		"S2": [
+			{
+				"headd": "From the words lettered A to D, choose the word that best completes each of the following sentences."
+			},
+			{
+				"qs": "11.	The woman’s behaviour clearly shows that her love for her husband was merely ...........................",
+				"opts": {
+					"q0": "A. superstitious",
+					"q1": "B. superlative",
+					"q2": "C. elusive",
+					"q3": "D. superficial",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "12.	The man was told in his own interest to	the ............... statement he had made.",
+				"opts": {
+					"q0": "A. cancel",
+					"q1": "B. recast",
+					"q2": "C. erase",
+					"q3": "D. retract",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "13.	Mum made soothing remarks in order to .................dad",
+				"opts": {
+					"q0": "A. incense",
+					"q1": "B. pacify",
+					"q2": "C. rekindle",
+					"q3": "D. protect",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "14.	Ebou maintained his stand in ..................... of the principal's orders",
+				"opts": {
+					"q0": "A. defiance",
+					"q1": "B. deference",
+					"q2": "C. obedience",
+					"q3": "D. defence",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "15.	The outgoing president warned his successor to beware of ........................ who praise every action of government, good or bad",
+				"opts": {
+					"q0": "A. enthusiasts",
+					"q1": "B. sycophants",
+					"q2": "C. radicals",
+					"q3": "D. favourites",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "16.	Salimata came into ................. when she won the beauty contest.",
+				"opts": {
+					"q0": "A. public",
+					"q1": "B. limelight",
+					"q2": "C. focus",
+					"q3": "D. view",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "17.	The current economic crisis has led to the ................... ",
+				"opts": {
+					"q0": "A. rejection",
+					"q1": "B. retrenchment",
+					"q2": "C. isolation",
+					"q3": "D. ejection",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "18.	We all agree that the television is a more powerful ..................... of communication than the radio",
+				"opts": {
+					"q0": "A. agent",
+					"q1": "B. way",
+					"q2": "C. instrument",
+					"q3": "D. medium",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "19.	He won the election by a .................. of 500 votes",
+				"opts": {
+					"q0": "A. consensus",
+					"q1": "B. margin",
+					"q2": "C. surplus",
+					"q3": "D. gap",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "20.	Daylight armed-robbery is a common ................. in big cities.",
+				"opts": {
+					"q0": "A. plan",
+					"q1": "B. site",
+					"q2": "C. exercise",
+					"q3": "D. phenomenon",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			}
+		],
+		"S3": [
+			{
+				"headd": "After each of the following sentences, a list of possible interpretations is given. Choose the interpretation that you consider most appropriate for each sentence."
+			},
+			{
+				"qs": "21.	When Joe was threatened with suspension he made a clean breast of his offence. This means that Joe",
+				"opts": {
+					"q0": "A. ran away",
+					"q1": "B. made friends with the other offenders",
+					"q2": "C. told the whole truth",
+					"q3": "D. pleaded innocence",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "22.	When Eunice was discharged from hospital she was a shadow of her former self. This means that she",
+				"opts": {
+					"q0": "A. looked like a shadow",
+					"q1": "B. was withdrawn",
+					"q2": "C. had changed a little",
+					"q3": "D. was thin and weak",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "23.	Chinwe can be stubborn yet I have a soft spot for her. This means that I",
+				"opts": {
+					"q0": "A. am fond of Chinwe even though she is stubborn",
+					"q1": "B. alone know how to control Chinwe",
+					"q2": "C. dislike Chinwe for stubbornness",
+					"q3": "D. have a cure for her stubbornness",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "24.	The principal is high-handed with his staff. This means that the principal",
+				"opts": {
+					"q0": "A. respects his staff highly",
+					"q1": "B. is very friendly and easy-going with his staff",
+					"q2": "C. shakes hands with his staff frequently",
+					"q3": "D. uses his authority over his staff sternly",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "25.	The loan was taken on a gentleman's agreement. This means that",
+				"opts": {
+					"q0": "A. there was no documentation of the loan",
+					"q1": "B. two gentlemen witnessed the loan",
+					"q2": "C. the loan was granted",
+					"q3": "D. the loan was not to be repaid",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "26.	Constructing the road along the coast was difficult but the men had already broken the back of the work before the rains. This means that they had",
+				"opts": {
+					"q0": "A. completed the preparations",
+					"q1": "B. completed the most difficult part of it",
+					"q2": "C. completed it altogether",
+					"q3": "D. broken the road",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "27.	Whenever Nkoyo finds herself at a loose end, she goes visiting people. This means that Nkoyo goes visiting people whenever she",
+				"opts": {
+					"q0": "A. has nothing to occupy her",
+					"q1": "B. is happy",
+					"q2": "C. feels worried and confused",
+					"q3": "D. has no visitors",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "28.	Kola will get the job because his father will surely pull strings for him. This means that his father will",
+				"opts": {
+					"q0": "A. give him useful information",
+					"q1": "B. remove some of his difficulties",
+					"q2": "C. influence the right people",
+					"q3": "D. attract attention towards him",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "29.	To give a bronze medal to the athlete who was deliberately intercepted on the track was cold comfort. This means that the bronze medal was",
+				"opts": {
+					"q0": "A. acceptable to him",
+					"q1": "B. too cold",
+					"q2": "C. not adequate compensation",
+					"q3": "D. rejected by him",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "30.	The students planned to confront the principal with their grievances but as they got closer to his office, they developed cold feet. This means that",
+				"opts": {
+					"q0": "A. they could no longer walk",
+					"q1": "B. they lost courage",
+					"q2": "C. they lost interest",
+					"q3": "D. their feet became numb",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			}
+		],
+		"S4": [
+			{
+				"headd": "From the words lettered A to D below each of the following sentences, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence."
+			},
+			{
+				"qs": "31.	The woman **stifled** a cry of astonishment as she discovered the identity of the robber.",
+				"opts": {
+					"q0": "A. suppressed",
+					"q1": "B. shouted",
+					"q2": "C. forced",
+					"q3": "D. hid",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "32.	That rock is **a potential** danger to fishing boats",
+				"opts": {
+					"q0": "A. a possible",
+					"q1": "B. an unexpected",
+					"q2": "C. an obvious",
+					"q3": "D. a serious",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "33.	His contribution to the development programme in the village remains **unrivalled**",
+				"opts": {
+					"q0": "A. unbroken",
+					"q1": "B. unparalleled",
+					"q2": "C. undisputed",
+					"q3": "D. unknown",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "34.	Members of the party agreed that some serious **thinking** is required before a final decision can be taken",
+				"opts": {
+					"q0": "A. meeting",
+					"q1": "B. consultation",
+					"q2": "C. consideration",
+					"q3": "D. appraisal",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "35.	Our chief is very intelligent but he could be **parochial** in his judgements.",
+				"opts": {
+					"q0": "A. deep",
+					"q1": "B. broad",
+					"q2": "C. narrow-minded",
+					"q3": "D. kind-hearted",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "36.	All that was left after the riot were the **charred** remains of the victims.",
+				"opts": {
+					"q0": "A. burnt",
+					"q1": "B. black",
+					"q2": "C. broken",
+					"q3": "D. scattered",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "37.	The **incessant** chatter of the pupils irritated the visitor.",
+				"opts": {
+					"q0": "A. unceasing",
+					"q1": "B. meaningless",
+					"q2": "C. excited",
+					"q3": "D. loud",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "38.	Musa won the debate because he **articulated** his arguments convincingly",
+				"opts": {
+					"q0": "A. pronounced",
+					"q1": "B. presented",
+					"q2": "C. arranged",
+					"q3": "D. summarized",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "39.	I was surprised at the **gallantry** of the Senegalese peace-keepers",
+				"opts": {
+					"q0": "A. cowardice",
+					"q1": "B. strength",
+					"q2": "C. bravery",
+					"q3": "D. height",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "40.	The clerk was dismissed for **dereliction** of duty.",
+				"opts": {
+					"q0": "A. ignorance",
+					"q1": "B. lateness",
+					"q2": "C. carelessness",
+					"q3": "D. negligence",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			}
+		],
+		"S5": [
+			{
+				"headd": "From the word or group of words lettered A to D, choose the word or group of words that best completes each of the following sentences."
+			},
+			{
+				"qs": "41.	This is a bad case, .................. hard you try to defend the accused.",
+				"opts": {
+					"q0": "A. however",
+					"q1": "B. whatever",
+					"q2": "C. whichever",
+					"q3": "D. whenever",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "42.	.................. pain has been taken to make the party a success",
+				"opts": {
+					"q0": "A. Such",
+					"q1": "B. Much",
+					"q2": "C. Every",
+					"q3": "D. Many",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "43.	School children are advised to refrain ................ smoking",
+				"opts": {
+					"q0": "A. with",
+					"q1": "B. against",
+					"q2": "C. to",
+					"q3": "D. from",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "44.	The principal, as well as the teachers ............. in school",
+				"opts": {
+					"q0": "A. is",
+					"q1": "B. were",
+					"q2": "C. all are",
+					"q3": "D. are all",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "45.	Fatima ............... come to work today since she is still sick",
+				"opts": {
+					"q0": "A. needn’t had",
+					"q1": "B. needn’t have",
+					"q2": "C. needn’t has",
+					"q3": "D. needn’t to",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "46.	Aminata has .............. her engagement to Sule",
+				"opts": {
+					"q0": "A. broken off",
+					"q1": "B. broken up",
+					"q2": "C. broken away",
+					"q3": "D. broken down",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "47.	................... who knows the times will not open his door to strangers at night.",
+				"opts": {
+					"q0": "A. Somebody",
+					"q1": "B. Nobody",
+					"q2": "C. Anybody",
+					"q3": "D. Everybody",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "48.	All the final year students will attend ............... party",
+				"opts": {
+					"q0": "A. tomorrow’s",
+					"q1": "B. tomorrows’",
+					"q2": "C. tomorrows",
+					"q3": "D. tomorrow",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "49.	My friend’s son stole the ................... briefcase.",
+				"opts": {
+					"q0": "A. director’s-general",
+					"q1": "B. director-general's",
+					"q2": "C. directors’-general",
+					"q3": "D. director-generals’",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "50.	This isn’t your ring; it is your ........................ ",
+				"opts": {
+					"q0": "A. daughter-in-law",
+					"q1": "B. daughter-in-law’s",
+					"q2": "C. daughters-in-law",
+					"q3": "D. daughter-in-laws",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "51.	He brought us ................ ",
+				"opts": {
+					"q0": "A. a good news ",
+					"q1": "B. many good news",
+					"q2": "C. some good news",
+					"q3": "D. several good news",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "52.	I was asked whether I ................. to go on the outing",
+				"opts": {
+					"q0": "A. would intend",
+					"q1": "B. intended",
+					"q2": "C. have intended",
+					"q3": "D. intend",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "53.	Our teacher is leaving our school in July to ................ a new job",
+				"opts": {
+					"q0": "A. take in",
+					"q1": "B. take to",
+					"q2": "C. take on",
+					"q3": "D. take up",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "54.	The old woman had no children and no real friends .................... ",
+				"opts": {
+					"q0": "A. too",
+					"q1": "B. again",
+					"q2": "C. either",
+					"q3": "D. neither",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "55.	Certain tasks may be unpleasant at first, but gradually one may get .................... them",
+				"opts": {
+					"q0": "A. to liking",
+					"q1": "B. to like",
+					"q2": "C. to be liking",
+					"q3": "D. to have liked",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "56.	.................... in their youth is a source of pleasurable reminiscence for elderly persons",
+				"opts": {
+					"q0": "A. To be travelling",
+					"q1": "B. To travel",
+					"q2": "C. By travelling",
+					"q3": "D. To have travelled",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "57.	The minister told his congregation that one day ...................... would be rewarded",
+				"opts": {
+					"q0": "A. the faithfuls",
+					"q1": "B. the faithful",
+					"q2": "C. any faithfuls",
+					"q3": "D. a faithful",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "58.	Maram liked the exhibits at the trade fair but she really enjoyed ..................... the most",
+				"opts": {
+					"q0": "A. the amusements",
+					"q1": "B. amusements",
+					"q2": "C. the amusement",
+					"q3": "D. amusement",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "59.	The jury gave .................... verdict of guilty in the murder case",
+				"opts": {
+					"q0": "A. it’s",
+					"q1": "B. 'tis",
+					"q2": "C. it",
+					"q3": "D. its",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "60.	The room in ............... they lived was quite large and well-lit",
+				"opts": {
+					"q0": "A. where",
+					"q1": "B. that",
+					"q2": "C. which",
+					"q3": "D. there",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "61.	The great gates of the ancient palace were .......................",
+				"opts": {
+					"q0": "A. beautiful pieces of iron works",
+					"q1": "B. the beautiful pieces of iron works",
+					"q2": "C. beautiful pieces of iron work",
+					"q3": "D. a beautiful piece of iron works",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "62.	The report said that although the country was rich ..................... formed a substantial part of the population",
+				"opts": {
+					"q0": "A. old and neglected",
+					"q1": "B. the old and neglected",
+					"q2": "C. some old and some neglected",
+					"q3": "D. the olds and neglected",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "63.	I had a phone call from her yesterday, so she .............. have found out my telephone number",
+				"opts": {
+					"q0": "A. can",
+					"q1": "B. could",
+					"q2": "C. must",
+					"q3": "D. might",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "64.	I cannot imagine that a man ................ his standing could stoop so low as to accept bribes",
+				"opts": {
+					"q0": "A. with",
+					"q1": "B. at",
+					"q2": "C. of",
+					"q3": "D. on",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "65.	Lamin and Michael washed .................. but mummy washed Yeanie",
+				"opts": {
+					"q0": "A. himself",
+					"q1": "B. themselves",
+					"q2": "C. one another",
+					"q3": "D. the other",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "66.	The principal has gone to Freetown and will come back in ....................... time.",
+				"opts": {
+					"q0": "A. two weeks",
+					"q1": "B. two week",
+					"q2": "C. two week's",
+					"q3": "D. two weeks'",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "67.	The students have not come back from their school farms ..................... ?",
+				"opts": {
+					"q0": "A. isn’t it",
+					"q1": "B. hadn’t they",
+					"q2": "C. didn’t they",
+					"q3": "D. have they",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "68.	We haven’t confirmed .................. signature this is",
+				"opts": {
+					"q0": "A. what",
+					"q1": "B. whose",
+					"q2": "C. who’s",
+					"q3": "D. which",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "69.	I said “John saw Mary,” ....................	?",
+				"opts": {
+					"q0": "A. didn't I",
+					"q1": "B. didn't he",
+					"q2": "C. hadn’t he",
+					"q3": "D. do I",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "70.	The moon seemed to be sailing through the clouds ........................ a ship thrusting its way through a stormy ocean.",
+				"opts": {
+					"q0": "A. as",
+					"q1": "B. as to",
+					"q2": "C. as for",
+					"q3": "D. like",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "71.	The school's high jump champion has been .................. ",
+				"opts": {
+					"q0": "A. off very much form most of the time",
+					"q1": "B. very much off-form most of the time",
+					"q2": "C. very most off-form most of the time",
+					"q3": "D. off-form most of the time very much",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "72.	The new bridge was a complete waste of money and .................. built in the first place",
+				"opts": {
+					"q0": "A. need not have been",
+					"q1": "B. needs not have been",
+					"q2": "C. needed not to have been",
+					"q3": "D. need not to have been",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "73.	Araba took up an appointment as a part-time instructor as a means ......................... his meager income.",
+				"opts": {
+					"q0": "A. to supplement",
+					"q1": "B. of supplementing",
+					"q2": "C. to supplementing",
+					"q3": "D. for supplementing",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "74.	........................ opportunity we now have to rid the nation of corruption!",
+				"opts": {
+					"q0": "A. What excellent",
+					"q1": "B. What an excellent",
+					"q2": "C. How excellent",
+					"q3": "D. So excellent an",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			}
+		],
+		"S6": [
+			{
+				"headd": "In the following passages the numbered gaps indicate missing words. Against each number in the list below each passage four choices are offered in columns lettered A to D. Choose the word that is the most suitable to fill the numbered gap in the passages.",
+				"PA": [
+					"One of the indicators of --76-- underdevelopment in this country is the backward state of the transport sector. This is typified by the poor state of the railway --77--.",
+					"In advanced countries, commuter trains carry passengers from city to city and within suburbs. The --78-- train goes a lot faster connecting major cities and even states; such trains have --79-- only.",
+					"In the intra-city trains, it is only shelter and seats that are provided. There are no --80--. In some cases, and because of the long hours of service of inter-city or inter-state trains, --81-- and --82-- are available in addition to coaches.",
+					"Apart from the very fast electric trains, there are passenger trains that are --83-- powered. There are others that use coal or steam as --84--.",
+					"Some trains offer --85-- services, transporting goods. Such trains stop at specific --86-- to deliver goods and to refuel.",
+					"Most trains have --87-- to push or pull them to prevent them from turning around.",
+				]
+			},
+			{
+				"qst": [				
+					{
+						"opts": {
+							"q0": "A. structural",
+							"q1": "B. infrastructural",
+							"q2": "C. fiscal",
+							"q3": "D. systematic",
+							"q4": "E. "
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. system",
+							"q1": "B. framework",
+							"q2": "C. industry",
+							"q3": "D. business",
+							"q4": "E. "
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. intra-city",
+							"q1": "B. in-city",
+							"q2": "C. inter-city",
+							"q3": "D. sub-city",
+							"q4": "E. "
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. wagons",
+							"q1": "B. coaches",
+							"q2": "C. cabins",
+							"q3": "D. decks",
+							"q4": "E. "
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. bookshops and libraries",
+							"q1": "B. gyms and clubs",
+							"q2": "C. meals and refreshments",
+							"q3": "D. parks and salons",
+							"q4": "E. "
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. dining cars",
+							"q1": "B. lunch tables",
+							"q2": "C. refectories",
+							"q3": "D. bars",
+							"q4": "E. "
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. closets",
+							"q1": "B. sleeping cars",
+							"q2": "C. cloackrooms",
+							"q3": "D. control suites",
+							"q4": "E. "
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. battery-",
+							"q1": "B. engine-",
+							"q2": "C. diesel-",
+							"q3": "D. solar-",
+							"q4": "E. "
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. petrol",
+							"q1": "B. alternative",
+							"q2": "C. converter",
+							"q3": "D. fuel",
+							"q4": "E. "
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. freight",
+							"q1": "B. delivery",
+							"q2": "C. postal",
+							"q3": "D. courier",
+							"q4": "E. "
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. checkpoints",
+							"q1": "B. duty-posts",
+							"q2": "C. stations",
+							"q3": "D. centres",
+							"q4": "E. "
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. gadgets",
+							"q1": "B. locomotives",
+							"q2": "C. compasses",
+							"q3": "D. bearings",
+							"q4": "E. "
+						},
+						"ans": "C",
+						"sel": ""
+					}
+				]
+			},
+			{
+				"headd": "In the following passages the numbered gaps indicate missing words. Against each number in the list below each passage four choices are offered in columns lettered A to D. Choose the word that is the most suitable to fill the numbered gap in the passages.",
+				"PB": [
+					"It is interesting to watch a modern --88-- spring up and get completed in a matter of months. A few months ago, a building company brought some --89-- to the virgin forest next to our school.",
+					"The trees were --90--, the ground was cleared and --91-- and the workers brought out various --92-- with which they measured and marked the --93--. Then the --94-- was dug and the --95-- were brought from somewhere else. --96-- was made from a mixture of sand, cement and water, and the walls grew before our very eyes.",
+					"Before the end of the second month, we realized it was not going to be a --97-- but a storeyed building. The --98-- was cast in only one day by the workers who --99-- for the whole day.",
+					"Thereafter, things moved even faster. By the end of the third month, the whole --100-- was in place.",
+				]
+			},
+			{
+				"qst": [
+					{
+						"opts": {
+							"q0": "A. construction",
+							"q1": "B. building",
+							"q2": "C. erection",
+							"q3": "D. fabrication",
+							"q4": "E. "
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. trailers",
+							"q1": "B. bull-dozers",
+							"q2": "C. tractors",
+							"q3": "D. machines",
+							"q4": "E. "
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. felled",
+							"q1": "B. pulled",
+							"q2": "C. cut",
+							"q3": "D. broken",
+							"q4": "E. "
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. levelled",
+							"q1": "B. paved",
+							"q2": "C. demolished",
+							"q3": "D. destroyed",
+							"q4": "E. "
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. apparatus",
+							"q1": "B. items",
+							"q2": "C. machinery",
+							"q3": "D. equipment",
+							"q4": "E. "
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. plan",
+							"q1": "B. trenches",
+							"q2": "C. ground",
+							"q3": "D. space",
+							"q4": "E. "
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. base",
+							"q1": "B. foundation",
+							"q2": "C. pavement",
+							"q3": "D. gutter",
+							"q4": "E. "
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. boreholes",
+							"q1": "B. lintels",
+							"q2": "C. fences",
+							"q3": "D. blocks",
+							"q4": "E. "
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. Concoction",
+							"q1": "B. Gravel",
+							"q2": "C. Mortar",
+							"q3": "D. Compound",
+							"q4": "E. "
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. basement",
+							"q1": "B. mansion",
+							"q2": "C. bungalow",
+							"q3": "D. sky-scraper",
+							"q4": "E. "
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. roofing",
+							"q1": "B. decking",
+							"q2": "C. floor",
+							"q3": "D. beam",
+							"q4": "E. "
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. struggled",
+							"q1": "B. grumbled",
+							"q2": "C. suffered",
+							"q3": "D. toiled",
+							"q4": "E. "
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. roof",
+							"q1": "B. structure",
+							"q2": "C. wall",
+							"q3": "D. apartment",
+							"q4": "E. "
+						},
+						"ans": "B",
+						"sel": ""
+					}
+				]
+			}
+		]
+	}
+]

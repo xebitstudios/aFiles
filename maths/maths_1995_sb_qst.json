@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Find (101<sub>2</sub>)<sup>2</sup>, expressing the answer in base 2",
+		"opts": {
+			"q0": "A. 10101",
+			"q1": "B. 11001",
+			"q2": "C. 10010",
+			"q3": "D. 11101",
+			"q4": "E. 10110"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	If 3 children share N10.50 among themselves in ratio 6:7:8, how much is the largest share?",
+		"opts": {
+			"q0": "A. N3.00",
+			"q1": "B. N3.50",
+			"q2": "C. N4.00",
+			"q3": "D. N4.50",
+			"q4": "E. N5.00"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Express 0.000834 in standard form.",
+		"opts": {
+			"q0": "A. 8.34 x 10<sup>-4</sup>",
+			"q1": "B. 8.34 x 10<sup>-3</sup>",
+			"q2": "C. 8.34 x 10<sup>3</sup>",
+			"q3": "D. 8.34 x 10<sup>4</sup>",
+			"q4": "E. 8.34 x 10<sup>6</sup>"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Simplify: 0.027<sup>-<sup>1</sup>&frasl;<sub>3</sub></sup>",
+		"opts": {
+			"q0": "A. 3<sup>1</sup>&frasl;<sub>3</sub>",
+			"q1": "B. 3",
+			"q2": "C. <sup>3</sup>&frasl;<sub>10</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>3</sub>",
+			"q4": "E. <sup>1</sup>&frasl;<sub>9</sub>"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "",
+		"opts": {
+			"q0": "A. 2<sup><sup>1</sup>&frasl;<sub>2</sub></sup>",
+			"q1": "B. 4<sup><sup>1</sup>&frasl;<sub>3</sub></sup>",
+			"q2": "C. 4<sup><sup>2</sup>&frasl;<sub>3</sub></sup>",
+			"q3": "D. 2<sup><sup>2</sup>&frasl;<sub>3</sub></sup>",
+			"q4": "E. 2<sup>3</sup>"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	By selling some crates of soft drinks for N600.00, a dealer makes a profit of 50%. How much did the dealer pay for the drinks?",
+		"opts": {
+			"q0": "A. N1,200.00",
+			"q1": "B. N900.00",
+			"q2": "C. N450.00",
+			"q3": "D. N400.00",
+			"q4": "E. N200.00"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Find the nth term Un of the A.P., 11,4, -3,......",
+		"opts": {
+			"q0": "A. Un = 19 + 7n",
+			"q1": "B. Un = 19 - 7n",
+			"q2": "C. Un = 18 - 7n",
+			"q3": "D. Un = 18 + 7n",
+			"q4": "E. Un = 17 - 7n"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	If <sup>16</sup>&frasl;<sub>9</sub>, x, 1, y are in Geometric Progression (G.P.), find the product of x and y.",
+		"opts": {
+			"q0": "A. <sup>9</sup>&frasl;<sub>16</sub>",
+			"q1": "B. <sup>3</sup>&frasl;<sub>4</sub>",
+			"q2": "C. 1",
+			"q3": "D. <sup>4</sup>&frasl;<sub>3</sub>",
+			"q4": "E. <sup>16</sup>&frasl;<sub>6</sub>"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	If R = [2, 4, 6, 7] and S = [1, 2, 4, 8], then R &cup; S equal",
+		"opts": {
+			"q0": "A. [1,2,4,6,7,8]",
+			"q1": "B. [1,2,4,7,8]",
+			"q2": "C. [1,4,7,8]",
+			"q3": "D. [2,6,7]",
+			"q4": "E. [2,4]"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='maths_1995_sectionb_qst10.jpg'> In the diagram below, the shaded portion is",
+		"opts": {
+			"q0": "A. P' &cap; R",
+			"q1": "B. Q &cap; R",
+			"q2": "C. P' &cap; Q &cap; R",
+			"q3": "D. (P &cup; Q)' &cap; R",
+			"q4": "E. (P &cap; Q) &cup; (P' &cap; R)"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Find the values of x for which the expression is underlined: <sup>6x - 1</sup>&frasl;<sub>x<sup>2</sup> + 4x - 5</sub>",
+		"opts": {
+			"q0": "A. +4 or +1",
+			"q1": "B. -5 or +1",
+			"q2": "C. -5 or -1",
+			"q3": "D. +5 or -1",
+			"q4": "E. +4 or -1"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='maths_1995_sectionb_qst12.jpg'> Which of the following could be the inequality illustrated in the sketch graph below?",
+		"opts": {
+			"q0": "A. y &ge; -2x + 3",
+			"q1": "B. y &le; 3x + 3",
+			"q2": "C. y < 3x + 2",
+			"q3": "D. y &le; x + 3",
+			"q4": "E. y &ge; 3x + 2"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Solve the inequality: 1/3(2x- 1) < 5.",
+		"opts": {
+			"q0": "A. x < -5",
+			"q1": "B. x < -6",
+			"q2": "C. x < 7",
+			"q3": "D. x < 8",
+			"q4": "E. x < 16"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	What is the smaller value of x for which x<sup>2</sup> - 3x + 2 = 0?",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 2",
+			"q2": "C. 3",
+			"q3": "D. 4",
+			"q4": "E. 5"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Factorize the expression x(a - c) + y(c - a)",
+		"opts": {
+			"q0": "A. (a - c)(y - x)",
+			"q1": "B. (a - c)(x - y)",
+			"q2": "C. (a + c)(x - y)",
+			"q3": "D. (a + c)(x + y)",
+			"q4": "E. (a - c)(x + y)"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	If y &prop; <sup>1</sup>&frasl;<sub>x<sup>2</sup></sub> and x = 3 when y = 4, find y when x = 2",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 3",
+			"q2": "C. 9",
+			"q3": "D. 18",
+			"q4": "E. 21"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Solve the equation 3x<sup>2</sup> + 25x -18 = 0",
+		"opts": {
+			"q0": "A. -3,2",
+			"q1": "B. -2,3",
+			"q2": "C. -2,9",
+			"q3": "D. -9,<sup>2</sup>&frasl;<sub>3</sub>",
+			"q4": "E. -<sup>2</sup>&frasl;<sub>3</sub>,9"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Solve the equation (x + 2)(x - 7) = 0",
+		"opts": {
+			"q0": "A. x = 1 or 8",
+			"q1": "B. x = -2 or 7",
+			"q2": "C. x = -4 or 5",
+			"q3": "D. x = -3 or 6",
+			"q4": "E. x = -5 or -m2"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Solve the following simultaneous equations: x + y = <sup>3</sup>&frasl;<sub>2</sub>; x - y = <sup>5</sup>&frasl;<sub>2</sub> and use your result to find the value of 2y + x.",
+		"opts": {
+			"q0": "A. -2",
+			"q1": "B. -1",
+			"q2": "C. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. 1",
+			"q4": "E. 3<sup>1</sup>&frasl;<sub>2</sub>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	<img src='maths_1995_sectionb_qst20_21.jpg'> Use the graph of y = 3x<sup>2</sup> + x - 7 to answer questions 20 and 21. What is the minimum value of y?",
+		"opts": {
+			"q0": "A. -10",
+			"q1": "B. -7",
+			"q2": "C. -4",
+			"q3": "D. -1",
+			"q4": "E. 2"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	<img src='maths_1995_sectionb_qst20_21.jpg'> Use the graph of y = 3x<sup>2</sup> + x - 7 to answer questions 20 and 21. Find the roots of the equation y = 3x<sup>2</sup> + x - 7",
+		"opts": {
+			"q0": "A. 1.0 and -1.2",
+			"q1": "B. 1.1 and -1.3",
+			"q2": "C. 1.4 and -1.7",
+			"q3": "D. 2.0 and -1.9",
+			"q4": "E. 2.4 and -2.0"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	<img src='maths_1995_sectionb_qst22.jpg'> In the diagram below. |AB| = 12cm, |AE| = 8cm, |DC| = 9cm and AB||DC. Calculate |EC|.",
+		"opts": {
+			"q0": "A. 10cm",
+			"q1": "B. 9cm",
+			"q2": "C. 8cm",
+			"q3": "D. 7.5cm",
+			"q4": "E. 6cm"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The diagonals AC and BD of a rhombus ABCD are 16cm and 12cm long respectively. Calculate the area of the rhombus.",
+		"opts": {
+			"q0": "A. 24 cm<sup>2</sup>",
+			"q1": "B. 36 cm<sup>2</sup>",
+			"q2": "C. 48 cm<sup>2</sup>",
+			"q3": "D. 60 cm<sup>2</sup>",
+			"q4": "E. 96 cm<sup>2</sup>"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24/.	A water tank of height <sup>1</sup>&frasl;<sub>2</sub>m has a square base of side 1<sup>1</sup>&frasl;<sub>2</sub>m. If it is filled with water from a water tanker holding 1500 litres, how many litres of water are left in the water tanker? [1000 litres = 1m<sup>3</sup>]",
+		"opts": {
+			"q0": "A. 37.5litres",
+			"q1": "B. 375 litres",
+			"q2": "C. 3750 litres",
+			"q3": "D. 37500 litres",
+			"q4": "E. 375000 kitres"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	A cylindrical container, closed at both ends, has a radius of 7cm and height 5cm. Use this information to answer questions 25 and 26 (Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>). Find the total surface area of the container.",
+		"opts": {
+			"q0": "A. 35cm<sup>3</sup>",
+			"q1": "B. 154cm<sup>3</sup>",
+			"q2": "C. 220cm<sup>2</sup>",
+			"q3": "D. 528cm<sup>2</sup>",
+			"q4": "E. 770cm<sup>2</sup>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	A cylindrical container, closed at both ends, has a radius of 7cm and height 5cm. Use this information to answer questions 25 and 26 (Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>). What is the volume of the container?",
+		"opts": {
+			"q0": "A. 35cm<sup>3</sup>",
+			"q1": "B. 154cm<sup>3</sup>",
+			"q2": "C. 220cm<sup>3</sup>",
+			"q3": "D. 528cm<sup>3</sup>",
+			"q4": "E. 770cm<sup>3</sup>"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Find the total surface area of solid circular cone with base radius 3cm and slant height 4cm. [Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>]",
+		"opts": {
+			"q0": "A. 37<sup>5</sup>&frasl;<sub>7</sub>cm<sup>2</sup>",
+			"q1": "B. 66cm<sup>2</sup>",
+			"q2": "C. 75<sup>3</sup>&frasl;<sub>7</sub>cm<sup>2</sup>",
+			"q3": "D. 78<sup>2</sup>&frasl;<sub>7</sub>cm<sup>2</sup>",
+			"q4": "E. 88cm<sup>2</sup>"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	A hollow sphere has a volume of kcm<sup>3</sup> and a surface area of kcm2. Calculate the diameter of the sphere.",
+		"opts": {
+			"q0": "A. 3cm",
+			"q1": "B. 6cm",
+			"q2": "C. 9cm",
+			"q3": "D. 12cm",
+			"q4": "E. More information is needed"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	<img src='maths_1995_sectionb_qst29.jpg'> The diagram above shows a cone with the dimensions of its frustrum indicated. Calculate the height of the cone.",
+		"opts": {
+			"q0": "A. 12cm",
+			"q1": "B. 15cm",
+			"q2": "C. 18cm",
+			"q3": "D. 24cm",
+			"q4": "E. 30cm"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The positions of two countries P and Q are (15&deg;N, 12&deg;E) and (65&deg;N, 12&deg;E) respec¬tively. What is the difference in latitude?",
+		"opts": {
+			"q0": "A. 104&deg;",
+			"q1": "B. 100&deg;",
+			"q2": "C. 80&deg;",
+			"q3": "D. 50&deg;",
+			"q4": "E. 24&deg;"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	A 120&deg; sector of a circle of radius 21cm is bent to form a cone. What is the base radius of the cone?",
+		"opts": {
+			"q0": "A. 3<sup>1</sup>&frasl;<sub>2</sub>cm",
+			"q1": "B. 7cm",
+			"q2": "C. 10<sup>1</sup>&frasl;<sub>2</sub>cm",
+			"q3": "D. 14cm",
+			"q4": "E. 21cm"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The angle of a sector of a circle is 108&deg;. If the radius of the circle is 3<sup>1</sup>&frasl;<sub>2</sub>cm, find the perimeter of the sector",
+		"opts": {
+			"q0": "A. 6<sup>3</sup>&frasl;<sub>5</sub>cm",
+			"q1": "B. 6<sup>4</sup>&frasl;<sub>5</sub>cm",
+			"q2": "C. 7<sup>1</sup>&frasl;<sub>10</sub>cm",
+			"q3": "D. 10<sup>2</sup>&frasl;<sub>5</sub>cm",
+			"q4": "E. 13<sup>3</sup>&frasl;<sub>5</sub>cm"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	<img src='maths_1995_sectionb_qst33.jpg'> In the diagram below; O is the centre of the circle and |BD| = |DC| . If <DCB = 35&deg;, find <BAO.",
+		"opts": {
+			"q0": "A. 20&deg;",
+			"q1": "B. 25&deg;",
+			"q2": "C. 30&deg;",
+			"q3": "D. 35&deg;",
+			"q4": "E. 40&deg;"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	<img src='maths_1995_sectionb_qst34.jpg'> In the diagram above, AO is perpendicular to OB. Find x.",
+		"opts": {
+			"q0": "A. 7.5&deg;",
+			"q1": "B. 15&deg;",
+			"q2": "C. 22.5&deg;",
+			"q3": "D. 30&deg;",
+			"q4": "E. 38.6&deg;"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	<img src='maths_1995_sectionb_qst35.jpg'> In the diagram above, PQ is parallel to TU, <PQR = 50&deg;, <QRS = 86&deg; and <STU = 64&deg;. Calculate the value of x.",
+		"opts": {
+			"q0": "A. 136&deg;",
+			"q1": "B. 120&deg;",
+			"q2": "C. 108&deg;",
+			"q3": "D. 100&deg;",
+			"q4": "E. 96&deg;"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	If log<sub>10</sub>x = 2.3675 and log<sub>10</sub>y = 2.9738, what is the value of x + y, correct to three significant figures?",
+		"opts": {
+			"q0": "A. 0.117",
+			"q1": "B. 0.118",
+			"q2": "C. 0.903",
+			"q3": "D. 0.944",
+			"q4": "E. 0.946"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	<img src='maths_1995_sectionb_qst37.jpg'> In the diagram below, AB//CD, the bisector of <BAC and <ACD meet at E. Find the value of <AEC.",
+		"opts": {
+			"q0": "A. 30&deg;",
+			"q1": "B. 45&deg;",
+			"q2": "C. 60&deg;",
+			"q3": "D. 75&deg;",
+			"q4": "E. 90&deg;"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='maths_1995_sectionb_qst38.jpg'> In the diagram above, AB//CD. What is the size of the angle marked x?",
+		"opts": {
+			"q0": "A. 103&deg;",
+			"q1": "B. 93&deg;",
+			"q2": "C. 77&deg;",
+			"q3": "D. 62&deg;",
+			"q4": "E. 52&deg;"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The locus of a point which is equidistant from two given fixed points is the",
+		"opts": {
+			"q0": "A. perpendicular bisector of the straight line joining them",
+			"q1": "B. angle bisector of the straight lines joining the points to the origin",
+			"q2": "C. perperdicular to the straight line joining them",
+			"q3": "D. parallel line to the straight line joining them",
+			"q4": "E. a line making an acute angle with the line joining the two points"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='maths_1995_sectionb_qst40.jpg'> In the diagram below, the value of angles b + c is",
+		"opts": {
+			"q0": "A. 180&deg;",
+			"q1": "B. 90&deg;",
+			"q2": "C. 45&deg;",
+			"q3": "D. a&deg;",
+			"q4": "E. d&deg;"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following angles is an exterior angle of a regular polygon?",
+		"opts": {
+			"q0": "A. 95&deg;",
+			"q1": "B. 85&deg;",
+			"q2": "C. 78&deg;",
+			"q3": "D. 75&deg;",
+			"q4": "E. 72&deg;"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='maths_1995_sectionb_qst42.jpg'> In AABC above, BC is produced to D, /AB/ = /AC/ and <BAC = 50&deg;. Find <ACD",
+		"opts": {
+			"q0": "A. 50&deg;",
+			"q1": "B. 60&deg;",
+			"q2": "C. 65&deg;",
+			"q3": "D. 100&deg;",
+			"q4": "E. 115&deg;"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Without using tables, find the value of <sup>sin 20&deg;</sup>&frasl;<sub>cos 70&deg;</sub> + <sup>cos 25&deg;</sup>&frasl;<sub>sin 65&deg;</sub>",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 1",
+			"q2": "C. 0",
+			"q3": "D. -1",
+			"q4": "E. -2"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	<img src='maths_1995_sectionb_qst44.jpg'> In the diagram below, <PRQ = 90&deg;, <QPR = 30&deg; and /PQ/ = 12cm. Find y.",
+		"opts": {
+			"q0": "A. 6cm",
+			"q1": "B. 5cm",
+			"q2": "C. 4cm",
+			"q3": "D. 3cm",
+			"q4": "E. 2cm"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The bearing of two points Q and R from a point P are 030&deg; and 120&deg; respectively. If /PQ/ = 12m and /PR/ = 5m, find the distance QR.",
+		"opts": {
+			"q0": "A. 13m",
+			"q1": "B. 11m",
+			"q2": "C. 9m",
+			"q3": "D. 7m",
+			"q4": "E. 5m"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	What is the mode of the numbers 8, 10, 9, 9, 10, 8, 11, 8, 10, 9, 8 and 14?",
+		"opts": {
+			"q0": "A. 8",
+			"q1": "B. 9",
+			"q2": "C. 10",
+			"q3": "D. 11",
+			"q4": "E. 14"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The mean of 20 observations in an experiment is 4. If the observed largest value is 23, find the mean of the remaining observations.",
+		"opts": {
+			"q0": "A. 4",
+			"q1": "B. 3",
+			"q2": "C. 2.85",
+			"q3": "D. 2.60",
+			"q4": "E. 2.56"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Find the median of the following numbers: 2.64, 2.50, 2.72, 2.91 and 2.35",
+		"opts": {
+			"q0": "A. 2.91",
+			"q1": "B. 2.72",
+			"q2": "C. 2.64",
+			"q3": "D. 2.50",
+			"q4": "E. 2.35"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Two fair dice are tossed together once. Find the probability that the sum of the outcome is at least 10.",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>12</sub>",
+			"q1": "B. <sup>5</sup>&frasl;<sub>36</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>6</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>4</sub>",
+			"q4": "E. <sup>5</sup>&frasl;<sub>18</sub>"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	From a box containing 2 red, 6 white and 5 black balls, a ball is randomly selected. What is the probability that the selected ball is black?",
+		"opts": {
+			"q0": "A. <sup>2</sup>&frasl;<sub>13</sub>",
+			"q1": "B. <sup>5</sup>&frasl;<sub>13</sub>",
+			"q2": "C. <sup>5</sup>&frasl;<sub>11</sub>",
+			"q3": "D. <sup>5</sup>&frasl;<sub>6</sub>",
+			"q4": "E. <sup>11</sup>&frasl;<sub>13</sub>"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

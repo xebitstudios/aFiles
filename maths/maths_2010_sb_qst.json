@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Simplify 0.000215 x 0.000028 and express your answer in standard form.",
+		"opts": {
+			"q0": "A. 6.03 X 10<sub>9</sub>",
+			"q1": "B. 6.02 X 10<sub>9</sub>",
+			"q2": "C. 6.03 X 10<sub>-9</sub>",
+			"q3": "D. 6.02 X 10<sub>-9</sub>",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Factorise: x + y - ax - ay",
+		"opts": {
+			"q0": "A. (x - y)(1 - a)",
+			"q1": "B. (x + y)(1 + a)",
+			"q2": "C. (x + y)(1 - a)",
+			"q3": "D. (x - y)(1 a a)",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='math_2010_sectionb_qst3.jpg'> In the diagram, <PSR = 22&deg;, <SPQ = 58&deg; and <PQR = 41&deg;. Calculate the obtuse angle QRS.",
+		"opts": {
+			"q0": "A. 99&deg;",
+			"q1": "B. 100&deg;",
+			"q2": "C. 121&deg;",
+			"q3": "D. 165&deg;",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='math_2010_sectionb_qst4_5.jpg'> The bar chart shows the marks distribution in an English test. Use it to answer questions 4 and 5. If 50% is the pass mark, how many students passed the test?",
+		"opts": {
+			"q0": "A. 100",
+			"q1": "B. 85",
+			"q2": "C. 80",
+			"q3": "D. 70",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='math_2010_sectionb_qst4_5.jpg'> The bar chart shows the marks distribution in an English test. Use it to answer questions 4 and 5. What percentage of the students had marks ranging from 35 to 50?",
+		"opts": {
+			"q0": "A. 55<sup>1</sup>&frasl;<sub>3</sub>%",
+			"q1": "B. 60%",
+			"q2": "C. 65%",
+			"q3": "D. 66<sup>2</sup>&frasl;<sub>3</sub>%",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A car uses one litre of petrol for every 14 km. If one litre of petrol costs N63.00, how far can the car go with N900.00 worth of petrol?",
+		"opts": {
+			"q0": "A. 420km",
+			"q1": "B. 405km",
+			"q2": "C. 210km",
+			"q3": "D. 200km",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Correct 0.002473 to 3 significant figures.",
+		"opts": {
+			"q0": "A. 0.002",
+			"q1": "B. 0.0024",
+			"q2": "C. 0.00247",
+			"q3": "D. 0.0025",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Simplify: 1<sup>1</sup>&frasl;<sub>2</sub> &div; 2<sup>1</sup>&frasl;<sub>3</sub> x <sup>3</sup>&frasl;<sub>4</sub> - <sup>1</sup>&frasl;<sub>2</sub>",
+		"opts": {
+			"q0": "A. -2<sup>1</sup>&frasl;<sub>3</sub>",
+			"q1": "B. -2<sup>1</sup>&frasl;<sub>4</sub>",
+			"q2": "C. 2<sup>1</sup>&frasl;<sub>8</sub>",
+			"q3": "D. 2<sup>3</sup>&frasl;<sub>4</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The sum of 2 consecutive whole numbers is <sup>5</sup>&frasl;<sub>6</sub> of their product. Find the numbers.",
+		"opts": {
+			"q0": "A. 3,4",
+			"q1": "B. 1,2",
+			"q2": "C. 2,3",
+			"q3": "D. 0,1",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='math_2010_sectionb_qst10.jpg'> What is the value of m in the diagram?",
+		"opts": {
+			"q0": "A. 20&deg;",
+			"q1": "B. 30&deg;",
+			"q2": "C. 40&deg;",
+			"q3": "D. 50&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	<img src='math_2010_sectionb_qst11.jpg'> In the diagram, QR//ST, /PQ/ = /PR/ and <PST = 75&deg;. Find the value of y.",
+		"opts": {
+			"q0": "A. 105&deg;",
+			"q1": "B. 110&deg;",
+			"q2": "C. 130&deg;",
+			"q3": "D. 150&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A casting is made up of Copper and Zinc, if 35% of the casting is Zinc and there are 147g of Copper, what is the mass of the castina?",
+		"opts": {
+			"q0": "A. 320g",
+			"q1": "B. 420g",
+			"q2": "C. 520g",
+			"q3": "D. 620g",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Given that P = {x: 1 &le; x &le; 6} and Q = {x: 2 < x < 10}, where x is an integer. Find n(P &cap; Q).",
+		"opts": {
+			"q0": "A. 4",
+			"q1": "B. 6",
+			"q2": "C. 8",
+			"q3": "D. 10",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	The sum of 6 and one-third of x is one more than twice x. Find x",
+		"opts": {
+			"q0": "A. x = 7",
+			"q1": "B. x = 5",
+			"q2": "C. x = 3",
+			"q3": "D. x = 2",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Given that T = {x: -2 < x &le; 9} where x is an integer. What is n (T)?",
+		"opts": {
+			"q0": "A. 9",
+			"q1": "B. 10",
+			"q2": "C. 11",
+			"q3": "D. 12",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Solve the inequality: 3(x + 1) &le; 5(x + 2) + 15.",
+		"opts": {
+			"q0": "A. x &ge; -14",
+			"q1": "B. x &le; -14",
+			"q2": "C. x &le; -11",
+			"q3": "D. x &ge; -11",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	An empty rectangular lanK is 250cm long and 120cm wide. If 180 litres of water is poured into the tank, calculate the height of the water.",
+		"opts": {
+			"q0": "A. 6.0cm",
+			"q1": "B. 5.5cm",
+			"q2": "C. 5.0cm",
+			"q3": "D. 4.5cm",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Given that <sup>5<sup>n + 3</sup></sup>&frasl;<sub>25<sup>2n - 2</sup></sub> = 5<sup>0</sup>, find n.",
+		"opts": {
+			"q0": "A. n = 1",
+			"q1": "B. n = 2",
+			"q2": "C. n = 3",
+			"q3": "D. n = 5",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='math_2010_sectionb_qst19.jpg'> The table shows the number of pets kept by 30 students in a class. If a student is picked at random from the class, what is the probability that he/she kept more than one pet?",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>5</sub>",
+			"q1": "B. <sup>2</sup>&frasl;<sub>5</sub>",
+			"q2": "C. <sup>3</sup>&frasl;<sub>5</sub>",
+			"q3": "D. <sup>4</sup>&frasl;<sub>5</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Simplify: 2&radic;3 - <sup>6</sup>&frasl;<sub>&radic;3</sub + <sup>3</sup>&frasl;<sub>&radic;27</sub>",
+		"opts": {
+			"q0": "A. -1",
+			"q1": "B. <sup>1</sup>&frasl;<sub>3</sub>&radic;3",
+			"q2": "C. 2&radic;3 - 5<sup>2</sup>&frasl;<sub>3</sub>",
+			"q3": "D. 6&radic;3 - 17",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	<img src='math_2010_sectionb_qst21.jpg'> In the diagram, triangles HKL and HIJ are similar. Which of the following ratios are equal to <sup>LH</sup>&frasl;<sub>JH</sub>?",
+		"opts": {
+			"q0": "A. <sup>KL</sup>&frasl;<sub>JI</sub>",
+			"q1": "B. <sup>HK</sup>&frasl;<sub>JK</sub>",
+			"q2": "C. <sup>JI</sup>&frasl;<sub>KL</sub>",
+			"q3": "D. <sup>HK</sup>&frasl;<sub>LK</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	<img src='math_2010_sectionb_qst22.jpg'> In the diagram, the tangent MN makes an angle of 55&deg; with chord PS. If O is the centre of the circle, find <RPS.",
+		"opts": {
+			"q0": "A. 55&deg;",
+			"q1": "B. 45&deg;",
+			"q2": "C. 35&deg;",
+			"q3": "D. 25&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Simplify: <sup>2</sup>&frasl;<sub>2 + x</sub> + <sup>2</sup>&frasl;<sub>2 - x</sub>",
+		"opts": {
+			"q0": "A. <sup>4</sup>&frasl;<sub>4 - x<sup>2</sup></sub>",
+			"q1": "B. <sup>8</sup>&frasl;<sub>4 - x<sup>2</sup></sub>",
+			"q2": "C. <sup>4x</sup>&frasl;<sub>4 - x<sup>2</sup></sub>",
+			"q3": "D. <sup>8 - 4x</sup>&frasl;<sub>4 - x<sup>2</sup></sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	A rectangle has length x cm and width (x-1) cm. If the perimeter is 16 cm, find the value of x.",
+		"opts": {
+			"q0": "A. 3<sup>1</sup>&frasl;<sub>2</sub> cm",
+			"q1": "B. 4 cm",
+			"q2": "C. 4<sup>1</sup>&frasl;<sub>2</sub> cm",
+			"q3": "D. 5 cm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Given that tan x = 1, where o&deg; &le; x &le; 90&deg;, evaluate <sup>1 - sin<sup>2</sup>x</sup>&frasl;<sub>cos x</sub>",
+		"opts": {
+			"q0": "A. 2&radic;2",
+			"q1": "B. &radic;2",
+			"q2": "C. <sup>&radic;2</sup>&frasl;<sub>2</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	If sin 3y = cos 2y and 0&deg; &le; y &le; 90&deg;, find the value of y.",
+		"opts": {
+			"q0": "A. 18&deg;",
+			"q1": "B. 36&deg;",
+			"q2": "C. 54&deg;",
+			"q3": "D. 90&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The sum of the exterior angles of an n-sided convex polygon is half the sum of its interior angles. Find n.",
+		"opts": {
+			"q0": "A. 6",
+			"q1": "B. 8",
+			"q2": "C. 9",
+			"q3": "D. 12",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	What is the length of a rectangular garden whose perimeter is 32cm and area 39cm<sup>2</sup>?",
+		"opts": {
+			"q0": "A. 25cm",
+			"q1": "B. 18cm",
+			"q2": "C. 13cm",
+			"q3": "D. 9cm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	If y = <img src='math_2010_sectionb_qst29.jpg'>, make x the subject of the formula.",
+		"opts": {
+			"q0": "A. <img src='math_2010_sectionb_qst29_1.jpg'>",
+			"q1": "B. <img src='math_2010_sectionb_qst29_2.jpg'>",
+			"q2": "C. <img src='math_2010_sectionb_qst29_3.jpg'>",
+			"q3": "D. <img src='math_2010_sectionb_qst29_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The nth term of the sequence: -2,4,-8,16,.... is given by",
+		"opts": {
+			"q0": "A. T<sub>n</sub> = 2<sup>n</sup>",
+			"q1": "B. T<sub>n</sub> = (-2)<sup>n</sup>",
+			"q2": "C. T<sub>n</sub> = (-2n)",
+			"q3": "D. T<sub>n</sub> = n<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	<img src='math_2010_sectionb_qst31.jpg'> In the diagram, 0 is the centre of the circle. <SQR = 60&deg;, <SPR = y and <SOR = 3x. Find the value of (x + y).",
+		"opts": {
+			"q0": "A. 110&deg;",
+			"q1": "B. 100&deg;",
+			"q2": "C. 80&deg;",
+			"q3": "D. 70&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	How many times, correct to the nearest whole number, will a man run round a circular track of diameter 100m to cover a distance of 1000m?",
+		"opts": {
+			"q0": "A. 3",
+			"q1": "B. 4",
+			"q2": "C. 5",
+			"q3": "D. 6",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	<img src='math_2010_sectionb_qst33.jpg'> The shaded portion in the diagram is the solution of",
+		"opts": {
+			"q0": "A. x + y &le; 3",
+			"q1": "B. x + y < 3",
+			"q2": "C. x + y > 3",
+			"q3": "D. x + y &ge; 3",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	<img src='math_2010_sectionb_qst34.jpg'> In the diagram, /EF/ = 8 cm, /FG/= x cm, /GH/ = (x + 2) cm, <EFC = 90&deg;. If the area of the shaded portion is 40 cm<sup>2</sup>, find the area of &#8710;EFG.",
+		"opts": {
+			"q0": "A. 128 cm<sup>2</sup>",
+			"q1": "B. 72 cm<sup>2</sup>",
+			"q2": "C. 64 cm<sup>2</sup>",
+			"q3": "D. 32 cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	<img src='math_2010_sectionb_qst35.jpg'> In the diagram, Gl is a tangent to the circle at H. If EF//GI, calculate the size of <EHF.",
+		"opts": {
+			"q0": "A. 126&deg;",
+			"q1": "B. 72&deg;",
+			"q2": "C. 54&deg;",
+			"q3": "D. 28&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36	Bala sold an article for 6,900.00 and made a profit of 15%. If he sold it for #6,600.00 he would make a:",
+		"opts": {
+			"q0": "A. profit of 13%",
+			"q1": "B. loss of 12%",
+			"q2": "C. profit of 10%",
+			"q3": "D. loss of 5%",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	<img src='math_2010_sectionb_qst37.jpg'> In the diagram above, <ROS = 66&deg; and <POQ = 3x. Some construction lines are shown. Calculate the value of x.",
+		"opts": {
+			"q0": "A. 10&deg;",
+			"q1": "B. 11&deg;",
+			"q2": "C. 22&deg;",
+			"q3": "D. 30&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The mean age of R men in a club is 50 years. Two men, aged 55 and 63, left the club and the mean age reduced by 1 year. Find the value of R.",
+		"opts": {
+			"q0": "A. 18",
+			"q1": "B. 20",
+			"q2": "C. 22",
+			"q3": "D. 28",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='math_2010_sectionb_qst39_40.jpg'> The table is for the relation y = mx + c where m and c are constants. Use it to answer questions 39 and 40. What is the equation of the line described in the table?",
+		"opts": {
+			"q0": "A. y = 2x",
+			"q1": "B. y = x + 1",
+			"q2": "C. y = x",
+			"q3": "D. y = <sup>1</sup>&frasl;<sub>2</sub>x + 1",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='math_2010_sectionb_qst39_40.jpg'> The table is for the relation y = mx + c where m and c are constants. Use it to answer questions 39 and 40. What is the value of x when y = 5?",
+		"opts": {
+			"q0": "A. 8",
+			"q1": "B. 9",
+			"q2": "C. 10",
+			"q3": "D. 11",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='math_2010_sectionb_qst41.jpg'> The diagram is a net of a right rectangular pyramid. Calculate the total surface area.",
+		"opts": {
+			"q0": "A. 208 cm<sup>2</sup>",
+			"q1": "B. 112 cm<sup>2</sup>",
+			"q2": "C. 92 cm<sup>2</sup>",
+			"q3": "D. 76 cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='math_2010_sectionb_qst42.jpg'> The diagram shows a rectangular cardboard from which a semi-circle is cut-off. Calculate the area of the remaining part.",
+		"opts": {
+			"q0": "A. 44 cm<sup>2</sup>",
+			"q1": "B. 99 cm<sup>2</sup>",
+			"q2": "C. 154 cm<sup>2</sup>",
+			"q3": "D. 165 cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	<img src='math_2010_sectionb_qst43.jpg'> The subtraction above is in base seven. Find the missing number.",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 3",
+			"q2": "C. 4",
+			"q3": "D. 5",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	<img src='math_2010_sectionb_qst44.jpg'> In the diagram, O is the centre of the circle. Find the value of x.",
+		"opts": {
+			"q0": "A. ",
+			"q1": "B. ",
+			"q2": "C. ",
+			"q3": "D. ",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	If the sum of the roots of the equation (x - p)(2x + 1) = 0 is 1, find the value of p.",
+		"opts": {
+			"q0": "A. 1<sup>1</sup>&frasl;<sub>2</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q2": "C. -<sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. -1<sup>1</sup>&frasl;<sub>2</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	<img src='math_2010_sectionb_qst46.jpg'> In the diagram, <WOX = 60&deg;, <YOE = 50&deg; and <OXY = 30&deg;. What is the bearing of x from y?",
+		"opts": {
+			"q0": "A. 300&deg;",
+			"q1": "B. 240&deg;",
+			"q2": "C. 190&deg;",
+			"q3": "D. 150&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	In an athletics competition, the probability that an athlete wins a 100m race is <sup>1</sup>&frasl;<sub>8</sub> and the probability that he wins in high jump is <sup>1</sup>&frasl;<sub>4</sub>. What is the probability that he wins only one of the events?",
+		"opts": {
+			"q0": "A. <sup>3</sup>&frasl;<sub>32</sub>",
+			"q1": "B. <sup>3</sup>&frasl;<sub>16</sub>",
+			"q2": "C. <sup>7</sup>&frasl;<sub>32</sub>",
+			"q3": "D. <sup>5</sup>&frasl;<sub>16</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	If x<sup>2</sup> + kx + <sup>16</sup>&frasl;<sub>9</sub> is a perfect square, find the value of x.",
+		"opts": {
+			"q0": "A. <sup>8</sup>&frasl;<sub>3</sub>",
+			"q1": "B. <sup>7</sup>&frasl;<sub>3</sub>",
+			"q2": "C. <sup>5</sup>&frasl;<sub>3</sub>",
+			"q3": "D. <sup>2</sup>&frasl;<sub>3</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	If x kmh<sup>-1</sup> = y ms<sup>-1</sup>, the y =",
+		"opts": {
+			"q0": "A. <sup>7</sup>&frasl;<sub>18</sub>x",
+			"q1": "B. <sup>11</sup>&frasl;<sub>20</sub>x",
+			"q2": "C. <sup>4</sup>&frasl;<sub>15</sub>x",
+			"q3": "D. <sup>5</sup>&frasl;<sub>18</sub>x",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The mean of the numbers 2, 5, 2x and 7 is less than or equal to 5. Find the range of values of x.",
+		"opts": {
+			"q0": "A. x &le; 3",
+			"q1": "B. x &ge; 3",
+			"q2": "C. x < 3",
+			"q3": "D. x > 3",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

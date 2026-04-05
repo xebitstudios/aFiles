@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Correct 0.04945 to two significant figures.",
+		"opts": {
+			"q0": "A. 0.040",
+			"q1": "B. 0.049",
+			"q2": "C. 0.050",
+			"q3": "D. 0.49",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Simplify: <sup>5</sup>&frasl;<sub>&radic;3</sub> - <sup>3</sup>&frasl;<sub>&radic;2</sub>",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>6</sub>(5&radic;3 - 3&radic;2)",
+			"q1": "B. <sup>1</sup>&frasl;<sub>6</sub>(15&radic;3 - 6&radic;2)",
+			"q2": "C. <sup>1</sup>&frasl;<sub>6</sub>(3&radic;3 - &radic;3)",
+			"q3": "D. <sup>1</sup>&frasl;<sub>6</sub>(10&radic;3 - 9&radic;2)",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Evaluate, correct to the nearest whole number: 7<sup>1</sup>&frasl;<sub>2</sub> - (2<sup>1</sup>&frasl;<sub>2</sub> + 3) &#x2215; <sup>33</sup>&frasl;<sub>2</sub>",
+		"opts": {
+			"q0": "A. 33",
+			"q1": "B. 8",
+			"q2": "C. 7",
+			"q3": "D. 0",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Simplify the expression log<sub>10</sub>18 - log<sub>10</sub>2.88 + log<sub>10</sub>16",
+		"opts": {
+			"q0": "A. 31.12",
+			"q1": "B. 3.112",
+			"q2": "C. 2",
+			"q3": "D. 1",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Find the equation whose rots are 2 and -3<sup>1</sup>&frasl;<sub>2</sub>",
+		"opts": {
+			"q0": "A. 2x<sup>2</sup> + 3x + 14 = 0",
+			"q1": "B. 2x<sup>2</sup> + 5x + 7 = 0",
+			"q2": "C. 2x<sup>2</sup> + 5x - 7 = 0",
+			"q3": "D. 2x<sup>2</sup> + 3x - 14 = 0",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A man bought 220 mangoes at N5x. He sold each for 3x kobo and made a gain of N8. Find the value of x.",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 5",
+			"q2": "C. 6",
+			"q3": "D. 10",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	From a point P,R is 5 km due west and 12 km due south. Find the distance between P and R.",
+		"opts": {
+			"q0": "A. 5 km",
+			"q1": "B. 12 km",
+			"q2": "C. 13 km",
+			"q3": "D. 17 km",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	A fair die is tossed once, what is the probability of obtaining neither 5 nor 2?",
+		"opts": {
+			"q0": "A. <sup>5</sup>&frasl;<sub>6</sub>",
+			"q1": "B. <sup>2</sup>&frasl;<sub>3</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>6</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='math_2005_sectionb_qst9.jpg'> In the diagram, KL//MN, <LKP = 30&deg; and <NMP = 45&deg;. Find the size of the reflex <KPM.",
+		"opts": {
+			"q0": "A. 285&deg;",
+			"q1": "B. 255&deg;",
+			"q2": "C. 225&deg;",
+			"q3": "D. 210&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='math_2005_sectionb_qst10.jpg'> In the diagram, PR is a diameter, <PRQ = (3x - 8)&deg and <RPQ = (2y - 7)&deg; Express x in items of y.",
+		"opts": {
+			"q0": "A. x = <sup>75 - 2y</sup>&frasl;<sub>3</sub>",
+			"q1": "B. x = <sup>105 - 3y</sup>&frasl;<sub>2</sub>",
+			"q2": "C. x = <sup>105 - 2y</sup>&frasl;<sub>3</sub>",
+			"q3": "D. x = <sup>75 - 3y</sup>&frasl;<sub>2</sub>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Convert 101101<sub>two</sub> to a number in base ten.",
+		"opts": {
+			"q0": "A. 61",
+			"q1": "B. 46",
+			"q2": "C. 45",
+			"q3": "D. 44",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Solve the equation 2<sup>7</sup> = 8<sup>5-x</sup>",
+		"opts": {
+			"q0": "A. <sup>5</sup>&frasl;<sub>8</sub>",
+			"q1": "B. <sup>8</sup>&frasl;<sub>3</sub>",
+			"q2": "C. <sup>3</sup>&frasl;<sub>2</sub>",
+			"q3": "D. <sup>15</sup>&frasl;<sub>4</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Expand (2x - 3y) (x - 5y)",
+		"opts": {
+			"q0": "A. 2x<sup>2</sup> + 13xy - 15y<sup>2</sup>",
+			"q1": "B. 2x<sup>2</sup> - 13xy - 15y<sup>2</sup>",
+			"q2": "C. 2x<sup>2</sup> + 13xy + 15y<sup>2</sup>",
+			"q3": "D. 2x<sup>2</sup> - 13xy + 15y<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Make f the subject of the relation v = u + ft.",
+		"opts": {
+			"q0": "A. <sup>v - u</sup>&frasl;<sub>t</sub>",
+			"q1": "B. <sup>u - v</sup>&frasl;<sub>t</sub>",
+			"q2": "C. t(v + u)",
+			"q3": "D. <sup>v</sup>&frasl;<sub>u</sub> - t",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The probabilities that John and James pass an examination are <sup>3</sup>&frasl;<sub>4</sub> and <sup>3</sup>&frasl;<sub>5</sub> respectively. Find the probability of both boys failing the examination.",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>10</sub>",
+			"q1": "B. <sup>3</sup>&frasl;<sub>10</sub>",
+			"q2": "C. <sup>9</sup>&frasl;<sub>20</sub>",
+			"q3": "D. <sup>11</sup>&frasl;<sub>20</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	<img src='math_2005_sectionb_qst16.jpg'> In the diagram, PQ and MN are straight lines. Find the value of x.",
+		"opts": {
+			"q0": "A. 13&deg;",
+			"q1": "B. 17&deg;",
+			"q2": "C. 28&deg;",
+			"q3": "D. 30&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	<img src='math_2005_sectionb_qst17.jpg'> In the diagram, PQRS is a parallelogram and <QRT = 30&deg;. Find x.",
+		"opts": {
+			"q0": "A. 95&deg;",
+			"q1": "B. 100&deg;",
+			"q2": "C. 120&deg;",
+			"q3": "D. 150&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	From a point R, 300 m north of P, man walks eastwards to a place Q which is 600 m from P. Find the bearing of P from Q, correct to the nearest degree.",
+		"opts": {
+			"q0": "A. 026&deg;",
+			"q1": "B. 045&deg;",
+			"q2": "C. 210&deg;",
+			"q3": "D. 240&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The lengths of the adjacent sides of a right- angled triangle are x cm, (x -1) cm. If the length of the hypotenuse is &radic;13 cm, find the value of x.",
+		"opts": {
+			"q0": "A. 2",
+			"q1": "B. 3",
+			"q2": "C. 4",
+			"q3": "D. 5",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	What is the diameter of a circle of area 77cm<sup>2</sup>? Take &pi;=<sup>22</sup>&frasl;<sub>7</sub>",
+		"opts": {
+			"q0": "A. <sup>&radic;2</sup>&frasl;<sub>7</sub> cm",
+			"q1": "B. 3<sup>1</sup>&frasl;<sub>2</sub> cm",
+			"q2": "C. 7 cm",
+			"q3": "D. 7&radic;2 cm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Solve for y in the equations: 2x-3y = 22 ; 3x + 2y = 7",
+		"opts": {
+			"q0": "A. -5",
+			"q1": "B. -4",
+			"q2": "C. 4",
+			"q3": "D. 5",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Solve the equation <sup>2y - 1</sup>&frasl;<sub>3</sub> - <sup>3y - 1</sup>&frasl;<sub>4</sub> = 1",
+		"opts": {
+			"q0": "A. -8",
+			"q1": "B. -13",
+			"q2": "C. 13",
+			"q3": "D. 19",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	<img src='math_2005_sectionb_qst23.jpg'> In the diagram, O is the centre of the circle, <MON = 80&deg;, <LMO = 10&deg; and <LNO = 15&deg;. Calculate the value of x.",
+		"opts": {
+			"q0": "A. 40&deg;",
+			"q1": "B. 50&deg;",
+			"q2": "C. 55&deg;",
+			"q3": "D. 75&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	If log<sub>9</sub>x = 1.5, find x.",
+		"opts": {
+			"q0": "A. 36",
+			"q1": "B. 27",
+			"q2": "C. 24.5",
+			"q3": "D. 13.5",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	A sequence is given by 2<sup>1</sup>&frasl;<sub>2</sub>, 5, 7<sup>1</sup>&frasl;<sub>2</sub>. If the nth term is 25, find n.",
+		"opts": {
+			"q0": "A. 9",
+			"q1": "B. 10",
+			"q2": "C. 12",
+			"q3": "D. 15",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Given that one of the roots of the equation 2x<sup>2</sup> + (k + 2)x + k = 0 is 2, find the value of k.",
+		"opts": {
+			"q0": "A. -4",
+			"q1": "B. -2",
+			"q2": "C. -1",
+			"q3": "D. -<sup>1</sup>&frasl;<sub>4</sub>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	<img src='math_2005_sectionb_qst27.jpg'> The figure shows a quadrilateral PQRS having equal sides and opposite sides parallel. The diagonals PR and QS intersect perpendicularly at O, which of the following statements cannot be correct?",
+		"opts": {
+			"q0": "A. |PO| = |RO|",
+			"q1": "B. PQR is an equilateral triangle",
+			"q2": "C. PQRS is a parallelogram",
+			"q3": "D. There are two lines of symmetry",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Find the mean of the numbers 1, 3, 4, 8, 8, 4 and 7.",
+		"opts": {
+			"q0": "A. 4",
+			"q1": "B. 5",
+			"q2": "C. 6",
+			"q3": "D. 7",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	What is the total surface area of a closed cylinder of height 10 cm and diameter 7 cm? (Take &pi;=<sup>22</sup>&frasl;<sub>7</sub>)",
+		"opts": {
+			"q0": "A. 77 cm<sup>2</sup>",
+			"q1": "B. 227 cm<sup>2</sup>",
+			"q2": "C. 297 cm<sup>2</sup>",
+			"q3": "D. 374 cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	An arc of a circle of radius 14 cm subtends angle 300&deg; at the centre. Find the perimeter of the sector formed by the arc. (Take &pi;=<sup>22</sup>&frasl;<sub>7</sub>)",
+		"opts": {
+			"q0": "A. 14.67 cm",
+			"q1": "B. 42.67 cm",
+			"q2": "C. 101.33 cm",
+			"q3": "D. 513.33 cm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	<img src='math_2005_sectionb_qst31_32.jpg'> The figure is the graph of a quadratic equation. Use the information to answer questions 31 and 32. What are the roots of the equation?",
+		"opts": {
+			"q0": "A. -1 and 1",
+			"q1": "B. 4 and -1",
+			"q2": "C. 1 and 4",
+			"q3": "D. 4 and 4",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	<img src='math_2005_sectionb_qst31_32.jpg'> The figure is the graph of a quadratic equation. Use the information to answer questions 31 and 32. What is the equation of the curve?",
+		"opts": {
+			"q0": "A. y = x<sup>2</sup> + 6x + 4",
+			"q1": "B. y = x<sup>2</sup> - 5x - 4",
+			"q2": "C. y = x<sup>2</sup> - 5x + 4",
+			"q3": "D. y = x<sup>2</sup> + 5x - 4",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following statements describes the locus of a point R which moves in a plane such that it is equidistant from two intersecting lines?",
+		"opts": {
+			"q0": "A. The bisector of the angles formed by the lines",
+			"q1": "B. The point of intersection of the two lines",
+			"q2": "C. A cone, with the two intersecting lines as slant heights",
+			"q3": "D. A circle, with the point of intersection of the two lines as the centre",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	P = {3,9,11,13} and Q = {3, 7, 9,15} are subsets of the universal set &isin; = {1, 3, 7, 9, 11, 13, 15}. Find P' &cap; Q'.",
+		"opts": {
+			"q0": "A. {3,9}",
+			"q1": "B. {5,7,15}",
+			"q2": "C. {1}",
+			"q3": "D. {1,11}",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	A train moving at a uniform speed, covers 36 km in 21 minutes. How long does it take to cover 60 km?",
+		"opts": {
+			"q0": "A. 35 minutes",
+			"q1": "B. 40 minutes",
+			"q2": "C. 45 minutes",
+			"q3": "D. 90 minutes",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The salary of a man was increased in the ratio 40:47. Calculate the percentage increase in the salary.",
+		"opts": {
+			"q0": "A. 85.1%",
+			"q1": "B. 58.5%",
+			"q2": "C. 17.5%",
+			"q3": "D. 14.9%",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	A regular polygon has 9 sides. What is the size of one of its exterior angles?",
+		"opts": {
+			"q0": "A. 20&deg;",
+			"q1": "B. 40&deg;",
+			"q2": "C. 90&deg;",
+			"q3": "D. 140&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Simplify: <sup>2</sup>&frasl;<sub>3xy</sub> - <sup>3</sup>&frasl;<sub>4yz</sub>",
+		"opts": {
+			"q0": "A. <sup>2 - x</sup>&frasl;<sub>12xyz</sub>",
+			"q1": "B. "<sup>2z - 3x</sup>&frasl;<sub>12xyz</sub>,
+			"q2": "C. <sup>4z - 3x</sup>&frasl;<sub>12xyz</sub>",
+			"q3": "D. <sup>8z - 9x</sup>&frasl;<sub>12xyz</sub>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The total surface area of the walls of a room, 7 m long, 5 m wide and x m high is 96 m<sup>2</sup>. Find the value of x.",
+		"opts": {
+			"q0": "A. <sup>2</sup>&frasl;<sub>3</sub>",
+			"q1": "B. 2",
+			"q2": "C. 4",
+			"q3": "D. 8",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='math_2005_sectionb_qst40_41.jpg'> The bar chart shows the pocket money received by students in a class in a week. Use the bar chart to answer questions 40 and 41. Find the total number of students in the class.",
+		"opts": {
+			"q0": "A. 27",
+			"q1": "B. 31",
+			"q2": "C. 33",
+			"q3": "D. 34",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='math_2005_sectionb_qst40_41.jpg'> The bar chart shows the pocket money received by students in a class in a week. Use the bar chart to answer questions 40 and 41. How many students received N300 or N500 for a week?",
+		"opts": {
+			"q0": "A. 7",
+			"q1": "B. 11",
+			"q2": "C. 18",
+			"q3": "D. 19",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='math_2005_sectionb_qst42.jpg'> In the diagram PQRS is a circle, |PTJ = |QT| and <QPT = 70&deg;. What is the size of <PRS?",
+		"opts": {
+			"q0": "A. 40&deg;",
+			"q1": "B. 70&deg;",
+			"q2": "C. 80&deg;",
+			"q3": "D. 140&deg;",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The angle of elevation of the top of a ciiff 15 meters high from a landmark is 60&deg;. How far is the land¬mark from the foot of the cliff? Leave your answer in surd form.",
+		"opts": {
+			"q0": "A. 15&radic;3 m",
+			"q1": "B. 15&radic;2 m",
+			"q2": "C. 10&radic;3 m",
+			"q3": "D. 5&radic;3 m",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	For what values of y is the expression <sup>6y - 1</sup>&frasl;<sub>y<sup>2</sup> - y - 6</sub> not defined?",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>6</sub>,<sup>1</sup>&frasl;<sub>4</sub>",
+			"q1": "B. 3,-2",
+			"q2": "C. -3,2",
+			"q3": "D. 0,1",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	XOY is a sector of a circle centre O of radius 3.5 cm which subtends an angle of 144&deg; at the centre. Calculate, in terms of &pi;, the area of the sector.",
+		"opts": {
+			"q0": "A. 1.4&pi; cm<sup>2</sup>",
+			"q1": "B. 2.8&pi; cm<sup>2</sup>",
+			"q2": "C. 4.9&pi; cm<sup>2</sup>",
+			"q3": "D. 9.8&pi; cm<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Represent the solution of 3x + 15 > 0 on a number line.",
+		"opts": {
+			"q0": "A. <img src='math_2005_sectionb_qst46_1.jpg'>",
+			"q1": "B. <img src='math_2005_sectionb_qst46_2.jpg'>",
+			"q2": "C. <img src='math_2005_sectionb_qst46_3.jpg'>",
+			"q3": "D. <img src='math_2005_sectionb_qst46_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	A rectangular packet has inner dimension 16 cm by 12 cm by 6 cm. How many cubes of sugar of side 2 cm can be neatly packed into the packet?",
+		"opts": {
+			"q0": "A. 90",
+			"q1": "B. 144",
+			"q2": "C. 150",
+			"q3": "D. 288",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	If y &prop; <sup>1</sup>&frasl;<sub>x<sup>2</sup></sub> and y = 1<sup>1</sup>&frasl;<sub>4</sub> when x = 4, find the value of y when x = <sup>1</sup>&frasl;<sub>2</sub>",
+		"opts": {
+			"q0": "A. 2<sup>1</sup>&frasl;<sub>2</sub>",
+			"q1": "B. 5",
+			"q2": "C. 10",
+			"q3": "D. 80",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Ladi sold a car for N84,000 at a loss of 4%. How much did Ladi buy the car?",
+		"opts": {
+			"q0": "A. N80,500",
+			"q1": "B. N80,640",
+			"q2": "C. N87,360",
+			"q3": "D. N87,500",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The monthly salary of a man increased from N2,700 to N3.200. Find the percentage increase.",
+		"opts": {
+			"q0": "A. 10%",
+			"q1": "B. 15%",
+			"q2": "C. 15.6%",
+			"q3": "D. 18.5%",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

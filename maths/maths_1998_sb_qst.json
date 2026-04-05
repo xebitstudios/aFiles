@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	If S &sub; R, then",
+		"opts": {
+			"q0": "A. S &cap; R = R",
+			"q1": "B. S &cap; R = S",
+			"q2": "C. S &cup; R = S",
+			"q3": "D. S &cap; R = S'",
+			"q4": "E. S &cap; R = R'"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Convert 35 to a number in base two.",
+		"opts": {
+			"q0": "A. 1011<sub>two</sub>",
+			"q1": "B. 10011<sub>two</sub>",
+			"q2": "C. 100011<sub>two</sub>",
+			"q3": "D. 110010<sub>two</sub>",
+			"q4": "E. 110001<sub>two</sub>"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The n<sup>th</sup> term of a sequence is represented by 3 x 2<sup>(2-n)</sup>. Write down the first three terms of the sequence",
+		"opts": {
+			"q0": "A. <sup>3</sup>&frasl;<sub>2</sub>, 3, 6",
+			"q1": "B. 6, 3, <sup>3</sup>&frasl;<sub>2</sub>",
+			"q2": "C. <sup>3</sup>&frasl;<sub>2</sub>, 3, <sup>1</sup>&frasl;<sub>3</sub>",
+			"q3": "D. <sup>2</sup>&frasl;<sub>3</sub>, 3, <sup>8</sup>&frasl;<sub>3</sub>",
+			"q4": "E. <sup>3</sup>&frasl;<sub>2</sub>, 0, 6"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Simplify (<sup>1</sup>&frasl;<sub>4</sub>)<sup>-<sup>1</sup>&frasl;<sub>2</sub></sup>",
+		"opts": {
+			"q0": "A. 8",
+			"q1": "B. 4",
+			"q2": "C. <sup>1</sup>&frasl;<sub>4</sub>",
+			"q3": "D. <sup>3</sup>&frasl;<sub>8</sub>",
+			"q4": "E. <sup>1</sup>&frasl;<sub>16</sub>"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Find the number whose logarithm to base 10 is 2.6025",
+		"opts": {
+			"q0": "A. 0.0004",
+			"q1": "B. 4.004",
+			"q2": "C. 40.04",
+			"q3": "D. 400.4",
+			"q4": "E. 4004"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	A piece of cloth was measured as 6.10m. If the actual length of the cloth is 6.35m, find the percentage error, correct to 2 decimal places.",
+		"opts": {
+			"q0": "A. 3.05%",
+			"q1": "B. 3.94%",
+			"q2": "C. 15.00%",
+			"q3": "D. 25.00%",
+			"q4": "E. 39.30%"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Simplify: <img src='maths_1998_sectionb_qst7.jpg'>",
+		"opts": {
+			"q0": "A. -3",
+			"q1": "B. <sup>1</sup>&frasl;<sub>9</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>3</sub>",
+			"q3": "D. <sup>27</sup>&frasl;<sub>8</sub>",
+			"q4": "E. 4"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Solve the equation 5x<sup>2</sup> - 4x - 1 = 0",
+		"opts": {
+			"q0": "A. -1, <sup>1</sup>&frasl;<sub>5</sub>",
+			"q1": "B. -1, -<sup>1</sup>&frasl;<sub>5</sub>",
+			"q2": "C. 1<sup>1</sup>&frasl;<sub>5</sub>",
+			"q3": "D. 1, -<sup>1</sup>&frasl;<sub>5</sub>",
+			"q4": "E. -1, 5"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	p and q are two positive numbers such that p > 2q. Which one of the following statements is not true?",
+		"opts": {
+			"q0": "A. -p < -2q",
+			"q1": "B. -p > -2q",
+			"q2": "C. -q < 2p",
+			"q3": "D. q < <sup>1</sup>&frasl;<sub>2</sub>p",
+			"q4": "E. p<sup>2</sup> > 2q<sup>2</sup>"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	For what values of x is the expression <sup>x - 5</sup>&frasl;<sub>x<sup>2</sup> - 2x - 3</sub>",
+		"opts": {
+			"q0": "A. 3,1",
+			"q1": "B. -1,-3",
+			"q2": "C. -1,3",
+			"q3": "D. 3,-2",
+			"q4": "E. 1,-3"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Make S the subject of the formula: V = <sup>K</sup>&frasl;<sub>&radic;T-S</sub>",
+		"opts": {
+			"q0": "A. S = T - <sup>K<sup>2</sup></sup>&frasl;<sub>V<sup>2</sup></sub>",
+			"q1": "B. S = <sup>K<sup>2</sup> - T</sup>&frasl;<sub>V<sup>2</sup></sub>",
+			"q2": "C. S = T - <sup>V<sup>2</sup></sup>&frasl;<sub>K<sup>2</sup></sub>",
+			"q3": "D. S = <sup>T(V<sup>2</sup> - K<sup>2</sup>)</sup>&frasl;<sub>V<sup>2</sup></sub>",
+			"q4": "E. S = <sup>T + V<sup>2</sup></sup>&frasl;<sub>K<sup>2</sup></sub>"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Find the equation whose roots are <sup>2</sup>&frasl;<sub>3</sub> and -<sup>1</sup>&frasl;<sub>4</sub>",
+		"opts": {
+			"q0": "A. 12x<sup>2</sup> + 11x + 2 = 0",
+			"q1": "B. 12x<sup>2</sup> - 11x + 2 = 0",
+			"q2": "C. x<sup>2</sup> - <sup>11</sup>&frasl;<sub>2</sub>x + 2 = 0",
+			"q3": "D. x<sup>2</sup> + <sup>11</sup>&frasl;<sub>2</sub>x - 2 = 0",
+			"q4": "E. 12x<sup>2</sup> - 11x - 2 = 0"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Find (x - y) if 4x - 3y = 7 and 3x - 2y = 5.",
+		"opts": {
+			"q0": "A. 4",
+			"q1": "B. 3",
+			"q2": "C. 2",
+			"q3": "D. -2",
+			"q4": "E. -3"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Solve the inquality (y - 3) < <sup>y</sup>&frasl;<sub>3</sub>",
+		"opts": {
+			"q0": "A. y > -9",
+			"q1": "B. y < 3",
+			"q2": "C. y > 4",
+			"q3": "D. y < 9",
+			"q4": "E. y > 0"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	If h(m + n) = m(h + r), find h in terms of m, n and r",
+		"opts": {
+			"q0": "A. h = <sup>mr</sup>&frasl;<sub>2m + n</sub>",
+			"q1": "B. h = <sup>mr</sup>&frasl;<sub>n + m</sub>",
+			"q2": "C. h = <sup>m + r</sup>&frasl;<sub>n</sub>",
+			"q3": "D. h = <sup>m + n</sup>&frasl;<sub>m</sub>",
+			"q4": "E. h = <sup>mr</sup>&frasl;<sub>n</sub>"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Given that <sup>6x - y</sup>&frasl;<sub>x + 2y</sub> = 2, find the value of <sup>x</sup>&frasl;<sub>y</sub>",
+		"opts": {
+			"q0": "A. <sup>3</sup>&frasl;<sub>8</sub>",
+			"q1": "B. <sup>5</sup>&frasl;<sub>8</sub>",
+			"q2": "C. <sup>4</sup>&frasl;<sub>5</sub>",
+			"q3": "D. <sup>5</sup>&frasl;<sub>4</sub>",
+			"q4": "E. <sup>8</sup>&frasl;<sub>5</sub>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	The radius of a geographical globe is 60cm. Find the length of the parallel of Latitude 60&deg;N.",
+		"opts": {
+			"q0": "A. 66&pi;cm",
+			"q1": "B. 60&pi;cm",
+			"q2": "C. 30&pi;cm",
+			"q3": "D. 15&pi;cm",
+			"q4": "E. 6&pi;cm"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	<img src='maths_1998_sectionb_qst18.jpg'> In the diagram below, O is the centre of the two concentric circles of radii 13cm and 10cm respectively. Find the area of the shaded portion in the sector with an angle of 120&deg; at the centre.",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>3</sub>&pi;cm<sup<2</sup>",
+			"q1": "B. &pi;cm<sup<2</sup>",
+			"q2": "C. 3&pi;cm<sup<2</sup>",
+			"q3": "D. 23&pi;cm<sup<2</sup>",
+			"q4": "E. 46&pi;cm<sup<2</sup>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Express as a single fraction: <sup>x</sup>&frasl;<sub>x - 2</sub> - <sup>x + 2</sup>&frasl;<sub>x + 3</sub>",
+		"opts": {
+			"q0": "A. <sup>2x<sup>2</sup> - 3x - 4</sup>&frasl;<sub>(x - 2)(x + 3)</sub>",
+			"q1": "B. <sup>2x<sup>2</sup> + 3x - 4</sup>&frasl;<sub>(x - 2)(x + 3)</sub>",
+			"q2": "C. <sup>2</sup>&frasl;<sub>(x - 2)(x + 3)</sub>",
+			"q3": "D. <sup>3x + 4</sup>&frasl;<sub>(x - 2)(x + 3)</sub>",
+			"q4": "E. <sup>3x - 4</sup>&frasl;<sub>(x - 2)(x + 3)</sub>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The following numbers represent a set of scores for a class of 32 students, where the maximum score possible was 12, 6, 5, 9, 4, 4, 8, 7, 5, 6, 3, 2, 5, 4, 6, 9, 10, 4, 3, 2, 3, 4, 6, 8, 7, 4, 2, 1, 8, 7, 7,6, 11. What percentage of the class, correct to the nearest whole number, scored above 6?",
+		"opts": {
+			"q0": "A. 34%",
+			"q1": "B. 35%",
+			"q2": "C. 37%",
+			"q3": "D. 38%",
+			"q4": "E. 50%"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	A die with faces numbered 1 to 6 is rolled once. What is the probability of obtaining 3 or 4?",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>36</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>6</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>3</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>2</sub>",
+			"q4": "E. <sup>2</sup>&frasl;<sub>3</sub>"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	<img src='maths_1998_sectionb_qst22.jpg'> In the diagram below, the area of triangle ABC is 35cm<sup>2</sup>. Find the value of y.",
+		"opts": {
+			"q0": "A. 5cm",
+			"q1": "B. 10cm",
+			"q2": "C. 17.5cm",
+			"q3": "D. 28cm",
+			"q4": "E. 70cm"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	<img src='maths_1998_sectionb_qst23_24.jpg'> Use the graph below to answer questions 23 and 24. The graph is that of the quadratic expression",
+		"opts": {
+			"q0": "A. y = x<sup>2</sup> + x - 2",
+			"q1": "B. y = x<sup>2</sup> - x + 2",
+			"q2": "C. y = x<sup>2</sup> - x - 2",
+			"q3": "D. y = x + 2x + 2",
+			"q4": "E. y = x<sup>2</sup> - 2x - 2"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	<img src='maths_1998_sectionb_qst23_24.jpg'> Use the graph below to answer questions 23 and 24. The values of x when y = -1 are approximately",
+		"opts": {
+			"q0": "A. 10 and 2.0",
+			"q1": "B. -1.3 and 2.3",
+			"q2": "C. -0.6 and 2.6",
+			"q3": "D. -0.6 and 1.6",
+			"q4": "E. 1.6 and 1.6"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	A box contains 2 white and 3 blue identical balls. If two balls are picked at random, one after the other, without replacement, what is the probability of picking two balls of different colours?",
+		"opts": {
+			"q0": "A. <sup>5</sup>&frasl;<sub>25</sub>",
+			"q1": "B. <sup>7</sup>&frasl;<sub>20</sub>",
+			"q2": "C. <sup>3</sup>&frasl;<sub>5</sub>",
+			"q3": "D. <sup>2</sup>&frasl;<sub>3</sub>",
+			"q4": "E. <sup>5</sup>&frasl;<sub>6</sub>"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	<img src='maths_1998_sectionb_qst26.jpg'> In &#8710;PQR, <PQR is a right angle. |QR| = 2cm and <PRQ = 60&deg;. Find |PR|.",
+		"opts": {
+			"q0": "A. 4&radic;3cm",
+			"q1": "B. 4cm",
+			"q2": "C. 2&radic;3cm",
+			"q3": "D. <sup>4</sup>&frasl;<sub>3</sub>",
+			"q4": "E. 1cm"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	<img src='maths_1998_sectionb_qst27.jpg'> In the diagram, PQ||SR. Find the value of Z.",
+		"opts": {
+			"q0": "A. 30&deg;",
+			"q1": "B. 40&deg;",
+			"q2": "C. 45&deg;",
+			"q3": "D. 90&deg;",
+			"q4": "E. 120&deg;"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	In sin(X + 30)&deg; = cos40&deg;, find X.",
+		"opts": {
+			"q0": "A. 10&deg;",
+			"q1": "B. 20&deg;",
+			"q2": "C. 50&deg;",
+			"q3": "D. 60&deg;",
+			"q4": "E. 90&deg;"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Find the value of x if cos x = <sup>5</sup>&frasl;<sub>8</sub> for 0&deg; &le; x &le; 180&deg;",
+		"opts": {
+			"q0": "A. 141.3&deg;",
+			"q1": "B. 128.7&deg;",
+			"q2": "C. 51.3&deg;",
+			"q3": "D. 48.7&deg;",
+			"q4": "E. 38.7&deg;"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	A ladder 5cm long rests against a wall such that its foot makes an angle 30&deg; with the horizontal. How far is the foot of the ladder from the wall?",
+		"opts": {
+			"q0": "A. <sup>5&radic;2</sup>&frasl;<sub>3</sub>m",
+			"q1": "B. 2<sup>1</sup>&frasl;<sub>2</sub>m",
+			"q2": "C. <sup>5&radic;3</sup>&frasl;<sub>2</sub>m",
+			"q3": "D. <sup>10&radic;3</sup>&frasl;<sub>3</sub>m",
+			"q4": "E. 10&radic;3m"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	A chord of a circle of radius 26cm is 10cm from the centre of the circle. Calculate the length of the chord.",
+		"opts": {
+			"q0": "A. 16cm",
+			"q1": "B. 27.86cm",
+			"q2": "C. 32cm",
+			"q3": "D. 48cm",
+			"q4": "E. 55.72cm"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Two chords PQ and RS of a circle intersect at right angles at a point inside the circle. If <QPR = 35&deg;, find <PQS",
+		"opts": {
+			"q0": "A. 35&deg;",
+			"q1": "B. 45&deg;",
+			"q2": "C. 55&deg;",
+			"q3": "D. 70&deg;",
+			"q4": "E. 90&deg;"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	<img src='maths_1998_sectionb_qst33.jpg'> In the diagram, O is the centre of the circle and the reflex angle ROS is 264&deg;. Find <RTS.",
+		"opts": {
+			"q0": "A. 48&deg;",
+			"q1": "B. 53&deg;",
+			"q2": "C. 66&deg;",
+			"q3": "D. 132&deg;",
+			"q4": "E. 192&deg;"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	If the exterior angles of a quadrilateral are y&deg;, (y + 5)&deg;, (y + 10)&deg; and (y + 25)&deg;, find y.",
+		"opts": {
+			"q0": "A. 10&deg;",
+			"q1": "B. 20&deg;",
+			"q2": "C. 40&deg;",
+			"q3": "D. 60&deg;",
+			"q4": "E. 80&deg;"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	<img src='maths_1998_sectionb_qst35.jpg'> In the diagram PQ is a diameter of circle PMQN centre O. lf <PQM = 63&deg;, find <MNQ.",
+		"opts": {
+			"q0": "A. 58.5&deg;",
+			"q1": "B. 44&deg;",
+			"q2": "C. 35&deg;",
+			"q3": "D. 31.5&deg;",
+			"q4": "E. 27&deg;"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	<img src='maths_1998_sectionb_qst36_37.jpg'> In the diagram, O is the centre of circle PRQ. The radius is 3.5cm and <POQ = 50&deg;. Use the diagram to answer questions 36 and 37. (Take &pi; = 3.142). Calculate, correct to one decimal place, the length of arc PQ.",
+		"opts": {
+			"q0": "A. 175.0cm",
+			"q1": "B. 157.1cm",
+			"q2": "C. 37.7cm",
+			"q3": "D. 11.0cm",
+			"q4": "E. 3.1cm"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	<img src='maths_1998_sectionb_qst36_37.jpg'> In the diagram, O is the centre of circle PRQ. The radius is 3.5cm and <POQ = 50&deg;. Use the diagram to answer questions 36 and 37. (Take &pi; = 3.142). Calculate, correct to three significant figures, the area of sector OPQ.",
+		"opts": {
+			"q0": "A. 3.403cm<sup>2</sup>",
+			"q1": "B. 5.350cm<sup>2</sup>",
+			"q2": "C. 10.99cm<sup>2</sup>",
+			"q3": "D. 157.1cm<sup>2</sup>",
+			"q4": "E. 175.0cm<sup>2</sup>"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='maths_1998_sectionb_qst38.jpg'> Calculate the perimeter of the trapezium PQRS.",
+		"opts": {
+			"q0": "A. 24cm",
+			"q1": "B. 36cm",
+			"q2": "C. 44cm",
+			"q3": "D. 72cm",
+			"q4": "E. 520cm"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The length of an arc of a circle of radius 5cm is 4cm. Find the area of the sector.",
+		"opts": {
+			"q0": "A. 1<sup>3</sup>&frasl;<sub>5</sub>cm<sup>2</sup>",
+			"q1": "B. 2cm<sup>2</sup>",
+			"q2": "C. 8cm<sup>2</sup>",
+			"q3": "D. 10cm<sup>2</sup>",
+			"q4": "E. 20cm<sup>2</sup>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='maths_1998_sectionb_qst40_41.jpg'> The pie chart below shows the distribution of how students travelled to a certain school on a particular day. Use this information to answer questions 40 and 41. If a hundred students travelled by bus, find the total number of students in the school.",
+		"opts": {
+			"q0": "A. 300",
+			"q1": "B. 400",
+			"q2": "C. 500",
+			"q3": "D. 600",
+			"q4": "E. 750"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='maths_1998_sectionb_qst40_41.jpg'> The pie chart below shows the distribution of how students travelled to a certain school on a particular day. Use this information to answer questions 40 and 41. What percentage, to the nearest whole number, of the students travelled to school on foot?",
+		"opts": {
+			"q0": "A. 24%",
+			"q1": "B. 23%",
+			"q2": "C. 20%",
+			"q3": "D. 15%",
+			"q4": "E. 14%"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='maths_1998_sectionb_qst42.jpg'> The diagram below is a rectangle. If the perimeter is 36m, find the area of the rectangle.",
+		"opts": {
+			"q0": "A. 64m<sup>2</sup>",
+			"q1": "B. 65m<sup>2</sup>",
+			"q2": "C. 84m<sup>2</sup>",
+			"q3": "D. 124m<sup>2</sup>",
+			"q4": "E. 275m<sup>2</sup>"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	In &#8710;PQR. T is a point on QR such that <QPT = 39&deg; and <PTR = 83&deg;. Calculate <PQT.",
+		"opts": {
+			"q0": "A. 34&deg;",
+			"q1": "B. 44&deg;",
+			"q2": "C. 45&deg;",
+			"q3": "D. 97&deg;",
+			"q4": "E. 107&deg;"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	<img src='maths_1998_sectionb_qst44.jpg'> Find the value of x in the diagram below.",
+		"opts": {
+			"q0": "A. 8.0cm",
+			"q1": "B. 6.8cm",
+			"q2": "C. 6.6cm",
+			"q3": "D. 6.5cm",
+			"q4": "E. 5.6cm"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	<img src='maths_1998_sectionb_qst45.jpg'> Find the angle x in the diagram below.",
+		"opts": {
+			"q0": "A. 310&deg;",
+			"q1": "B. 230&deg;",
+			"q2": "C. 190&deg;",
+			"q3": "D. 130&deg;",
+			"q4": "E. 100&deg;"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The diagonal and one side of a square are x and y units respectively. Find an expression for y in terms of x.",
+		"opts": {
+			"q0": "A. y = <sup>x</sup>&frasl;<sub>2</sub>",
+			"q1": "B. y = <sup>x</sup>&frasl;<sub>&radic;2</sub>",
+			"q2": "C. y = &radic;x",
+			"q3": "D. y = <sup>x</sup>&frasl;<sub>2</sub>",
+			"q4": "E. y = <sup>x</sup>&frasl;<sub>&radic;2</sub>"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Find the curved surface area of a cone of radius 3cm and slant height 7 cm. (Take &pi; = <sup>22</sup>&frasl;<sub>7</sub>)",
+		"opts": {
+			"q0": "A. 22cm<sup>2</sup>",
+			"q1": "B. 44cm<sup>2</sup>",
+			"q2": "C. 66cm<sup>2</sup>",
+			"q3": "D. 132cm<sup>2</sup>",
+			"q4": "E. 198cm<sup>2</sup>"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	<img src='maths_1998_sectionb_qst48.jpg'> In the diagram below, |PQ| = |PR| = |RS| and <RSP = 35&deg;. Find <QPR.",
+		"opts": {
+			"q0": "A. 70&deg;",
+			"q1": "B. 50&deg;",
+			"q2": "C. 45&deg;",
+			"q3": "D. 40&deg;",
+			"q4": "E. 35&deg;"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	<img src='maths_1998_sectionb_qst49.jpg'> P varies inversely as Q. The table below shows the value of Q for some selected values of P. What is the missing value of Q in the table?",
+		"opts": {
+			"q0": "A. 4",
+			"q1": "B. 9",
+			"q2": "C. 15",
+			"q3": "D. 16",
+			"q4": "E. 144"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Three of the angles of a hexagon are each x&deg;. The others are each 3x&deg;. Find x.",
+		"opts": {
+			"q0": "A. 30&deg;",
+			"q1": "B. 40&deg;",
+			"q2": "C. 60&deg;",
+			"q3": "D. 80&deg;",
+			"q4": "E. 120&deg;"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

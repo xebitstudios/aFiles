@@ -1,0 +1,1227 @@
+﻿[
+	{
+		"headd": "Objective Test Questions: Answer all the questions",	
+		"S1": [
+			{
+				"headd": "From the words lettered A to E below each of the following sentences, choose the word that is opposite in meaning to the underlined word"
+			},
+			{
+				"qs": "1.	By nature armed robbers are **ruthless** I have never seen a ............... one among them",
+				"opts": {
+					"q0": "A. humane",
+					"q1": "B. barbarous",
+					"q2": "C. ferocious",
+					"q3": "D. mean",
+					"q4": "E. decent"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "2.	The taxi driver **slowed** while overtaking the lorry when the proper thing to do was for him to have .............. ",
+				"opts": {
+					"q0": "A. throttled",
+					"q1": "B. despatched",
+					"q2": "C. expedited",
+					"q3": "D. negotiated",
+					"q4": "E. accelerated"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "3.	The **probationary** workers do not have the same rights as ................ staff",
+				"opts": {
+					"q0": "A. approved",
+					"q1": "B. dismissed",
+					"q2": "C. postponed",
+					"q3": "D. confirmed",
+					"q4": "E. provoked"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "4.	The journey by road ................. where the rail journey **ended**",
+				"opts": {
+					"q0": "A. concluded",
+					"q1": "B. originated",
+					"q2": "C. commenced",
+					"q3": "D. established",
+					"q4": "E. meandered"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "5.	Instead of **laughing** about this serious matter, you should be ...................",
+				"opts": {
+					"q0": "A. whimpering",
+					"q1": "B. sober",
+					"q2": "C. bitter",
+					"q3": "D. indifferent",
+					"q4": "E. unconcerned"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "6.	After years of **hostility** the two communities now live in ...............",
+				"opts": {
+					"q0": "A. bondage",
+					"q1": "B. security",
+					"q2": "C. enmity",
+					"q3": "D. equanimity",
+					"q4": "E. amity"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "7.	Mrs. Apata is always **moody** while her husband is forever .............",
+				"opts": {
+					"q0": "A. cheerful",
+					"q1": "B. willing",
+					"q2": "C. tender",
+					"q3": "D. loving",
+					"q4": "E. petulant"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "8.	The judge ruled that the first transaction was **valid** while the second was ................",
+				"opts": {
+					"q0": "A. abnormal",
+					"q1": "B. legal",
+					"q2": "C. valueless",
+					"q3": "D. void",
+					"q4": "E. proper"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "9.	Ebere’s ................. contrasts with his brother’s **indolence**",
+				"opts": {
+					"q0": "A. indulgence",
+					"q1": "B. laziness",
+					"q2": "C. labour",
+					"q3": "D. abstinence",
+					"q4": "E. diligence"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "10.	Elders are expected to be ................. where youths are **green**",
+				"opts": {
+					"q0": "A. rash",
+					"q1": "B. red",
+					"q2": "C. experienced",
+					"q3": "D. callous",
+					"q4": "E. impetuous"
+				},
+				"ans": "C",
+				"sel": ""
+			}
+		],
+		"S2": [
+			{
+				"headd": "From the words lettered A to E, choose the word that best completes each of the following sentences"
+			},
+			{
+				"qs": "11.	The officer expressed his ............... at being unfairly dismissed",
+				"opts": {
+					"q0": "A. indignity",
+					"q1": "B. indigestion",
+					"q2": "C. indiscretion",
+					"q3": "D. indignation",
+					"q4": "E. indiscipline"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "12.	It gives me much ................ to welcome you to the beginning of the new session",
+				"opts": {
+					"q0": "A. relish",
+					"q1": "B. enjoyment",
+					"q2": "C. pleasure",
+					"q3": "D. indulgence",
+					"q4": "E. vexation"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "13.	Miss Anieke is very ............... with her pupils because she loves them all",
+				"opts": {
+					"q0": "A. prevalent",
+					"q1": "B. familiar",
+					"q2": "C. plain",
+					"q3": "D. current",
+					"q4": "E. popular"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "14.	He added a brief .............. to his letter",
+				"opts": {
+					"q0": "A. postscript",
+					"q1": "B. postmark",
+					"q2": "C. postmortem",
+					"q3": "D. posture",
+					"q4": "E. postdate"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "15.	The ............... that the hospital should be upgraded was warmly welcomed",
+				"opts": {
+					"q0": "A. design",
+					"q1": "B. purpose",
+					"q2": "C. proposal",
+					"q3": "D. undertaken",
+					"q4": "E. theorem"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "16.	The visitors expressed appreciation for the ................. shown to them during their stay",
+				"opts": {
+					"q0": "A. hostility",
+					"q1": "B. charity",
+					"q2": "C. enjoyment",
+					"q3": "D. generosity",
+					"q4": "E. hospitality"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "17.	The judge ................. her to two year’s imprisonment",
+				"opts": {
+					"q0": "A. pronounced",
+					"q1": "B. commended",
+					"q2": "C. tried",
+					"q3": "D. condemned",
+					"q4": "E. sentenced"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "18.	The principal ................. the students for performing brilliantly in the examinations",
+				"opts": {
+					"q0": "A. rebuked",
+					"q1": "B. remarked",
+					"q2": "C. condoned",
+					"q3": "D. commended",
+					"q4": "E. admonished"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "19.	Akpan is generally ............... as the most experienced mason in the town",
+				"opts": {
+					"q0": "A. recommended",
+					"q1": "B. recognized",
+					"q2": "C. selected",
+					"q3": "D. fulfilled",
+					"q4": "E. interned"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "20.	The Board of Directors is discussing now the company can be run more ...................",
+				"opts": {
+					"q0": "A. effeminately",
+					"q1": "B. effusively",
+					"q2": "C. effortlessly",
+					"q3": "D. affectionately",
+					"q4": "E. efficiently"
+				},
+				"ans": "E",
+				"sel": ""
+			}
+		],
+		"S3": [
+			{
+				"headd": "After each of the following sentences, a list of possible interpretations of the sentence is given. Choose the interpretation that you consider most appropriate for each sentence"
+			},
+			{
+				"qs": "21.	My Gajere is generous to a fault with everything he has. This means that he is",
+				"opts": {
+					"q0": "A. just a little generous",
+					"q1": "B. not generous at all",
+					"q2": "C. excessively generous",
+					"q3": "D. very stingy",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "22.	What I have told you is the gospel truth. This means that the information is",
+				"opts": {
+					"q0": "A. false",
+					"q1": "B. unconfirmed",
+					"q2": "C. partly true",
+					"q3": "D. completely true",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "23.	Walter is the dictator’s hatchetman. This means that Walter",
+				"opts": {
+					"q0": "A. discredits or eliminates the dictator’s opponents",
+					"q1": "B. placates those that are offended by the dictator",
+					"q2": "C. explains the dictator’s policies to the people",
+					"q3": "D. finds out the dictator’s enemies",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "24.	Yekini scored a brilliant hat trick in the final match of the football competition. This means that he",
+				"opts": {
+					"q0": "A. scored the winning goal",
+					"q1": "B. was the best player",
+					"q2": "C. deceived the defenders before scoring the goal",
+					"q3": "D. scored three goals in the match",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "25.	When Audu took that step, he was on the horns of a dilemma. This means that he",
+				"opts": {
+					"q0": "A. was calm and composed",
+					"q1": "B. faced a choice between two unpleasant alternatives",
+					"q2": "C. had many attractive options",
+					"q3": "D. slept over the matter before he took the step",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "26.	Mary told John to put his own house in order before correcting	her. This means that John should",
+				"opts": {
+					"q0": "A. solve his own problems first",
+					"q1": "B. rearrange his house",
+					"q2": "C. repaint his house",
+					"q3": "D. has been banned not be harsh on her",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "27.	Amuneke has decided to hang his boots. This means that he",
+				"opts": {
+					"q0": "A. is leaving his club for another one",
+					"q1": "B. wants	a new pair of boots",
+					"q2": "C. is about to step playing the game",
+					"q3": "D. has been banned from playing football",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "28.	The famous film star found dancing a pretty kettle of fish. This means that",
+				"opts": {
+					"q0": "A. he enjoyed it",
+					"q1": "B. it was an awkward experience",
+					"q2": "C. he found dancing as interesting as acting",
+					"q3": "D. dancing gave him as much pleasure as a meal of fish",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "29.	The minister's explanation begged the question. This means that the minister’s explanation",
+				"opts": {
+					"q0": "A. avoided the real issue",
+					"q1": "B. addressed the issue",
+					"q2": "C. was false",
+					"q3": "D. was convincing",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "30.	The principal’s quarters are out of bounds to students. This means that the quarters are",
+				"opts": {
+					"q0": "A. outside the school boundary",
+					"q1": "B. too far for students to go there",
+					"q2": "C. not open to students",
+					"q3": "D. for binding students",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			}
+		],
+		"S4": [
+			{
+				"headd": "From the words lettered A. to E below each of the following sentences, choose the word that is nearest in meaning to the underlined word"
+			},
+			{
+				"qs": "31.	He **eventually** found the missing book",
+				"opts": {
+					"q0": "A. soon",
+					"q1": "B. lately",
+					"q2": "C. subsequently",
+					"q3": "D. frequently",
+					"q4": "E. finally"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "32.	The evidence of the witness **corroborates** that of the accused",
+				"opts": {
+					"q0": "A. negates",
+					"q1": "B. reinforces",
+					"q2": "C. opposes",
+					"q3": "D. disclaims",
+					"q4": "E. nullifies"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "33.	The attacker advanced on his opponent in a **menacing** fashion",
+				"opts": {
+					"q0": "A. threatening",
+					"q1": "B. unforgettable",
+					"q2": "C. fascinating",
+					"q3": "D. crucial",
+					"q4": "E. wonderful"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "34.	The man retired after thirty-five years of **meritorious** service to the nation",
+				"opts": {
+					"q0": "A. patriotic",
+					"q1": "B. notorious",
+					"q2": "C. commendable",
+					"q3": "D. beautiful",
+					"q4": "E. regrettable"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "35.	The story he told was **incredible**",
+				"opts": {
+					"q0": "A. indelible",
+					"q1": "B. acceptable",
+					"q2": "C. horrible",
+					"q3": "D. unbelievable",
+					"q4": "E. permissible"
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "36.	The bond of unity in his country is **fragile**",
+				"opts": {
+					"q0": "A. strong",
+					"q1": "B. weak",
+					"q2": "C. ductile",
+					"q3": "D. attractive",
+					"q4": "E. laudable"
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "37.	If I have erred, I hope the error is **pardonable**",
+				"opts": {
+					"q0": "A. excusable",
+					"q1": "B. intelligible",
+					"q2": "C. reparable",
+					"q3": "D. redeemable",
+					"q4": "E. questionable"
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "38.	We were treated to a very **sumptuous** meal at the party",
+				"opts": {
+					"q0": "A. meager",
+					"q1": "B. prominent",
+					"q2": "C. famous",
+					"q3": "D. common",
+					"q4": "E. expensive"
+				},
+				"ans": "E",
+				"sel": ""
+			},
+			{
+				"qs": "39.	Charles' concern for Diana is **affected**",
+				"opts": {
+					"q0": "A. genuine",
+					"q1": "B. serious",
+					"q2": "C. pretended",
+					"q3": "D. worrisome",
+					"q4": "E. half-hearted"
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "40.	We need an expert to **decipher** the code",
+				"opts": {
+					"q0": "A. understand",
+					"q1": "B. explain",
+					"q2": "C. demystify",
+					"q3": "D. normalize",
+					"q4": "E. interpret"
+				},
+				"ans": "E",
+				"sel": ""
+			}
+		],
+		"S5": [
+			{
+				"headd": "From the words or group of words lettered A to D, choose the one that best completes each of the following sentences."
+			},
+			{
+				"qs": "41.	The two warring parties met for five days to iron ................ their differences",
+				"opts": {
+					"q0": "A. of",
+					"q1": "B. in",
+					"q2": "C. up",
+					"q3": "D. out",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "42.	The business tycoon’s daughter was carried ............... by the flattery of her suitor",
+				"opts": {
+					"q0": "A. on",
+					"q1": "B. out",
+					"q2": "C. along",
+					"q3": "D. away",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "43.	The measures taken were intended to bring ............... the prices of consumer goods",
+				"opts": {
+					"q0": "A. out",
+					"q1": "B. off",
+					"q2": "C. away",
+					"q3": "D. down",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "44.	I was still explaining my action when Tina rudely cut .............",
+				"opts": {
+					"q0": "A. on",
+					"q1": "B. off",
+					"q2": "C. away",
+					"q3": "D. in",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "45.	The girl thought that she would get ............... with her stubbornness",
+				"opts": {
+					"q0": "A. over",
+					"q1": "B. up",
+					"q2": "C. away",
+					"q3": "D. around",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "46.	We asked him to come with us and ..............",
+				"opts": {
+					"q0": "A. he comes",
+					"q1": "B. he did",
+					"q2": "C. did he",
+					"q3": "D. he does",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "47.	Although he greeted her .................",
+				"opts": {
+					"q0": "A. but she did not answer",
+					"q1": "B. she does not answer",
+					"q2": "C. she did not answer",
+					"q3": "D. but she was yet to answer",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "48.	The thief died shortly after .............. shot at by the police",
+				"opts": {
+					"q0": "A. been",
+					"q1": "B. having",
+					"q2": "C. becoming",
+					"q3": "D. being",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "49.	If you don’t withdraw the defamatory statement, I shall have no alternative ............. seek redress in a court of law",
+				"opts": {
+					"q0": "A. till I",
+					"q1": "B. until I",
+					"q2": "C. than I",
+					"q3": "D. but to",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "50.	She said that she heard Julie ............",
+				"opts": {
+					"q0": "A. sing",
+					"q1": "B. song",
+					"q2": "C. sang",
+					"q3": "D. sung",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "51.	It is useless .............. with a fool",
+				"opts": {
+					"q0": "A. argue",
+					"q1": "B. arguing",
+					"q2": "C. to arguing",
+					"q3": "D. to argued",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "52.	................ committed the offence will be dealt with",
+				"opts": {
+					"q0": "A. Whichever",
+					"q1": "B. Whomever",
+					"q2": "C. Whatever",
+					"q3": "D. Whoever",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "53.	Hardly had he completed narrating the story ................. the poor woman collapsed",
+				"opts": {
+					"q0": "A. then",
+					"q1": "B. as",
+					"q2": "C. when",
+					"q3": "D. nevertheless",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "54.	Four men, one of ................ wore a sunshade, entered the room",
+				"opts": {
+					"q0": "A. which",
+					"q1": "B. whose",
+					"q2": "C. whom",
+					"q3": "D. them",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "55.	No sooner had Uche arrived at the meeting .................. the proceedings began",
+				"opts": {
+					"q0": "A. than",
+					"q1": "B. when",
+					"q2": "C. as",
+					"q3": "D. while",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "56.	I am sorry to bother you ................. I have something important to tell you",
+				"opts": {
+					"q0": "A. because",
+					"q1": "B. but",
+					"q2": "C. when",
+					"q3": "D. and",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "57.	I was not only tired ................... sick",
+				"opts": {
+					"q0": "A. but also",
+					"q1": "B. or also",
+					"q2": "C. and also",
+					"q3": "D. nevertheless",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "58.	Idi is neither too tall ............ short",
+				"opts": {
+					"q0": "A. and too",
+					"q1": "B. nor too",
+					"q2": "C. or too",
+					"q3": "D. or very",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "59.	There will be no trouble ................. you do the assignment",
+				"opts": {
+					"q0": "A. in case",
+					"q1": "B. because",
+					"q2": "C. as long as",
+					"q3": "D. as soon as",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "60.	Nda won’t like it ............... ?",
+				"opts": {
+					"q0": "A. has he",
+					"q1": "B. would he",
+					"q2": "C. wouldn't he",
+					"q3": "D. will he",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "61.	She hurt herself .............. ?",
+				"opts": {
+					"q0": "A. does she",
+					"q1": "B. isn’t it",
+					"q2": "C. didn't she",
+					"q3": "D. doesn't she",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "62.	Aliyu can change his mind ............?",
+				"opts": {
+					"q0": "A. can’t he",
+					"q1": "B. does he",
+					"q2": "C. will be",
+					"q3": "D. doesn’t he",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "63.	The vehicle wasn’t serviceable ..............?",
+				"opts": {
+					"q0": "A. it was",
+					"q1": "B. didn’t it",
+					"q2": "C. is it",
+					"q3": "D. was it",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "64.	He wasn’t unanimously elected president ...............?",
+				"opts": {
+					"q0": "A. was he",
+					"q1": "B. didn’t he",
+					"q2": "C. did he",
+					"q3": "D. does the",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "65.	These old tables and chairs are very valuable ...............",
+				"opts": {
+					"q0": "A. items of furnitures",
+					"q1": "B. furniture",
+					"q2": "C. item of furnitures",
+					"q3": "D. item of furniture",
+					"q4": "E. "
+				},
+				"ans": "A",
+				"sel": ""
+			},
+			{
+				"qs": "66.	We lost because we ................. cope with the pace of the game",
+				"opts": {
+					"q0": "A. cannot",
+					"q1": "B. could not be able",
+					"q2": "C. could not",
+					"q3": "D. cannot be able",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			},
+			{
+				"qs": "67.	Your contribution is not .................. for you to share in the profit",
+				"opts": {
+					"q0": "A. sufficient enough",
+					"q1": "B. enough",
+					"q2": "C. insufficient",
+					"q3": "D. enough sufficient",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "68.	The teacher’s .............. of the word is faulty",
+				"opts": {
+					"q0": "A. pronouncement",
+					"q1": "B. promulgation",
+					"q2": "C. prolongation",
+					"q3": "D. pronounciation",
+					"q4": "E. "
+				},
+				"ans": "D",
+				"sel": ""
+			},
+			{
+				"qs": "69.	The sole occupant of the car was injured in the ................ accident",
+				"opts": {
+					"q0": "A. fatal",
+					"q1": "B. ghastly",
+					"q2": "C. incredible",
+					"q3": "D. trivial",
+					"q4": "E. "
+				},
+				"ans": "B",
+				"sel": ""
+			},
+			{
+				"qs": "70.	The woman walked ............. fast that the little girl couldn’t catch up with her",
+				"opts": {
+					"q0": "A. too",
+					"q1": "B. very",
+					"q2": "C. so",
+					"q3": "D. quite",
+					"q4": "E. "
+				},
+				"ans": "C",
+				"sel": ""
+			}
+		],
+		"S6": [
+			{
+				"headd": "In the following passage, the numbered gaps indicate missing words. Against each number in the list below each passage, five options are given in columns lettered A to E. Choose the word that is the most suitable to fill the numbered gap in the passage.",
+				"PA": [
+					"Words in English Language, and any other language for that matter, have one --71-- A word --72-- has more than one meaning --73-- on its usage in the --74--.",
+					"Also, a particular thing or situation may be --75-- using many --76-- words of groups of words. Yet two words --77-- ever have exactly the same meaning.",
+					"Thus, although a word may have many --78-- these do no mean exactly the same thing --79--, it is important that the writer should be very --80-- in his --81-- of words.",
+					" Students should be advised not to put --82-- the first words that come to their minds. Any writer needs time to --83-- the context and --84-- suitable words from the very many --85-- options that can be used to describe any situation.",
+				]
+			},
+			{
+				"qst": [				
+					{
+						"opts": {
+							"q0": "A. semblance",
+							"q1": "B. likeness",
+							"q2": "C. similarity",
+							"q3": "D. thing",
+							"q4": "E. peculiarity"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. even",
+							"q1": "B. equally",
+							"q2": "C. usually",
+							"q3": "D. rarely",
+							"q4": "E. never"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. relying",
+							"q1": "B. depending",
+							"q2": "C. particularly",
+							"q3": "D. reflecting",
+							"q4": "E. especially"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. context",
+							"q1": "B. paragraph",
+							"q2": "C. phrase",
+							"q3": "D. content",
+							"q4": "E. contest"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. quoted",
+							"q1": "B. ascribed",
+							"q2": "C. invented",
+							"q3": "D. procured",
+							"q4": "E. described"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. divergent",
+							"q1": "B. opposing",
+							"q2": "C. direct",
+							"q3": "D. different",
+							"q4": "E. difficult"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. sometimes",
+							"q1": "B. often",
+							"q2": "C. hardly",
+							"q3": "D. always",
+							"q4": "E. occasionally"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. metaphors",
+							"q1": "B. synonyms",
+							"q2": "C. antonyms",
+							"q3": "D. homonyms",
+							"q4": "E. syllables"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. Finally",
+							"q1": "B. Eventually",
+							"q2": "C. Additionally",
+							"q3": "D. Consequently",
+							"q4": "E. Similarly"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. effective",
+							"q1": "B. worried",
+							"q2": "C. agitated",
+							"q3": "D. relaxed",
+							"q4": "E. careful"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. choice",
+							"q1": "B. articulation",
+							"q2": "C. description",
+							"q3": "D. expression",
+							"q4": "E. option"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. up",
+							"q1": "B. down",
+							"q2": "C. across",
+							"q3": "D. over",
+							"q4": "E. on"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. investigate",
+							"q1": "B. look",
+							"q2": "C. examine",
+							"q3": "D. take",
+							"q4": "E. see"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. admit",
+							"q1": "B. extract",
+							"q2": "C. invite",
+							"q3": "D. adjust",
+							"q4": "E. select"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. practicable",
+							"q1": "B. adequate",
+							"q2": "C. viable",
+							"q3": "D. possible",
+							"q4": "E. excellent"
+						},
+						"ans": "D",
+						"sel": ""
+					}
+				]
+			},
+			{
+				"headd": "In the following passages, the numbered gaps indicate missing words. Against each number in the list below each passage, five options are given in columns lettered A to E. Choose the word that is the most suitable to fill the numbered gap in the passage.",
+				"PB": [
+					"When Mrs Dada took her sick baby to the hospital, the doctor told her that the baby didn’t have much --86-- to the parasites which the laboratory --87-- identified in the blood --88--. He told her to give the baby the prescribed drugs and keep out the mosquitoes that --89-- the disease.",
+					"The disease was in its early --90-- but the most evident symptom was the --91-- of the eye membranes. This was caused by the trachoma virus, which could not be seen under a --92-- because it is even smaller than bacterial --93-- Trachoma could cause blindness, so Mrs Dada had to protect her family from this --94-- disease.",
+					"She should keep up a high standard of --95-- by --96-- her personal towels and face cloths. The doctor also wrote out a --97-- of antibiotic drugs and vitamin A tablets which should be got from a --98--. She was assured that this treatment would --99-- the baby and restore him to good --100-- in two or three days.",
+				]
+			},
+			{
+				"qst": [
+					{
+						"opts": {
+							"q0": "A. reaction",
+							"q1": "B. opposition",
+							"q2": "C. energy",
+							"q3": "D. armament",
+							"q4": "E. resistance"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. doctor",
+							"q1": "B. technician",
+							"q2": "C. nurse",
+							"q3": "D. aide",
+							"q4": "E. matron"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. sample",
+							"q1": "B. type",
+							"q2": "C. exhibit",
+							"q3": "D. group",
+							"q4": "E. portion"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. maintain",
+							"q1": "B. give",
+							"q2": "C. carry",
+							"q3": "D. deliver",
+							"q4": "E. transport"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. circumstances",
+							"q1": "B. positions",
+							"q2": "C. steps",
+							"q3": "D. stages",
+							"q4": "E. levels"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. pneumonia",
+							"q1": "B. rheumatism",
+							"q2": "C. nervousness",
+							"q3": "D. inflammation",
+							"q4": "E. eyesore"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. telescope",
+							"q1": "B. horoscope",
+							"q2": "C. stethescope",
+							"q3": "D. radioscope",
+							"q4": "E. microscope"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. organisms",
+							"q1": "B. fungi",
+							"q2": "C. vermin",
+							"q3": "D. pests",
+							"q4": "E. chromosomes"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. exchangeable",
+							"q1": "B. pervasive",
+							"q2": "C. contagious",
+							"q3": "D. noxious",
+							"q4": "E. potent"
+						},
+						"ans": "C",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. purification",
+							"q1": "B. hygiene",
+							"q2": "C. innoculation",
+							"q3": "D. vigour",
+							"q4": "E. living"
+						},
+						"ans": "B",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. immunizing",
+							"q1": "B. cooking",
+							"q2": "C. refining",
+							"q3": "D. clarifying",
+							"q4": "E. sterilizing"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. concoction",
+							"q1": "B. conviction",
+							"q2": "C. narration",
+							"q3": "D. prescription",
+							"q4": "E. description"
+						},
+						"ans": "D",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. pharmacist",
+							"q1": "B. physiotherapist",
+							"q2": "C. scientist",
+							"q3": "D. virologist",
+							"q4": "E. dermatologist"
+						},
+						"ans": "A",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. revive",
+							"q1": "B. cleanse",
+							"q2": "C. heal",
+							"q3": "D. repair",
+							"q4": "E. cure"
+						},
+						"ans": "E",
+						"sel": ""
+					},
+					{
+						"opts": {
+							"q0": "A. habits",
+							"q1": "B. manners",
+							"q2": "C. health",
+							"q3": "D. life",
+							"q4": "E. condition"
+						},
+						"ans": "C",
+						"sel": ""
+					}
+				]
+			}
+		]
+	}
+]
