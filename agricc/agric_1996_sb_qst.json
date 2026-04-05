@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following defines agriculture?",
+		"opts": {
+			"q0": "A. The raising of farm animals by rural communities",
+			"q1": "B. A way of life by which farmers produce food",
+			"q2": "C. The raising of crops to satisfy human needs",
+			"q3": "D. An art of farming inherited from our fore-fathers",
+			"q4": "E. The science and art of farming to satisfy human needs"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	When a piece of land is leased to a farmer, the land is said to be",
+		"opts": {
+			"q0": "A. given to him as subsidy",
+			"q1": "B. purchased on loan",
+			"q2": "C. allocated on a rental basis",
+			"q3": "D. given as a gift",
+			"q4": "E. inherited"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The Nigerian Land Use Act of 1978 puts the right ownership of land on the",
+		"opts": {
+			"q0": "A. president of the farmers cooperative",
+			"q1": "B. head of the family unit",
+			"q2": "C. head of the society",
+			"q3": "D. governor of a state",
+			"q4": "E. traditional rulers"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following factors will not influence the use of land for farming?",
+		"opts": {
+			"q0": "A. Population density",
+			"q1": "B. Climatic condition",
+			"q2": "C. Topography",
+			"q3": "D. Light intensity",
+			"q4": "E. Type of vegetation"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	A biotic factor influencing agricultural production is",
+		"opts": {
+			"q0": "A. rainfall",
+			"q1": "B. predator",
+			"q2": "C. soil structure",
+			"q3": "D. wind",
+			"q4": "E. temperature"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Tropical crops grow best within the temperature range of",
+		"opts": {
+			"q0": "A. 40&deg;C - 60&deg;C",
+			"q1": "B. 35&deg;C - 55&deg;C",
+			"q2": "C. 30&deg;C - 50&deg;C",
+			"q3": "D. 18&deg;C - 32&deg;C",
+			"q4": "E. 6&deg;C - 15&deg;C"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	The alternate heating and cooling of rocks will result in",
+		"opts": {
+			"q0": "A. molten magma",
+			"q1": "B. sublimation",
+			"q2": "C. solidification",
+			"q3": "D. sedimentation",
+			"q4": "E. fragmentation"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Which of the following is an example of igneous rock?",
+		"opts": {
+			"q0": "A. Gneiss",
+			"q1": "B. Limestone",
+			"q2": "C. Sandstone",
+			"q3": "D. Granite",
+			"q4": "E. Quartzite"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Use the following information to answer questions 9 and 10. In an experiment to determine the percentage of humus content in a soil, the following results were obtained: Mass of dish = 10 gm, Mass of dish and oven-dry soil = 50 gm, Mass of dish and soil after heating = 40 gm. Calculate the amount of humus in the soil",
+		"opts": {
+			"q0": "A. 10 gm",
+			"q1": "B. 40 gm",
+			"q2": "C. 50 gm",
+			"q3": "D. 60 gm",
+			"q4": "E. 90 gm"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Use the following information to answer questions 9 and 10. In an experiment to determine the percentage of humus content in a soil, the following results were obtained: Mass of dish = 10 gm, Mass of dish and oven-dry soil = 50 gm, Mass of dish and soil after heating = 40 gm. Calculate the percentage of humus in the soil sample",
+		"opts": {
+			"q0": "A. 10%",
+			"q1": "B. 25%",
+			"q2": "C. 60%",
+			"q3": "D. 75%",
+			"q4": "E. 80%"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The texture and the mineral composition of soil depend mainly on",
+		"opts": {
+			"q0": "A. topography",
+			"q1": "B. light intensity",
+			"q2": "C. organic matter",
+			"q3": "D. parent material",
+			"q4": "E. temperature"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Which of the following types of fertilizer is recommended for use in high quantities for groundnut production?",
+		"opts": {
+			"q0": "A. Nitrogen fertilizer",
+			"q1": "B. Phosphorus fertilizer",
+			"q2": "C. Potassium fertilizer",
+			"q3": "D. Compost",
+			"q4": "E. Potassium and calcium fertilizer"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Lodging in crops is caused by excess supply of",
+		"opts": {
+			"q0": "A. potassium",
+			"q1": "B. sulphur",
+			"q2": "C. iron",
+			"q3": "D. nitrogen",
+			"q4": "E. sodium"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Adoption of clean clearing of land in the tropical ram forest is not advisable because it",
+		"opts": {
+			"q0": "A. encourages erosion arid leaching",
+			"q1": "B. is very expensive",
+			"q2": "C. is very difficult to practise",
+			"q3": "D. deprives the farmer of continuous use of wood",
+			"q4": "E. encourages compaction of soil"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following is not an effect of bush burning on the soil?",
+		"opts": {
+			"q0": "A. Sterilizing soil against some harmful soii micro-organisms",
+			"q1": "B. Destroying the structure of soil",
+			"q2": "C. Increasing rate of nitrogen mineralization",
+			"q3": "D. Predisposing soil to erosion",
+			"q4": "E. Maintaining high levels of soil nutrient reserves"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Irrigation can be defined as",
+		"opts": {
+			"q0": "A. high water table for plants",
+			"q1": "B. a system of farming in which crops are provided with water artificially ",
+			"q2": "C. a type of farming where crops depend mostly on rainfall",
+			"q3": "D. a type of farming practised in the forest zones",
+			"q4": "E. the storage of water for future farm operation"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following is not an advantage of farm mechanization?",
+		"opts": {
+			"q0": "A. Timely farm operations",
+			"q1": "B. High operating cost",
+			"q2": "C. Green-manuring",
+			"q3": "D. Improvement of yields",
+			"q4": "E. Rapid land clearing"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	<img src='agric_1996_sectionb_qst18_20.jpg'> The diagram below represents a chain measurement drawing of the school farmland having an obstruction at point C. Use the diagram and the information to answer questions 18 to 20. What will be the length between points A and B of the farmland?",
+		"opts": {
+			"q0": "A. AC + CD + EB",
+			"q1": "B. AC + CD + DE + EB",
+			"q2": "C. AC + DE + EB",
+			"q3": "D. CD + DE + EB",
+			"q4": "E. AC + CE + EB"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='agric_1996_sectionb_qst18_20.jpg'> The diagram below represents a chain measurement drawing of the school farmland having an obstruction at point C. Use the diagram and the information to answer questions 18 to 20. Which of the following formulae can be used to calculate the distance CE in the diagram?",
+		"opts": {
+			"q0": "A. CE = CD<sup>2</sup> + EB<sup>2</sup>",
+			"q1": "B. CE = &radic;DE<sup>2</sup>",
+			"q2": "C. CE = &radic;CD<sup>2</sup>",
+			"q3": "D. CE = CD<sup>2</sup> + DE<sup>2</sup>",
+			"q4": "E. ce = &radic;CD + DE<sup>2</sup>"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	<img src='agric_1996_sectionb_qst18_20.jpg'> The diagram below represents a chain measurement drawing of the school farmland having an obstruction at point C. Use the diagram and the information to answer questions 18 to 20. Which of the following describes the method used to calculate the distance CE?",
+		"opts": {
+			"q0": "A. Similar triangular method",
+			"q1": "B. Double perpendicular",
+			"q2": "C. Right-angled method",
+			"q3": "D. Quadrangle",
+			"q4": "E. Chain method"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	A fruit with many seeds that has many joined carpels and dehisces along all sutures from base to apex is referred to as a",
+		"opts": {
+			"q0": "A. cereal",
+			"q1": "B. legume",
+			"q2": "C. capsule",
+			"q3": "D. berry",
+			"q4": "E. nut"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The maturity period of tomato in days is about",
+		"opts": {
+			"q0": "A. 40",
+			"q1": "B. 90",
+			"q2": "C. 140",
+			"q3": "D. 160",
+			"q4": "E. 180"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Tomato crops are usually staked to",
+		"opts": {
+			"q0": "A. accelerate rate of ripening of the fruits",
+			"q1": "B. accelerate growth",
+			"q2": "C. prevent rotting of fruits",
+			"q3": "D. induce flowering",
+			"q4": "E. expose the leaves adequately"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	A perennial is a crop which",
+		"opts": {
+			"q0": "A. reaches maturity early and stops producing fruits before two years",
+			"q1": "B. can grow and produce fruits for more than two years",
+			"q2": "C. stops producing fruit two years after planting",
+			"q3": "D. cannot flower during two consecutive growing seasons",
+			"q4": "E. produces two harvests within a year"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Common management practices in pastures include the following except",
+		"opts": {
+			"q0": "A. rotational grazing",
+			"q1": "B. weed and pest control",
+			"q2": "C. fertilizer application",
+			"q3": "D. paddocking",
+			"q4": "E. overstocking"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following is not a characteristic feature of giant-star grass?",
+		"opts": {
+			"q0": "A. Vigorous growth, spreading and perennial",
+			"q1": "B. Possession of long and rapidly growing-stems",
+			"q2": "C. Drought resistant and ability to withstand continuous grazing",
+			"q3": "D. Easy to eradicate once established",
+			"q4": "E. Easily propagated from young cuttings"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The process by which a forest is renewed artificially is known ass",
+		"opts": {
+			"q0": "A. forest regeneration",
+			"q1": "B. forest plantation",
+			"q2": "C. selective exploitation",
+			"q3": "D. deforestation",
+			"q4": "E. taunaya"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following statements represents the best reason for making access roads in a forest plantation?",
+		"opts": {
+			"q0": "A. Fire-fighting purposes",
+			"q1": "B. Weeding",
+			"q2": "C. Fertilizer application",
+			"q3": "D. Mulching",
+			"q4": "E. Erosion control"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Which of the following is not a protective function of forests?",
+		"opts": {
+			"q0": "A. Soil conservation",
+			"q1": "B. Wind break",
+			"q2": "C. Wildlife conservation",
+			"q3": "D. Tourist attraction",
+			"q4": "E. Erosion control"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	A common disease of onion is",
+		"opts": {
+			"q0": "A. leaf spot",
+			"q1": "B. root knot",
+			"q2": "C. leaf blight",
+			"q3": "D. twister",
+			"q4": "E. mosaic"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Rice blast is caused by",
+		"opts": {
+			"q0": "A. a bacterium",
+			"q1": "B. a nematode",
+			"q2": "C. a virus",
+			"q3": "D. a fungus",
+			"q4": "E. an insect"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following diseases of crops is not caused by a fungus?",
+		"opts": {
+			"q0": "A. Panama disease of banana",
+			"q1": "B. Smut of rice",
+			"q2": "C. Mould of stored grain",
+			"q3": "D. Streak of maize",
+			"q4": "E. black pod disease of cocoa"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Biological control of insect pests of crops can best be carried out through",
+		"opts": {
+			"q0": "A. crop rotation",
+			"q1": "B. use of parasites and predators",
+			"q2": "C. soil fumigation",
+			"q3": "D. farm sanitation",
+			"q4": "E. use of resistant varieties"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	The aims of crop improvement include the following except",
+		"opts": {
+			"q0": "A. increasing yields",
+			"q1": "B. meeting particular needs of growers",
+			"q2": "C. meeting the needs of consumers",
+			"q3": "D. adapting to climatic conditions",
+			"q4": "E. reducing demand for a particular type of crop"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The chromosomes in a cell are located in the",
+		"opts": {
+			"q0": "A. cell wall",
+			"q1": "B. golgi body",
+			"q2": "C. vacuole",
+			"q3": "D. nucleus",
+			"q4": "E. mitochondrion"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	A great disadvantage of introduction as a method of crop improvement is the",
+		"opts": {
+			"q0": "A. adaptation of introduced crop to a new area of cultivation",
+			"q1": "B. usefulness of an introduced crop as basis for a breeding programme",
+			"q2": "C. incorporation of the desirable characteristics of the introduced crop into the local crop",
+			"q3": "D. introduction of a new type of disease into a new area of cultivation",
+			"q4": "E. integration of the introduced variety into the agricultural production of a new area"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following structures does not serve a protective function?",
+		"opts": {
+			"q0": "A. Hoof",
+			"q1": "B. Skin",
+			"q2": "C. Feathers",
+			"q3": "D. Bone",
+			"q4": "E. Hair"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The blind sacs at the junction of the small and large intestines of a fowl are called",
+		"opts": {
+			"q0": "A. gizzard",
+			"q1": "B. appendix",
+			"q2": "C. ileum",
+			"q3": "D. colons",
+			"q4": "E. caeca"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	One of the peculiarities of the intestinal tract of a fowl is the possession of",
+		"opts": {
+			"q0": "A. cloaca",
+			"q1": "B. stomach",
+			"q2": "C. oesophageal groove",
+			"q3": "D. large intestine",
+			"q4": "E. ileum"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='agric_1996_sectionb_qst40_43.jpg'> The diagram below represents the mammary gland of a cow. Use it to answer questions 40 to 43. Milk contents from the large ducts are emptied directly into the part labelled",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. III",
+			"q3": "D. IV",
+			"q4": "E. V"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='agric_1996_sectionb_qst40_43.jpg'> The diagram below represents the mammary gland of a cow. Use it to answer questions 40 to 43. The part, labelled I is the",
+		"opts": {
+			"q0": "A. blood vessel",
+			"q1": "B. cavity",
+			"q2": "C. duct",
+			"q3": "D. canai",
+			"q4": "E. cell"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='agric_1996_sectionb_qst40_43.jpg'> The diagram below represents the mammary gland of a cow. Use it to answer questions 40 to 43. What is the function of the part labelled II?",
+		"opts": {
+			"q0": "A. Milk let-down",
+			"q1": "B. Milk secretion",
+			"q2": "C. Blood supply to the organ",
+			"q3": "D. Blood synthesis",
+			"q4": "E. Milk storage"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	<img src='agric_1996_sectionb_qst40_43.jpg'> The diagram below represents the mammary gland of a cow. Use it to answer questions 40 to 43. The teat cavify is labeliea",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. III",
+			"q3": "D. IV",
+			"q4": "E. V"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The humpless breed of cattle which also possess short horns is",
+		"opts": {
+			"q0": "A. Gudali",
+			"q1": "B. Shuwa Arab",
+			"q2": "C. White Fulani",
+			"q3": "D. Red Bororo",
+			"q4": "E. Muturu"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The breed of goat popularly kept mainly for its skin is",
+		"opts": {
+			"q0": "A. Kano brown",
+			"q1": "B. Bornu red",
+			"q2": "C. Sokoto red",
+			"q3": "D. Dwarf goaf",
+			"q4": "E. Bauchi type"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	A livestock farmer was instructed to mix 1 litre of acaricide with 175 litres ofwater. Calculate the amount of water he needs to mix 20 litres of acaricide",
+		"opts": {
+			"q0": "A. 20 litres",
+			"q1": "B. 175 litres",
+			"q2": "C. 195 litres",
+			"q3": "D. 1750 litres",
+			"q4": "E. 3500 litres"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following will not be an effect of excessive amount of water content in feeds?",
+		"opts": {
+			"q0": "A. decrease in nutritive value",
+			"q1": "B. formation of toxic products",
+			"q2": "C. encouraging growth of moulds",
+			"q3": "D. stimulating fermentation",
+			"q4": "E. improving quality of such feeds"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following husbandry practices is not carried out in pig farming?",
+		"opts": {
+			"q0": "A. castration of excess males",
+			"q1": "B. application of iron supplements",
+			"q2": "C. numbering by ear notching or tattooing",
+			"q3": "D. shearing of hairs of the skin",
+			"q4": "E. dipping or spraying of animals"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The most important source of carbohydrate in livestock feed is",
+		"opts": {
+			"q0": "A. maize",
+			"q1": "B. guinea corn",
+			"q2": "C. sorghum",
+			"q3": "D. rice bran",
+			"q4": "E. wheat bran"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	An effective way of ensuring built-in resistance to diseases in calves is to",
+		"opts": {
+			"q0": "A. vaccinate calves at weaning",
+			"q1": "B. allow calves access to colostrum",
+			"q2": "C. ensure regular veterinary check-up",
+			"q3": "D. observe proper quarantine",
+			"q4": "E. give balance ration"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	Which of the following livestock parasites possesses proglottides?",
+		"opts": {
+			"q0": "A. liver fluke",
+			"q1": "B. roundworm",
+			"q2": "C. tapeworm",
+			"q3": "D. trypanosome",
+			"q4": "E. tick"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	Which of the following is the first operation in the establishment of a fish pond?",
+		"opts": {
+			"q0": "A. purchasing and transportation of fingerlings",
+			"q1": "B. construction of spill way",
+			"q2": "C. construction of dam",
+			"q3": "D. clearing and stumping of site",
+			"q4": "E. fertilization of pond"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	The importance of fish farming includes the following except",
+		"opts": {
+			"q0": "A. supply of proteins in the diet of man",
+			"q1": "B. boosting the economic of the country",
+			"q2": "C. supply of vitamins in the diet of man",
+			"q3": "D. discharge of waste used in the control of pond’s pests",
+			"q4": "E. provision of employment for people"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	Which of the following statements about cross-breeding is not correct?",
+		"opts": {
+			"q0": "A. the cross-bred progenies are heterozygous",
+			"q1": "B. cross-breeding can be used to introduce new genes",
+			"q2": "C. cross-breeding is used to create new breeds of livestock",
+			"q3": "D. the individuals used in cross-breeding have all characters in common",
+			"q4": "E. cross-breeding is almost a routine practice of improving poultry"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	The factors of production include the following except",
+		"opts": {
+			"q0": "A. marketing",
+			"q1": "B. labour",
+			"q2": "C. capital",
+			"q3": "D. land",
+			"q4": "E. management"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	The most important economic factor which determines the quantity of cassava a consumer will demand is the",
+		"opts": {
+			"q0": "A. availability of yams",
+			"q1": "B. price of cassava",
+			"q2": "C. supply of cassava",
+			"q3": "D. source of cassava",
+			"q4": "E. taste of the consumer"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	The increasing significance of agricultural finance include the following except",
+		"opts": {
+			"q0": "A. farmers’ inability to meet its expected production target",
+			"q1": "B. farmers’ ability to adjust to changing economic conditions",
+			"q2": "C. increase in farm efficiency",
+			"q3": "D. insuring crops against failure",
+			"q4": "E. acquisition of large farm size"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	Checking on costs and returns enables the farmer to",
+		"opts": {
+			"q0": "A. ascertain the immediate financial position of the farm",
+			"q1": "B. ascertain future financial position of the farm",
+			"q2": "C. keep farm records",
+			"q3": "D. plan the organization of a farm annually",
+			"q4": "E. know when there is excessive depreciation of farm machinery"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Marketing agents include the following except",
+		"opts": {
+			"q0": "A. marketing boards",
+			"q1": "B. co-operative societies",
+			"q2": "C. retailers",
+			"q3": "D. middlemen",
+			"q4": "E. merchants"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	Which of these statements is not a function of Agricultural Extension?",
+		"opts": {
+			"q0": "A. teaching people in rural areas how to raise their standard of living",
+			"q1": "B. acting as a link between the research institutes and farmers",
+			"q2": "C. providing farmers with the research findings and their application to the solution of farmers’ problems",
+			"q3": "D. fixing of prices of agricultural produce",
+			"q4": "E. changing farmers’ outlook towards their problems"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The primary role of agriculture is the provision of",
+		"opts": {
+			"q0": "A. foreign exchange earnings",
+			"q1": "B. raw materials for industries",
+			"q2": "C. food for man and his animals",
+			"q3": "D. employment and income for farmers",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	In subsistence agriculture,",
+		"opts": {
+			"q0": "A. yields are usually high",
+			"q1": "B. surplus produced is small",
+			"q2": "C. savings are made",
+			"q3": "D. farm sizes are large",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	An area of land where fruit trees are grown is commonly called a/an",
+		"opts": {
+			"q0": "A. plantation",
+			"q1": "B. nursery",
+			"q2": "C. green house",
+			"q3": "D. orchard",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The most important factor that determines the rate of agricultural development is",
+		"opts": {
+			"q0": "A. adoption of viable agricultural research findings",
+			"q1": "B. quantity of herbicides used",
+			"q2": "C. number of machinery available",
+			"q3": "D. number of people involved in agriculture",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The Land Use Decree of 1978 vested lands in each state of the country on the",
+		"opts": {
+			"q0": "A. individual",
+			"q1": "B. state governors",
+			"q2": "C. president of the country",
+			"q3": "D. commissioner for agriculture",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the following statements is not correct about agricultural regulations within a country? They are",
+		"opts": {
+			"q0": "A. different from one geographical location to another",
+			"q1": "B. based on the conditions prevailing in a particular country",
+			"q2": "C. aimed at maintaining good quality farm produce",
+			"q3": "D. aimed at increasing agricultural production",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	The recommended agricultural practice in farm settlement scheme is",
+		"opts": {
+			"q0": "A. poultry farming",
+			"q1": "B. continuous cropping",
+			"q2": "C. mixed farming",
+			"q3": "D. cash crop production",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Which of the following agricultural programmes covers risk and uncertainties in agricultural business?",
+		"opts": {
+			"q0": "A. Agricultural Development Project",
+			"q1": "B. Agricultural Insurance Scheme",
+			"q2": "C. River Basin Development Authority",
+			"q3": "D. Farm Settlement Scheme",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Government agricultural policies include the following except",
+		"opts": {
+			"q0": "A. increasing the production of food crops and animals",
+			"q1": "B. increasing the efficiency of production of export crops",
+			"q2": "C. supplying raw materials for use in local industries",
+			"q3": "D. increasing the number of peasant farmers",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Agricultural uses of land include",
+		"opts": {
+			"q0": "A. silviculture",
+			"q1": "B. mining",
+			"q2": "C. housing",
+			"q3": "D. transportation",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The main aim of establishing game reserves is to",
+		"opts": {
+			"q0": "A. prevent rare species of wild animals from extinction",
+			"q1": "B. generate income",
+			"q2": "C. provide employment",
+			"q3": "D. discourage poaching",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The equatorial rain forest belt is not usually used for cattle production because of the",
+		"opts": {
+			"q0": "A. low relative humidity",
+			"q1": "B. absence of natural grasslands",
+			"q2": "C. incidence of tsetse flies",
+			"q3": "D. dense vegetative growth",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Which of the following is not an example of metamorphic rock?",
+		"opts": {
+			"q0": "A. Granite",
+			"q1": "B. Gneiss",
+			"q2": "C. Schist",
+			"q3": "D. Quartzite",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	The most important factor affecting the rate of erosion is the",
+		"opts": {
+			"q0": "A. amount of organic matter in the soil",
+			"q1": "B. slope of the land",
+			"q2": "C. composition of soil",
+			"q3": "D. amount of rainfall",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following soil characteristics is constant?",
+		"opts": {
+			"q0": "A. Moisture content",
+			"q1": "B. Texture",
+			"q2": "C. Structure",
+			"q3": "D. Mineral matter content",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	A farmer who applies gypsum on his farmland intends to",
+		"opts": {
+			"q0": "A. decrease soil acidity",
+			"q1": "B. increase soil acidity",
+			"q2": "C. decrease soil alkalinity",
+			"q3": "D. increase soil alkalinity",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	In the nitrogen cycle, nitrosomonas and nitrobacter are responsible for",
+		"opts": {
+			"q0": "A. ammonification",
+			"q1": "B. nitrification",
+			"q2": "C. denitrification",
+			"q3": "D. nitrogen reduction",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Wood ash and oil palm bunches are rich sources of",
+		"opts": {
+			"q0": "A. potassium",
+			"q1": "B. nitrogen",
+			"q2": "C. molybdenum",
+			"q3": "D. sulphur",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	If 200 kg of NPK fertilizer is required for an hectare of maize farm, calculate the amount of the fertilizer required for 15 hectares of maize farm",
+		"opts": {
+			"q0": "A. 600 kg",
+			"q1": "B. 2,000 kg",
+			"q2": "C. 3,000 kg",
+			"q3": "D. 6,000 kg",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	In agriculture, which of the following statements best explains the equation below: (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> + 40<sub>2</sub> -> 2HNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> + H<sub>2</sub>O",
+		"opts": {
+			"q0": "A. The increase in soil acidity resulting from sulphate of ammonia",
+			"q1": "B. The increase of soil nutrients by sulphate of ammonia",
+			"q2": "C. The release of soil nutrients by sulphate of ammonia",
+			"q3": "D. The neutralization of sulphate of ammonia in the soil",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following is the correct trend in the historical development of power on the farm?",
+		"opts": {
+			"q0": "A. Animal power -> man power -> mechanical power",
+			"q1": "B. Man power -> animal power -> mechanical power",
+			"q2": "C. Man power -> mechanical power -> animal power",
+			"q3": "D. Animal power -> mechanical power -> man power",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The major advantage of human power over all other sources of power is man’s",
+		"opts": {
+			"q0": "A. normal power output of 75 watts per day",
+			"q1": "B. ability to work in any climatic condition",
+			"q2": "C. intelligence to control work",
+			"q3": "D. strength when at work",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	<img src='agric_2000_sectionb_qst23_24.jpg'> The diagram below represents the seed plate of a drill, use it to answer Questions 23 and 24. This seed plate has",
+		"opts": {
+			"q0": "A. an entire edge",
+			"q1": "B. pointed edges",
+			"q2": "C. smooth edges",
+			"q3": "D. serrated edges",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	<img src='agric_2000_sectionb_qst23_24.jpg'> The diagram below represents the seed plate of a drill, use it to answer Questions 23 and 24. The seed plate is normally located in the",
+		"opts": {
+			"q0": "A. harrow",
+			"q1": "B. mower",
+			"q2": "C. hopper",
+			"q3": "D. plough",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Which of the following is a function of the hopper of a grain sheller?",
+		"opts": {
+			"q0": "A. Rubbing cobs against one another",
+			"q1": "B. Receiving maize cobs to be shelled",
+			"q2": "C. Separating chaff from the grains",
+			"q3": "D. Drying shelled, maize grains",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The amount of planting material needed for a given area of land is known as",
+		"opts": {
+			"q0": "A. seed rate",
+			"q1": "B. plant population",
+			"q2": "C. seed volume",
+			"q3": "D. plant density",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Cotton can thrive well in the mangrove areas if",
+		"opts": {
+			"q0": "A. appropriate fertilizer is applied to the soil",
+			"q1": "B. sunshine is lower in intensity",
+			"q2": "C. land is sufficiently drained",
+			"q3": "D. white flies are controlled",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Legumes that produce edible seeds are called",
+		"opts": {
+			"q0": "A. pulses",
+			"q1": "B. spices",
+			"q2": "C. grains",
+			"q3": "D. cereals",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	When sugarcane is allowed to flower before harvesting, the",
+		"opts": {
+			"q0": "A. sucrose content is reduced",
+			"q1": "B. pith is formed",
+			"q2": "C. tissue will turn red",
+			"q3": "D. cane will rot",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	In a laboratory analysis of maize grains, the following results were obtained: I. The dry matter content of 80 percent made up of 30.0 parts carbohydrate, 3.3 parts ash, 13.8 parts fibre, and 1.7 parts protein. II. The remainder of tne dry matter is oil. What is the percentage of oil in the dry matter?",
+		"opts": {
+			"q0": "A. 31.2",
+			"q1": "B. 39.0",
+			"q2": "C. 48.8",
+			"q3": "D. 64.0",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Pennisetum purpureum is the botanical name for",
+		"opts": {
+			"q0": "A. gamba grass",
+			"q1": "B. carpet grass",
+			"q2": "C. bahama grass",
+			"q3": "D. elephant grass",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The practice of cutting only matured forest trees and allowing other young ones to grow is known as",
+		"opts": {
+			"q0": "A. regeneration",
+			"q1": "B. afforestation",
+			"q2": "C. deforestation",
+			"q3": "D. selective exploitation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Whicn of the following groups of organisms cause the greatest damage to stored grains?",
+		"opts": {
+			"q0": "A. Insects",
+			"q1": "B. Birds",
+			"q2": "C. Viruses",
+			"q3": "D. Fungi",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Disease causing organisms are referred to as",
+		"opts": {
+			"q0": "A. vectors",
+			"q1": "B. pathogens",
+			"q2": "C. pests",
+			"q3": "D. insects",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Which of the following is not a viral disease of crops?",
+		"opts": {
+			"q0": "A. Cocoa swollen shoot",
+			"q1": "B. Tobacco mosaic",
+			"q2": "C. Tomato leaf curl",
+			"q3": "D. Banana blight",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Smut diseases are often found on",
+		"opts": {
+			"q0": "A. maize",
+			"q1": "B. cassava",
+			"q2": "C. cowpea",
+			"q3": "D. grapes",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The mosaic appearance on cassava leaves is caused by",
+		"opts": {
+			"q0": "A. pests",
+			"q1": "B. bacteria",
+			"q2": "C. virus",
+			"q3": "D. nematodes",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Progesterone is secreted by the",
+		"opts": {
+			"q0": "A. corpus luteum",
+			"q1": "B. seminal vesicle",
+			"q2": "C. cowper’s gland",
+			"q3": "D. testes",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The hormone responsible for milk let-down in cows is",
+		"opts": {
+			"q0": "A. oxytocin",
+			"q1": "B. adrenaline",
+			"q2": "C. oestrogen",
+			"q3": "D. progesterone",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The secretion of reproductive and growth hormone in animals is controlled by the",
+		"opts": {
+			"q0": "A. prostate gland",
+			"q1": "B. pituitary gland",
+			"q2": "C. adrenal gland",
+			"q3": "D. ovary",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	During the process of egg formation, albumen deposition begins in the",
+		"opts": {
+			"q0": "A. ovary",
+			"q1": "B. maqnum",
+			"q2": "C. isthmus",
+			"q3": "D. uterus",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Parturition in the doe (rabbit) is referred to as",
+		"opts": {
+			"q0": "A. kidding",
+			"q1": "B. kindling",
+			"q2": "C. farrowing",
+			"q3": "D. lambing",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Maintenance of osmotic balance in body cells of animals is regulated by",
+		"opts": {
+			"q0": "A. calcium and phosphorus",
+			"q1": "B. magnesium and calcium",
+			"q2": "C. sodium and potassium",
+			"q3": "D. iron and phosphorus",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Methods of rangeland improvement which ensure continuous herbage growth during the dry season are",
+		"opts": {
+			"q0": "A. re-seeding and pest control",
+			"q1": "B. controlled stocking and disease control",
+			"q2": "C. rotational grazing and weed control",
+			"q3": "D. fertilizer application and irrigation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following is not an objective of pasture management? To obtain",
+		"opts": {
+			"q0": "A. the lowest possible dry matter yield of pasture",
+			"q1": "B. the most palatable mixture of pasture crops",
+			"q2": "C. high leaf-stem ratio",
+			"q3": "D. the best possible nutritive value of pasture",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The intermediate host of liverfluke is",
+		"opts": {
+			"q0": "A. fish",
+			"q1": "B. snail",
+			"q2": "C. tick",
+			"q3": "D. man",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following parasites of livestock is an hermaphrodite?",
+		"opts": {
+			"q0": "A. Tsetse fly",
+			"q1": "B. Flea",
+			"q2": "C. Tick",
+			"q3": "D. Liverfluke",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	A disease that causes abortion in cattle at the later stage of pregnancy is",
+		"opts": {
+			"q0": "A. milk fever",
+			"q1": "B. pneumonia",
+			"q2": "C. brucellosis",
+			"q3": "D. foot and mouth disease",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The deficiency symptom peculiar to vitamin B in livestock is",
+		"opts": {
+			"q0": "A. night blindness",
+			"q1": "B. sterility",
+			"q2": "C. loss of appetite and weight",
+			"q3": "D. delay in blood clotting",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Detailed survey for the site of a fish pond is necessary for the following except",
+		"opts": {
+			"q0": "A. location and depth of the spillway",
+			"q1": "B. determination of the depth of the pond",
+			"q2": "C. site inspection",
+			"q3": "D. height of the dam",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	Which of the following materials is not allowed in the harvesting of fish?",
+		"opts": {
+			"q0": "A. Nets",
+			"q1": "B. Baskets",
+			"q2": "C. Traps",
+			"q3": "D. Chemicals",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	The types of ponds in a fresh water fish farm should include the following except",
+		"opts": {
+			"q0": "A. nursery pond",
+			"q1": "B. breeding pond",
+			"q2": "C. production pond",
+			"q3": "D. storage pond",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	Which of the following are the cheapest methods of preserving fish?",
+		"opts": {
+			"q0": "A. Salting and sun drying",
+			"q1": "B. Freezing and chilling",
+			"q2": "C. Salting and canning",
+			"q3": "D. Smoking and canning",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	The factor determining the success of the production process in a farm enterprise is",
+		"opts": {
+			"q0": "A. fixed asset",
+			"q1": "B. land",
+			"q2": "C. labour",
+			"q3": "D. management",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	Capital in agriculture includes the following items except",
+		"opts": {
+			"q0": "A. tree crops",
+			"q1": "B. livestock",
+			"q2": "C. labour",
+			"q3": "D. machinery",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	The most important farm input contributed by the peasant farmer’s family is",
+		"opts": {
+			"q0": "A. capital",
+			"q1": "B. labour",
+			"q2": "C. planting materials",
+			"q3": "D. fertilizers",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	Which of the following groups of items will appreciate in value on the farm?",
+		"opts": {
+			"q0": "A. Seedlings, calves and chicks",
+			"q1": "B. Equipment, piglets and lambs",
+			"q2": "C. Buildings, seedlings and piglets",
+			"q3": "D. Calves, machinery and chicks",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	The quantity of rice that a consumer is willing and able to buy during a given period is simply the consumer’s",
+		"opts": {
+			"q0": "A. demand for rice",
+			"q1": "B. elastic limit",
+			"q2": "C. supply of rice",
+			"q3": "D. preference for rice",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Which of the following refers to a farm accounting entry?",
+		"opts": {
+			"q0": "A. Inventory of livestock on the farm",
+			"q1": "B. Loss of animal",
+			"q2": "C. Value of crop produced",
+			"q3": "D. Area of land covered by farm labour",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	A tractor costing N80.000.00 was sold for N20,000.00 after it has been used for 10 years. What is the salvage value of the tractor?",
+		"opts": {
+			"q0": "A. N20,000.00",
+			"q1": "B. N60,000.00",
+			"q2": "C. N80,000.00",
+			"q3": "D. N100,000.00",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

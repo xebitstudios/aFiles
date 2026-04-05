@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Customary land tenure system in Nigeria encourages",
+		"opts": {
+			"q0": "A. ownership of large farmlands",
+			"q1": "B. fragmentation of lands",
+			"q2": "C. shifting cultivation",
+			"q3": "D. commercial farming",
+			"q4": "E. free hold to any land"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Wastage of agricultural products during harvesting period is due mainly to inadequate",
+		"opts": {
+			"q0": "A. transport facilities",
+			"q1": "B. storage and processing facilities",
+			"q2": "C. agricultural education and extension",
+			"q3": "D. implementation of government policies on agriculture",
+			"q4": "E. agricultural financing"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The provision of farm inputs to farmers by the government can best be described as",
+		"opts": {
+			"q0": "A. loan",
+			"q1": "B. capital",
+			"q2": "C. credit",
+			"q3": "D. subsidy",
+			"q4": "E. gift"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following uses of land should be given more attention in Nigeria for self sufficiency in food production?",
+		"opts": {
+			"q0": "A. Construction of roads",
+			"q1": "B. Building of research centres",
+			"q2": "C. Establishment of wildlife",
+			"q3": "D. Establishment of agriculture and forestry",
+			"q4": "E. Construction of fish ponds"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	High fertility, good topography, good drainage and good soil texture and structure are characteristics of a land meant for",
+		"opts": {
+			"q0": "A. wildlife",
+			"q1": "B. forestry",
+			"q2": "C. pastoral farming",
+			"q3": "D. fish farming",
+			"q4": "E. agriculture"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The effects of high environmental temperature on dairy cows include the following except",
+		"opts": {
+			"q0": "A. fever",
+			"q1": "B. high feed intake",
+			"q2": "C. high water intake",
+			"q3": "D. low milk production",
+			"q4": "E. restlessness"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Which of the following does not fit into the agricultural use of land?",
+		"opts": {
+			"q0": "A. Mining",
+			"q1": "B. Forest establishment",
+			"q2": "C. Crop production",
+			"q3": "D. Animal production",
+			"q4": "E. Fish production"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Gneiss is a metamorphic rock formed from",
+		"opts": {
+			"q0": "A. sandstone",
+			"q1": "B. slate",
+			"q2": "C. shale",
+			"q3": "D. clay",
+			"q4": "E. granite"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The components of soil include the following except",
+		"opts": {
+			"q0": "A. living organisms",
+			"q1": "B. moisture",
+			"q2": "C. mineral matter",
+			"q3": "D. humus",
+			"q4": "E. light"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Which of the following is an organic manure?",
+		"opts": {
+			"q0": "A. Lime",
+			"q1": "B. Basic slag",
+			"q2": "C. Ammonium nitrate",
+			"q3": "D. Super phosphate",
+			"q4": "E. Compost"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following is not a property of clay soil? It",
+		"opts": {
+			"q0": "A. is heavy",
+			"q1": "B. has low capillarity",
+			"q2": "C. contains little pore spaces",
+			"q3": "D. hardens and cakes when dry",
+			"q4": "E. has high plasticity"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The particle size of silt is",
+		"opts": {
+			"q0": "A. above 2 mm",
+			"q1": "B. 0.2 mm -2 mm",
+			"q2": "C. 0.02 mm -0.2 mm",
+			"q3": "D. 0.002 mm -0.02 mm",
+			"q4": "E. below 0.002 mm"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	If the percentage of nitrogen in ammonium sulphate fertilizer is 20%, calculate the amount of nitrogen in 500 kg of the fertilizer",
+		"opts": {
+			"q0": "A. 20 kg",
+			"q1": "B. 40 kg",
+			"q2": "C. 50 kg",
+			"q3": "D. 100 kg",
+			"q4": "E. 250 kg"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Fruit formation in plants may be delayed by excessive availability of",
+		"opts": {
+			"q0": "A. nitrogen",
+			"q1": "B. phosphorus",
+			"q2": "C. carbon",
+			"q3": "D. sulphur",
+			"q4": "E. molybdenum"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The system of irrigation whereby water is introduced as a sheet over farmland is referred to as",
+		"opts": {
+			"q0": "A. shadoof",
+			"q1": "B. channel",
+			"q2": "C. flooding",
+			"q3": "D. underground",
+			"q4": "E. drip"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The major advantage of drainage in agriculture is",
+		"opts": {
+			"q0": "A. promoting growth of micro-organisms",
+			"q1": "B. supplying adequate nutrient to the soil",
+			"q2": "C. removing excess water from the soil",
+			"q3": "D. aiding decomposition of materials in the soil",
+			"q4": "E. making aeration of the soil very difficult"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following groups of farm equipment use electricity as their source of power?",
+		"opts": {
+			"q0": "A. Milking machine, incubator and refrigerator",
+			"q1": "B. Incubator, sprayer, refrigerator and water pump",
+			"q2": "C. Planter, milking machine and sprayer",
+			"q3": "D. Sprayer, incubator and harvester",
+			"q4": "E. Harvester, milking machine, planter and incubator"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Combine harvester is usually used for harvesting",
+		"opts": {
+			"q0": "A. pepper",
+			"q1": "B. rice",
+			"q2": "C. tomato",
+			"q3": "D. rubber",
+			"q4": "E. groundnut"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	One hectare of a school farm equals",
+		"opts": {
+			"q0": "A. 1,000 cm<sup>2</sup>",
+			"q1": "B. 1,000 m<sup>2</sup>",
+			"q2": "C. 10,000 cm<sup>2</sup>",
+			"q3": "D. 10,000 m<sup>2</sup>",
+			"q4": "E. 100,000 m<sup>2</sup>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	In a farm lay-out the best site for a fish pond is",
+		"opts": {
+			"q0": "A. a steep slope",
+			"q1": "B. an undulating land",
+			"q2": "C. a flat land",
+			"q3": "D. a gently sloping valley",
+			"q4": "E. a hill top"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of these groups of crops require nursery for their successful cultivation?",
+		"opts": {
+			"q0": "A. Rice, maize, pepper and okro",
+			"q1": "B. Cassava, guinea corn, tomato and cowpea",
+			"q2": "C. Tomato, orange, soya bean and rice",
+			"q3": "D. Cocoa, orange, tomato and oil palm",
+			"q4": "E. Yam, mango, cassava and pineapple"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following crops is propagated by suckers?",
+		"opts": {
+			"q0": "A. Pineapple",
+			"q1": "B. Citrus",
+			"q2": "C. Tobacco",
+			"q3": "D. Mango",
+			"q4": "E. Carrot"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	If cassava is planted at a spacing of 1 m x 1 m, what will be the plant population on 1 hectare of land?",
+		"opts": {
+			"q0": "A. 10,000",
+			"q1": "B. 5,000",
+			"q2": "C. 1,000",
+			"q3": "D. 500",
+			"q4": "E. 100"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Which of the following is obtained from rubber tree?",
+		"opts": {
+			"q0": "A. Fibre",
+			"q1": "B. Latex",
+			"q2": "C. Sisal",
+			"q3": "D. Silk",
+			"q4": "E. Gum"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	What is the main difference between forage and fodder crops? Forage crops are",
+		"opts": {
+			"q0": "A. fresh while fodder crops are dry",
+			"q1": "B. grasses and legumes while fodder crops are legumes only",
+			"q2": "C. preserved forms of grasses and legumes",
+			"q3": "D. more nutritious than fodder crops",
+			"q4": "E. grazed while the fodder crops are fed"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following pasture grasses can be propagated mainly by roots and seeds?",
+		"opts": {
+			"q0": "A. Spear grass",
+			"q1": "B. Giant star grass",
+			"q2": "C. Bahama grass",
+			"q3": "D. Gamba grass",
+			"q4": "E. Guinea grass"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	A stoloniferous grass which spreads rapidly and forms a good ground cover is",
+		"opts": {
+			"q0": "A. Andropogon gayanus",
+			"q1": "B. Andropogon tectorum",
+			"q2": "C. Cynodonplecfostachyus",
+			"q3": "D. Panicum maximum",
+			"q4": "E. Penniseium purpureum"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The act of clearing forests is termed",
+		"opts": {
+			"q0": "A. regeneration",
+			"q1": "B. afforestation",
+			"q2": "C. deforestation",
+			"q3": "D. silviculture",
+			"q4": "E. forest management"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	A major raw material of the paper industry is",
+		"opts": {
+			"q0": "A. pulp",
+			"q1": "B. gum",
+			"q2": "C. latex",
+			"q3": "D. bark",
+			"q4": "E. dye"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The system of growing arable crops at the early stage of forest establishment is referred to as",
+		"opts": {
+			"q0": "A. selective exploitation",
+			"q1": "B. regeneration",
+			"q2": "C. afforestation",
+			"q3": "D. taungya system",
+			"q4": "E. forest regulation"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The physiological changes that show up during disease attack on crop plants are referred to as",
+		"opts": {
+			"q0": "A. signs",
+			"q1": "B. symptoms",
+			"q2": "C. necrosis",
+			"q3": "D. deformations",
+			"q4": "E. abnormalities"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The major pest of maize in Southern Nigeria is called",
+		"opts": {
+			"q0": "A. budworm",
+			"q1": "B. stem borer",
+			"q2": "C. leaf worm",
+			"q3": "D. aphid",
+			"q4": "E. mealybug"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following insect pests of crops is usually controlled fumigation?",
+		"opts": {
+			"q0": "A. Bean weevii",
+			"q1": "B. Capsid bug",
+			"q2": "C. Cotton stainer",
+			"q3": "D. Grasshopper",
+			"q4": "E. Yam beetle"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	A major symptom of onion/twister is",
+		"opts": {
+			"q0": "A. appearance of dark brown spots on leaves",
+			"q1": "B. mottling of leaves",
+			"q2": "C. rottening of roots",
+			"q3": "D. rottening of bulbs",
+			"q4": "E. premature drying of leaves"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Gummosis is caused by a",
+		"opts": {
+			"q0": "A. fungus",
+			"q1": "B. virus",
+			"q2": "C. bacterium",
+			"q3": "D. nematode",
+			"q4": "E. protozoan"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following is not true about the aims of crop improvement? Production of",
+		"opts": {
+			"q0": "A. high yielding variety of cowpea",
+			"q1": "B. disease resistant varieties of citrus",
+			"q2": "C. thick pericarp and rich oil palm fruits",
+			"q3": "D. tall growing leafy varieties of maize",
+			"q4": "E. fast growing rice with early fruiting"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following is the correct function of the gizzard?",
+		"opts": {
+			"q0": "A. Food storage",
+			"q1": "B. Absorption of digested food",
+			"q2": "C. Grinding of food",
+			"q3": "D. Food softening",
+			"q4": "E. Stimulating enzymatic actions on food"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The correct sequence of the components of a goat’s stomach is",
+		"opts": {
+			"q0": "A. rumen -> reticulum -> abomasum -> omasum",
+			"q1": "B. reticulum -> rumen -> omasum -> abomasum",
+			"q2": "C. rumen -> reticulum -> omasum -> abomasum",
+			"q3": "D. reticulum -> omasum -> abomasum -> rumen",
+			"q4": "E. omasum -> rumen -> reticulum -> abomasum"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='agric_1998_sectionb_qst39_43.jpg'> Use the diagram below to answer questions 39 to 43. The part labelled I is the",
+		"opts": {
+			"q0": "A. alveolus",
+			"q1": "B. duct",
+			"q2": "C. gland cistern",
+			"q3": "D. teat cistern",
+			"q4": "E. streak canal"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='agric_1998_sectionb_qst39_43.jpg'> Use the diagram below to answer questions 39 to 43. The teat is labelled",
+		"opts": {
+			"q0": "A. VI",
+			"q1": "B. V",
+			"q2": "C. IV",
+			"q3": "D. III",
+			"q4": "E. II"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='agric_1998_sectionb_qst39_43.jpg'> Use the diagram below to answer questions 39 to 43. Milk is synthesised and secreted at the part labelled",
+		"opts": {
+			"q0": "A. VI",
+			"q1": "B. V",
+			"q2": "C. III",
+			"q3": "D. II",
+			"q4": "E. I"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='agric_1998_sectionb_qst39_43.jpg'> Use the diagram below to answer questions 39 to 43. The organ is attached to the body of animal by the",
+		"opts": {
+			"q0": "A. nerves",
+			"q1": "B. bones",
+			"q2": "C. skin",
+			"q3": "D. ligaments",
+			"q4": "E. lumph glands"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	<img src='agric_1998_sectionb_qst39_43.jpg'> Use the diagram below to answer questions 39 to 43. Milk passes out of the alveoli to the gland cistern through the part labelled",
+		"opts": {
+			"q0": "A. VI",
+			"q1": "B. V",
+			"q2": "C. IV",
+			"q3": "D. II",
+			"q4": "E. I"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Rabbits are kept in",
+		"opts": {
+			"q0": "A. hutches",
+			"q1": "B. cages",
+			"q2": "C. food boxes",
+			"q3": "D. pens",
+			"q4": "E. paddocks"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	A castrated male pig is called a",
+		"opts": {
+			"q0": "A. boar",
+			"q1": "B. barrow",
+			"q2": "C. gilt",
+			"q3": "D. sow",
+			"q4": "E. swine"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Layers mash should contain a high percentage of",
+		"opts": {
+			"q0": "A. iron",
+			"q1": "B. calcium",
+			"q2": "C. iodine",
+			"q3": "D. fluorine",
+			"q4": "E. sulphur"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following symptoms occurs when there is deficiency of iron and copper in livestock rations?",
+		"opts": {
+			"q0": "A. Rickets",
+			"q1": "B. Scaly skin",
+			"q2": "C. Reduced growth rate",
+			"q3": "D. Anaemia",
+			"q4": "E. Lameness"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The methods of rangeland management include the following except",
+		"opts": {
+			"q0": "A. overgrazing",
+			"q1": "B. good irrigation schedule",
+			"q2": "C. rotational grazing",
+			"q3": "D. fertilizer application",
+			"q4": "E. roguing of pastures"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	A miracidium is a larval stage of a",
+		"opts": {
+			"q0": "A. tapeworm",
+			"q1": "B. liver fluke",
+			"q2": "C. trypanosome",
+			"q3": "D. tick",
+			"q4": "E. roundworm"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The foot and mouth disease of cattle is caused by a",
+		"opts": {
+			"q0": "A. virus",
+			"q1": "B. bacterium",
+			"q2": "C. fungus",
+			"q3": "D. nematode",
+			"q4": "E. protozoan"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	Which of the following is most ideal when a cow dies due to anthrax disease?",
+		"opts": {
+			"q0": "A. Bury or burn the carcass of the dead animal immediately",
+			"q1": "B. Slaughter all other animals in the herd",
+			"q2": "C. Cull the dose relations of the dead animal",
+			"q3": "D. Fumigate all pens",
+			"q4": "E. Perform a post mortem examination on the dead animal"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	The depth of a fish pond depends on the",
+		"opts": {
+			"q0": "A. location",
+			"q1": "B. landscape",
+			"q2": "C. type of fish to be reared",
+			"q3": "D. age of fish",
+			"q4": "E. purpose of keeping the fish"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	Cow dung is usually added to a fish pond in order to encourage the growth of",
+		"opts": {
+			"q0": "A. lichen and mosses",
+			"q1": "B. phytoplankton and zooplankton",
+			"q2": "C. celosia and amaranthus",
+			"q3": "D. shallot and lily",
+			"q4": "E. lettuce and cabbage"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	The mating of different breeds of animals is known as",
+		"opts": {
+			"q0": "A. out breeding",
+			"q1": "B. cross-breeding",
+			"q2": "C. line-breeding",
+			"q3": "D. in-breeding",
+			"q4": "E. back-crossing"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	Which of the following types of labour is commonly used in peasant agriculture?",
+		"opts": {
+			"q0": "A. Skilled",
+			"q1": "B. Casual",
+			"q2": "C. Migratory",
+			"q3": "D. Family",
+			"q4": "E. Co-operative"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	The quantity of food crop available for sale at the current market price over a period of time is known as",
+		"opts": {
+			"q0": "A. demand",
+			"q1": "B. joint supply",
+			"q2": "C. supply",
+			"q3": "D. competitive demand",
+			"q4": "E. surplus"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	The source of farm credit which is interest-free is",
+		"opts": {
+			"q0": "A. a commercial bank",
+			"q1": "B. an agricultural and co¬operative bank",
+			"q2": "C. a money lender",
+			"q3": "D. a co-operative society",
+			"q4": "E. self financing"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	A motorised sprayer was purchased at N2.000.00 and sold at N1,000.00 after 5 years. Calculate the annual depreciation of the sprayer.",
+		"opts": {
+			"q0": "A. N100.00",
+			"q1": "B. N200.00",
+			"q2": "C. N300.00",
+			"q3": "D. N400.00",
+			"q4": "E. N500.00"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Which of the following gives the proper channel of agricultural marketing?",
+		"opts": {
+			"q0": "A. Producer -> wholesaler -> retailer -> consumer",
+			"q1": "B. Producer -> consumer -> retailer -> wholesaler",
+			"q2": "C. Producer —> retailer -> wholesaler -> consumer",
+			"q3": "D. Producer -> wholesaler -> consumer -> retailer",
+			"q4": "E. Producer -> retailer -> consumer -> wholesaler"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	The problems encountered by extension agents in the discharge of their duties include the following except",
+		"opts": {
+			"q0": "A. poor transportation",
+			"q1": "B. communication problem",
+			"q2": "C. inadequate extension tools",
+			"q3": "D. inadequate farm labour",
+			"q4": "E. farmer’s low level of education"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

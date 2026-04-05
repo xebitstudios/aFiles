@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following occupations is not associated with agriculture?",
+		"opts": {
+			"q0": "A. Production of polythene",
+			"q1": "B. Production of honey",
+			"q2": "C. Fertilizer production",
+			"q3": "D. Saw-milling",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Which of the following factors most influences the standard of living of individuals in a community?",
+		"opts": {
+			"q0": "A. Food crop production",
+			"q1": "B. Availability of machinery",
+			"q2": "C. Production of raw materials",
+			"q3": "D. Foreign exchange earnings",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Subsistence farming is not characterised by",
+		"opts": {
+			"q0": "A. the use of crude farm tools",
+			"q1": "B. the use of extended family holdings",
+			"q2": "C. Tow application of fertilizers",
+			"q3": "D. low yields",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The factors hindering the development of agriculture in West Africa include the following except",
+		"opts": {
+			"q0": "A. land tenure system",
+			"q1": "B. inadequate rural infrastructure",
+			"q2": "C. lack of rural markets",
+			"q3": "D. poor transportation facilities",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Government agricultural regulations are made to control the following except the",
+		"opts": {
+			"q0": "A. spread of diseases",
+			"q1": "B. exploitation of natural resources",
+			"q2": "C. control of crops and animals quality",
+			"q3": "D. use of exotic breeds",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The primary role of government in agricultural development is to",
+		"opts": {
+			"q0": "A. provide improved homesteads for farmers",
+			"q1": "B. formulate good agricultural policies",
+			"q2": "C. provide extension services",
+			"q3": "D. sell farmers’ produce through export",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Which of the following statements about land is not correct?",
+		"opts": {
+			"q0": "A. It is a basic requirement for production",
+			"q1": "B. Its supply is limited",
+			"q2": "C. Indiscriminate use can cause it to deteriorate",
+			"q3": "D. It can be relocated",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Poaching is prohibited in game reserves in order to",
+		"opts": {
+			"q0": "A. preserve wildlife",
+			"q1": "B. starve hunters",
+			"q2": "C. reduce wildlife population",
+			"q3": "D. protect hunters from wild animals",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	In crop plants, high temperatures may cause",
+		"opts": {
+			"q0": "A. premature dropping of fruits",
+			"q1": "B. delayed ripening of fruits",
+			"q2": "C. formation of woody stems",
+			"q3": "D. prolonged drying of seeds",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	A physical factor affecting crop production is",
+		"opts": {
+			"q0": "A. man",
+			"q1": "B. temperature",
+			"q2": "C. micro organisms",
+			"q3": "D. vegetation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The most active agent of physical weathering of rocks in arid regions is",
+		"opts": {
+			"q0": "A. ice",
+			"q1": "B. water",
+			"q2": "C. wind",
+			"q3": "D. animals",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The chemical weathering that is responsible for changing haematite to limestone is",
+		"opts": {
+			"q0": "A. hydration",
+			"q1": "B. solution",
+			"q2": "C. oxidation",
+			"q3": "D. hydrolysis",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Liming is used to correct soil’s",
+		"opts": {
+			"q0": "A. neutrality",
+			"q1": "B. acidity",
+			"q2": "C. cation exchange capacity",
+			"q3": "D. porosity",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	A vertical section through the soil is referred to as soil",
+		"opts": {
+			"q0": "A. profile",
+			"q1": "B. horizon",
+			"q2": "C. structure",
+			"q3": "D. texture",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	In the determination of soil texture, a soil sample was found to be smooth and powdery when dry and formed a cast when wet. That soil is",
+		"opts": {
+			"q0": "A. clay",
+			"q1": "B. silt",
+			"q2": "C. loam",
+			"q3": "D. sand",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the following mineral elements is essential for chlorophyll formation?",
+		"opts": {
+			"q0": "A. Sodium",
+			"q1": "B. Molybdenum",
+			"q2": "C. Boron",
+			"q3": "D. Magnesium",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Replenishing soil nutrients involves the following except",
+		"opts": {
+			"q0": "A. leaching",
+			"q1": "B. fallowing",
+			"q2": "C. cover cropping",
+			"q3": "D. liming",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Which of the following is not a source of farm power?",
+		"opts": {
+			"q0": "A. Wind",
+			"q1": "B. Bull",
+			"q2": "C. Tractor",
+			"q3": "D. Plough",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following sources of farm power will assist in the tillage of more land per unit time?",
+		"opts": {
+			"q0": "A. Man",
+			"q1": "B. Animal",
+			"q2": "C. Wind",
+			"q3": "D. Machine",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	A farm tool used for harvesting heads of rice is the",
+		"opts": {
+			"q0": "A. shear",
+			"q1": "B. secateur",
+			"q2": "C. sickle",
+			"q3": "D. rake",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following gives the correct order of usage of tillage implements on a virgin land?",
+		"opts": {
+			"q0": "A. Harrow -> Ridger -> Plough",
+			"q1": "B. Ridger -> Plough -> Harrow",
+			"q2": "C. Harrow -> Plough -> Ridger",
+			"q3": "D. Plough -> Harrow -> Ridger",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Farm surveying can be defined as the",
+		"opts": {
+			"q0": "A. levelling of land during road construction",
+			"q1": "B. sighting of structures through a theodolite",
+			"q2": "C. making measurements on land from which maps are drawn",
+			"q3": "D. estimation of the type and properties of soil on a farm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Farm survey equipment include the following except",
+		"opts": {
+			"q0": "A. cross staff",
+			"q1": "B. Abney level",
+			"q2": "C. datum",
+			"q3": "D. chain",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	The type of survey used in determining the flatness or steepness of a farmland is",
+		"opts": {
+			"q0": "A. chain survey",
+			"q1": "B. topographical survey",
+			"q2": "C. soil survey",
+			"q3": "D. traverse survey",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Which of the following cereal crops most requires nursery practices?",
+		"opts": {
+			"q0": "A. Maize",
+			"q1": "B. Rice",
+			"q2": "C. Millet",
+			"q3": "D. Guinea corn",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The maturity period of groundnut in months is",
+		"opts": {
+			"q0": "A. 1-2",
+			"q1": "B. 2-3",
+			"q2": "C. 4-5",
+			"q3": "D. 6-7",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Oil palm trees do well in soils with pH level of",
+		"opts": {
+			"q0": "A. 2.5 - 3.5",
+			"q1": "B. 3.5 - 4.5",
+			"q2": "C. 5.5 - 6.5",
+			"q3": "D. 6.5 - 7.5",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The optimum temperature for storing yam tuber under cold storage is",
+		"opts": {
+			"q0": "A. 7&deg;C",
+			"q1": "B. 9&deg;C",
+			"q2": "C. 13&deg;C",
+			"q3": "D. 15&deg;C",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Which of the following is not an agricultural significance of stems to crops?",
+		"opts": {
+			"q0": "A. Modified form serve as food for man",
+			"q1": "B. Provision of timber",
+			"q2": "C. Useful as materials for propagation",
+			"q3": "D. Useful for cross¬breeding in crops",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	During the production of palm oil, the oil palm fruits are boiled in order to",
+		"opts": {
+			"q0": "A. extract the raw oil from the epicarp",
+			"q1": "B. prevent high level of oil rancidity",
+			"q2": "C. ease separation of mesocarp from the endocarp",
+			"q3": "D. extract oil from the kernel",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	If the recommended seed rate of maize is 20 kg per hectare, calculate the amount of seeds required for 1.8 hectares of farmland.",
+		"opts": {
+			"q0": "A. 11.0kg",
+			"q1": "B. 16.0kg",
+			"q2": "C. 26.0kg",
+			"q3": "D. 36.0kg",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The main vertebrate pests of rice are",
+		"opts": {
+			"q0": "A. squirrels",
+			"q1": "B. quela birds",
+			"q2": "C. bush fowls",
+			"q3": "D. monkeys",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following statements is true about the effect of nematodes on plants?",
+		"opts": {
+			"q0": "A. The plants wilt",
+			"q1": "B. Flowering is induced",
+			"q2": "C. The roots grow faster",
+			"q3": "D. Leaves develop a mosaic appearance",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following statements is not true about weeds?",
+		"opts": {
+			"q0": "A. Some weeds are parasitic on crop plants",
+			"q1": "B. Weeds may harbour crop diseases",
+			"q2": "C. All weeds are grasses",
+			"q3": "D. Weeds reduce the nutritional value of a pasture",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	<img src='agric_2001_sectionb_qst35_38.jpg'> Below is the crossing of a long fruited tomato (L) with a round fruited tomato plant (l). Use it to answer questions 35 to 38. What will be the genotype ratio of the second filial generation?",
+		"opts": {
+			"q0": "A. 3:1",
+			"q1": "B. 1:3",
+			"q2": "C. 1:2:1",
+			"q3": "D. 1:1:2",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	<img src='agric_2001_sectionb_qst35_38.jpg'> Below is the crossing of a long fruited tomato (L) with a round fruited tomato plant (l). Use it to answer questions 35 to 38. The production of L and l in stage II is achieved through the process of",
+		"opts": {
+			"q0": "A. segregation",
+			"q1": "B. assortment",
+			"q2": "C. mutation",
+			"q3": "D. recessiveness",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	<img src='agric_2001_sectionb_qst35_38.jpg'> Below is the crossing of a long fruited tomato (L) with a round fruited tomato plant (l). Use it to answer questions 35 to 38. Assuming complete dominance, the tomato fruits in stage III are all",
+		"opts": {
+			"q0": "A. long",
+			"q1": "B. short",
+			"q2": "C. oval",
+			"q3": "D. shapeless",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='agric_2001_sectionb_qst35_38.jpg'> Below is the crossing of a long fruited tomato (L) with a round fruited tomato plant (l). Use it to answer questions 35 to 38. The plants in stage III are all",
+		"opts": {
+			"q0": "A. heterozygotes",
+			"q1": "B. homozygotes",
+			"q2": "C. mutants",
+			"q3": "D. polyhybrids",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	In a tannery, the raw materials for the manufacture of leather are",
+		"opts": {
+			"q0": "A. hides and hair",
+			"q1": "B. skin and fur",
+			"q2": "C. hides and skin",
+			"q3": "D. hair and fur",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The part of the digestive tract of birds which secrete gastric juice is the",
+		"opts": {
+			"q0": "A. oesophagus",
+			"q1": "B. proventriculus",
+			"q2": "C. gizzard",
+			"q3": "D. crop",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	The hormone which is secreted by the testes and is responsible for stimulating male sexual characteristics is known as",
+		"opts": {
+			"q0": "A. progesterone",
+			"q1": "B. testosterone",
+			"q2": "C. gonadotropin",
+			"q3": "D. oestrogen",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Production of chicks on a large scale can be achieved using a/an",
+		"opts": {
+			"q0": "A. incubator",
+			"q1": "B. broiler",
+			"q2": "C. candler",
+			"q3": "D. debeaker",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	A broiler starter feed should contain",
+		"opts": {
+			"q0": "A. high protein but low carbohydrate content",
+			"q1": "B. low protein but high carbohydrate content",
+			"q2": "C. low protein and carbohydrate content",
+			"q3": "D. high protein and carbohydrate content",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	In animal nutrition, iodine is essential for the production of",
+		"opts": {
+			"q0": "A. thyroxin",
+			"q1": "B. oxytocin",
+			"q2": "C. insulin",
+			"q3": "D. progesterone",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The natural ability of the body of farm animals to resist invasion of diseases is called",
+		"opts": {
+			"q0": "A. quarantine",
+			"q1": "B. vaccination",
+			"q2": "C. immunity",
+			"q3": "D. isolation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	In cattle, constant coughing with production of blood stained sputum are signs of",
+		"opts": {
+			"q0": "A. rinderpest",
+			"q1": "B. anthrax",
+			"q2": "C. brucellosis",
+			"q3": "D. tuberculosis",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	An example of a viral disease of farm animals is",
+		"opts": {
+			"q0": "A. coccidiosis",
+			"q1": "B. mastitis",
+			"q2": "C. foot rot",
+			"q3": "D. newcastle disease",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The part of the body normally affected by fowl pox disease is the",
+		"opts": {
+			"q0": "A. comb",
+			"q1": "B. beak",
+			"q2": "C. feather",
+			"q3": "D. vent",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The eradication of tsetse flies can prevent",
+		"opts": {
+			"q0": "A. coccidiosis",
+			"q1": "B. aspergillosis",
+			"q2": "C. tuberculosis",
+			"q3": "D. trypanosomiasis",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	A tapeworm absorbs food from its host through the",
+		"opts": {
+			"q0": "A. mouth",
+			"q1": "B. scolex",
+			"q2": "C. hook",
+			"q3": "D. body surface",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	A herbivorous fish specie which breeds fast and is suitable for culture in a pond is",
+		"opts": {
+			"q0": "A. Clarias lazera",
+			"q1": "B. Tilapia zilli",
+			"q2": "C. Gymnarchus niloticus",
+			"q3": "D. Chrysichythys nigrodiaitatus",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	Which of the following is not true about adding organic manure to a fish pond? It",
+		"opts": {
+			"q0": "A. reduces the pH of water considerably",
+			"q1": "B. accelerates the growth of planktons",
+			"q2": "C. leads to water pollution",
+			"q3": "D. leads to the depletion of oxygen",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	The type of labour available to peasant farmers is",
+		"opts": {
+			"q0": "A. family labour",
+			"q1": "B. paid labour",
+			"q2": "C. skilled labour",
+			"q3": "D. migrant labour",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	The factor of production whose reward is profit is",
+		"opts": {
+			"q0": "A. land",
+			"q1": "B. labour",
+			"q2": "C. capital",
+			"q3": "D. entrepreneurship",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	The demand for agricultural produce is generally",
+		"opts": {
+			"q0": "A. elastic",
+			"q1": "B. inelastic",
+			"q2": "C. unitary",
+			"q3": "D. static",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	Given a normal situation, what effect will an increase in the supply of cowpea have on its market price? The price",
+		"opts": {
+			"q0": "A. increases",
+			"q1": "B. decreases",
+			"q2": "C. is unaffected",
+			"q3": "D. is unpredictable",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	Which of the following is an effect of stability of market price in agricultural production?",
+		"opts": {
+			"q0": "A. Profit of the producer would be constant with constant input cost",
+			"q1": "B. Wholesalers earn more from sales",
+			"q2": "C. Profit of the retailer will be decreased",
+			"q3": "D. Consumers will look for cheaper alternatives",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	Rural farmers mostly obtain loans from",
+		"opts": {
+			"q0": "A. Government",
+			"q1": "B. International Monetary Fund",
+			"q2": "C. Merchant banks",
+			"q3": "D. Money lenders",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Marketing processes do not include",
+		"opts": {
+			"q0": "A. production",
+			"q1": "B. assembling",
+			"q2": "C. distribution",
+			"q3": "D. processing",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	Artificial scarcity of agricultural produce is often caused by the following marketing agents except",
+		"opts": {
+			"q0": "A. farmers",
+			"q1": "B. wholesalers",
+			"q2": "C. middlemen",
+			"q3": "D. co-operatives",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

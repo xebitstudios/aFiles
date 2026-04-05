@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Subsistence agriculture mainly involves",
+		"opts": {
+			"q0": "A. high capital input on the farm enterprise",
+			"q1": "B. food production on large scale farms",
+			"q2": "C. food production using family labour",
+			"q3": "D. mechanisation of all farm operations",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The major export crops produced in the West African sub region include",
+		"opts": {
+			"q0": "A. coffee, pepper, tomato and groundnut",
+			"q1": "B. cotton, cassava, coffee and ginger",
+			"q2": "C. cocoa, rubber, groundnut and cotton",
+			"q3": "D. cocoa, coffee, cashew and tomato",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	A major problem of grains storage in the rain forest zone of West Africa is high",
+		"opts": {
+			"q0": "A. temperatures",
+			"q1": "B. solar radiation",
+			"q2": "C. wind speed",
+			"q3": "D. humidity",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	When the government provides subsidies in agriculture",
+		"opts": {
+			"q0": "A. farm inputs are made available to farmers at reduced prices",
+			"q1": "B. farmers obtain loans from agricultural banks",
+			"q2": "C. farmers are given extended time to repay loans",
+			"q3": "D. farming becomes less attractive",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Most agricultural policies do not benefit rural communities because",
+		"opts": {
+			"q0": "A. they aim at benefiting the national economy",
+			"q1": "B. of poor implementation",
+			"q2": "C. of lack of foreign exchange to import the required expertise",
+			"q3": "D. they are formulated by non-practising farmers",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Plant quarantine regulations are enforced to",
+		"opts": {
+			"q0": "A. prevent the introduction of foreign pests and diseases",
+			"q1": "B. increase the resistance of crops to diseases",
+			"q2": "C. encourage the importation of foreign crops",
+			"q3": "D. discourage dependence on temperate crops",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	The primary purpose of establishing wildlife reserve is to",
+		"opts": {
+			"q0": "A. conserve animals for hunting",
+			"q1": "B. prevent extinction of wild animals",
+			"q2": "C. provide constant supply of meat for export",
+			"q3": "D. prevent wild animals from predating on other animals",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The most important factor that limits agricultural production in West Africa is",
+		"opts": {
+			"q0": "A. temperature",
+			"q1": "B. wind",
+			"q2": "C. rainfall",
+			"q3": "D. light",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	An acidic soil can be neutralised by the addition of",
+		"opts": {
+			"q0": "A. urea",
+			"q1": "B. ammonium sulphate",
+			"q2": "C. wood ash",
+			"q3": "D. laterite",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Capillarity is highest in",
+		"opts": {
+			"q0": "A. silt",
+			"q1": "B. loam",
+			"q2": "C. sand",
+			"q3": "D. clay",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following describes the effects of excessive nitrogen application on the growth of maize plants?",
+		"opts": {
+			"q0": "A. High vegetative growth with low yield",
+			"q1": "B. High vegetative growth with high yield",
+			"q2": "C. Low vegetative growth with high yield",
+			"q3": "D. Low vegetative growth with low yield",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Which reaction takes place in nitrogen fixation during lightening?",
+		"opts": {
+			"q0": "A. 2NO<sub>2</sub> + HNO<sub>2</sub> -> HNO<sub>3</sub>",
+			"q1": "B. N<sub>2</sub> + O<sub>2</sub> -> 2NO",
+			"q2": "C. 2HNO<sub>2</sub> + O<sub>2</sub> -> 2HNO<sub>3</sub>",
+			"q3": "D. NO<sub>2</sub> -> 2NO + O<sub>2</sub>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Nitrogen is taken up by plant roots in the form of",
+		"opts": {
+			"q0": "A. nitrate ion",
+			"q1": "B. nitrite ion",
+			"q2": "C. nitric acid",
+			"q3": "D. nitrogen gas",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	In the process of recycling carbon in nature, carbondioxide is used by crops during",
+		"opts": {
+			"q0": "A. respiration",
+			"q1": "B. decomposition",
+			"q2": "C. photosynthesis",
+			"q3": "D. transpiration",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following is not an effect of water-logging on crop production? It",
+		"opts": {
+			"q0": "A. inhibits plant development",
+			"q1": "B. encourages leaching",
+			"q2": "C. inhibits the activities of micro organisms in the soil",
+			"q3": "D. causes plant roots to wilt",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	When soils are poorly drained",
+		"opts": {
+			"q0": "A. they dry up easily",
+			"q1": "B. they form hardpans",
+			"q2": "C. the air content of the soil is reduced",
+			"q3": "D. the rate of decomposition is accelerated",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following sources of water is least useful for irrigation purposes?",
+		"opts": {
+			"q0": "A. Sea",
+			"q1": "B. River",
+			"q2": "C. Lake",
+			"q3": "D. Borehole",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Which of the following sources of farm power is most flexible and adaptable to farm operations?",
+		"opts": {
+			"q0": "A. animal power",
+			"q1": "B. wind power",
+			"q2": "C. human power",
+			"q3": "D. solar power",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following sources of power supply to the farm is most unreliable?",
+		"opts": {
+			"q0": "A. wind",
+			"q1": "B. electricity",
+			"q2": "C. animal",
+			"q3": "D. machine",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Animal power is usually used on the farm for",
+		"opts": {
+			"q0": "A. harvesting",
+			"q1": "B. spraying",
+			"q2": "C. ploughing",
+			"q3": "D. planting",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The most appropriate farm implement for breaking up soil clod is the",
+		"opts": {
+			"q0": "A. harrow",
+			"q1": "B. plough",
+			"q2": "C. ridger",
+			"q3": "D. mower",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The daily maintenance practice carried out on a disc harrow is",
+		"opts": {
+			"q0": "A. changing the disc",
+			"q1": "B. cleaning the soil off the disc",
+			"q2": "C. smearing the disc with oil",
+			"q3": "D. sharpening the edges of its scraper",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following is an advantage of mechanization?",
+		"opts": {
+			"q0": "A. Carrying out many farm operations with ease",
+			"q1": "B. Displacing many farm workers",
+			"q2": "C. Exposing soil to direct effect of sunlight and erosion",
+			"q3": "D. Polluting the environment with industrial gases and wastes",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Sexual propagation involves the use of",
+		"opts": {
+			"q0": "A. cuds",
+			"q1": "B. seeds",
+			"q2": "C. cuttings",
+			"q3": "D. vines",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The process of inducing root development on portions of stems still attached to the parent plant is known as",
+		"opts": {
+			"q0": "A. budding",
+			"q1": "B. grafting",
+			"q2": "C. layering",
+			"q3": "D. tillering",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following crops requires shade in the early stages of its growth in the field?",
+		"opts": {
+			"q0": "A. Coconut",
+			"q1": "B. Banana",
+			"q2": "C. Cotton",
+			"q3": "D. Cocoa",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Which of the following groups of crops is widely grown in areas with high rainfall?",
+		"opts": {
+			"q0": "A. Cocoa, oil palm, rubber and kola",
+			"q1": "B. Millet, onion, cotton and sorghum",
+			"q2": "C. Coffee, cocoa, cotton and millet",
+			"q3": "D. Rubber, onion, oil palm and cotton",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	An important forage crop in West Africa is",
+		"opts": {
+			"q0": "A. maize",
+			"q1": "B. rice",
+			"q2": "C. giant star grass",
+			"q3": "D. guinea corn",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The most important reason for encouraging afforestation in the arid regions of West Africa is to",
+		"opts": {
+			"q0": "A. provide timber for building purposes",
+			"q1": "B. provide shelter for wildlife",
+			"q2": "C. produce medicinal plants",
+			"q3": "D. serve as wind break",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The growing of both forest trees and arable crops simultaneously on the same piece of land is termed",
+		"opts": {
+			"q0": "A. mixed cropping",
+			"q1": "B. mixed farming",
+			"q2": "C. pastoral farming",
+			"q3": "D. taungya system",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following plant diseases is not caused by fungi?",
+		"opts": {
+			"q0": "A. Rice blast",
+			"q1": "B. Maize streak",
+			"q2": "C. Cassava leaf-spot",
+			"q3": "D. Maize rust",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Mosaic disease affects",
+		"opts": {
+			"q0": "A. cotton and cocoa",
+			"q1": "B. groundnut and tomato",
+			"q2": "C. cassava and tobacco",
+			"q3": "D. mango and orange",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The following are biting and chewing insects except",
+		"opts": {
+			"q0": "A. caterpillars",
+			"q1": "B. beetles",
+			"q2": "C. crickets",
+			"q3": "D. moths",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Mealy bug is a major pest of",
+		"opts": {
+			"q0": "A. citrus",
+			"q1": "B. cassava",
+			"q2": "C. maize",
+			"q3": "D. oil palm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Weeds which produce light and numerous seeds are normally dispersed by",
+		"opts": {
+			"q0": "A. wind",
+			"q1": "B. water",
+			"q2": "C. animals",
+			"q3": "D. insects",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following effects is not a consequence of ‘Introduction’ in crop improvement? Introduced crops",
+		"opts": {
+			"q0": "A. may mature faster than the local varieties",
+			"q1": "B. may have high yield",
+			"q2": "C. improve the quality of existing crops",
+			"q3": "D. hamper the growth of local varieties",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	In which part of the alimentary canal of poultry is grit mostly found? ",
+		"opts": {
+			"q0": "A. Proventriculus",
+			"q1": "B. Cloaca",
+			"q2": "C. Gizzard",
+			"q3": "D. Rectum",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Parturition in farm animals marks the end of ",
+		"opts": {
+			"q0": "A. breeding",
+			"q1": "B. lactation",
+			"q2": "C. ovulation",
+			"q3": "D. gestation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	A sow is normally expected to farrow",
+		"opts": {
+			"q0": "A. once a year",
+			"q1": "B. once in two years",
+			"q2": "C. twice a year",
+			"q3": "D. four times a year",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='agric_2002_sectionb_qst40_42.jpg'> Study the diagram below and use it to answer Questions 40 - 42. The part contributing about 60 percent of the weight of the animal product illustrated in the diagram above is labelled",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. III",
+			"q2": "C. V",
+			"q3": "D. VI",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='agric_2002_sectionb_qst40_42.jpg'> Study the diagram below and use it to answer Questions 40 - 42. The part labelled IV is kept in position by",
+		"opts": {
+			"q0": "A. II",
+			"q1": "B. III",
+			"q2": "C. V",
+			"q3": "D. VI",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='agric_2002_sectionb_qst40_42.jpg'> Study the diagram below and use it to answer Questions 40 - 42. Which of the following is not a function of the part labelled I?",
+		"opts": {
+			"q0": "A. Gives the product mechanical strength",
+			"q1": "B. Prevents entrance of contaminants",
+			"q2": "C. Allows for gaseous exchange",
+			"q3": "D. Controls the size of the product",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	High temperatures on livestock induces the following effects except",
+		"opts": {
+			"q0": "A. high feed intake",
+			"q1": "B. low productivity",
+			"q2": "C. high water intake",
+			"q3": "D. general body weakness",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Rabbits are kept in cages called",
+		"opts": {
+			"q0": "A. pens",
+			"q1": "B. hutches",
+			"q2": "C. paddocks",
+			"q3": "D. crushes",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Farm animals are identified by the following methods except",
+		"opts": {
+			"q0": "A. tattooing",
+			"q1": "B. tagging",
+			"q2": "C. shearing",
+			"q3": "D. notching",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of the following is not a characteristic of pigs?",
+		"opts": {
+			"q0": "A. High feed conversion rate",
+			"q1": "B. Fast growth rate",
+			"q2": "C. Highly prolific",
+			"q3": "D. unlimited ability to digest fibre",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Dried cassava should not exceed 50% of the total ration of pigs because",
+		"opts": {
+			"q0": "A. too much cassava in diets will lead to excessive fat deposit",
+			"q1": "B. a higher percentage of inclusion will supply more protein than necessary",
+			"q2": "C. it induces vitamin deficiency",
+			"q3": "D. higher quantities induce scouring",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The sugar most commonly found in the blood of animals is",
+		"opts": {
+			"q0": "A. glucose",
+			"q1": "B. galactose",
+			"q2": "C. lactose",
+			"q3": "D. sucrose",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Foot and mouth disease is caused by a",
+		"opts": {
+			"q0": "A. nematode",
+			"q1": "B. virus",
+			"q2": "C. bacterium",
+			"q3": "D. fungus",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following symptoms indicate anthrax disease?",
+		"opts": {
+			"q0": "A. Persistent coughing",
+			"q1": "B. Sudden death without any visible sign of sickness",
+			"q2": "C. Abortion in the seventh month of gestation",
+			"q3": "D. Prolonged diarrhoea",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	Which of the following practices may cause fish diseases in a pond?",
+		"opts": {
+			"q0": "A. Mixed stocking",
+			"q1": "B. Desilting",
+			"q2": "C. Poor management",
+			"q3": "D. Harvesting",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	Selection and hybridization are all methods of animal",
+		"opts": {
+			"q0": "A. insemination",
+			"q1": "B. grading",
+			"q2": "C. quarantine",
+			"q3": "D. improvement",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	The system of breeding that is practised when N’dama cows are mated by Muturu bulls is",
+		"opts": {
+			"q0": "A. inbreeding",
+			"q1": "B. outbreeding",
+			"q2": "C. cross breeding",
+			"q3": "D. line breeding",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	In a crop production enterprise, a fixed factor of production could be the",
+		"opts": {
+			"q0": "A. size of the land",
+			"q1": "B. amount of labour required",
+			"q2": "C. amount of capital employed",
+			"q3": "D. entrepreneurial skill of the farmer",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	On a curve for the law of diminishing returns, maximum output is obtained at the",
+		"opts": {
+			"q0": "A. beginning of the curve",
+			"q1": "B. end of the curve",
+			"q2": "C. apex of the curve",
+			"q3": "D. middle of the curve",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	Farmers often find it difficult to obtain loans from banks for agricultural projects because they",
+		"opts": {
+			"q0": "A. have no tax clearance certificates",
+			"q1": "B. lack information on agricultural loans",
+			"q2": "C. have no collateral security",
+			"q3": "D. lack technical know-how",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	Farm accounts help the farmer to",
+		"opts": {
+			"q0": "A. manage the farm as a business",
+			"q1": "B. acquire skills for tools maintenance",
+			"q2": "C. keep records",
+			"q3": "D. adopt modern farming techniques",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	A maize farmer obtains a loan of N120,000.00 at an interest rate of 9% to be repaid in one year. Calculate the interest to be paid on the loan.",
+		"opts": {
+			"q0": "A. N10,800.00",
+			"q1": "B. N13,333.00",
+			"q2": "C. N109,200.00",
+			"q3": "D. N1,080,000.00",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Agricultural extension programme",
+		"opts": {
+			"q0": "A. promotes practical application of useful agricultural information",
+			"q1": "B. teaches farmers about all government political programmes",
+			"q2": "C. encourages adherence to the traditional farming systems",
+			"q3": "D. is aimed at teaching new innovations to commercial farmers only",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	In the mass method of agricultural extension, information is passed to farmers through the following channels except",
+		"opts": {
+			"q0": "A. radio",
+			"q1": "B. television",
+			"q2": "C. newspapers",
+			"q3": "D. farm visits",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The most important factor that determines the rate of agricultural development in a country is the",
+		"opts": {
+			"q0": "A. readiness of farmers to adopt viable agricultural research results",
+			"q1": "B. quantity of herbicides used in the country",
+			"q2": "C. number of machinery available in the country",
+			"q3": "D. provision of raw materials for industries",
+			"q4": "E. number of people involved in agriculture"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The newly introduced government agricultural programme in Nigeria is",
+		"opts": {
+			"q0": "A. Operation Feed the Nation",
+			"q1": "B. Green revolution",
+			"q2": "C. Agricultural Development Projects",
+			"q3": "D. Agricultural Insurance Scheme",
+			"q4": "E. Farm Settlement"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	A characteristic feature of subsistence agriculture is",
+		"opts": {
+			"q0": "A. supply of labour by farm families",
+			"q1": "B. wholesale of farm harvest",
+			"q2": "C. purchasing of seeds for planting",
+			"q3": "D. ",
+			"q4": "E. diseases control"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following will retain the greatest amount of water?",
+		"opts": {
+			"q0": "A. Clay",
+			"q1": "B. Loam",
+			"q2": "C. Sandy loam",
+			"q3": "D. Sand",
+			"q4": "E. Silt"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The most common soil mineral found in all crystalline rocks and a main constituent of granite and sandstone is",
+		"opts": {
+			"q0": "A. biotite",
+			"q1": "B. quartz",
+			"q2": "C. mica",
+			"q3": "D. granite",
+			"q4": "E. basalt"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The factors affecting formation of soil include the following except",
+		"opts": {
+			"q0": "A. organisms",
+			"q1": "B. time",
+			"q2": "C. topography",
+			"q3": "D. catena",
+			"q4": "E. climate"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Inhibition of root and bark development, fruiting and seed formation in crops is due to the deficiency of",
+		"opts": {
+			"q0": "A. phosphorus",
+			"q1": "B. boron",
+			"q2": "C. nitrogen",
+			"q3": "D. chlorine",
+			"q4": "E. molybdenum"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Which of the following is not an effect of grazing on the soil?",
+		"opts": {
+			"q0": "A. Enrichment of soil with animal dung",
+			"q1": "B. Exposure of soil to erosion",
+			"q2": "C. Destruction of soil structure",
+			"q3": "D. Increase in soil acidity",
+			"q4": "E. Reduced rate of water percolation"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	In underground drainage",
+		"opts": {
+			"q0": "A. ditches are constructed to remove excess water",
+			"q1": "B. furrows in which water collects are made",
+			"q2": "C. water seeps into the tiles to reach an outlet where water is disposed",
+			"q3": "D. water is pumped through underground perforated pipes to crops",
+			"q4": "E. ditches are dug from a source of water to the farmland"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Which of the following is not an edaphic factor affecting agricultural production?",
+		"opts": {
+			"q0": "A. Soil pH",
+			"q1": "B. Soil texture",
+			"q2": "C. Predators",
+			"q3": "D. Soil structure",
+			"q4": "E. Soil type"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Ametamorphic limestone is",
+		"opts": {
+			"q0": "A. marble",
+			"q1": "B. gneiss",
+			"q2": "C. quartzite",
+			"q3": "D. schist",
+			"q4": "E. shale"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A soil with pH 2 can be described as",
+		"opts": {
+			"q0": "A. moderately acidic",
+			"q1": "B. moderately alkaline",
+			"q2": "C. neutral",
+			"q3": "D. highly alkaline",
+			"q4": "E. highly acidic"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Which of the following will be responsible for the poor yield of fertile soil in a high rainfall area?",
+		"opts": {
+			"q0": "A. Leaching of soil nutrients",
+			"q1": "B. Very low pH value of land",
+			"q2": "C. Lack of soil microbes",
+			"q3": "D. High alkalinity of soil",
+			"q4": "E. Erosion of the soil"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Crop rotation has the following effects on the soil except",
+		"opts": {
+			"q0": "A. maintenance of soil fertility",
+			"q1": "B. reducing concentration of soil pests",
+			"q2": "C. improving soil structure",
+			"q3": "D. reducing soil erosion",
+			"q4": "E. predisposing soil to leaching"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Flood irrigation is mainly used in",
+		"opts": {
+			"q0": "A. arid area",
+			"q1": "B. subtropical area",
+			"q2": "C. tropical area",
+			"q3": "D. sloppy area",
+			"q4": "E. savanna area"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the following factors has the greatest influence on crop production?",
+		"opts": {
+			"q0": "A. Light",
+			"q1": "B. Vegetation",
+			"q2": "C. Water",
+			"q3": "D. Air movement",
+			"q4": "E. Pressure"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	<img src='agric_1995_sectionb_qst17_18.jpg'> A farm was surveyed and presented in a map as shown in the diagram above. Use the diagram to answer questions 17 ana 18. What is the approximate area of the farm?",
+		"opts": {
+			"q0": "A. 70m<sup>2</sup>",
+			"q1": "B. 140m<sup>2</sup>",
+			"q2": "C. 750m<sup>2</sup>",
+			"q3": "D. 900m<sup>2</sup>",
+			"q4": "E. 1500m<sup>2</sup>"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	<img src='agric_1995_sectionb_qst17_18.jpg'> A farm was surveyed and presented in a map as shown in the diagram above. Use the diagram to answer questions 17 ana 18. If the farmland is used for plantain production at a spacing of 2.5m by 3.5m, what will be the initial population of plantain trees in the farm?",
+		"opts": {
+			"q0": "A. 16",
+			"q1": "B. 86",
+			"q2": "C. 103",
+			"q3": "D. 170",
+			"q4": "E. 206"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	img src='agric_1995_sectionb_qst19_21.jpg'> The diagram below is a longitudinal-section of the oil palm fruit. Use the diagram to answer questions 19 to 21. The part containing raw palm oil is labelled",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. III",
+			"q3": "D. IV",
+			"q4": "E. V"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	img src='agric_1995_sectionb_qst19_21.jpg'> The diagram below is a longitudinal-section of the oil palm fruit. Use the diagram to answer questions 19 to 21. The part mainly used for fuel is labelled",
+		"opts": {
+			"q0": "A. V",
+			"q1": "B. IV",
+			"q2": "C. III",
+			"q3": "D. II",
+			"q4": "E. I"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	img src='agric_1995_sectionb_qst19_21.jpg'> The diagram below is a longitudinal-section of the oil palm fruit. Use the diagram to answer questions 19 to 21. The part labelled IV is crushed and pressed to produce",
+		"opts": {
+			"q0": "A. palm oil",
+			"q1": "B. palm wine",
+			"q2": "C. palm kernel oil",
+			"q3": "D. fibre",
+			"q4": "E. shells"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following is not a reason for preferring rotational grazing to continuous grazing?",
+		"opts": {
+			"q0": "A. Avoiding build-up of livestock pests",
+			"q1": "B. Obtaining uniform quality of herbage",
+			"q2": "C. Encourage persistence of desired species",
+			"q3": "D. Breaking the life-cycle of some pests",
+			"q4": "E. Avoiding excessive amount of organic manuring"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The study and management of forests and forest resources is known as",
+		"opts": {
+			"q0": "A. agro forestry",
+			"q1": "B. taungya",
+			"q2": "C. wildlife",
+			"q3": "D. forestry",
+			"q4": "E. silviculture"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	The most suitable soil for cultivating yam is",
+		"opts": {
+			"q0": "A. sand",
+			"q1": "B. silt",
+			"q2": "C. sandy clay",
+			"q3": "D. clay",
+			"q4": "E. day loam"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Jute, cotton and sisal are",
+		"opts": {
+			"q0": "A. oil crops",
+			"q1": "B. perennial crops",
+			"q2": "C. fibre crops",
+			"q3": "D. vegetable crops",
+			"q4": "E. ornamental"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following diseases of crops causes stunting in maize?",
+		"opts": {
+			"q0": "A. Blast",
+			"q1": "B. Roseite",
+			"q2": "C. Blight",
+			"q3": "D. Streak",
+			"q4": "E. Smut"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	When individual crops with desired characteristic mostly favoured by the environment are chosen for breeding this type of breeding is referred to as",
+		"opts": {
+			"q0": "A. introduction",
+			"q1": "B. hybridization",
+			"q2": "C. line-breeding",
+			"q3": "D. selection",
+			"q4": "E. cross-breeding"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Molasses is a major by-product obtained after the processing of",
+		"opts": {
+			"q0": "A. kenaf",
+			"q1": "B. sugarcane",
+			"q2": "C. cassava",
+			"q3": "D. pawpaw",
+			"q4": "E. guinea corn"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Rice bran is usually obtained from the paddy after",
+		"opts": {
+			"q0": "A. winnowing and boiling",
+			"q1": "B. threshing and winnowing",
+			"q2": "C. parboiling and threshing",
+			"q3": "D. harvesting and milling",
+			"q4": "E. milling and polishing"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Yams stored in a barn should be inspected at least once a week to",
+		"opts": {
+			"q0": "A. remove rotten tubers",
+			"q1": "B. remove sprouts from yam tubers",
+			"q2": "C. prevent termite attack",
+			"q3": "D. prevent mouldiness in yam",
+			"q4": "E. remove sprouts and rotten tubers"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	A major routine operation in cowpea production which normally starts from flowering stage is",
+		"opts": {
+			"q0": "A. weekly spraying with insecticides",
+			"q1": "B. folial application of liquid fertilizer",
+			"q2": "C. application of herbicides",
+			"q3": "D. routine application of NPK granulated fertilizers",
+			"q4": "E. timely harvesting of pods"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The mesocarp of an oil palm fruit is the",
+		"opts": {
+			"q0": "A. nut",
+			"q1": "B. kernel",
+			"q2": "C. shell",
+			"q3": "D. seed",
+			"q4": "E. pulp"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Blackarm is a bacterial disease of",
+		"opts": {
+			"q0": "A. rice",
+			"q1": "B. cotton",
+			"q2": "C. citrus",
+			"q3": "D. cocoa",
+			"q4": "E. tobacco"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	The female sex hormone that is responsible for oestrus in farm animals is called",
+		"opts": {
+			"q0": "A. prolactin",
+			"q1": "B. progesterone",
+			"q2": "C. oxytocin",
+			"q3": "D. oestrogen",
+			"q4": "E. androgen"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The fertility of the soil is an important factor in the selection of site for a fish pond because a fertile soil will",
+		"opts": {
+			"q0": "A. encourage the growth of trees within the pond",
+			"q1": "B. stimulate growth of lower plants which are sources of food to fish",
+			"q2": "C. add minerals to the water for the fishes’ resistance to diseases",
+			"q3": "D. prevent the pond from drying up",
+			"q4": "E. lower the temperature of pond water for the survival of fish"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Air sacs are present in",
+		"opts": {
+			"q0": "A. poultry",
+			"q1": "B. cattle",
+			"q2": "C. rabbit",
+			"q3": "D. goat",
+			"q4": "E. sheep"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The gestation period in days of a sow is",
+		"opts": {
+			"q0": "A. 30",
+			"q1": "B. 42",
+			"q2": "C. 114",
+			"q3": "D. 165",
+			"q4": "E. 180"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The castrated male cattle is referred to as",
+		"opts": {
+			"q0": "A. bull",
+			"q1": "B. heifer",
+			"q2": "C. castrate",
+			"q3": "D. wether",
+			"q4": "E. steer"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The amount of livestock feed needed to prevent either an increase or a decrease in live weight of an animal is referred to as ",
+		"opts": {
+			"q0": "A. maintenance ration",
+			"q1": "B. balance ration",
+			"q2": "C. weaners ration",
+			"q3": "D. production ration",
+			"q4": "E. breeders ration"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The water-snail is important in the life-cycle of",
+		"opts": {
+			"q0": "A. roundworm",
+			"q1": "B. tapeworm",
+			"q2": "C. liver fluke",
+			"q3": "D. coccidium",
+			"q4": "E. tick"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Control of water level in a fish pond with minimal loss of fish can be achieved with the aid of",
+		"opts": {
+			"q0": "A. wooden panels only",
+			"q1": "B. monk with panels, screens and outlet channel",
+			"q2": "C. wooden panel and screen",
+			"q3": "D. monk and outlet channel",
+			"q4": "E. screen and monk"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	img src='agric_1995_sectionb_qst42_46.jpg'> Use the diagram below to answer Questions 42 to 46. The diagram represents the digestive system of a",
+		"opts": {
+			"q0": "A. bull",
+			"q1": "B. ewe",
+			"q2": "C. rabbit",
+			"q3": "D. sow",
+			"q4": "E. cock"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	img src='agric_1995_sectionb_qst42_46.jpg'> Use the diagram below to answer Questions 42 to 46. What is the main function of the part labelled II?",
+		"opts": {
+			"q0": "A. Crushing of food particles",
+			"q1": "B. Transportation of food nutrients",
+			"q2": "C. Mixing of food particles",
+			"q3": "D. Temporary storage of food",
+			"q4": "E. Production of digestive enzymes"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	img src='agric_1995_sectionb_qst42_46.jpg'> Use the diagram below to answer Questions 42 to 46. The parts labelled VII are the",
+		"opts": {
+			"q0": "A. cloaca",
+			"q1": "B. ileum",
+			"q2": "C. vent",
+			"q3": "D. duodenum",
+			"q4": "E. caeca"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	img src='agric_1995_sectionb_qst42_46.jpg'> Use the diagram below to answer Questions 42 to 46. The proventriculus is labelled",
+		"opts": {
+			"q0": "A. II",
+			"q1": "B. III",
+			"q2": "C. IV",
+			"q3": "D. V",
+			"q4": "E. VI"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	img src='agric_1995_sectionb_qst42_46.jpg'> Use the diagram below to answer Questions 42 to 46. The part responsible for the grinding of food is labelled",
+		"opts": {
+			"q0": "A. III",
+			"q1": "B. IV",
+			"q2": "C. V",
+			"q3": "D. VII",
+			"q4": "E. VIII"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Male spermatozoa is produced in the",
+		"opts": {
+			"q0": "A. penis",
+			"q1": "B. testicles",
+			"q2": "C. urethra",
+			"q3": "D. epididymis",
+			"q4": "E. prostrate gland"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The main function of ground maize in livestock feed is for",
+		"opts": {
+			"q0": "A. providing energy",
+			"q1": "B. body building",
+			"q2": "C. strong bone formation",
+			"q3": "D. blood clotting",
+			"q4": "E. addition of bulk"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The discontinuation of feeding young animal with milk is known as",
+		"opts": {
+			"q0": "A. weaning",
+			"q1": "B. lactation",
+			"q2": "C. creep feeding",
+			"q3": "D. sucking",
+			"q4": "E. gestation"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	N’dama cattle are wefl adapted to West Africa mainly because the breed",
+		"opts": {
+			"q0": "A. can withstand a long period of drought",
+			"q1": "B. is resistant to trypanosomiasis",
+			"q2": "C. can feed well on poor quality forages",
+			"q3": "D. can withstand high humidity",
+			"q4": "E. is tolerant to poor management"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	The anti-sterility vitamin in livestock nutrition is vitamin",
+		"opts": {
+			"q0": "A. K",
+			"q1": "B. E",
+			"q2": "C. C",
+			"q3": "D. B",
+			"q4": "E. A"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	Which of the following is not a characteristic of a good pasture?",
+		"opts": {
+			"q0": "A. High palatability",
+			"q1": "B. High nutritive value",
+			"q2": "C. High digestibility",
+			"q3": "D. Low leaf to stem ratio",
+			"q4": "E. High resistance to trampling"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	The mode of infection of rinderpest disease in cattle is through",
+		"opts": {
+			"q0": "A. feeding",
+			"q1": "B. drinking water",
+			"q2": "C. a vector",
+			"q3": "D. inhalation",
+			"q4": "E. sexual contact"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	Which of the following characteristics is not normally considered in the selection of animals for breeding?",
+		"opts": {
+			"q0": "A. Fertility",
+			"q1": "B. Growth rate",
+			"q2": "C. Resistance to diseases",
+			"q3": "D. Milk quality and quantity",
+			"q4": "E. Horn size"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	Land in agricultural business is said to be a durable asset. This means land",
+		"opts": {
+			"q0": "A. value is realized over several years",
+			"q1": "B. will yield nothing except through cropping",
+			"q2": "C. can be generated through reclamation",
+			"q3": "D. can only be used for a short period of time",
+			"q4": "E. is much more valuable than labour and capital"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	The quantity of rice that an individual is able to buy during a given period of time is simply the individual’s",
+		"opts": {
+			"q0": "A. supply of rice",
+			"q1": "B. demand for rice",
+			"q2": "C. elastic limit for rice",
+			"q3": "D. preference for rice",
+			"q4": "E. purchasing power"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	The major difference between loan and subsidy is that",
+		"opts": {
+			"q0": "A. subsidy is repayable while loan is not",
+			"q1": "B. both cannot be available to the farmer at the same time",
+			"q2": "C. loan is provided by government only while subsidy is not",
+			"q3": "D. subsidy is expensive to obtain but loan is not",
+			"q4": "E. loan is repayable while subsidy is not"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	The loss in value of an asset due to wear and tear in the course of its use is known as",
+		"opts": {
+			"q0": "A. depreciation",
+			"q1": "B. salvage value",
+			"q2": "C. appreciation",
+			"q3": "D. net worth",
+			"q4": "E. evaluation"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Farm-gate price is usually obtained through",
+		"opts": {
+			"q0": "A. the producer",
+			"q1": "B. middlemen",
+			"q2": "C. commodity boards",
+			"q3": "D. co¬operatives",
+			"q4": "E. wholesalers"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	Which of the following is not a method or agent of disseminating agricultural information?",
+		"opts": {
+			"q0": "A. Individual contact",
+			"q1": "B. Agricultural programmes",
+			"q2": "C. Marketing channels",
+			"q3": "D. Agricultural finance",
+			"q4": "E. Co-operative societies"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

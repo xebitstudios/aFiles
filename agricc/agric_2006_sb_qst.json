@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The problem of land availability for agriculture can be solved by",
+		"opts": {
+			"q0": "A. compulsory acquisition of all pieces of land in dispute",
+			"q1": "B. enacting laws to regulate access to land",
+			"q2": "C. creating more land through land reclamation",
+			"q3": "D. collecting land rent from prospective farmers",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Wastage of agricultural produce may not be worsened by",
+		"opts": {
+			"q0": "A. poor transportation",
+			"q1": "B. land fragmentation",
+			"q2": "C. inadequate storage facilities",
+			"q3": "D. inadequate processing facilities",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The replacement of traditional farming methods with modern methods is a step in agricultural",
+		"opts": {
+			"q0": "A. expansion",
+			"q1": "B. education",
+			"q2": "C. development",
+			"q3": "D. diversification",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following statements is not an impediment to the development of agriculture in West Africa?",
+		"opts": {
+			"q0": "A. Teeming population of insect pests",
+			"q1": "B. Aggressive agricultural extension",
+			"q2": "C. Chaotic marketing systems",
+			"q3": "D. Pollution of the environment",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Which of the following statements is not correct about Land Use Act?",
+		"opts": {
+			"q0": "A. Land cannot be used for any purpose",
+			"q1": "B. Government has control over unused land",
+			"q2": "C. It does not lead to land fragmentation",
+			"q3": "D. It aims at re-allocation of land for farming purposes",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The difference between subsidy and loan is that subsidy",
+		"opts": {
+			"q0": "A. is a short term credit while loan is a long term credit",
+			"q1": "B. is a medium term credit while loan is short term credit",
+			"q2": "C. requires a collateral while a loan does not",
+			"q3": "D. is not refundable while a loan is refundable",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Which of the following statements best describes subsistence agriculture?",
+		"opts": {
+			"q0": "A. The rearing of animals only",
+			"q1": "B. Small scale production of crops and livestock",
+			"q2": "C. Raising of crops and animals for sale",
+			"q3": "D. Use of machines in agricultural production",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The main aim of wildlife management is to",
+		"opts": {
+			"q0": "A. prevent extinction of species",
+			"q1": "B. provide lots of cheap protein",
+			"q2": "C. generate foreign exchange through exportation of meat",
+			"q3": "D. reduce the population of trypanosome parasites",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Which of the following groups of crops will perform better in the savanna zone of West Africa?",
+		"opts": {
+			"q0": "A. Cotton, millet and groundnut",
+			"q1": "B. Cotton, coffee and cocoa",
+			"q2": "C. Tobacco, sorghum and banana",
+			"q3": "D. Sorghum, millet and oil-palm",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The largest kolanut producing vegetation zone in West Africa is the",
+		"opts": {
+			"q0": "A. sahel savanna",
+			"q1": "B. sudan savanna",
+			"q2": "C. derived savanna",
+			"q3": "D. mangrove swamp",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following processes does not lead to the physical disintegration of rocks? The",
+		"opts": {
+			"q0": "A. heating and cooling of rock surfaces",
+			"q1": "B. expansion and contraction of rock minerals",
+			"q2": "C. formation of cracks and crevices in the rocks",
+			"q3": "D. rapid cooling and solidification of rocks",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The two main elements of climate which affect soil formation are",
+		"opts": {
+			"q0": "A. rainfall and temperature",
+			"q1": "B. rainfall and air",
+			"q2": "C. temperature and light",
+			"q3": "D. wind and relative humidity",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Soil erosion caused by water can be controlled by",
+		"opts": {
+			"q0": "A. overgrazing and bush burning",
+			"q1": "B. ploughing and harrowing",
+			"q2": "C. land clearing and stumping",
+			"q3": "D. afforestation and erection of bunds",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Although clayey soils are rich in nutrients, they are not good for most agricultural crop production because they",
+		"opts": {
+			"q0": "A. do not release their nutrients",
+			"q1": "B. are too compact and poorly aerated",
+			"q2": "C. lose their nutrients too readily after rains",
+			"q3": "D. contain too much iron, aluminium and boron",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The plant nutrient essential for the formation of tubers is",
+		"opts": {
+			"q0": "A. molybdenum",
+			"q1": "B. phosphorus",
+			"q2": "C. potassium",
+			"q3": "D. sodium",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	A fertilizer bag had the following inscription 27:10:10. This means that it contained",
+		"opts": {
+			"q0": "A. 27kg of nitrogen, 10kg of phosphate, 10kg of potash",
+			"q1": "B. 27kg of phosphate 10kg of potash, 10 kg of nitrogen",
+			"q2": "C. 21kg of potash, 10kg of nitrogen, 10kg of phosphate",
+			"q3": "D. 21kg of sulphate, 10kg of potash, 10kg of phosphate",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following farming practices encourages soil degradation?",
+		"opts": {
+			"q0": "A. Fertilizer application",
+			"q1": "B. Bush burning",
+			"q2": "C. Cover cropping",
+			"q3": "D. Fungicide applications",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Irrigation water is passed underneath the soil through",
+		"opts": {
+			"q0": "A. sprinklers",
+			"q1": "B. canals",
+			"q2": "C. drips",
+			"q3": "D. pipes",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	A good draught bull should not have",
+		"opts": {
+			"q0": "A. a deep barrel",
+			"q1": "B. a slopy rump",
+			"q2": "C. long legs",
+			"q3": "D. strong hooves",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following sources of farm power generates highest amount of energy?",
+		"opts": {
+			"q0": "A. Human power",
+			"q1": "B. Wind power",
+			"q2": "C. Animal power",
+			"q3": "D. Mechanical power",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	A spade is mainly used for",
+		"opts": {
+			"q0": "A. weeding",
+			"q1": "B. pruning",
+			"q2": "C. planting",
+			"q3": "D. digging",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The function of the scraper on a disc plough is to",
+		"opts": {
+			"q0": "A. scrape the top soil",
+			"q1": "B. remove adhering soil from the disc",
+			"q2": "C. open the furrow",
+			"q3": "D. balance the plough",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Post-harvest equipment include",
+		"opts": {
+			"q0": "A. sheller and dryer",
+			"q1": "B. groundnut lifter and thresher",
+			"q2": "C. combine and forage harvesters",
+			"q3": "D. sheller and combine harvester",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Which of the following is not a survey equipment?",
+		"opts": {
+			"q0": "A. Cross staff",
+			"q1": "B. Prismatic compass",
+			"q2": "C. Offset poles",
+			"q3": "D. Telescope",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Which of the following methods is used in conducting a simple farm lay-out survey?",
+		"opts": {
+			"q0": "A. 5 : 3 : 4",
+			"q1": "B. 4 : 3 : 3",
+			"q2": "C. 3 : 4 : 5",
+			"q3": "D. 3 : 3 : 4",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following sequence of pre-planting operations is correct?",
+		"opts": {
+			"q0": "A. Bush clearing, farm layout, burning and stumping",
+			"q1": "B. Stumping, bush clearing, farm layout and burning",
+			"q2": "C. Burning, farm layout, clearing and stumping",
+			"q3": "D. Bush clearing, burning, stumping and farm layout",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	A plant not normally used as green manure is",
+		"opts": {
+			"q0": "A. Mucuna utilis",
+			"q1": "B. Sida acuta",
+			"q2": "C. Centrosema pubescens",
+			"q3": "D. Pueraria phaseoloides",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following agronomic practices is not applicable to rice production?",
+		"opts": {
+			"q0": "A. Threshing",
+			"q1": "B. Transplanting",
+			"q2": "C. Staking",
+			"q3": "D. Puddling",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	To which of the following survey equipment is a piece of red cloth tied when it is being used?",
+		"opts": {
+			"q0": "A. Cross staff",
+			"q1": "B. Plumb bob",
+			"q2": "C. Gunter’s chain",
+			"q3": "D. Arrow",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following is not a leguminous forage crop?",
+		"opts": {
+			"q0": "A. Centrosema pubescens",
+			"q1": "B. Panicum maximum",
+			"q2": "C. Stylosanthes gracilis",
+			"q3": "D. Pueraria phaseoloides",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following will not be a reason for afforestation?",
+		"opts": {
+			"q0": "A. Population pressure",
+			"q1": "B. Soil fertility conservation",
+			"q2": "C. Wildlife conservation",
+			"q3": "D. Prevention of natural hazard",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Mosaic disease affects",
+		"opts": {
+			"q0": "A. cotton and cocoa",
+			"q1": "B. groundnut and tomato",
+			"q2": "C. cassava and tobacco",
+			"q3": "D. mango and orange",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following is a symptom of black-pod disease of Cacao?",
+		"opts": {
+			"q0": "A. Diseased leaves fall prematurely",
+			"q1": "B. Characteristic swellings appear on young stems and roots",
+			"q2": "C. A small brown spot first appears on the pod",
+			"q3": "D. Veins of diseased leaves become red in colour",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following insect groups readily attacks dry grains?",
+		"opts": {
+			"q0": "A. Boring insects",
+			"q1": "B. Biting insects",
+			"q2": "C. Sucking insects",
+			"q3": "D. Piercing insects",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Rosette disease of groundnut is transmitted by",
+		"opts": {
+			"q0": "A. an eelworm",
+			"q1": "B. a grasshopper",
+			"q2": "C. a white fly",
+			"q3": "D. an aphid",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The control of spear grass oh the farm is difficult because",
+		"opts": {
+			"q0": "A. it produces a large quantity of seeds",
+			"q1": "B. it is easily propagated by suckers",
+			"q2": "C. it has a very persistent rhizome",
+			"q3": "D. seeds persist in the soil for a long time",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The use of fungal pathogens to control dodder weed is a",
+		"opts": {
+			"q0": "A. physical method",
+			"q1": "B. mechanical method",
+			"q2": "C. biological method",
+			"q3": "D. cultural method",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Hybrid vigour in crop improvement is brought about through",
+		"opts": {
+			"q0": "A. introduction",
+			"q1": "B. mass selection",
+			"q2": "C. inbreeding",
+			"q3": "D. cross breeding",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Which of the following structures is not a part of the digestive tract of pigs?",
+		"opts": {
+			"q0": "A. Oesophagus",
+			"q1": "B. Proventriculus",
+			"q2": "C. Duodenum",
+			"q3": "D. Colon",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The urethra in the male animal is described as a urinogenital duct because it",
+		"opts": {
+			"q0": "A. opens to the outside through the penis",
+			"q1": "B. is attached to the accessory sex glands",
+			"q2": "C. is a common pathway for urine and sperms",
+			"q3": "D. is the site for the storage of sperms",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	The act of giving birth in farm animals is called",
+		"opts": {
+			"q0": "A. hatching",
+			"q1": "B. laying",
+			"q2": "C. parturition",
+			"q3": "D. gestation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Oestrogen in females is responsible for",
+		"opts": {
+			"q0": "A. development of secondary sexual characteristics",
+			"q1": "B. start of oestrus cycle",
+			"q2": "C. parturition",
+			"q3": "D. attainment of puberty",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Iodine is normally applied to the severed umbilical cord of a piglet so as to",
+		"opts": {
+			"q0": "A. supply iodine needed by the piglets for growth",
+			"q1": "B. reduce maturity period",
+			"q2": "C. prevent the entry of micro-organisms into the piglet",
+			"q3": "D. produce pigs without much abdominal fat",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Broilers are generally marketed at the age of",
+		"opts": {
+			"q0": "A. 4-6 weeks",
+			"q1": "B. 8 - 10 weeks",
+			"q2": "C. 17-19 weeks",
+			"q3": "D. 20 - 22 weeks",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The process of removing a young animal from its mother is referred to as",
+		"opts": {
+			"q0": "A. culling",
+			"q1": "B. breeding",
+			"q2": "C. weaning",
+			"q3": "D. isolation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of tne following classes of poultry feeds has the highest protein content?",
+		"opts": {
+			"q0": "A. Chicks mash",
+			"q1": "B. Growers mash",
+			"q2": "C. Layers mash",
+			"q3": "D. Broiler starter",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The vitamin which is essential for the growth of spermatozoa in males and the development of the foetus in females is",
+		"opts": {
+			"q0": "A. Vitamin A",
+			"q1": "B. Vitamin D",
+			"q2": "C. Vitamin E",
+			"q3": "D. Vitamin K",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The sequence of events in the reproductive process of a dairy animal is",
+		"opts": {
+			"q0": "A. lactation, parturition, gestation and copulation",
+			"q1": "B. parturition, copulation, lactation and gestation",
+			"q2": "C. gestation, lactation, parturition and copulation",
+			"q3": "D. copulation, gestation, parturition and lactation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	An unproductive animal permanently removed from a productive stock is said to be",
+		"opts": {
+			"q0": "A. quarantined",
+			"q1": "B. culled",
+			"q2": "C. isolated",
+			"q3": "D. disposed",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Voiding of blood stained droppings by birds is a symptom of",
+		"opts": {
+			"q0": "A. fowl cholera",
+			"q1": "B. Coccidiosis",
+			"q2": "C. Newcastle disease",
+			"q3": "D. fowl typhoid",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	Nagana in cattle is otherwise known as",
+		"opts": {
+			"q0": "A. Ttypanosomiasis",
+			"q1": "B. Babiosis",
+			"q2": "C. Ascariasis",
+			"q3": "D. Fascioliasis",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	Government ensures continuous availability of fish through",
+		"opts": {
+			"q0": "A. fishing regulations",
+			"q1": "B. fish marketing",
+			"q2": "C. fish feeding",
+			"q3": "D. fish processing",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	Which of the following factors is not considered in selecting fish for stocking?",
+		"opts": {
+			"q0": "A. Marketability of the species",
+			"q1": "B. Ease of caring for fingerlings",
+			"q2": "C. Colour of the fingerlings",
+			"q3": "D. Ability of being reared in captivity",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	When different breeds of animals are mated, the process is known as",
+		"opts": {
+			"q0": "A. crossbreeding",
+			"q1": "B. in-breeding",
+			"q2": "C. out-breeding",
+			"q3": "D. line breeding",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	The advantages derived from tne efficient combination of factors of production in agriculture include the following except",
+		"opts": {
+			"q0": "A. reduced production cost",
+			"q1": "B. increased production cost",
+			"q2": "C. increased profit margins",
+			"q3": "D. increased gross revenue",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	When a change in price brings no change in demand, the situation is described as",
+		"opts": {
+			"q0": "A. perfectly inelastic",
+			"q1": "B. perfectly elastic",
+			"q2": "C. fairly inelastic",
+			"q3": "D. fairly elastic",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	Use the information below to answer questions 57 to 59. A farmer purchased a sprayer for #12,500 in 1974, at the end of the fourth year; he sold it for #4,300. The total depreciation is",
+		"opts": {
+			"q0": "A. #16,800",
+			"q1": "B. #8,200",
+			"q2": "C. #7,250",
+			"q3": "D. #820",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	Use the information below to answer questions 57 to 59. A farmer purchased a sprayer for #12,500 in 1974, at the end of the fourth year; he sold it for #4,300. The salvage value is",
+		"opts": {
+			"q0": "A. #1,075",
+			"q1": "B. #2,150",
+			"q2": "C. #4,300",
+			"q3": "D. #8,400",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Use the information below to answer questions 57 to 59. A farmer purchased a sprayer for #12,500 in 1974, at the end of the fourth year; he sold it for #4,300. The annual depreciation of the equipment is",
+		"opts": {
+			"q0": "A. #33,600",
+			"q1": "B. #20,050",
+			"q2": "C. #2,050",
+			"q3": "D. #2,005",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	Agricultural information flows from",
+		"opts": {
+			"q0": "A. research institutes through the extension officer to the farmer",
+			"q1": "B. farmer to research institutes and to the extension officer",
+			"q2": "C. extension officer to farmer and finally to the research institutes",
+			"q3": "D. research institutes to farmer and to the extension officer",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

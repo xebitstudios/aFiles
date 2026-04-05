@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following agricultural raw materials would a glue-processing industry require?",
+		"opts": {
+			"q0": "A. Cotton",
+			"q1": "B. Coconut",
+			"q2": "C. Cassava",
+			"q3": "D. Kola",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Perishability of farm produce can be minimized through",
+		"opts": {
+			"q0": "A. modification of the crop genetic composition",
+			"q1": "B. adoption of continuous cropping system",
+			"q2": "C. reducing water supply to growing crops",
+			"q3": "D. use of machines to harvest crops",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	In which of the following activities is land not used for agricultural purposes?",
+		"opts": {
+			"q0": "A. Afforestation",
+			"q1": "B. Mining",
+			"q2": "C. Ranching",
+			"q3": "D. Fish farming",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following statements about farm settlement schemes is false? They are set up",
+		"opts": {
+			"q0": "A. to encourage young people to take up farming",
+			"q1": "B. to provide employment for young school leavers",
+			"q2": "C. to develop rural infrastructure",
+			"q3": "D. for research and publicity",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Water-logged soils impede good crop growth and development because",
+		"opts": {
+			"q0": "A. the fibrous roots are destroyed",
+			"q1": "B. crop roots are deprived of sufficient oxygen",
+			"q2": "C. excessive water stops root growth",
+			"q3": "D. soil around roots become too cold for root growth",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The relative proportion of each fraction of soil in a soil sample determines its",
+		"opts": {
+			"q0": "A. texture",
+			"q1": "B. structure",
+			"q2": "C. profile",
+			"q3": "D. catena",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Which of the following materials cannot be used for liming?",
+		"opts": {
+			"q0": "A. Gypsum",
+			"q1": "B. Basic slag",
+			"q2": "C. Chalk",
+			"q3": "D. Urea",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Which of the following statements about soil water is true?",
+		"opts": {
+			"q0": "A. Crops wilt when gravitational water has drained off ",
+			"q1": "B. Capillary water drains off after rainfall",
+			"q2": "C. A soil with high water table is best for farming",
+			"q3": "D. Crops utilize capillary water in the soil",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Which of the following soil elements becomes readily available at pH values above 8?",
+		"opts": {
+			"q0": "A. Molybdenum",
+			"q1": "B. Manganese",
+			"q2": "C. Zinc",
+			"q3": "D. Aluminium",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Micro-nutrients are likely to be deficient in",
+		"opts": {
+			"q0": "A. cleared virgin forest soils",
+			"q1": "B. soils with high organic matter",
+			"q2": "C. fine textured soil",
+			"q3": "D. soils with low pH",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Chlorosis with characteristic parallel white or yellow streaks observed along the veins of leaves is a deficiency symptom of",
+		"opts": {
+			"q0": "A. potassium",
+			"q1": "B. magnesium",
+			"q2": "C. phosphorus",
+			"q3": "D. sulphur",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Use the information below to answer Questions 12 and 13. I. Allowing land to fallow II. Applying organic fertilizer III. Practising monoculture IV. Growing legumes. Which of the following combinations will help to improve soil fertility status?",
+		"opts": {
+			"q0": "A. I, III and IV only",
+			"q1": "B. II, III and IV only",
+			"q2": "C. I, II and III only",
+			"q3": "D. I, II and IV only",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Use the information below to answer Questions 12 and 13. I. Allowing land to fallow II. Applying organic fertilizer III. Practising monoculture IV. Growing legumes. The spread of diseases and pests can be checked by",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. III",
+			"q3": "D. IV",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Which of the following statements is not an advantage of drainage? It",
+		"opts": {
+			"q0": "A. removes excess water",
+			"q1": "B. supplies moisture for plant growth",
+			"q2": "C. reclaims water-logged land and swamps",
+			"q3": "D. improves soil structure",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The problems associated with farm irrigation do not include",
+		"opts": {
+			"q0": "A. high cost of irrigation equipment",
+			"q1": "B. increase in soil pH",
+			"q2": "C. continuous supply of irrigation water",
+			"q3": "D. build up of pests on farms",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Use the information below to answer questions 16 and 17. I. Burning of trash II. Slashing of undergrowth III. Seed bed preparation IV. Soil tillage. Which of the following options gives the correct sequence of land preparation for planting yam?",
+		"opts": {
+			"q0": "A. IV, II, III and I",
+			"q1": "B. II, I, IV and III",
+			"q2": "C. II, III, I and IV",
+			"q3": "D. I, II, III, and IV",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Use the information below to answer questions 16 and 17. I. Burning of trash II. Slashing of undergrowth III. Seed bed preparation IV. Soil tillage. Which of the following practices will enhance loss of soil water?",
+		"opts": {
+			"q0": "A. I and II",
+			"q1": "B. II and III",
+			"q2": "C. III and IV",
+			"q3": "D. I and IV",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The most versatile source of farm power in West Africa is",
+		"opts": {
+			"q0": "A. biogas",
+			"q1": "B. animal",
+			"q2": "C. wind",
+			"q3": "D. water",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Silos ensure good storage because",
+		"opts": {
+			"q0": "A. they are made of stainless steel",
+			"q1": "B. of the air-tight environment created",
+			"q2": "C. a lot of produce can be stored at a time",
+			"q3": "D. they have high relative humidity",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following statements about the advantages of farm mechanization is not true? It",
+		"opts": {
+			"q0": "A. saves labour",
+			"q1": "B. improves soil structure",
+			"q2": "C. reduces drudgery",
+			"q3": "D. increases output",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The standard length of a Gunter’s chain is approximately",
+		"opts": {
+			"q0": "A. 20m",
+			"q1": "B. 25m",
+			"q2": "C. 35m",
+			"q3": "D. 40m",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	A farmstead is best described as",
+		"opts": {
+			"q0": "A. animal pens",
+			"q1": "B. crop production centre",
+			"q2": "C. farm equipment and storage facilities",
+			"q3": "D. farmer’s abode",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Whicn of the following processes in plants are directly affected by high temperature? I. Water absorption II. Photosynthesis III. Respiration IV. Photoperiodism",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. I, II and III only",
+			"q2": "C. I and IV only",
+			"q3": "D. II, III and IV only",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Layering is advantageous because",
+		"opts": {
+			"q0": "A. offspring perform better than their parents",
+			"q1": "B. pollination agents abound to ensure its success",
+			"q2": "C. possible failure of fertilization is avoided",
+			"q3": "D. variability arises in propagates",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Drying of harvested crops is necessary because it",
+		"opts": {
+			"q0": "A. shortens the length of seed dormancy",
+			"q1": "B. reduces moisture content and stores better",
+			"q2": "C. cannot be sold to consumers when it is wet",
+			"q3": "D. decreases the viability of the crops",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following factors will not influence the yield of crops?",
+		"opts": {
+			"q0": "A. Soil depth and structure",
+			"q1": "B. Soil slope and texture",
+			"q2": "C. Atmospheric and soil temperature",
+			"q3": "D. Wind direction and speed",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	If the seed rate for guinea corn is 5.6 kg per hectare, what will be the amount of seeds required for planting 35 acres of farm land?",
+		"opts": {
+			"q0": "A. 40.6 kg",
+			"q1": "B. 78.4 kg",
+			"q2": "C. 196.0 kg",
+			"q3": "D. 784.0 kg",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Delayed harvesting of maize may result in",
+		"opts": {
+			"q0": "A. improvement in the quantity of grains",
+			"q1": "B. high incidence of pest infestation",
+			"q2": "C. low seed viability",
+			"q3": "D. yellow colouration of grains",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Tomato plants are primarily staked to",
+		"opts": {
+			"q0": "A. prevent birds from feeding on the fruits",
+			"q1": "B. accelerate fruits maturity",
+			"q2": "C. raise fruits from the ground",
+			"q3": "D. increase crop growth",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following crops does not require nursery?",
+		"opts": {
+			"q0": "A. Lycopersicon esculentum",
+			"q1": "B. Abelmuscus esculentus",
+			"q2": "C. Theobroma cacao",
+			"q3": "D. Hevea braziliensis",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	An erect tropical perennial grass, which grows to 3 - 6 metres tall and has broad hairy leaves is the",
+		"opts": {
+			"q0": "A. elephant grass",
+			"q1": "B. gaint star grass",
+			"q2": "C. spear grass",
+			"q3": "D. gamba grass",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Deforestation will eventually lead to",
+		"opts": {
+			"q0": "A. improvement in soil fertility",
+			"q1": "B. improvement of soil texture",
+			"q2": "C. loss of soil organic matter",
+			"q3": "D. increase in soil pH",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Golden brown lesions on peeled yam tuber indicate infection by",
+		"opts": {
+			"q0": "A. bacteria",
+			"q1": "B. virus",
+			"q2": "C. fungi",
+			"q3": "D. nematode",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	The eradication of mealy bugs is an effective control of",
+		"opts": {
+			"q0": "A. corn smut",
+			"q1": "B. swollen shoot of cocoa",
+			"q2": "C. groundnut rosette",
+			"q3": "D. rice blast",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The side effects of the various preventive and control measures of pests and diseases of crops include the following except",
+		"opts": {
+			"q0": "A. improved quality of farm produce",
+			"q1": "B. environmental pollution",
+			"q2": "C. poisoning of wildlife",
+			"q3": "D. disruption of the ecosystem",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Biological methods of weed control do not include",
+		"opts": {
+			"q0": "A. introducing insects to control weeds",
+			"q1": "B. planting crops to compete with the weeds",
+			"q2": "C. planting leguminous cover crops",
+			"q3": "D. uprooting the weeds",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Use the following information to answer Questions 37 and 38. Assuming that in sheep, the allele for black coat colour is dominant over that for brown coat colour. What percentage of the F1 generation will have black colour when two heterozygotes are crossed?",
+		"opts": {
+			"q0": "A. 100%",
+			"q1": "B. 75%",
+			"q2": "C. 50%",
+			"q3": "D. 25%",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Use the following information to answer Questions 37 and 38. Assuming that in sheep, the allele for black coat colour is dominant over that for brown coat colour. Crossing a heterozygote black with a homozygote brown will produce",
+		"opts": {
+			"q0": "A. 100% brown coat coloured offspring",
+			"q1": "B. 75% brown coat coloured offspring",
+			"q2": "C. 50% brown coat coloured offspring",
+			"q3": "D. 25% brown coat coloured offspring",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='agric_2007_sectionb_qst39_40.jpg'> The diagram below shows the alimentary canal of a monogastric animal. Use it to answer Questions 39 and 40. Bile is synthesized in the part labelled",
+		"opts": {
+			"q0": "A. II",
+			"q1": "B. III",
+			"q2": "C. IV",
+			"q3": "D. VI",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='agric_2007_sectionb_qst39_40.jpg'> The diagram below shows the alimentary canal of a monogastric animal. Use it to answer Questions 39 and 40. Absorption of water takes place in the part labelled",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. IV",
+			"q3": "D. V",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following structures is not connected to the urethra of a bull?",
+		"opts": {
+			"q0": "A. Bladder",
+			"q1": "B. Epididymis",
+			"q2": "C. Testis",
+			"q3": "D. Rectum",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Ruminants do not normally show deficiency symptoms of vitamin B complex because",
+		"opts": {
+			"q0": "A. the grasses they consume are very rich in the vitamins",
+			"q1": "B. they do not need the vitamins",
+			"q2": "C. they tolerate the deficiency of these vitamins",
+			"q3": "D. the bacteria in their rumen synthesize the vitamins",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Fluids from the cowpers’ and prostate glands help in the following except",
+		"opts": {
+			"q0": "A. clearing the urethra of urine traces",
+			"q1": "B. provision of nutrients for spermatozoa survival",
+			"q2": "C. mixing with spermatozoa to form sperm on ejaculation",
+			"q3": "D. maintaining the proper functioning of the testes",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The gestation period of ewe is",
+		"opts": {
+			"q0": "A. 90 days",
+			"q1": "B. 115 days",
+			"q2": "C. 131 days",
+			"q3": "D. 149 days",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The hormone that influences the movement of the pelvic ligaments during parturition in farm animals is known as",
+		"opts": {
+			"q0": "A. relaxin",
+			"q1": "B. prolactin",
+			"q2": "C. progesterone",
+			"q3": "D. oestrogen",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	In order to prevent bulls from eating crops during work, they should be",
+		"opts": {
+			"q0": "A. branded",
+			"q1": "B. dehorned",
+			"q2": "C. tethered",
+			"q3": "D. muzzled",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	In which of the following systems of poultry management can the spread of diseases be kept to a minimum?",
+		"opts": {
+			"q0": "A. Battery cage",
+			"q1": "B. Deep litter",
+			"q2": "C. Fold",
+			"q3": "D. Free range",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	A wallow is usually constructed in piggeries to",
+		"opts": {
+			"q0": "A. serve as points for providing drinking water",
+			"q1": "B. make draining of pens easier",
+			"q2": "C. provide baths for pigs",
+			"q3": "D. reduce piglets mortality during birth",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following groups of macro-nutrients is a constituent of protein?",
+		"opts": {
+			"q0": "A. Nitrogen, phosphorus and sulphur",
+			"q1": "B. Calcium, magnesium and potassium",
+			"q2": "C. Magnesium, calcium and phosphorus",
+			"q3": "D. Sulphur, magnesium and potassium",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following livestock diseases affects the reproductive system?",
+		"opts": {
+			"q0": "A. Mastitis",
+			"q1": "B. Brucellosis",
+			"q2": "C. Rinderpest",
+			"q3": "D. Anthrax",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	If in a poultry flock, the birds keep passing out green, foul-smelling faeces with nervous symptoms, it shows that the farmer",
+		"opts": {
+			"q0": "A. has not administered Newcastle disease vaccine",
+			"q1": "B. neglected to treat chicks against gumboro disease",
+			"q2": "C. is giving the birds protein-deficient diet",
+			"q3": "D. is feeding a diet high in calcium",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	When a farmer tries to eradicate snails from his pastures, he is attempting to control",
+		"opts": {
+			"q0": "A. ticks",
+			"q1": "B. tapeworms",
+			"q2": "C. trypanosomiasis",
+			"q3": "D. liver flukes",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	Cropping in fish farming refers to",
+		"opts": {
+			"q0": "A. stocking fish",
+			"q1": "B. processing fish",
+			"q2": "C. harvesting fish",
+			"q3": "D. feeding fish",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	Fertilizing a fish pond with compost manure would most likely",
+		"opts": {
+			"q0": "A. decrease phytoplankton population and decrease fish yield",
+			"q1": "B. decrease phytoplankton population and increase fish yield",
+			"q2": "C. increase phytoplankton population and decrease fish yield",
+			"q3": "D. increase phytoplankton population and increase fish yield",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	Use the following information to answer Questions 55 and 56. A farmer sold all his harvested maize totalling 260 kg at N5.50/kg thereby making a profit of N430.00. Calculate the production cost of maize per kg",
+		"opts": {
+			"q0": "A. N4.05",
+			"q1": "B. N3.85",
+			"q2": "C. N3.75",
+			"q3": "D. N3.65",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	Use the following information to answer Questions 55 and 56. A farmer sold all his harvested maize totalling 260 kg at N5.50/kg thereby making a profit of N430.00. Determine the percentage profiteer kg of maize sold",
+		"opts": {
+			"q0": "A. 35%",
+			"q1": "B. 40%",
+			"q2": "C. 43%",
+			"q3": "D. 52%",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	The demand for agricultural produce is generally",
+		"opts": {
+			"q0": "A. elastic",
+			"q1": "B. inelastic",
+			"q2": "C. unitary",
+			"q3": "D. static",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	Agricultural credits should be put to the following uses except",
+		"opts": {
+			"q0": "A. purchase of inputs",
+			"q1": "B. meeting family needs",
+			"q2": "C. improvement of structures",
+			"q3": "D. adoption of innovations",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Which of the following statements is not true about the profit and loss account of a farm?",
+		"opts": {
+			"q0": "A. It is prepared at the end of business period usually a year",
+			"q1": "B. All expenses and purchases are listed on the right-hand side",
+			"q2": "C. All expenses and purchases are listed on the left-hand side",
+			"q3": "D. All receipts and sales are listed on the right-hand side",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	Agricultural education programmes for rural youth will reduce the",
+		"opts": {
+			"q0": "A. rate of adoption of innovations",
+			"q1": "B. population of youth in rural areas",
+			"q2": "C. age at which youth will venture into family life",
+			"q3": "D. dependency of youth on parents",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

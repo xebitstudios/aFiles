@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The main objective of agriculture is",
+		"opts": {
+			"q0": "A. income generation",
+			"q1": "B. provision of employment",
+			"q2": "C. food production",
+			"q3": "D. provision of shelter",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Food shortage can be minimised by",
+		"opts": {
+			"q0": "A. efficient pest control services",
+			"q1": "B. natural hazards",
+			"q2": "C. illegal exportation OT farm produce",
+			"q3": "D. hoarding",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Subsistence agriculture is characterised by",
+		"opts": {
+			"q0": "A. used of machines",
+			"q1": "B. large scale production",
+			"q2": "C. small farm holdings",
+			"q3": "D. intensive use of inputs",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Output is higher in commercial agriculture because of the following reasons except",
+		"opts": {
+			"q0": "A. adequate finance",
+			"q1": "B. cultivation of large hectares of land",
+			"q2": "C. employment of large labour force",
+			"q3": "D. utilization of complex farm machinery",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The most common factor affecting land use is",
+		"opts": {
+			"q0": "A. population pressure",
+			"q1": "B. solar radiation",
+			"q2": "C. climatic influence",
+			"q3": "D. type of soil",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Financial assistance from government to the farmers is usually in the following forms except",
+		"opts": {
+			"q0": "A. loan",
+			"q1": "B. tax",
+			"q2": "C. credit",
+			"q3": "D. subsidy",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Which of the following groups of animals is usually kept in game reserves?",
+		"opts": {
+			"q0": "A. Cattle, sheep and goats",
+			"q1": "B. Camels, donkeys and horses",
+			"q2": "C. Chickens, ducks and turkeys",
+			"q3": "D. Lions, elephants and leopards",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The following processes in crops are sensitive to day-length except",
+		"opts": {
+			"q0": "A. fruiting",
+			"q1": "B. growth",
+			"q2": "C. flowering",
+			"q3": "D. branching",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Rain water is made available to crops through",
+		"opts": {
+			"q0": "A. evaporation",
+			"q1": "B. transpiration",
+			"q2": "C. surface drainage",
+			"q3": "D. root absorption",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Which of the following rocks is formed from shale?",
+		"opts": {
+			"q0": "A. Marble",
+			"q1": "B. Slate",
+			"q2": "C. Quartzite",
+			"q3": "D. Limestone",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The horizon of a soil profile which encourages the greatest level of microbial activity is",
+		"opts": {
+			"q0": "A. A-horizon",
+			"q1": "B. B-horizon",
+			"q2": "C. C-horizon",
+			"q3": "D. D-horizon",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The easiest method of determining soil texture in the field is by",
+		"opts": {
+			"q0": "A. moulding",
+			"q1": "B. sieving",
+			"q2": "C. feeling",
+			"q3": "D. sedimenting",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	The type of soil with a particle size of 0.02 to 0.002 mm is",
+		"opts": {
+			"q0": "A. clay",
+			"q1": "B. silt",
+			"q2": "C. fine sand",
+			"q3": "D. coarse sand",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	If urea fertilizer contains 46% nitrogen, calculate the amount of nitrogen in 25 kg bag of fertilizer?",
+		"opts": {
+			"q0": "A. 11.5 kg",
+			"q1": "B. 13.5 kg",
+			"q2": "C. 21.5 kg",
+			"q3": "D. 36.5 kg",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Fertile soil is one which",
+		"opts": {
+			"q0": "A. is easily drained",
+			"q1": "B. is well aerated",
+			"q2": "C. can produce a good harvest of cowpea",
+			"q3": "D. contain all essential plant nutrients in suitable proportions",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The effects of practising crop rotation include the following except",
+		"opts": {
+			"q0": "A. maintaining and improving soil fertility",
+			"q1": "B. controlling soil erosion",
+			"q2": "C. preventing the build-up of pests and diseases",
+			"q3": "D. adding humus to the soil",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	The method of irrigation suitable for use on a steep slope is",
+		"opts": {
+			"q0": "A. sprinkler irrigation",
+			"q1": "B. flood",
+			"q2": "C. furrow irrigation",
+			"q3": "D. shadoof",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The main source of power for subsistence agriculture is",
+		"opts": {
+			"q0": "A. animal",
+			"q1": "B. machine",
+			"q2": "C. electricity",
+			"q3": "D. man",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The most suitable source of power for stationary equipment on the farm is",
+		"opts": {
+			"q0": "A. machine",
+			"q1": "B. electricity",
+			"q2": "C. animal",
+			"q3": "D. man",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	An important farm machine used for coupling many implements is",
+		"opts": {
+			"q0": "A. disc harrow",
+			"q1": "B. harvester",
+			"q2": "C. tractor",
+			"q3": "D. plough",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following is the correct order for land preparation?",
+		"opts": {
+			"q0": "A. land -> clearing -> ploughing -> harrowing -> ridging",
+			"q1": "B. land -> clearing -> harrowing -> ploughing -> ridging",
+			"q2": "C. land -> clearing -> ploughing -> ridging -> harrowing",
+			"q3": "D. land -> clearing -> harrowing -> ridging -> ploughing",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following surveying equipment is used for measuring angles during farm surveying?",
+		"opts": {
+			"q0": "A. Theodolite",
+			"q1": "B. Measuring tape",
+			"q2": "C. Gunter’s chain",
+			"q3": "D. Abney level",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following farm practices is not mechanised?",
+		"opts": {
+			"q0": "A. Planting",
+			"q1": "B. Fertilizer application",
+			"q2": "C. Bush clearing",
+			"q3": "D. Transplanting",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	The main aim of mechanised agriculture is",
+		"opts": {
+			"q0": "A. reducing maturation time for crops",
+			"q1": "B. decreasing number of pests",
+			"q2": "C. having a large land area for cultivation",
+			"q3": "D. reducing cost of production",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The following are necessary operations in maize cultivation except",
+		"opts": {
+			"q0": "A. weeding",
+			"q1": "B. thinning",
+			"q2": "C. nursery practices",
+			"q3": "D. fertilizer application",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Ginning is a method of processing",
+		"opts": {
+			"q0": "A. cocoa",
+			"q1": "B. cotton",
+			"q2": "C. oil palm",
+			"q3": "D. rubber",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Ginger is propagated by",
+		"opts": {
+			"q0": "A. suckers",
+			"q1": "B. rhizomes",
+			"q2": "C. seeds",
+			"q3": "D. tubers",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of ihe following is not correct about Stylosanthes gracilis? It",
+		"opts": {
+			"q0": "A. is an animal legume",
+			"q1": "B. is propagated by seed",
+			"q2": "C. is drought resistant",
+			"q3": "D. produces nodules",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Which of the following is not a problem of forest management?",
+		"opts": {
+			"q0": "A. Absence of adequate information on the ecosystems",
+			"q1": "B. Inadequate support from government for the development of forest resources",
+			"q2": "C. Planting different varieties of timber",
+			"q3": "D. Indiscriminate destruction of forest resources by bush fire",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The tree species commonly planted for pulpwood is",
+		"opts": {
+			"q0": "A. Gmelina",
+			"q1": "B. Cassia",
+			"q2": "C. Albizia",
+			"q3": "D. Tectona",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Root-knot disease in tomatoes is caused by",
+		"opts": {
+			"q0": "A. virus",
+			"q1": "B. nematode",
+			"q2": "C. bacterium",
+			"q3": "D. fungus",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Callosobruchus maculatus is a common pest of",
+		"opts": {
+			"q0": "A. maize",
+			"q1": "B. cowpea",
+			"q2": "C. rice",
+			"q3": "D. millet",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Gummosis disease of citrus is caused by",
+		"opts": {
+			"q0": "A. aphids",
+			"q1": "B. fungi",
+			"q2": "C. white flies",
+			"q3": "D. bacteria",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following weeds is dispersed by wind?",
+		"opts": {
+			"q0": "A. Pig weed (Boerhavia diffusa)",
+			"q1": "B. Goat weed (Ageratum conizoides)",
+			"q2": "C. Hausa thorns (Acanthospermum hispidum)",
+			"q3": "D. Tridax (Tridax procumbens)",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The characteristic symptoms of mosaic disease of crops is usually observed on",
+		"opts": {
+			"q0": "A. roots",
+			"q1": "B. leaves",
+			"q2": "C. stems",
+			"q3": "D. fruits",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The correct sequence in the processes of crop improvement is",
+		"opts": {
+			"q0": "A. introduction -> selection -> breeding",
+			"q1": "B. breeding -> selection -> introduction",
+			"q2": "C. breeding -> introduction -> selection",
+			"q3": "D. introduction -> breeding -> selection",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	A condition in which a gene does not manifest observable characteristics in the presence of its dominant allele is known as",
+		"opts": {
+			"q0": "A. dominance",
+			"q1": "B. mutation",
+			"q2": "C. recessiveness",
+			"q3": "D. homozygosity",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='agric_1999_sectionb_qst38_40.jpg'> Use the diagram below to answer Questions 38 to 40. The parts orderly labelled as I - IV are",
+		"opts": {
+			"q0": "A. shell, membrane, air space and albumen",
+			"q1": "B. air space, shell, membrane and albumen",
+			"q2": "C. albumen, air space, shell and membrane",
+			"q3": "D. membrane, albumen, shell and air space",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='agric_1999_sectionb_qst38_40.jpg'> Use the diagram below to answer Questions 38 to 40. The nucleus is the part labelled",
+		"opts": {
+			"q0": "A. IV",
+			"q1": "B. V",
+			"q2": "C. VI",
+			"q3": "D. VII",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='agric_1999_sectionb_qst38_40.jpg'> Use the diagram below to answer Questions 38 to 40. The parts labelled V - VII are",
+		"opts": {
+			"q0": "A. chalaza, yolk and nucleus",
+			"q1": "B. yolk, nucleus and blood vessels",
+			"q2": "C. nucleus, blood vessels and yolk",
+			"q3": "D. nucleus, chalaza and yolk",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Gestation period is defined as the time",
+		"opts": {
+			"q0": "A. of fusion of the sperm and the egg",
+			"q1": "B. between conception and parturition",
+			"q2": "C. of release of ovum from the ovary",
+			"q3": "D. of the birth of the young animal",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	The hormone responsible for milk let down in female farm animals is",
+		"opts": {
+			"q0": "A. testosterone",
+			"q1": "B. follicle stimulating hormone",
+			"q2": "C. oxytocin",
+			"q3": "D. androgen",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The adult male cattle is called",
+		"opts": {
+			"q0": "A. bull",
+			"q1": "B. ram",
+			"q2": "C. boar",
+			"q3": "D. buck",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	An advantage of extensive system of rearing goats is",
+		"opts": {
+			"q0": "A. low labour requirement",
+			"q1": "B. easy control of diseases",
+			"q2": "C. indiscriminate mating",
+			"q3": "D. exposure to adverse weather conditions",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Layers’ ration contains more limestone than growers’ ration because limestone",
+		"opts": {
+			"q0": "A. is difficult for the growers to digest",
+			"q1": "B. stimulates layers’ appetite",
+			"q2": "C. reduces the acidity in the gut of growers",
+			"q3": "D. supplies sufficient minerals to layers for shell formation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	If 200 layers will consume 25 kg of feed per day, calculate the amount of feed consumed by a layer per day",
+		"opts": {
+			"q0": "A. 0.25 kg/day",
+			"q1": "B. 0.25 kg/day",
+			"q2": "C. 0.5 kg/day",
+			"q3": "D. 1.25 kg/day",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following is not a method of improving rangeland?",
+		"opts": {
+			"q0": "A. Practising continuous grazing",
+			"q1": "B. Routine and regular weeding",
+			"q2": "C. Routine reseeding",
+			"q3": "D. Regular application of fertilizers",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Miracidium is one of the stages in the life cycle of",
+		"opts": {
+			"q0": "A. roundworm",
+			"q1": "B. tapeworm",
+			"q2": "C. liver fluke",
+			"q3": "D. tick",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following is not a symptom of foot and mouth disease of cattle?",
+		"opts": {
+			"q0": "A. Excessive production of saliva",
+			"q1": "B. Sores on feet and tongue",
+			"q2": "C. Lameness",
+			"q3": "D. Blood stained diarrhoea",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Heavy infestation of liver fluke causes poor absorption of fats in livestock by",
+		"opts": {
+			"q0": "A. blocking bile ducts thus preventing flow of bile",
+			"q1": "B. destroying fat-digesting enzymes",
+			"q2": "C. reducing ingestion of fats",
+			"q3": "D. inhibiting the action of the digestive enzymes",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	Methods of preserving fish include the following except",
+		"opts": {
+			"q0": "A. boiling",
+			"q1": "B. drying",
+			"q2": "C. smoking",
+			"q3": "D. salting",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	Which of the following fishing gears can be used for total harvesting of pond?",
+		"opts": {
+			"q0": "A. Hook and line",
+			"q1": "B. Harpoon",
+			"q2": "C. Basket trap",
+			"q3": "D. Dragnet",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	The practice of mating closely-related animals is called",
+		"opts": {
+			"q0": "A. pen mating",
+			"q1": "B. cross breeding",
+			"q2": "C. out breeding",
+			"q3": "D. in breeding",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	The natural resource utilized for production is",
+		"opts": {
+			"q0": "A. capital",
+			"q1": "B. management",
+			"q2": "C. labour",
+			"q3": "D. land",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	An increase in supply of agricultural produce can be caused by the following factors except",
+		"opts": {
+			"q0": "A. reduced cost of production",
+			"q1": "B. favourable weather conditions",
+			"q2": "C. reduced taxation",
+			"q3": "D. consumers buying less products",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	Which of the following constitutes subsidy in agricultural enterprise?",
+		"opts": {
+			"q0": "A. Supply of fertilizer to farmers at reduced price",
+			"q1": "B. Borrowing of money from a thrift society",
+			"q2": "C. Provision of money to farmers through commercial banks",
+			"q3": "D. Provision of services through co-operative societies",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	Records of money transactions in a farming business are termed",
+		"opts": {
+			"q0": "A. farm inputs",
+			"q1": "B. farm accounts",
+			"q2": "C. capital",
+			"q3": "D. farm liabilities",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	Calculate the salvage value of a tractor with a depreciation value of #10,580.00 and initial cost of #50,000.00 after a year of use.",
+		"opts": {
+			"q0": "A. #10,580.00",
+			"q1": "B. #30,290.00",
+			"q2": "C. #39,420.00",
+			"q3": "D. #60,580.00",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	The main processes involved in the marketing of cotton include the following except",
+		"opts": {
+			"q0": "A. weeding",
+			"q1": "B. processing",
+			"q2": "C. grading",
+			"q3": "D. packaging",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	Which of the following methods of agricultural extension aims at reaching a large number of farmers at the same time?",
+		"opts": {
+			"q0": "A. Mass method",
+			"q1": "B. Group method",
+			"q2": "C. Individual method",
+			"q3": "D. Contact method",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

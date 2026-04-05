@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	One factor which differentiates a subsistence from a commercial farmer is that the former produces",
+		"opts": {
+			"q0": "A. for the benefit of his community",
+			"q1": "B. only one type of crop",
+			"q2": "C. for the benefit of his family",
+			"q3": "D. raw materials for agro-based industries",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Which of the following land tenure systems encourages the establishment of permanent crops?",
+		"opts": {
+			"q0": "A. freehold system",
+			"q1": "B. tenancy",
+			"q2": "C. leasehold system",
+			"q3": "D. pledging",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The land tenure system that results in fragmentation of land is",
+		"opts": {
+			"q0": "A. freehold",
+			"q1": "B. government tenancy",
+			"q2": "C. inheritance",
+			"q3": "D. leasehold",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	The use of land for agriculture is not influenced by",
+		"opts": {
+			"q0": "A. labour",
+			"q1": "B. climate",
+			"q2": "C. topography",
+			"q3": "D. population Igneous",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Igneous rocks formed within the crust are called",
+		"opts": {
+			"q0": "A. quartzite",
+			"q1": "B. volcanic",
+			"q2": "C. plutonic",
+			"q3": "D. stratified",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The chemical reaction in rocks represented by KAISi<sub>3</sub>O<sub>8</sub> + H<sub>2</sub>O —> HAISi<sub>3</sub>O<sub>8</sub> + KOH is an example of",
+		"opts": {
+			"q0": "A. hydrolysis",
+			"q1": "B. hydration",
+			"q2": "C. oxidation",
+			"q3": "D. carbonation",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Clay particles are able to attract cations in the soil because they",
+		"opts": {
+			"q0": "A. are positively charged",
+			"q1": "B. have excess negative charges",
+			"q2": "C. are sticky",
+			"q3": "D. can be moulded",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	What is the percentage porosity of a soil sample whose volume is 250cm<sup>3</sup> when the volume of air is 200 cm<sup>3</sup>?",
+		"opts": {
+			"q0": "A. 20",
+			"q1": "B. 25",
+			"q2": "C. 50",
+			"q3": "D. 80",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The most important soil micro-organisms causing decay and nutrient recycling are",
+		"opts": {
+			"q0": "A. bacteria and fungi",
+			"q1": "B. fungi and algae",
+			"q2": "C. algae and actinomycetes",
+			"q3": "D. bacteria and algae",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Which of the following soil water is tightly held to the surface of soil particles?",
+		"opts": {
+			"q0": "A. hygroscopic water",
+			"q1": "B. gravitational water",
+			"q2": "C. capillary water",
+			"q3": "D. superfluous water",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following processes will not lead to the loss of nutrients from the soil?",
+		"opts": {
+			"q0": "A. erosion",
+			"q1": "B. mulching",
+			"q2": "C. harvesting",
+			"q3": "D. leaching",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A disadvantage of using organic manure on the soil is that",
+		"opts": {
+			"q0": "A. it decreases the potassium content of the soil",
+			"q1": "B. diseases spread fast",
+			"q2": "C. it increases the humus content of the soil",
+			"q3": "D. it reduces the rate of soil water ",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Leguminous cover crops do not",
+		"opts": {
+			"q0": "A. bind the soil particles together through their roots",
+			"q1": "B. increase the nitrogen content of soils",
+			"q2": "C. aid in improving the soil orqamc matter content",
+			"q3": "D. reduce the soil microbial population",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	In the nitrogen cycle, nitrite is oxidized to nitrate by",
+		"opts": {
+			"q0": "A. nitrobacter",
+			"q1": "B. nitrosomonas",
+			"q2": "C. azotobacter",
+			"q3": "D. rbizobiui",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following will not lead to loss of nitrogen compounds from the soil?",
+		"opts": {
+			"q0": "A. crop removal",
+			"q1": "B. burning",
+			"q2": "C. lodging",
+			"q3": "D. leaching",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Farm drainage does not lead to",
+		"opts": {
+			"q0": "A. improvement in soil structure",
+			"q1": "B. improvement of soil temperature",
+			"q2": "C. increased soil aeration",
+			"q3": "D. reduction of soil alkalinity",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following methods of irrigation is best for a farm with an undulating landscape?",
+		"opts": {
+			"q0": "A. sprinking",
+			"q1": "B. flooding",
+			"q2": "C. furrow",
+			"q3": "D. basin",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The most unreliable source of farm power is",
+		"opts": {
+			"q0": "A. wind",
+			"q1": "B. water",
+			"q2": "C. electricity",
+			"q3": "D. machine",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Water power is harnessed and converted into electrical power by",
+		"opts": {
+			"q0": "A. blades",
+			"q1": "B. cranes",
+			"q2": "C. turbines",
+			"q3": "D. hovercraft",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	A farm implement used for planting grains is the",
+		"opts": {
+			"q0": "A. drill",
+			"q1": "B. ridger",
+			"q2": "C. harrow",
+			"q3": "D. plough",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following parts of a tractor is most essential in operating a mower?",
+		"opts": {
+			"q0": "A. steering wheel",
+			"q1": "B. top link",
+			"q2": "C. power-take-off shaft",
+			"q3": "D. stabilizer chains",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Farm mechanisation in West Africa is not limited by",
+		"opts": {
+			"q0": "A. the large population of farmers",
+			"q1": "B. power among the farmers",
+			"q2": "C. inadequate infrastructural facilities",
+			"q3": "D. seasonality of agricultural product",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Mechanisation in West Africa is limited by the following except",
+		"opts": {
+			"q0": "A. size of farm holding",
+			"q1": "B. technical know-how",
+			"q2": "C. capital",
+			"q3": "D. labour",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	A fruit which will not normally be used in the manufacture of jam is",
+		"opts": {
+			"q0": "A. orange",
+			"q1": "B. pineapple",
+			"q2": "C. garden egg",
+			"q3": "D. pawpaw",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The following crops are common staple foods in West Africa except",
+		"opts":{
+			"q0": "A. coconut",
+			"q1": "B. maize",
+			"q2": "C. cassava",
+			"q3": "D. cowpea",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	In cassava farming, rapid growth is promoted at the expense of tuber formation by the application of",
+		"opts": {
+			"q0": "A. potassium fertilizer",
+			"q1": "B. nitrogen fertilizer",
+			"q2": "C. complete fertilizer",
+			"q3": "D. phosphate fertilizer",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Ananas comosus is a",
+		"opts": {
+			"q0": "A. fruit crop",
+			"q1": "B. oil crop",
+			"q2": "C. beverage crop",
+			"q3": "D. pasture crop",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The best way to preserve maize grains on a large scale is by",
+		"opts": {
+			"q0": "A. storing under the sun",
+			"q1": "B. storing in earthen pots",
+			"q2": "C. hanging over fire places",
+			"q3": "D. storing in silos",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Parboiling is a term associated with the processing of",
+		"opts": {
+			"q0": "A. cowpea",
+			"q1": "B. melon",
+			"q2": "C. sorghum",
+			"q3": "D. rice",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Maize is a very important crop because apart from serving as a staple, it",
+		"opts": {
+			"q0": "A. is ploughed into the soil to increase fertility",
+			"q1": "B. can be processed into corn flakes",
+			"q2": "C. forms the base of most livestock feeds",
+			"q3": "D. is used for producing germ oil",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	A variety of oil palm is",
+		"opts": {
+			"q0": "A. trinitario",
+			"q1": "B. tenera",
+			"q2": "C. criollo",
+			"q3": "D. amelonado",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Andropogon gayanus is commonly called",
+		"opts": {
+			"q0": "A. guinea grass",
+			"q1": "B. elephant grass",
+			"q2": "C. gamba grass",
+			"q3": "D. spear grass",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Pasture crops are best used in preparing hay",
+		"opts": {
+			"q0": "A. when they are two weeks old",
+			"q1": "B. just before flowering",
+			"q2": "C. just after seed maturation",
+			"q3": "D. after they have started to dry up",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following is not a characteristic of a good pasture?",
+		"opts": {
+			"q0": "A. high quality grass",
+			"q1": "B. provision of balance nutrients",
+			"q2": "C. ability to withstand trampling",
+			"q3": "D. high stem to leaf ratio",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Black pod disease of cocoa is controlled by",
+		"opts": {
+			"q0": "A. fumigation of soil",
+			"q1": "B. farm sanitation",
+			"q2": "C. application of herbicide",
+			"q3": "D. application of fungicide",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The side effects of chemical control of diseases and pests include the following except",
+		"opts": {
+			"q0": "A. environmental pollution",
+			"q1": "B. poisoning of livestock and man",
+			"q2": "C. destruction of some plant species",
+			"q3": "D. increased cost of production",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Plant breeders aim at obtaining the following except",
+		"opts": {
+			"q0": "A. tolerance to climatic extremes",
+			"q1": "B. resistance to pests",
+			"q2": "C. adaptation to pollination",
+			"q3": "D. uniformity in the time of maturity",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Which of the following are breeds of cattle?",
+		"opts": {
+			"q0": "A. muturu and sahel",
+			"q1": "B. ouda and white fulani",
+			"q2": "C. ndama and keteku",
+			"q3": "D. gudali and red Sokoto",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	An adult female goat is a/an",
+		"opts": {
+			"q0": "A. gilt",
+			"q1": "B. heifer",
+			"q2": "C. ewe",
+			"q3": "D. doe",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The interval from the beginning of one heat period to the beginning of another is known as",
+		"opts": {
+			"q0": "A. gestation period",
+			"q1": "B. incubation period",
+			"q2": "C. reproductive cycle",
+			"q3": "D. oestrus cycle",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='agric_2004_sectionb_qst41_43.jpg'> The diagram below represents the digestive tract of a farm animal. Use it to answer questions 41-43. Which of the following animals possesses the illustrated digestive tract?",
+		"opts": {
+			"q0": "A. sheep",
+			"q1": "B. fowl",
+			"q2": "C. pig",
+			"q3": "D. duck",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='agric_2004_sectionb_qst41_43.jpg'> The diagram below represents the digestive tract of a farm animal. Use it to answer questions 41-43. The part where gastric juice is secreted is labelled",
+		"opts": {
+			"q0": "A. II",
+			"q1": "B. IV",
+			"q2": "C. V",
+			"q3": "D. VIII",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	<img src='agric_2004_sectionb_qst41_43.jpg'> The diagram below represents the digestive tract of a farm animal. Use it to answer questions 41-43. Water is largely reabsorbed in the part labelled",
+		"opts": {
+			"q0": "A. II",
+			"q1": "B. IV",
+			"q2": "C. VI",
+			"q3": "D. VIII",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The act of parturition in ewe is known as",
+		"opts": {
+			"q0": "A. farrowing",
+			"q1": "B. hatching",
+			"q2": "C. lambing",
+			"q3": "D. calving",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The pregnancy hormone in female animals is",
+		"opts": {
+			"q0": "A. oestrogen",
+			"q1": "B. oxytocin",
+			"q2": "C. progesterone",
+			"q3": "D. relaxin",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of the following management practices is specific to dairy farming?",
+		"opts": {
+			"q0": "A. milking",
+			"q1": "B. deticking",
+			"q2": "C. castration",
+			"q3": "D. deworming",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following is the main reason for not keeping birds meant for commercial egg production under the extensive system of management? Birds",
+		"opts": {
+			"q0": "A. are exposed to attack by predators",
+			"q1": "B. waste a lot of productive energy roaming about",
+			"q2": "C. are exposed to sufficient green forage",
+			"q3": "D. are exposed to theft",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Newcastle disease is caused by",
+		"opts": {
+			"q0": "A. virus",
+			"q1": "B. bacterium",
+			"q2": "C. protozoan",
+			"q3": "D. fungus",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	A viral disease of ruminants in which the affected animal shows symptoms of high fever and blood stained diarrhoea is likely to be",
+		"opts": {
+			"q0": "A. pleuropneumonia",
+			"q1": "B. rinderpest",
+			"q2": "C. gastroenteritis",
+			"q3": "D. babesiosis",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The following are practical measures of controlling trypanosomiasis except",
+		"opts": {
+			"q0": "A. spraying against the vector",
+			"q1": "B. modification of vector’s habitat",
+			"q2": "C. use of drug on diseased livestock",
+			"q3": "D. vaccinating against trypanosomes",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	The following factors are necessary for siting fish ponds except",
+		"opts": {
+			"q0": "A. reliable source of water supply",
+			"q1": "B. type of soil",
+			"q2": "C. topography",
+			"q3": "D. climatic conditions",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	The method of fish preservation in which most of the moisture is lost is",
+		"opts": {
+			"q0": "A. frying",
+			"q1": "B. salting",
+			"q2": "C. drying",
+			"q3": "D. canning",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	Which of the following statements is not true of agricultural production?",
+		"opts": {
+			"q0": "A. land is an immobile asset",
+			"q1": "B. a fishing ground is a factor of production",
+			"q2": "C. human resources constitute a factor of production",
+			"q3": "D. availability of land is more than its quality",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	The functions of a farm manager include the following except ",
+		"opts": {
+			"q0": "A. decision making",
+			"q1": "B. coordination of farm activities",
+			"q2": "C. supervision of farm labourers",
+			"q3": "D. financing agricultural projects",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	In the event of increased government subsidies, the farmer’s production cost",
+		"opts": {
+			"q0": "A. falls, hence supply increases",
+			"q1": "B. falls, hence supply decreases",
+			"q2": "C. rises, hence supply increases",
+			"q3": "D. rises, hence supply decreases",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	The curve for unitary elasticity of supply for maize flour is given by",
+		"opts": {
+			"q0": "A. <img src='agric_2004_sectionb_qst56_1.jpg'>",
+			"q1": "B. <img src='agric_2004_sectionb_qst56_2.jpg'>",
+			"q2": "C. <img src='agric_2004_sectionb_qst56_3.jpg'>",
+			"q3": "D. <img src='agric_2004_sectionb_qst56_4.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	The equilibrium price of rice is the price at which",
+		"opts": {
+			"q0": "A. its demand exceeds supply",
+			"q1": "B. its supply exceeds demand",
+			"q2": "C. its supply equals demand",
+			"q3": "D. consumers cannot buy the quantity they want",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	Which of the following activities is not correct about extension agents?",
+		"opts": {
+			"q0": "A. educating farmers on the use of improved techniques",
+			"q1": "B. teaching farmers how to plant their crops",
+			"q2": "C. training school leavers to become professional farmers",
+			"q3": "D. teaching farmers now to prepare and apply compost manure",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	One of the functions of agricultural extension is",
+		"opts": {
+			"q0": "A. cultivation of farmers’ farmlands",
+			"q1": "B. construction of farmers’ farmsteads",
+			"q2": "C. organization and coordination of credit sources",
+			"q3": "D. running of the country’s formal education system",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	Why would an extension officer prefer the use of television to radio when introducing a new technology to farmers?",
+		"opts": {
+			"q0": "A. the extension officer can get immediate feedback",
+			"q1": "B. the farmer can observe the various steps involved",
+			"q2": "C. radio programmes are not reliable and clear enough",
+			"q3": "D. it is cheaper to use television than radio",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

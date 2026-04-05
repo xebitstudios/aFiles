@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Inadequate food production in most developing countries is due to",
+		"opts": {
+			"q0": "A. high population growth",
+			"q1": "B. inadequate technology",
+			"q2": "C. infestation of farms by pests",
+			"q3": "D. scarcity of labour",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Which of the following groups of basic amenities should be provided in rural areas for improved agricultural productivity?",
+		"opts": {
+			"q0": "A. Water, electricity and health care centres",
+			"q1": "B. Electricity, guest houses and water",
+			"q2": "C. Health care centres, water and airports",
+			"q3": "D. Roads, airports and recreational centres",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Government laws and reforms are aimed at",
+		"opts": {
+			"q0": "A. increasing agricultural production",
+			"q1": "B. controlling farm profits",
+			"q2": "C. discouraging investment in agriculture",
+			"q3": "D. encouraging importation of agricultural produce",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	In order to ensure that crop and animal diseases are not tranferred across international boundaries, government must",
+		"opts": {
+			"q0": "A. have a programme on agricultural education",
+			"q1": "B. endeavour to produce only disease resistant species",
+			"q2": "C. have and enforce quarantine services",
+			"q3": "D. increase surveillance of its borders by security agents",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The role of science and technology in the development of agriculture includes the following except",
+		"opts": {
+			"q0": "A. provision of insecticides and drugs",
+			"q1": "B. provision of good road network",
+			"q2": "C. introduction of artificial insemination centres",
+			"q3": "D. setting up produce marketing boards",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The total land area of a country available for farming depends on the",
+		"opts": {
+			"q0": "A. level of literacy of farmers",
+			"q1": "B. climate of the area",
+			"q2": "C. sex distribution of the population",
+			"q3": "D. number of houses and other structures",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	The scarcity of land often compels peasant farmers to practise",
+		"opts": {
+			"q0": "A. deforestation",
+			"q1": "B. selective exploitation",
+			"q2": "C. taungya system",
+			"q3": "D. afforestation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	In West Africa, a greater part of the land is used for",
+		"opts": {
+			"q0": "A. livestock farming",
+			"q1": "B. arable cropping",
+			"q2": "C. building houses",
+			"q3": "D. game reserves",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	A piece of land can be considered more suitable for livestock production than for crop production when it is",
+		"opts": {
+			"q0": "A. moderately marshy",
+			"q1": "B. stony",
+			"q2": "C. fertile",
+			"q3": "D. infested with weeds",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The first vegetation zone which runs across the coast of most West African countries is the",
+		"opts": {
+			"q0": "A. derived savanna",
+			"q1": "B. mangrove forest",
+			"q2": "C. guinea savanna",
+			"q3": "D. rain forest",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The most active agent of physical weathering in arid regions is",
+		"opts": {
+			"q0": "A. wind",
+			"q1": "B. water",
+			"q2": "C. temperature",
+			"q3": "D. ice",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Soils in forest areas would normally have",
+		"opts": {
+			"q0": "A. low moisture content",
+			"q1": "B. high proportion of sand",
+			"q2": "C. high proportion of humus",
+			"q3": "D. low microbial activity",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Clay particles hold cations because they",
+		"opts": {
+			"q0": "A. are negatively charged",
+			"q1": "B. become hardened when dry",
+			"q2": "C. are very small in size",
+			"q3": "D. have definite shapes",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Under which of the following conditions will organic matter in the soil decompose fastest?",
+		"opts": {
+			"q0": "A. Optimum pH",
+			"q1": "B. Low temperature",
+			"q2": "C. Anaerobic condition",
+			"q3": "D. Waterlogged condition",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following materials can be applied to the soil in order to correct yellowing of leaves?",
+		"opts": {
+			"q0": "A. Lime",
+			"q1": "B. Urea",
+			"q2": "C. Gypsum",
+			"q3": "D. Bone meal",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	One importance of cover crops is that they",
+		"opts": {
+			"q0": "A. provide shade for crops",
+			"q1": "B. protect crops from pests",
+			"q2": "C. increase soil acidity",
+			"q3": "D. suppress weed growth",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	The appropriate irrigation method for upland rice field is",
+		"opts": {
+			"q0": "A. sprinkler",
+			"q1": "B. drip",
+			"q2": "C. flooding",
+			"q3": "D. underground",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Drainage refers to",
+		"opts": {
+			"q0": "A. removal of excess water from the soil",
+			"q1": "B. removal of nutrients from the soil",
+			"q2": "C. addition of water to the soil",
+			"q3": "D. protection of soil from erosion",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Energy in fossil materials may be harnessed as",
+		"opts": {
+			"q0": "A. water energy",
+			"q1": "B. wind energy",
+			"q2": "C. electrical energy",
+			"q3": "D. fuel energy",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	A decorticator is useful in the processing of",
+		"opts": {
+			"q0": "A. maize",
+			"q1": "B. cotton",
+			"q2": "C. cocoa",
+			"q3": "D. groundnut",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following types of survey reveals the physical features of farmlands?",
+		"opts": {
+			"q0": "A. Soil survey",
+			"q1": "B. Topographical survey",
+			"q2": "C. Chain survey",
+			"q3": "D. Compass survey",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Calculate the area of a rectangular vegetable garden measuring 100m by 26m in hectares",
+		"opts": {
+			"q0": "A. 0.250",
+			"q1": "B. 0.200",
+			"q2": "C. 0.125",
+			"q3": "D. 0.004",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Farm mechanization does not",
+		"opts": {
+			"q0": "A. involve the use of motorized equipment",
+			"q1": "B. require much capital",
+			"q2": "C. lead to unemployment",
+			"q3": "D. involve the use of only heavy machinery",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	A prolonged wet season at the early stage of growth in cotton will lead to",
+		"opts": {
+			"q0": "A. good vegetative growth and high yield of lint",
+			"q1": "B. tall plant with few bolls",
+			"q2": "C. premature dropping of leaves,
+			"q3": "D. waterlogged soil which increases availability of soil nutrients",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The by-product in plant photosynthesis is",
+		"opts": {
+			"q0": "A. carbon dioxide",
+			"q1": "B. carbohydrates",
+			"q2": "C. hydrogen",
+			"q3": "D. oxygen",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following reasons explain why fertilizers are added to soils?",
+		"opts": {
+			"q0": "A. Prevention of erosion",
+			"q1": "B. Increasing the organic matter content",
+			"q2": "C. Increasing the water retention capacity",
+			"q3": "D. Increasing the nutrient level",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	A crop which is usually propagated sexually is",
+		"opts": {
+			"q0": "A. banana",
+			"q1": "B. pineapple",
+			"q2": "C. cowpea",
+			"q3": "D. ginger",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Transplanting is best carried out in the evening because",
+		"opts": {
+			"q0": "A. it allows for greater plant respiration",
+			"q1": "B. roots show positive geotropism",
+			"q2": "C. moisture losses are low during cold weather",
+			"q3": "D. plants grow faster in the dark",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Some cassava tubers are poisonous to non-ruminant because they contain",
+		"opts": {
+			"q0": "A. hydrochloric acid",
+			"q1": "B. hydrocyanic acid",
+			"q2": "C. sodium chloride",
+			"q3": "D. sodium hydroxide",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of tne following factors does not affect the distribution of pasture grasses?",
+		"opts": {
+			"q0": "A. Wind",
+			"q1": "B. Temperature",
+			"q2": "C. Soil",
+			"q3": "D. Pests",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Selective exploitation means felling trees of",
+		"opts": {
+			"q0": "A. different ages and girths",
+			"q1": "B. specific ages and girths",
+			"q2": "C. different girths and same species",
+			"q3": "D. different girths and different species",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Streak disease of crops commonly attacks",
+		"opts": {
+			"q0": "A. millet",
+			"q1": "B. sorghum",
+			"q2": "C. maize",
+			"q3": "D. rice",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Most viral diseases of plants are transmitted by",
+		"opts": {
+			"q0": "A. wind",
+			"q1": "B. rain",
+			"q2": "C. insects",
+			"q3": "D. rodents",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Viral diseases of crop plants are best controlled by",
+		"opts": {
+			"q0": "A. planting resistant varieties",
+			"q1": "B. applying fungicides",
+			"q2": "C. applying insecticides",
+			"q3": "D. flooding farmlands",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The following problems are likely to be caused by insects except",
+		"opts": {
+			"q0": "A. loss of leaves of crop plants",
+			"q1": "B. rottening of cobs in storage",
+			"q2": "C. transmission of viral diseases",
+			"q3": "D. reduction of grains in storage to powder",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Weed plants which grow on other plants without deriving nutrients from them are called",
+		"opts": {
+			"q0": "A. sedges",
+			"q1": "B. epiphytes",
+			"q2": "C. decomposers",
+			"q3": "D. saprophytes",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	When a farmland is heavily infested with striga, it may be concluded that the farmland",
+		"opts": {
+			"q0": "A. is undergoing drainage",
+			"q1": "B. had not been regularly irrigated",
+			"q2": "C. may have been used for growing guinea corn",
+			"q3": "D. may have been used for cowpea production",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Mulching",
+		"opts": {
+			"q0": "A. reduces evaporation of soil water",
+			"q1": "B. increases soil acidity",
+			"q2": "C. prevents seedling diseases",
+			"q3": "D. improves soil texture",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	An accessory sex gland in a bull is",
+		"opts": {
+			"q0": "A. prostate gland",
+			"q1": "B. pituitary gland",
+			"q2": "C. thyroid gland",
+			"q3": "D. pancreatic gland",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The most important reason for the low livestock population in the rain forest zone is the",
+		"opts": {
+			"q0": "A. fast rate at which pasture crops become fibrous",
+			"q1": "B. shortage of forage crops during the long dry season",
+			"q2": "C. growth and proliferation of pathogens",
+			"q3": "D. thick vegetation cover which impedes animal movement",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following feedstuffs does not contain phosphorous?",
+		"opts": {
+			"q0": "A. Blood meal",
+			"q1": "B. Limestone",
+			"q2": "C. Fish meal",
+			"q3": "D. Oyster shell",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	When an animal eats wood and licks iron railings instead of the diet given to it, it is likely that the",
+		"opts": {
+			"q0": "A. animal is on heat",
+			"q1": "B. ambient temperature is too high",
+			"q2": "C. diet is deficient in essential elements",
+			"q3": "D. animal has a pathological disease problem",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	An indication that chicks are comfortable in a brooder is that they",
+		"opts": {
+			"q0": "A. move away from the source of heat",
+			"q1": "B. pant and sit with their mouths open",
+			"q2": "C. spread themselves uniformly under the hover",
+			"q3": "D. huddle together",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Mastitis is a disease which affects the",
+		"opts": {
+			"q0": "A. scrotum",
+			"q1": "B. udder",
+			"q2": "C. dewlap",
+			"q3": "D. hump",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The following are signs of ill-health in farm animals except",
+		"opts": {
+			"q0": "A. watery faeces",
+			"q1": "B. bright eyes",
+			"q2": "C. loss of appetite",
+			"q3": "D. nasal discharge",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	A protozoon organism causes",
+		"opts": {
+			"q0": "A. coccidiosis",
+			"q1": "B. anthrax",
+			"q2": "C. rinderpest",
+			"q3": "D. aspergillosis",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	An animal infected by trypanosomiasis usually develops",
+		"opts": {
+			"q0": "A. bloat and diarhoea",
+			"q1": "B. sore legs and running nose",
+			"q2": "C. anaemia and swollen lymph gland",
+			"q3": "D. swollen legs and constipation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The purpose of vaccination is to",
+		"opts": {
+			"q0": "A. treat parasites infestation",
+			"q1": "B. prevent disease infection",
+			"q2": "C. control parasites",
+			"q3": "D. treat diseases",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following livestock endoparasites is a hermaphrodite?",
+		"opts": {
+			"q0": "A. Liverfluke",
+			"q1": "B. Trypanosome",
+			"q2": "C. Tapeworm",
+			"q3": "D. Roundworm",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The most effective method of controlling ectoparasites in farm animals is by regular",
+		"opts": {
+			"q0": "A. exposure of animals to sunlight",
+			"q1": "B. dipping of animals in a solution of pesticides",
+			"q2": "C. hand-picking of ectoparasites",
+			"q3": "D. isolation of infested animals",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	A common means of aerating a fish pond is by stirring the water and",
+		"opts": {
+			"q0": "A. removing dead and decaying matter",
+			"q1": "B. adding water plants",
+			"q2": "C. adding cold water",
+			"q3": "D. pumping oxygen into the water",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	<img src='agric_2005_sectionb_qst52_53.jpg'> Use the diagram below to answer Questions 52 and 53. The diagram above explains Mendel’s Law of",
+		"opts": {
+			"q0": "A. segregation of genes",
+			"q1": "B. mutation of genes",
+			"q2": "C. heterozygosity of genes",
+			"q3": "D. homozygosity of genes",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	<img src='agric_2005_sectionb_qst52_53.jpg'> Use the diagram below to answer Questions 52 and 53. The components labelled I are the",
+		"opts": {
+			"q0": "A. gametes",
+			"q1": "B. parents",
+			"q2": "C. F<sub>1</sub> generation",
+			"q3": "D. F<sub>2</sub> generation",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	Heterosis in animal breeding is referred to as",
+		"opts": {
+			"q0": "A. hybrid vigour",
+			"q1": "B. dominance",
+			"q2": "C. recessivity",
+			"q3": "D. mutation",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	In areas where labour is scarce and land is abundant, farmers tend to",
+		"opts": {
+			"q0": "A. manage dairy animals intensively rather than beef animals",
+			"q1": "B. practise mechanized farming",
+			"q2": "C. maximize returns on land rather than on labour",
+			"q3": "D. employ more hands to work on the land",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	The supply of farm produce to markets in West Africa is mostly dictated by",
+		"opts": {
+			"q0": "A. governments",
+			"q1": "B. commodity boards",
+			"q2": "C. climatic conditions",
+			"q3": "D. the consumers",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	Farm insurance schemes do not cover losses due to",
+		"opts": {
+			"q0": "A. inadequate cultural practices",
+			"q1": "B. heavy pest infestation",
+			"q2": "C. flood",
+			"q3": "D. drought",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	The main aim of preparing a Farm income and expenditure statement is to",
+		"opts": {
+			"q0": "A. record all purchases",
+			"q1": "B. outline the sales of the farm",
+			"q2": "C. outline both sales and purchases",
+			"q3": "D. calculate profit or loss",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Which marketing agent normally makes the biggest profit margin per unit? The",
+		"opts": {
+			"q0": "A. processor",
+			"q1": "B. wholesaler",
+			"q2": "C. retailer",
+			"q3": "D. commission agent",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	The most inappropriate means of disseminating new ideas and techniques to the peasant farmer is by use of",
+		"opts": {
+			"q0": "A. radio",
+			"q1": "B. television",
+			"q2": "C. internet",
+			"q3": "D. cinema",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

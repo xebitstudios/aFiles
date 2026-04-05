@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following land tenure systems allows for individual ownership?",
+		"opts": {
+			"q0": "A. Land pledge system",
+			"q1": "B. Freehold system",
+			"q2": "C. Leasehold system",
+			"q3": "D. Tenancy at the will of government",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	The development of agriculture in West Africa is not generally affected by",
+		"opts": {
+			"q0": "A. ignorance",
+			"q1": "B. religious beliefs",
+			"q2": "C. poor marketing",
+			"q3": "D. population size",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The most common grazing system in West Africa is",
+		"opts": {
+			"q0": "A. continuous grazing",
+			"q1": "B. strip grazing",
+			"q2": "C. rotational grazing",
+			"q3": "D. zero grazing",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following is not a role of government in agricultural production?",
+		"opts": {
+			"q0": "A. Provision of labour",
+			"q1": "B. Provision of subsidies",
+			"q2": "C. Building of storage facilities",
+			"q3": "D. Provision of loans and credits",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The main reason for establishing game reserves is to prevent wildlife from",
+		"opts": {
+			"q0": "A. being poached",
+			"q1": "B. being hunted periodically",
+			"q2": "C. attacking tourists",
+			"q3": "D. becoming extinct",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Which of the following practices promotes agricultural development?",
+		"opts": {
+			"q0": "A. Growing disease-resistant crops",
+			"q1": "B. Planting late-maturing crop varieties",
+			"q2": "C. Banning importation of pesticides",
+			"q3": "D. Encouraging communal land tenure system",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	The biotic factor which derives much benefit from livestock and reduces productivity is a",
+		"opts": {
+			"q0": "A. predator",
+			"q1": "B. parasite",
+			"q2": "C. pathogen",
+			"q3": "D. microbe",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The removal of top soil from a small area of soil surface due to the impact of raindrops is known as",
+		"opts": {
+			"q0": "A. sheet erosion",
+			"q1": "B. rill erosion",
+			"q2": "C. gully erosion",
+			"q3": "D. splash erosion",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Which of the following groups of crops grows best in the savanna zones of West Africa?",
+		"opts": {
+			"q0": "A. Cotton, millet and groundnut",
+			"q1": "B. Cocoa, kola and oil palm",
+			"q2": "C. Cotton, cocoa and guinea corn",
+			"q3": "D. Banana, rubber and millet",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	High temperature and pressure convert sandstone to",
+		"opts": {
+			"q0": "A. basalt",
+			"q1": "B. quartzite",
+			"q2": "C. coal",
+			"q3": "D. limestone",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following factors is both a physical and a chemical agent of rock weathering?",
+		"opts": {
+			"q0": "A. Temperature",
+			"q1": "B. Animal",
+			"q2": "C. Water",
+			"q3": "D. Oxygen",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Physical properties of clay soil include",
+		"opts": {
+			"q0": "A. low porosity and low capillarity",
+			"q1": "B. high porosity and high capillarity",
+			"q2": "C. low porosity and high capillarity",
+			"q3": "D. high porosity and low capillarity",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Streak disease of maize is caused by",
+		"opts": {
+			"q0": "A. virus",
+			"q1": "B. nematode",
+			"q2": "C. fungus",
+			"q3": "D. bacterium",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	In the carbon cycle, atmospheric carbon dioxide is replenished by",
+		"opts": {
+			"q0": "A. respiration",
+			"q1": "B. transpiration",
+			"q2": "C. lightning",
+			"q3": "D. denitrification",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The following farming practices expose the soil to agents of erosion except",
+		"opts": {
+			"q0": "A. bush burning",
+			"q1": "B. land clearing",
+			"q2": "C. crop rotation",
+			"q3": "D. overgrazing",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the following effects is not due to water-logging?",
+		"opts": {
+			"q0": "A. Inhibition of crop development",
+			"q1": "B. Enhancement of leaching",
+			"q2": "C. Inhibition of the activities of soil microorganisms",
+			"q3": "D. Wilting of crop roots",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	An advantage of sprinkler irrigation is that",
+		"opts": {
+			"q0": "A. it assists farmers to raise a greater variety of crops",
+			"q1": "B. it is easy to install",
+			"q2": "C. large areas of land can be irrigated",
+			"q3": "D. it can be afforded by peasant farmers",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The main sources of farm power in West Africa are",
+		"opts": {
+			"q0": "A. wind, solar and mechanical",
+			"q1": "B. human, animal and mechanical",
+			"q2": "C. mechanical, solar and human",
+			"q3": "D. electrical, mechanical and solar",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The function of the mouldboard in a mouldboard plough is to",
+		"opts": {
+			"q0": "A. cut a horizontal line in the soil",
+			"q1": "B. give support to the share",
+			"q2": "C. invert the furrow slice",
+			"q3": "D. keep the equipment steady during operation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The objectives of farm mechanization include the following except to",
+		"opts": {
+			"q0": "A. obtain higher farm yield",
+			"q1": "B. carry out farm operations quickly",
+			"q2": "C. improve the quality of farm produce",
+			"q3": "D. produce disease-resistant crop varieties",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The survey instrument used for measuring horizontal and vertical angles on the field is the",
+		"opts": {
+			"q0": "A. theodolite",
+			"q1": "B. prismatic compass",
+			"q2": "C. offset staff",
+			"q3": "D. arrow",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	A farmstead should be located close to a source of water because of the following reasons except",
+		"opts": {
+			"q0": "A. reduction of overhead cost",
+			"q1": "B. operation of efficient irrigation system",
+			"q2": "C. processing of farm produce",
+			"q3": "D. erosion of farm structures",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following activities are cultural practices? I. Harrowing II. Filling-in III. Mulching",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. I and III only",
+			"q2": "C. II and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Training of yam vines is important to",
+		"opts": {
+			"q0": "A. ease passage in the farm",
+			"q1": "B. suppress weeds",
+			"q2": "C. increase photosynthesis",
+			"q3": "D. prevent rodent attack",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Grafting involves the",
+		"opts": {
+			"q0": "A. fusion of the gametes of two plants",
+			"q1": "B. inducement of rooting from two stems",
+			"q2": "C. transfer of a bud from one plant to another",
+			"q3": "D. joining of two parts from related plants",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following products is not from coconut?",
+		"opts": {
+			"q0": "A. Candy",
+			"q1": "B. Copra",
+			"q2": "C. Oil",
+			"q3": "D. Jam",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The most convenient method of fertilizer application used when crops have been planted in rows is",
+		"opts": {
+			"q0": "A. foliar application",
+			"q1": "B. broadcasting",
+			"q2": "C. drilling",
+			"q3": "D. ring placement",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following is not a characteristic of weeds?",
+		"opts": {
+			"q0": "A. Resistant to trampling",
+			"q1": "B. Produces numerous seeds",
+			"q2": "C. Seeds have short period of viability",
+			"q3": "D. Aggressive growth habit",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Coffea spp. grows best",
+		"opts": {
+			"q0": "A. on lowlands",
+			"q1": "B. on highlands",
+			"q2": "C. in mangroves",
+			"q3": "D. in rain forests",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	A major raw material of the paper industry is",
+		"opts": {
+			"q0": "A. pulp",
+			"q1": "B. gum",
+			"q2": "C. latex",
+			"q3": "D. bark",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following farming practices are cultural methods used to control pests and diseases? I. Crop rotation II. Mixed farming III. Monoculture",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. I and III only",
+			"q2": "C. II and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The recommended spacing for oil palm cultivation is",
+		"opts": {
+			"q0": "A. 9m triangular",
+			"q1": "B. 9m x 9m",
+			"q2": "C. 12m x 12m",
+			"q3": "D. 12m triangular",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following plants is a pasture legume?",
+		"opts": {
+			"q0": "A. Cynodon plectostachyus",
+			"q1": "B. Stylosanthes gracilis",
+			"q2": "C. Panicum maximum",
+			"q3": "D. Pennisetum purpureum",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Mould growth on cereal grains stored in damp conditions is caused by",
+		"opts": {
+			"q0": "A. bacterium",
+			"q1": "B. fungus",
+			"q2": "C. virus",
+			"q3": "D. nematode",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Corms, rhizomes and tubers are examples of",
+		"opts": {
+			"q0": "A. underground stems",
+			"q1": "B. underground roots",
+			"q2": "C. modified leaves",
+			"q3": "D. aerial stems",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following operations takes place in a ginnery?",
+		"opts": {
+			"q0": "A. Production of cotton seed oil",
+			"q1": "B. Detoxication of cotton seed",
+			"q2": "C. Separation of cotton seeds from lint",
+			"q3": "D. Production of cotton seed cake",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The maize stem borer is best controlled by",
+		"opts": {
+			"q0": "A. destroying and burning all the affected crops",
+			"q1": "B. erecting physical barriers on the farm",
+			"q2": "C. using scare crows on the farm",
+			"q3": "D. hand-picking from infested crops",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Disease resistance is one of the aims of crop improvement because it",
+		"opts": {
+			"q0": "A. enables crops withstand attack by pathogens",
+			"q1": "B. makes the harvesting of crops easy",
+			"q2": "C. enables crops adapt to climatic conditions",
+			"q3": "D. leads to early maturity in crops",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Which of the following characteristics is not important in beef cattle breeding?",
+		"opts": {
+			"q0": "A. High fertility",
+			"q1": "B. Increased butter-fat percentage",
+			"q2": "C. Good feed conversion efficiency",
+			"q3": "D. High yield of lean meat",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The milk let down hormone in farm animals is called",
+		"opts": {
+			"q0": "A. adrenalin",
+			"q1": "B. oestrogen",
+			"q2": "C. oxytocin",
+			"q3": "D. progesterone",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Rabbits can digest roughages because they possess",
+		"opts": {
+			"q0": "A. large intestine",
+			"q1": "B. enlarged caecum",
+			"q2": "C. long colon",
+			"q3": "D. small rectum",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Natural immunity can be conferred on newly-born animals through",
+		"opts": {
+			"q0": "A. vaccination",
+			"q1": "B. administration of antibiotics",
+			"q2": "C. feeding with colostrum",
+			"q3": "D. strict sanitation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The average gestation period in sheep is",
+		"opts": {
+			"q0": "A. 30 days",
+			"q1": "B. 50 days",
+			"q2": "C. 150 days",
+			"q3": "D. 270 days",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Feed given to animals solely to sustain their live weight is called",
+		"opts": {
+			"q0": "A. balanced ration",
+			"q1": "B. maintenance ration",
+			"q2": "C. production ration",
+			"q3": "D. weaner ration",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following feedstuffs requires much processing before being fed to animals?",
+		"opts": {
+			"q0": "A. Cassava",
+			"q1": "B. Sorghum",
+			"q2": "C. Maize",
+			"q3": "D. Groundnut",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Mating in poultry is known as",
+		"opts": {
+			"q0": "A. servicing",
+			"q1": "B. treading",
+			"q2": "C. tupping",
+			"q3": "D. breeding",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The causal organism of anthrax in farm animals is known as",
+		"opts": {
+			"q0": "A. Baccillus anthracis",
+			"q1": "B. Brucella abortus",
+			"q2": "C. Mycobacterium spp.",
+			"q3": "D. Aspergillus spp.",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following fish species is found in fresh water?",
+		"opts": {
+			"q0": "A. Sardine",
+			"q1": "B. Tilapia",
+			"q2": "C. Salmon",
+			"q3": "D. Herring",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The disease which affects only animals other than humans is",
+		"opts": {
+			"q0": "A. anthrax",
+			"q1": "B. rinderpest",
+			"q2": "C. brucellosis",
+			"q3": "D. trypanosomiasis",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Prevention of animal diseases involves the following practices except",
+		"opts": {
+			"q0": "A. rearing disease-resistant stock",
+			"q1": "B. carrying out rotational grazing",
+			"q2": "C. identifying the source of diseases",
+			"q3": "D. feeding balanced ration",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	Which of the following organisms is an ectoparasite of farm animals?",
+		"opts": {
+			"q0": "A. Tapeworm",
+			"q1": "B. Louse",
+			"q2": "C. Liverfluke",
+			"q3": "D. Roundworm",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	Which of the following factors is the least important in selecting a site for a fish-pond?",
+		"opts": {
+			"q0": "A. Topography of the site",
+			"q1": "B. Soil type",
+			"q2": "C. Availability of water",
+			"q3": "D. Availability of manure",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	The fish preservation method, which results in the greatest water loss is",
+		"opts": {
+			"q0": "A. freezing",
+			"q1": "B. steaming",
+			"q2": "C. salting",
+			"q3": "D. smoking",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	An infectious disease of livestock characterized by sudden death and black bloody discharge from the nose, mouth and eyes is known as",
+		"opts": {
+			"q0": "A. anthrax",
+			"q1": "B. brucellosis",
+			"q2": "C. pleuropneumonia",
+			"q3": "D. tuberculosis",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	<img src='agric_2010_sectionb_qst55_56.jpg'> The table below is a schedule for the market demand and supply of pumpkin. Use it to answer questions 55 and 56. Determine the market surplus when the unit price of pumpkin rises to #40.00",
+		"opts": {
+			"q0": "A. 20",
+			"q1": "B. 60",
+			"q2": "C. 90",
+			"q3": "D. 110",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	<img src='agric_2010_sectionb_qst55_56.jpg'> The table below is a schedule for the market demand and supply of pumpkin. Use it to answer questions 55 and 56. What is the equilibrium price of pumpkin?",
+		"opts": {
+			"q0": "A. #10",
+			"q1": "B. #20",
+			"q2": "C. #30",
+			"q3": "D. #40",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	The source of credit with the most unfavourable terms of payment in West Africa is",
+		"opts": {
+			"q0": "A. financial institutions",
+			"q1": "B. governments",
+			"q2": "C. marketing boards",
+			"q3": "D. money lenders",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	Which of the following items is a liability to a farm?",
+		"opts": {
+			"q0": "A. Accounts payable",
+			"q1": "B. Cash in bank",
+			"q2": "C. Prepayment",
+			"q3": "D. Accounts receivable",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Which of the following problems are associated with agricultural marketing in West Africa? I. Seasonality of produce II. Transportation of produce III. Access to credit",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. I and III only",
+			"q2": "C. II and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	The extension method that will benefit only the literate farmers is",
+		"opts": {
+			"q0": "A. radio",
+			"q1": "B. television",
+			"q2": "C. demonstration",
+			"q3": "D. newspapers",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

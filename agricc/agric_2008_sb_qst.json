@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Which of the following benefits of agriculture is of least importance to the peasant farmer?",
+		"opts": {
+			"q0": "A. Materials for shelter",
+			"q1": "B. Employment",
+			"q2": "C. Foreign exchange",
+			"q3": "D. Income",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Farmers who plant improved maize would harvest",
+		"opts": {
+			"q0": "A. pest-infested maize grains",
+			"q1": "B. a high yield of maize",
+			"q2": "C. plants with long stalks",
+			"q3": "D. maize cobs with scattered grains",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Which of the following land tenure systems allows the owner greatest freedom to dispose of the land as he wishes?",
+		"opts": {
+			"q0": "A. Communal",
+			"q1": "B. Free-hold",
+			"q2": "C. Lease-hold",
+			"q3": "D. Share-cropping",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following is not a government agricultural programme?",
+		"opts": {
+			"q0": "A. Operation Feed the Nation",
+			"q1": "B. Agricultural Development Projects",
+			"q2": "C. Farm Settlement Schemes",
+			"q3": "D. West Africa Rice Development Agency",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The practice of planting one type of annual crop each season is referred to as",
+		"opts": {
+			"q0": "A. monoculture",
+			"q1": "B. continuous cropping",
+			"q2": "C. mono-cropping",
+			"q3": "D. horticulture",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The most important use of land for agricultural production is",
+		"opts": {
+			"q0": "A. grazing paddocks",
+			"q1": "B. botanical gardens",
+			"q2": "C. game reserves",
+			"q3": "D. farmstead construction",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Which of the following biotic factors are usually used to control cassava mealybugs?",
+		"opts": {
+			"q0": "A. Parasites",
+			"q1": "B. Predators",
+			"q2": "C. Pests",
+			"q3": "D. Pathogens",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The following are types of sedimentary rocks except",
+		"opts": {
+			"q0": "A. granite",
+			"q1": "B. limestone",
+			"q2": "C. sandstone",
+			"q3": "D. dolomite",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	A reddish coloured soil indicates the presence of",
+		"opts": {
+			"q0": "A. copper",
+			"q1": "B. sodium",
+			"q2": "C. iron",
+			"q3": "D. manganese",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The three most important physical factors that influence rock weathering are",
+		"opts": {
+			"q0": "A. colour, particle size and hardness of rock",
+			"q1": "B. particle size, hardness and degree of cementation",
+			"q2": "C. hardness, degree of cementation and colour",
+			"q3": "D. particle size, temperature and colour",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following statements is not true about waterlogged soils?",
+		"opts": {
+			"q0": "A. Such soils are heavily leached",
+			"q1": "B. Denitrifying bacteria are more active in such soils than nitrifying bacteria",
+			"q2": "C. Nitrosomonas yield best in such soils",
+			"q3": "D. Soil temperature is usually low",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Which of the following crops should be planted on a piece of land that has been repeatedly cropped with maize?",
+		"opts": {
+			"q0": "A. Guinea corn",
+			"q1": "B. Millet",
+			"q2": "C. Rice",
+			"q3": "D. Cowpea",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Sources of nitrogen to the soil include the following except",
+		"opts": {
+			"q0": "A. lightning",
+			"q1": "B. urea",
+			"q2": "C. blue-green algae",
+			"q3": "D. residues of burning activities",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Which of the following statements about bush burning is false?",
+		"opts": {
+			"q0": "A. It releases mineral nutrients bound in plant tissues",
+			"q1": "B. It encourages the growth of fresh grasses",
+			"q2": "C. The heat generated destroys pests",
+			"q3": "D. The heat generated increases the population of soil organisms",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	A farmer applied NPK 15:11:8 at planting. What is the percentage of potassium in the fertilizer?",
+		"opts": {
+			"q0": "A. 23.53%",
+			"q1": "B. 32.35%",
+			"q2": "C. 33.33%",
+			"q3": "D. 44.12%",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The following equipment can be used for irrigation except",
+		"opts": {
+			"q0": "A. bucket",
+			"q1": "B. watering can",
+			"q2": "C. knapsack sprayer",
+			"q3": "D. siphon tube",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Excessive drainage of soil water can be checked by the addition of adequate quantities of",
+		"opts": {
+			"q0": "A. N.P.K. 15-15-15",
+			"q1": "B. sulphate of ammonia",
+			"q2": "C. single superphosphate",
+			"q3": "D. compost manure",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Considering all costs, the cheapest source of energy for domestic use is",
+		"opts": {
+			"q0": "A. electricity",
+			"q1": "B. sunlight",
+			"q2": "C. biogas",
+			"q3": "D. water",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The implement used for pulverising the soil is the",
+		"opts": {
+			"q0": "A. planter",
+			"q1": "B. ridger",
+			"q2": "C. harrow",
+			"q3": "D. plough",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	An incubator is important in supplying",
+		"opts": {
+			"q0": "A. heat for day-old chicks",
+			"q1": "B. heat for embryo development",
+			"q2": "C. light for candling eggs",
+			"q3": "D. feed to chicks",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	A farm surveying equipment made of steel and used for measuring short distances is called",
+		"opts": {
+			"q0": "A. prismatic compass",
+			"q1": "B. measuring tape",
+			"q2": "C. gunter’s chain",
+			"q3": "D. theodolite",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following statements about farmstead planning is false?",
+		"opts": {
+			"q0": "A. Administrative blocks should not be located close to the entrance of the farmstead",
+			"q1": "B. Waste disposal unit should be located far away from the main farm area",
+			"q2": "C. All buildings should be well ventilated with good lightings",
+			"q3": "D. Animal pens should not be located too close to the worker’s house",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The term supplying in crop production means",
+		"opts": {
+			"q0": "A. pruning excess branches of crops",
+			"q1": "B. spacing out crops during planting",
+			"q2": "C. replacing ungerminated seeds on seedbeds",
+			"q3": "D. adding enough fertilizer to the crops",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	During photosynthesis, green plants convert carbon dioxide to",
+		"opts": {
+			"q0": "A. chlorophyll",
+			"q1": "B. carbohydrate",
+			"q2": "C. protein",
+			"q3": "D. carbonic acid",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Parboiling in the processing of rice",
+		"opts": {
+			"q0": "A. improves its digestibility",
+			"q1": "B. increases grain mass",
+			"q2": "C. reduces the percentage of breakage",
+			"q3": "D. facilitates the polishing of rice",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The main reason for removing the barks of cassava tubers before processing the tuber is to",
+		"opts": {
+			"q0": "A. reduce the water content",
+			"q1": "B. improve the protein content of products",
+			"q2": "C. improve the shelf life of products",
+			"q3": "D. reduce the cyanide content of products",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Curing is carried out in the processing of",
+		"opts": {
+			"q0": "A. cassava",
+			"q1": "B. tobacco",
+			"q2": "C. okro",
+			"q3": "D. tomato",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Tomato plants are staked for the following reasons except to",
+		"opts": {
+			"q0": "A. produce clean fruits",
+			"q1": "B. reduce pest damage to fruits",
+			"q2": "C. increase the yieid",
+			"q3": "D. improve the taste",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	A vegetatively propagated citrus plant will produce fruits earlier than the one established from seeds because",
+		"opts": {
+			"q0": "A. it would not suffer from gummosis disease",
+			"q1": "B. insect pests do not attack it",
+			"q2": "C. it is more advanced at the time of establishment",
+			"q3": "D. the flowers are wind pollinated",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Swollen shoot disease of cocoa is caused by",
+		"opts": {
+			"q0": "A. virus",
+			"q1": "B. fungus",
+			"q2": "C. bacteria",
+			"q3": "D. nematode",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Groundnut grows best on a",
+		"opts": {
+			"q0": "A. well-drained, light sandy-loam soil",
+			"q1": "B. well-drained, clayey friable soil",
+			"q2": "C. swampy, sandy-clay soil",
+			"q3": "D. well-drained, clayey-loam soil",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following characteristics is not true of a good pasture crop?",
+		"opts": {
+			"q0": "A. High palatability",
+			"q1": "B. High nutritive value",
+			"q2": "C. Resistance to trampling",
+			"q3": "D. Poor digestibility",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The benefits of establishing forests do not include",
+		"opts": {
+			"q0": "A. derivation of medicine",
+			"q1": "B. provision of food",
+			"q2": "C. improvement of micro-climate",
+			"q3": "D. shading of crops",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Floriculture is a subdivision of horticulture which deals with the cultivation of",
+		"opts": {
+			"q0": "A. fruit crops",
+			"q1": "B. vegetables",
+			"q2": "C. ornamental plants",
+			"q3": "D. spices",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Which of the following insect pests causes defoliation in crops?",
+		"opts": {
+			"q0": "A. Mirid",
+			"q1": "B. Grasshopper",
+			"q2": "C. Weevil",
+			"q3": "D. Aphid",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following pesticides effectively control maize stem borers?",
+		"opts": {
+			"q0": "A. Systemic insecticides",
+			"q1": "B. Contact poisons",
+			"q2": "C. Nematicides",
+			"q3": "D. Fumigants",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following combinations of practices best controls groundnut rosette disease?",
+		"opts": {
+			"q0": "A. Late planting and spraying of insecticide",
+			"q1": "B. Early planting and spraying of nematicide",
+			"q2": "C. Late planting and spraying of fungicide",
+			"q3": "D. Early planting and spraying of insecticide",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Determine the number of bottles of a herbicide required to spray 25 hectares of farmland, if one bottle is needed to prepare 100 litres and the diluted product is applied at a rate of 20 litres per hectare.",
+		"opts": {
+			"q0": "A. 2 bottles",
+			"q1": "B. 5 bottles",
+			"q2": "C. 8 bottles",
+			"q3": "D. 11 bottles",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The milk secreting organ in cattle is the",
+		"opts": {
+			"q0": "A. dewlap",
+			"q1": "B. udder",
+			"q2": "C. comb",
+			"q3": "D. muzzle",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	A developing embryo derives its nutrition from the mother",
+		"opts": {
+			"q0": "A. through the blood vessels located in the placenta",
+			"q1": "B. by sucking the mammary glands",
+			"q2": "C. by direct diffusion through the blood vessels in the liver",
+			"q3": "D. through the blood vessels located in the intestine of the mother",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Birds store their food in the",
+		"opts": {
+			"q0": "A. crop",
+			"q1": "B. gizzard",
+			"q2": "C. proventriculus",
+			"q3": "D. cloaca",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	The following are examples of natural mating methods except",
+		"opts": {
+			"q0": "A. pen mating",
+			"q1": "B. flock mating",
+			"q2": "C. hand mating",
+			"q3": "D. block mating",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The milk collection vessel of the mammary gland is the",
+		"opts": {
+			"q0": "A. alveolus",
+			"q1": "B. gland cistern",
+			"q2": "C. teat",
+			"q3": "D. streak canal",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Fertile eggs will be produced by breeders if the",
+		"opts": {
+			"q0": "A. laying units are well illuminated",
+			"q1": "B. cocks are always kept with the hens",
+			"q2": "C. hens are not allowed to brood",
+			"q3": "D. eggs collected are kept at the correct temperature",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The rabbit is able to utilize forages because",
+		"opts": {
+			"q0": "A. it has an enlarged caecum that digests fibre",
+			"q1": "B. the small intestine is rich in microbes",
+			"q2": "C. the mouth has large molars for grinding",
+			"q3": "D. the length of the gut is relatively short",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	If feed efficiency for egg production is defined as feed consumed per 10 eggs, what will be the feed efficiency for a layer that laid 230 eggs and consumed 26kg feed?",
+		"opts": {
+			"q0": "A. 0.88",
+			"q1": "B. 1.13",
+			"q2": "C. 1.76",
+			"q3": "D. 2.23",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	When birds are fed on a ration deficient in riboflavin, which of the following symptoms will they show?",
+		"opts": {
+			"q0": "A. Night blindness",
+			"q1": "B. Cataract",
+			"q2": "C. Curled-toe paralysis",
+			"q3": "D. Scurvy",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Livestock are said to feed on the range when they eat",
+		"opts": {
+			"q0": "A. fresh herbage at the milking parlour",
+			"q1": "B. fresh herbage directly from the pasture",
+			"q2": "C. harvested herbage in a stall",
+			"q3": "D. preserved herbage in the form of silage",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following practices is not a method of improving rangeland?",
+		"opts": {
+			"q0": "A. Rotational grazing",
+			"q1": "B. Reseeding of depleted forage species",
+			"q2": "C. Removal of weeds",
+			"q3": "D. Use of inorganic fertilizers",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Liverfluke infestation causes disturbance in lipid digestion because it",
+		"opts": {
+			"q0": "A. blocks the passage of fat to intestine",
+			"q1": "B. blocks the bile duct and reduces secretion of bile",
+			"q2": "C. destroys the lipase enzyme",
+			"q3": "D. prevents fat excretion",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	A farmer noticed that one of his cows has high fever, blood-stained diarrhoea and often grinds its teeth. This shows that the cow is infected by",
+		"opts": {
+			"q0": "A. rinderpest",
+			"q1": "B. anthrax",
+			"q2": "C. brucellosis",
+			"q3": "D. aspergillosis",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	Temperature is an important factor in fish ponds because it",
+		"opts": {
+			"q0": "A. affects the metabolic processes in fish",
+			"q1": "B. determines the sex of fishes",
+			"q2": "C. encourages the growth of phytoplanktons",
+			"q3": "D. affects the type of species of fish",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	An illegal method of harvesting fish is by the use of",
+		"opts": {
+			"q0": "A. dragnet",
+			"q1": "B. potassium cyanide",
+			"q2": "C. hook and line",
+			"q3": "D. calcium carbonate",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	How can the offspring of a bull continue to be produced long after its death? By",
+		"opts": {
+			"q0": "A. using the preserved semen for artificial insemination",
+			"q1": "B. collecting semen of the offspring for use in artificial insemination",
+			"q2": "C. crossing the male and female offspring",
+			"q3": "D. preserving the body of the dead animal",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	Which of the following factors of production has profit as its reward?",
+		"opts": {
+			"q0": "A. Land",
+			"q1": "B. Labour",
+			"q2": "C. Capital",
+			"q3": "D. Management",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	A farm business makes profit when",
+		"opts": {
+			"q0": "A. total revenue equals total cost",
+			"q1": "B. total cost exceeds total revenue",
+			"q2": "C. total revenue exceeds total cost",
+			"q3": "D. average cost equals total revenue",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	Agricultural business is difficult to insure in West Africa mainly because",
+		"opts": {
+			"q0": "A. agricultural production is not very profitable",
+			"q1": "B. agricultural production is highly risky",
+			"q2": "C. many farmers are very poor",
+			"q3": "D. the premium is high",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	A tractor with an expected life of 10 years was bought for Le 15.0m at the end of which it was to be sold for Le 1.0m. Its calculated depreciation is",
+		"opts": {
+			"q0": "A. Le 1.4m",
+			"q1": "B. Le 1.5m",
+			"q2": "C. Le 1.6m",
+			"q3": "D. Le 1.7m",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	The aims and objectives of agricultural extension education do not include",
+		"opts": {
+			"q0": "A. educating farmers on the use of new tools",
+			"q1": "B. educating farmers on governments’ annual budgets",
+			"q2": "C. encouraging farmers' to obtain loans for farming",
+			"q3": "D. encouraging farmers to use meteorological information in farming",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	The process which a farmer goes through from the time he hears about a new idea till he finally accepts it, is referred to as",
+		"opts": {
+			"q0": "A. evolution",
+			"q1": "B. revolution",
+			"q2": "C. diffusion",
+			"q3": "D. adoption",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

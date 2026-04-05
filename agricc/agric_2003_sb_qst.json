@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Agriculture helps to solve all the following problems except",
+		"opts": {
+			"q0": "A. malnutrition",
+			"q1": "B. unemployment",
+			"q2": "C. high population growth rate",
+			"q3": "D. inadequate shelter materials",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Wastage of perishable farm produce is likely due to the following problems except",
+		"opts": {
+			"q0": "A. inadequate storage and processing facilities",
+			"q1": "B. poor roads leading to rural areas",
+			"q2": "C. inadequate number of vehicles plying rural roads",
+			"q3": "D. inadequate water supply in rural areas",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Plant quarantine was introduced to",
+		"opts": {
+			"q0": "A. control incoming diseases and pests",
+			"q1": "B. control the cost of production",
+			"q2": "C. maintain genetic purity of crops",
+			"q3": "D. encourage breeding of new varieties",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following is an advantage of communal land tenure system?",
+		"opts": {
+			"q0": "A. It encourages modern agriculture",
+			"q1": "B. Each member of the community can own land",
+			"q2": "C. The land can be used as collateral",
+			"q3": "D. Family labour can be easily employed",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	An advantage of individual system of land ownership is that",
+		"opts": {
+			"q0": "A. the land may be fragmented",
+			"q1": "B. such land cannot be used as collateral",
+			"q2": "C. it encourages long term planning",
+			"q3": "D. it encourages land litigation",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The role of government in promoting agricultural development includes the following except",
+		"opts": {
+			"q0": "A. formulation of policies",
+			"q1": "B. provision of rural infrastructure",
+			"q2": "C. establishing and funding research centres",
+			"q3": "D. breeding of plants and animals",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	Which of the following is not a function of forestry?",
+		"opts": {
+			"q0": "A. Provision of timber for building",
+			"q1": "B. Establishment of pasture",
+			"q2": "C. Provision of shelter for wildlife",
+			"q3": "D. Preservation of medicinal and economic trees",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The factors involved in the formation of metamorphic rocks are",
+		"opts": {
+			"q0": "A. heat and pressure",
+			"q1": "B. pressure and humidity",
+			"q2": "C. humidity and chemicals",
+			"q3": "D. chemicals and pressure",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Which of the following is not a factor of soil formation?",
+		"opts": {
+			"q0": "A. Topography",
+			"q1": "B. Land conservation",
+			"q2": "C. Parent material",
+			"q3": "D. Climate",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	The rate of soil erosion is not affected by",
+		"opts": {
+			"q0": "A. vegetation cover",
+			"q1": "B. leaching",
+			"q2": "C. rainfall",
+			"q3": "D. topography",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following soil properties cannot be easily altered?",
+		"opts": {
+			"q0": "A. Structure",
+			"q1": "B. Consistency",
+			"q2": "C. Texture",
+			"q3": "D. Fertility",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A soil with low pH value can be improved by the addition of",
+		"opts": {
+			"q0": "A. ammonium sulphate",
+			"q1": "B. calcium carbonate",
+			"q2": "C. sodium chloride",
+			"q3": "D. sodium nitrate",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	What is the percentage water content of a soil sample which weighed 180g when fresh and 120g when oven dried?",
+		"opts": {
+			"q0": "A. 66.7%",
+			"q1": "B. 60.0%",
+			"q2": "C. 15.0%",
+			"q3": "D. 33.3%",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Nitrogen deficiency in plants can lead to the following except",
+		"opts": {
+			"q0": "A. stunted growth",
+			"q1": "B. excessive growth",
+			"q2": "C. lower protein content of crop products",
+			"q3": "D. general yellowing of leaves",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Nitrogen may be lost from the soil through the following processes except",
+		"opts": {
+			"q0": "A. crop removal",
+			"q1": "B. soil erosion",
+			"q2": "C. leaching",
+			"q3": "D. irrigation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the following is not a principle of crop rotation?",
+		"opts": {
+			"q0": "A. Deep-rooted crops should be followed by shallow rooted crops",
+			"q1": "B. A period of fallow must be provided in the course of the rotation",
+			"q2": "C. A leguminous crop should be included in the system",
+			"q3": "D. Crops that can be attacked by the same pest should not follow each other",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	The most efficient irrigation method on large scale farms involves the use of",
+		"opts": {
+			"q0": "A. overhead irrigation facilities",
+			"q1": "B. flooding system",
+			"q2": "C. underground porous pipes",
+			"q3": "D. shadoof system",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The farm machinery that does not have the heat engine is",
+		"opts": {
+			"q0": "A. tractor",
+			"q1": "B. bulldozer",
+			"q2": "C. mower",
+			"q3": "D. combine drill",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	What is the main use of a Gunter’s chain?",
+		"opts": {
+			"q0": "A. Taking measurements of distances",
+			"q1": "B. Determining the depth of soil moisture",
+			"q2": "C. Calculating the slope of the land",
+			"q3": "D. Restraining bulls",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The main reason why the disc plough is preferred over the mould board plough for use in heavy soils is that",
+		"opts": {
+			"q0": "A. the scraper removes any adhering mud",
+			"q1": "B. it is lighter and so gets stuck easily",
+			"q2": "C. its frame is made of stainless steel",
+			"q3": "D. it buries weeds more effectively",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following parts is common to both the disc and mouldboard plough?",
+		"opts": {
+			"q0": "A. Ploughshare",
+			"q1": "B. Landslide",
+			"q2": "C. Coulter",
+			"q3": "D. Beam",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following farm implements is not hand operated?",
+		"opts": {
+			"q0": "A. Garden shears",
+			"q1": "B. Ridgers",
+			"q2": "C. Cutlasses",
+			"q3": "D. Secateurs",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Primary tillage equipment performs the following functions except",
+		"opts": {
+			"q0": "A. turning over and inverting the top soil",
+			"q1": "B. burying weeds and trash",
+			"q2": "C. preparing ridges for planting",
+			"q3": "D. preparing the soil for secondary tillage",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Which of the following is a method of conducting a simple farm layout survey?",
+		"opts": {
+			"q0": "A. 5:4:3",
+			"q1": "B. 4:3:3",
+			"q2": "C. 3:4:5",
+			"q3": "D. 3:3:4",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Which of the following activities does not clearly describe the art of mechanization?",
+		"opts": {
+			"q0": "A. Using milking machines on dairy animals",
+			"q1": "B. Clearing land with a cutlass",
+			"q2": "C. Harvesting maize with a harvester",
+			"q3": "D. Using a tractor to apply herbicides",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	An example of grain legume is",
+		"opts": {
+			"q0": "A. pigeon pea",
+			"q1": "B. maize",
+			"q2": "C. sorghum",
+			"q3": "D. millet",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Cassava is mainly propagated by",
+		"opts": {
+			"q0": "A. seedlings",
+			"q1": "B. layering",
+			"q2": "C. budding",
+			"q3": "D. cuttings",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following groups of crops requires a nursery?",
+		"opts": {
+			"q0": "A. Cotton, sorghum and tomato",
+			"q1": "B. Oil palm, cocoa and tomato",
+			"q2": "C. Cocoa, maize and rice",
+			"q3": "D. Banana, coffee and tomato",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	To which of the following crops does the term ginning apply?",
+		"opts": {
+			"q0": "A. Kenaf",
+			"q1": "B. Cocoa",
+			"q2": "C. Groundnut",
+			"q3": "D. Cotton",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The scientific name for guinea grass is",
+		"opts": {
+			"q0": "A. Panicum maximum",
+			"q1": "B. Imperata cylindrica",
+			"q2": "C. Cynodon dactylon",
+			"q3": "D. Andropogon gayanus",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The national tree-planting campaign is aimed at stimulating",
+		"opts": {
+			"q0": "A. wildlife conservation",
+			"q1": "B. afforestation",
+			"q2": "C. taungya farming",
+			"q3": "D. forest reservation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The most common grazing system in West Africa is",
+		"opts": {
+			"q0": "A. continuous grazing",
+			"q1": "B. rotational grazing",
+			"q2": "C. deferred grazing",
+			"q3": "D. zero grazing",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Smut disease of cereals is caused by a",
+		"opts": {
+			"q0": "A. bacterium",
+			"q1": "B. fungus",
+			"q2": "C. protozoan",
+			"q3": "D. nematode",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Moths, aphids and mealy bugs cause damage to crops by their",
+		"opts": {
+			"q0": "A. piercing and sucking activities",
+			"q1": "B. piercing and chewing activities",
+			"q2": "C. chewing and biting activities",
+			"q3": "D. boring and chewing activities",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The variety of maize which is less susceptible to weevil attack is",
+		"opts": {
+			"q0": "A. yellow maize",
+			"q1": "B. flint maize",
+			"q2": "C. floury maize",
+			"q3": "D. sweet maize",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Weevils can be controlled by",
+		"opts": {
+			"q0": "A. providing adequate ventilation in silos",
+			"q1": "B. storing dry grain in air-tight containers",
+			"q2": "C. heating the store before storing grains",
+			"q3": "D. placing cribs under shade",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The most common weed of pasture in West Africa is",
+		"opts": {
+			"q0": "A. Ageratum conyzoides",
+			"q1": "B. Tridax procumbens",
+			"q2": "C. Imperata cylindrica",
+			"q3": "D. Boerhavia diffusa",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Improvement of yam through breeding is difficult because",
+		"opts": {
+			"q0": "A. it possesses no sexual reproductive system",
+			"q1": "B. naturally growing wild types nave to be used",
+			"q2": "C. its rapid multiplication is very difficult",
+			"q3": "D. its genes do not segregate",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Animals which chew the cud are",
+		"opts": {
+			"q0": "A. amphibians",
+			"q1": "B. aves",
+			"q2": "C. ruminants",
+			"q3": "D. reptiles",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Birds temporarily store their food in the",
+		"opts": {
+			"q0": "A. crop",
+			"q1": "B. gizzard",
+			"q2": "C. proventriculus",
+			"q3": "D. duodenum",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Spermatozoa are produced in the",
+		"opts": {
+			"q0": "A. penis",
+			"q1": "B. testicles",
+			"q2": "C. prostate grand",
+			"q3": "D. cowper’s gland",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Which of the following is not a sign of heat in farm animals?",
+		"opts": {
+			"q0": "A. Loss of appetite",
+			"q1": "B. Restlessness",
+			"q2": "C. Udder enlargement",
+			"q3": "D. Grunting",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The act of giving birth in farm animals is called",
+		"opts": {
+			"q0": "A. brooding",
+			"q1": "B. cloning",
+			"q2": "C. parturition",
+			"q3": "D. gestation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Which of the following factors usually affects the colour of egg yolk?",
+		"opts": {
+			"q0": "A. Age of the laying hen",
+			"q1": "B. Type of housing",
+			"q2": "C. Type of feed",
+			"q3": "D. Colour of the cock",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Sexing in animal production is the process of",
+		"opts": {
+			"q0": "A. separating the young from the old animals",
+			"q1": "B. identifying different breeds of animals",
+			"q2": "C. breeding of female and male animals",
+			"q3": "D. separating the male from the female",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Management practices in a piggery include the following except",
+		"opts": {
+			"q0": "A. disinfecting pens",
+			"q1": "B. regular cleaning of feed and water troughs",
+			"q2": "C. isolating sick animals",
+			"q3": "D. weekly vaccination of pigs",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The process of stopping a young animal from suckling milk and placing it under hand feeding is",
+		"opts": {
+			"q0": "A. culling",
+			"q1": "B. breeding",
+			"q2": "C. weaning",
+			"q3": "D. isolation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Artificial colostrum can be prepared from mixing all the following materials except",
+		"opts": {
+			"q0": "A. groundnut oil",
+			"q1": "B. antibiotics",
+			"q2": "C. milk",
+			"q3": "D. egg",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following classes of nutrients is used mainly for energy production in farm animals?",
+		"opts": {
+			"q0": "A. Carbohydrates",
+			"q1": "B. Proteins",
+			"q2": "C. Vitamins",
+			"q3": "D. Minerals",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Newcastle disease attacks",
+		"opts": {
+			"q0": "A. pigs",
+			"q1": "B. horses",
+			"q2": "C. poultry",
+			"q3": "D. ruminants",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	Coccidiosis can be treated with",
+		"opts": {
+			"q0": "A. sulphamethazine",
+			"q1": "B. iodised salt",
+			"q2": "C. piperazine citrate",
+			"q3": "D. ferrous oxide",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	Fish products include the following except",
+		"opts": {
+			"q0": "A. fish meal",
+			"q1": "B. fish silage",
+			"q2": "C. oil",
+			"q3": "D. leather",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	The resulting calf from crossing a White Fulani bull with a Muturu cow is a",
+		"opts": {
+			"q0": "A. Kuri",
+			"q1": "B. Keteku",
+			"q2": "C. Ndama",
+			"q3": "D. Bororo",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	The major advantage of inbreeding in animals is that it",
+		"opts": {
+			"q0": "A. increases hybrid vigour",
+			"q1": "B. increases multiple births",
+			"q2": "C. eliminates undesirable traits",
+			"q3": "D. reduces the number of males needed in a herd",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	<img src='agric_2003_sectionb_qst55_57.jpg'> Study the graph below and use it to answer Questions 55 - 57. The graph shows",
+		"opts": {
+			"q0": "A. an increase in the supply of rice",
+			"q1": "B. a shift in the demand for rice",
+			"q2": "C. the equilibrium market price for rice",
+			"q3": "D. that the demand for rice exceeds its supply",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	<img src='agric_2003_sectionb_qst55_57.jpg'> Study the graph below and use it to answer Questions 55 - 57. What is the change in quantity of rice demanded when the price increases from N1.00 to N5.00?",
+		"opts": {
+			"q0": "A. 2kg",
+			"q1": "B. 4kg",
+			"q2": "C. 6kg",
+			"q3": "D. 8kg",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	<img src='agric_2003_sectionb_qst55_57.jpg'> Study the graph below and use it to answer Questions 55 - 57. What is the equilibrium price of rice?",
+		"opts": {
+			"q0": "A. N4.00",
+			"q1": "B. N3.00",
+			"q2": "C. N2.00",
+			"q3": "D. N1.00",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	Farm records are important for the following reasons except",
+		"opts": {
+			"q0": "A. supplying information for future planning",
+			"q1": "B. determining profit and loss made on the farm",
+			"q2": "C. assessing the quality of farm produce ",
+			"q3": "D. determining the credit worthiness of farmers",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	The activities of middlemen may cause the following problems except",
+		"opts": {
+			"q0": "A. reducing the profit margin of farmers",
+			"q1": "B. artificial scarcity of produce",
+			"q2": "C. inflation of prices",
+			"q3": "D. inadequate storage facilities",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	The best method of introducing a new pesticide to rural farmers is through",
+		"opts": {
+			"q0": "A. farmers’ co-coperatives",
+			"q1": "B. circular letters",
+			"q2": "C. demonstration",
+			"q3": "D. field trips",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

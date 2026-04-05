@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "Which of the following is not correct about the importance of agriculture?",
+		"opts": {
+			"q0": "A. Supply of food",
+			"q1": "B. Provision of employment",
+			"q2": "C. Provision of the basic raw materials for agro-based industries",
+			"q3": "D. Serving as main source of foreign exchange",
+			"q4": "E. Serving as a source of income"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Most of the land used for agriculture in Nigeria are acquired through",
+		"opts": {
+			"q0": "A. purchase",
+			"q1": "B. pledge",
+			"q2": "C. donation",
+			"q3": "D. exchange",
+			"q4": "E. inheritance"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	The roles of government in the development of agriculture include the following except",
+		"opts": {
+			"q0": "A. recommending loans",
+			"q1": "B. provision of subsidies",
+			"q2": "C. establishment of farm settlements",
+			"q3": "D. establishment of agricultural development projects",
+			"q4": "E. training of farmers’ children"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Which of the following in not an effect of the North-East trade winds on agriculture?",
+		"opts": {
+			"q0": "A. Encouraging growth of natural pasture",
+			"q1": "B. Encouraging fruit setting or formation",
+			"q2": "C. Inducing fruit ripening",
+			"q3": "D. Causing heavy rainfall",
+			"q4": "E. Drying forest trees"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	Ice causes rock weathering",
+		"opts": {
+			"q0": "A. through the processes of expansion and contraction",
+			"q1": "B. through movement of large rock fragments against large boulders",
+			"q2": "C. by dissolving some minerals in disintegrated rock fragments",
+			"q3": "D. by exerting an abrasive action on rock fragments",
+			"q4": "E. through chemical alteration of rock minerals"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The following are characteristics of quartz except",
+		"opts": {
+			"q0": "A. being granular",
+			"q1": "B. having shiny surfaces",
+			"q2": "C. being glass-like",
+			"q3": "D. having cleavage",
+			"q4": "E. being semi-translucent"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	The factors which affect the number"and the activities of soil micro-organisms include the following except",
+		"opts": {
+			"q0": "A. topography",
+			"q1": "B. soil moisture",
+			"q2": "C. soil aeration",
+			"q3": "D. degree of soil acidity",
+			"q4": "E. temperature"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	Which of the following does not influence rock weathering?",
+		"opts": {
+			"q0": "A. Water",
+			"q1": "B. Carbonation",
+			"q2": "C. Roots",
+			"q3": "D. Ammonification",
+			"q4": "E. Temperature"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	The amount of air and water in the soil is mostly affected by the",
+		"opts": {
+			"q0": "A. location of the soil",
+			"q1": "B. amount of annual rainfall",
+			"q2": "C. chemical composition of the soil",
+			"q3": "D. living organisms in the soil",
+			"q4": "E. structure of the soil"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Which of the following is a soil micro-nutrient?",
+		"opts": {
+			"q0": "A. Magnesium",
+			"q1": "B. Potassium",
+			"q2": "C. Calcium",
+			"q3": "D. Iron",
+			"q4": "E. Phosphorus"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Crops grown in nitrogen deficient soil show the following characteristics except",
+		"opts": {
+			"q0": "A. poor setting of fruits",
+			"q1": "B. stunted growth",
+			"q2": "C. chlorosis in growing crops",
+			"q3": "D. yellowing of lower leaves",
+			"q4": "E. timely ripening of fruits"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Which of the following is not a function of organic matter in the soil?",
+		"opts": {
+			"q0": "A. Conserving soil water",
+			"q1": "B. Preventing soil erosion",
+			"q2": "C. Preventing leaching in soils",
+			"q3": "D. Inhibiting seed germination",
+			"q4": "E. Stabilising the structure of the soil"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	The following crops can be grown as cover crops except",
+		"opts": {
+			"q0": "A. Pueraria phaseoloides",
+			"q1": "B. Stylozanthes gracilis",
+			"q2": "C. Centrosema pubescens",
+			"q3": "D. Nicotiana tabacum",
+			"q4": "E. Calopogonium mucunoides"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Effects of overgrazing on soil include the following except",
+		"opts": {
+			"q0": "A. exposure of soil to erosion",
+			"q1": "B. depletion of soil nutrients",
+			"q2": "C. soil compaction",
+			"q3": "D. improvement of soil structure",
+			"q4": "E. exposure of soil to direct rays of the sun"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	A farm practice which assists in maintaining the structure and fertility of soil and reduction in risk of disease infestation is",
+		"opts": {
+			"q0": "A. bush burning",
+			"q1": "B. organic manuring",
+			"q2": "C. crop rotation",
+			"q3": "D. mulching",
+			"q4": "E. fertilizer application"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Drainage types include the following except",
+		"opts": {
+			"q0": "A. shadoof",
+			"q1": "B. open",
+			"q2": "C. channel",
+			"q3": "D. surface",
+			"q4": "E. underground"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Energy for photosynthesis in crops is provided by",
+		"opts": {
+			"q0": "A. man",
+			"q1": "B. animal",
+			"q2": "C. wind",
+			"q3": "D. sun",
+			"q4": "E. water"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	<img src='agric_1997_sectionb_qst18_20.jpg'> Study the diagram below and use it to answer questions 18 to 20. The farm implement represented by the diagram above is a/an",
+		"opts": {
+			"q0": "A. pin",
+			"q1": "B. ranging pole",
+			"q2": "C. pruner",
+			"q3": "D. spear",
+			"q4": "E. arrow"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='agric_1997_sectionb_qst18_20.jpg'> Study the diagram below and use it to answer questions 18 to 20. The farm implement is used for",
+		"opts": {
+			"q0": "A. marking surveyed stations",
+			"q1": "B. marking chain lengths",
+			"q2": "C. digging soils",
+			"q3": "D. making holes for transplanting",
+			"q4": "E. making drills"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	<img src='agric_1997_sectionb_qst18_20.jpg'> Study the diagram below and use it to answer questions 18 to 20. What is the approximate length of the farm implement?",
+		"opts": {
+			"q0": "A. 2.0117 metres",
+			"q1": "B. 20.117 metres",
+			"q2": "C. 201.17 metres",
+			"q3": "D. 2011.7 metres",
+			"q4": "E. 20117 metres"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Cassava is normally planted at a spacing of about",
+		"opts": {
+			"q0": "A. 0.1 m x 0.5 m",
+			"q1": "B. 0.75 m x 1.0 m",
+			"q2": "C. 2.0 m x 3.5 m",
+			"q3": "D. 3.0 m x 3.0 m",
+			"q4": "E. 4.0 m x 5.5 m"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Cassava is cultivated in many ecological zones because of its",
+		"opts": {
+			"q0": "A. industrial and domestic uses",
+			"q1": "B. tolerance to low rainfall and soil fertility",
+			"q2": "C. early maturity and weed suppression",
+			"q3": "D. resistance to mosaic diseases and pest attacks",
+			"q4": "E. low production costs"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The agent of controlled pollination in crops is",
+		"opts": {
+			"q0": "A. water",
+			"q1": "B. light",
+			"q2": "C. moth",
+			"q3": "D. butterfly",
+			"q4": "E. man"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Milling of rice is usually done",
+		"opts": {
+			"q0": "A. after parboiling and drying",
+			"q1": "B. before parboiling and drying",
+			"q2": "C. before parboiling and winnowing",
+			"q3": "D. after winnowing and drying",
+			"q4": "E. after winnowing and parboiling"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Common pasture grasses include the following except",
+		"opts": {
+			"q0": "A. guinea grass",
+			"q1": "B. carpet grass",
+			"q2": "C. elephant grass",
+			"q3": "D. Gamba grass",
+			"q4": "E. spear grass"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following is not a characteristic of a good pasture?",
+		"opts": {
+			"q0": "A. High quality grasses and legumes",
+			"q1": "B. High leaf to stem ratio",
+			"q2": "C. Drought resistance",
+			"q3": "D. Ability to withstand trampling",
+			"q4": "E. Slow growth"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Which of the following is a pasture grass?",
+		"opts": {
+			"q0": "A. Stylozanthes gracilis",
+			"q1": "B. Centrosema pubescens",
+			"q2": "C. Pueraria phaseloiaes",
+			"q3": "D. Cynooon dactylon",
+			"q4": "E. Calopogonium mucunoides"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Reforestation is the",
+		"opts": {
+			"q0": "A. organised planting of trees in areas from which forest trees have been removed",
+			"q1": "B. establishment of forests in areas where there are previously none",
+			"q2": "C. development of young trees to replace old mature trees",
+			"q3": "D. planting of forest trees on an unproductive land",
+			"q4": "E. cultivation of forest trees for boundary demarcation"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The tree species widely used in afforestation programme is",
+		"opts": {
+			"q0": "A. neem",
+			"q1": "B. teak",
+			"q2": "C. oil palm",
+			"q3": "D. ebony",
+			"q4": "E. rubber"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following is not a reason for converting a piece of land into a forest reserve?",
+		"opts": {
+			"q0": "A. Low population pressure",
+			"q1": "B. Poor soil fertility",
+			"q2": "C. Disputed ownership of land",
+			"q3": "D. Prevention of natural hazards",
+			"q4": "E. Improvement of micro-climatic conditions of the environment"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The forest trees growing in the Sudan Savanna zone of Nigeria include the following except",
+		"opts": {
+			"q0": "A. mahogany",
+			"q1": "B. baobab",
+			"q2": "C. shea butter",
+			"q3": "D. neem",
+			"q4": "E. Eucalyptus"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The most important pests of vegetable crops are",
+		"opts": {
+			"q0": "A. rodents",
+			"q1": "B. birds",
+			"q2": "C. nematodes",
+			"q3": "D. insects",
+			"q4": "E. reptiles"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following group of crops can be attacked by smut diseases?",
+		"opts": {
+			"q0": "A. Sugarcane, maize and banana",
+			"q1": "B. Rice, maize and guinea corn",
+			"q2": "C. Guinea corn, sugarcane and rubber",
+			"q3": "D. Maize, guinea corn and yam",
+			"q4": "E. Rubber, rice and guinea corn"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Cultural methods of controlling pests include the following except",
+		"opts": {
+			"q0": "A. crop rotation",
+			"q1": "B. adequate spacing",
+			"q2": "C. timely planting",
+			"q3": "D. frequency of weeding",
+			"q4": "E. mulching"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The aims of crop improvement include the following except",
+		"opts": {
+			"q0": "A. increasing crop yield",
+			"q1": "B. increasing crop resistance of pests and diseases",
+			"q2": "C. improving the quality of the crop plants",
+			"q3": "D. improving crop growth habit",
+			"q4": "E. improving the infrastructural facilities in a farm"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The branch of crop production which is normally concerned with crop improvement is",
+		"opts": {
+			"q0": "A. plant breeding",
+			"q1": "B. plant science",
+			"q2": "C. horticulture",
+			"q3": "D. plant protection",
+			"q4": "E. crop physiology"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following is the primary function of the gizzard?",
+		"opts": {
+			"q0": "A. Storage of food before digestion",
+			"q1": "B. Fermentation of ingested food",
+			"q2": "C. Grinding of ingested food into smaller particles",
+			"q3": "D. Exposure of food to enzymatic digestion",
+			"q4": "E. Absorption of digested food particles"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The act of mating in cattle is known as",
+		"opts": {
+			"q0": "A. tupping",
+			"q1": "B. treading",
+			"q2": "C. lambing",
+			"q3": "D. laying",
+			"q4": "E. service"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Gestation period is defined as the time",
+		"opts": {
+			"q0": "A. of fusion of the sperm and the egg",
+			"q1": "B. between conception and parturition",
+			"q2": "C. of release of ovum from the ovary",
+			"q3": "D. of the birth of the young animal",
+			"q4": "E. between mating of dam and weaning of young ones"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The hormone generally called pregnancy hormone in farm animals is",
+		"opts": {
+			"q0": "A. testosterone",
+			"q1": "B. oestrogen",
+			"q2": "C. progesterone",
+			"q3": "D. androgen",
+			"q4": "E. relaxin"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	New-born animals should be fed with colostrum because it",
+		"opts": {
+			"q0": "A. is easily digested",
+			"q1": "B. contains antibodies protecting them against diseases",
+			"q2": "C. provides them permanent immunity against diseases",
+			"q3": "D. is the first milk produced before birth",
+			"q4": "E. contains food nutrients essential for the survival of the newborn"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Which of the following statements is not true about rearing livestock under the free range system?",
+		"opts": {
+			"q0": "A. High risk of infestation of parasites",
+			"q1": "B. High mortality rate in the young livestock",
+			"q2": "C. Adequate veterinary care",
+			"q3": "D. Loss of animals",
+			"q4": "E. Fending for themselves"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Which of the following breeds of cattle is an imported breed?",
+		"opts": {
+			"q0": "A. Keteku",
+			"q1": "B. N’dama",
+			"q2": "C. White fulani",
+			"q3": "D. Sokoto Gudali",
+			"q4": "E. Red Bororo"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Pigs are normally classified into the following group except",
+		"opts": {
+			"q0": "A. weaners",
+			"q1": "B. fatterners",
+			"q2": "C. breeders",
+			"q3": "D. boars",
+			"q4": "E. piglets"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	High fibre and low energy feeds are classified as",
+		"opts": {
+			"q0": "A. basal feeds",
+			"q1": "B. roughages",
+			"q2": "C. supplements",
+			"q3": "D. concentrates",
+			"q4": "E. creep"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The proportion of the different types of feed given to an animal daily is known as",
+		"opts": {
+			"q0": "A. concentrate",
+			"q1": "B. additive",
+			"q2": "C. supplement",
+			"q3": "D. ration",
+			"q4": "E. roughage"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following feed stuffs will not supply carbohydrate?",
+		"opts": {
+			"q0": "A. Maize",
+			"q1": "B. Guinea corn",
+			"q2": "C. Rice bran",
+			"q3": "D. Palm kernel cake",
+			"q4": "E. Bone meal"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The main component of egg shell is",
+		"opts": {
+			"q0": "A. nitrogen",
+			"q1": "B. calcium",
+			"q2": "C. sodium",
+			"q3": "D. molybdenum",
+			"q4": "E. zinc"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The effects of practising rotational grazing in a livestock farm include the following except",
+		"opts": {
+			"q0": "A. controlling livestock pests",
+			"q1": "B. eliminating attack of livestock diseases",
+			"q2": "C. allowing the regrowth of pasture crops",
+			"q3": "D. increasing the amount of herbage yields",
+			"q4": "E. maintaining steady increases in growth rate of animals"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The causal organism of mastitis in cattle is",
+		"opts": {
+			"q0": "A. fungus",
+			"q1": "B. bacterium",
+			"q2": "C. virus",
+			"q3": "D. protozoan",
+			"q4": "E. worm"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	In cattle, high fever and sudden death are symptoms of",
+		"opts": {
+			"q0": "A. anthrax",
+			"q1": "B. foot rot",
+			"q2": "C. pneumonia",
+			"q3": "D. bloat",
+			"q4": "E. red water"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	Night blindness in an animal is caused by a deficiency of",
+		"opts": {
+			"q0": "A. vitamin A",
+			"q1": "B. calcium",
+			"q2": "C. vitamin B",
+			"q3": "D. phosphorus",
+			"q4": "E. vitamin E"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	An aquarium contains all the following except",
+		"opts": {
+			"q0": "A. different types of fish",
+			"q1": "B. pieces of broken wood",
+			"q2": "C. clean sand",
+			"q3": "D. supplementary feed",
+			"q4": "E. submerged and floating plants"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	Progeny selection involves selection of breeding stock on the basis of",
+		"opts": {
+			"q0": "A. feed conversion efficiency of the parents",
+			"q1": "B. sire-dam relationships",
+			"q2": "C. merits of the dam only",
+			"q3": "D. merits of each animal",
+			"q4": "E. performance of offspring"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	The following are functions of a farm manager except",
+		"opts": {
+			"q0": "A. planning farm programme of work",
+			"q1": "B. co-ordinating the farm activities",
+			"q2": "C. organising sales of farm products",
+			"q3": "D. controlling farm workers",
+			"q4": "E. planting crops and vegetables"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	When granting loans to farmers, the credit officer should consider mostly the",
+		"opts": {
+			"q0": "A. age of the farmers",
+			"q1": "B. consumption needs of the farmers",
+			"q2": "C. family size of the farmers",
+			"q3": "D. production and essential need of the farmers",
+			"q4": "E. experience of the farmers"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	Farm financing may be obtained from the following except",
+		"opts": {
+			"q0": "A. Commercial banks",
+			"q1": "B. Agricultural insurance scheme",
+			"q2": "C. Mortgage banks",
+			"q3": "D. Agricultural and co-operative bank",
+			"q4": "E. Savings and thrift societies"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	The difference between the total assets and total liabilities of a farm enterprise within a specified period before taxation is known as",
+		"opts": {
+			"q0": "A. net profit",
+			"q1": "B. liability",
+			"q2": "C. current asset",
+			"q3": "D. gross profit",
+			"q4": "E. networth"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Commodity Boards were responsible for the marketing of the following crops except",
+		"opts": {
+			"q0": "A. grains",
+			"q1": "B. cocoa",
+			"q2": "C. yams",
+			"q3": "D. palm produce",
+			"q4": "E. groundnut"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	Dissemination of new ideas and techniques to farmers can only be effective if the agricultural extension officer",
+		"opts": {
+			"q0": "A. works with existing community organisations and local leaders",
+			"q1": "B. gives only financial support to the farmers",
+			"q2": "C. stays only in the village where the farmers live",
+			"q3": "D. gives farmers all the equipment they need to work with",
+			"q4": "E. supplies farmers with input only"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

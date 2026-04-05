@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	Agricultural production in West Africa can be improved by the following except",
+		"opts": {
+			"q0": "A. ability of farmers to purchase modern farm implements",
+			"q1": "B. expansive irrigation of farmlands",
+			"q2": "C. adoption and proper application of tested findings of agricultural research",
+			"q3": "D. continued adoption of the communal land holding system",
+			"q4": "E. adequate supply of improved seeds and livestock to farmers"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	Farm settlement scheme is an example of agricultural",
+		"opts": {
+			"q0": "A. programme",
+			"q1": "B. policy",
+			"q2": "C. commodity",
+			"q3": "D. subsidy",
+			"q4": "E. regulation"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Which of the following is not a problem of agricultural development?",
+		"opts": {
+			"q0": "A. Inadequate land availability",
+			"q1": "B. Lack of finance",
+			"q2": "C. Improved and adequate storage facilities",
+			"q3": "D. Lack of basic amenities and social infrastructure",
+			"q4": "E. Poor transportation facilities"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Land use is influenced by the following except",
+		"opts": {
+			"q0": "A. population density",
+			"q1": "B. population growth",
+			"q2": "C. climatic conditions",
+			"q3": "D. topography",
+			"q4": "E. fallowing"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The response of crops to day-length is referred to as",
+		"opts": {
+			"q0": "A. photoperiodism",
+			"q1": "B. photosynthesis",
+			"q2": "C. photogenesis",
+			"q3": "D. venalization",
+			"q4": "E. volatilisation"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	Coal is an example of",
+		"opts": {
+			"q0": "A. igneous rock",
+			"q1": "B. metamorphic rock",
+			"q2": "C. plutonic rock",
+			"q3": "D. volcanic rock",
+			"q4": "E. sedimentary rock"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	What is the percentage of water content of a soil sample if the mass of fresh soil is 180 gm and mass of dried soil is 120 gram?",
+		"opts": {
+			"q0": "A. 45.5%",
+			"q1": "B. 40.4%",
+			"q2": "C. 38.3%",
+			"q3": "D. 35.3%",
+			"q4": "E. 33.3%"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='agric_1994_sectionb_qst8_9.jpg'> Use the diagram illustrated below to answer questions 8 and 9. The diagram illustrates",
+		"opts": {
+			"q0": "A. nitrogen cycle",
+			"q1": "B. kreb’s cycle",
+			"q2": "C. carbon cycle",
+			"q3": "D. water-cycle",
+			"q4": "E. food chain"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='agric_1994_sectionb_qst8_9.jpg'> Use the diagram illustrated below to answer questions 8 and 9. The part labelled I represents",
+		"opts": {
+			"q0": "A. carbondioxide",
+			"q1": "B. sulphur oxide",
+			"q2": "C. respiration",
+			"q3": "D. plants",
+			"q4": "E. photosynthesis"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Prolonged application of ammonium sulphate fertilizer on a given soil can lead to the",
+		"opts": {
+			"q0": "A. decay of tuber and root crops",
+			"q1": "B. increase in beneficial soil micro-organisms",
+			"q2": "C. increase in soil acidity",
+			"q3": "D. damage of soil structure",
+			"q4": "E. increase in the alkalinity of soil"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following factors may be considered in adopting a particular method of irrigation?",
+		"opts": {
+			"q0": "A. Topography of the land",
+			"q1": "B. Characteristics of the soil",
+			"q2": "C. Type of farming systems",
+			"q3": "D. Type of crops to be grown",
+			"q4": "E. Size of land to be irrigated"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Land is considered to be an essential factor in agricultural production because",
+		"opts": {
+			"q0": "A. it is most abundant",
+			"q1": "B. it is important for development",
+			"q2": "C. crop, fisheries and livestock production are practised on land",
+			"q3": "D. it cannot be increased in quantity",
+			"q4": "E. crop production is usually done on land"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	The type of crops planted ana the livestock raised in any given area depends primarily on the",
+		"opts": {
+			"q0": "A. type of climate",
+			"q1": "B. physical factors",
+			"q2": "C. biotic factors",
+			"q3": "D. socio-economic factors",
+			"q4": "E. edaphic factors"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	In which of tne following ways are metamorphic rocks formed?",
+		"opts": {
+			"q0": "A. By physical disintegration of igneous rocks",
+			"q1": "B. By alternative layering of particles of sedimentary and igneous rocks",
+			"q2": "C. By the combination of igneous and sedimentary rocks",
+			"q3": "D. Through biological change of original rock",
+			"q4": "E. Through chemical changes caused by heat and pressure"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	A moistened soil sample which can be moulded to form a smooth continuous ring is characteristic of",
+		"opts": {
+			"q0": "A. sandy clay",
+			"q1": "B. heavy clay",
+			"q2": "C. loamy sand",
+			"q3": "D. clay loam",
+			"q4": "E. heavy loam"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the following is not a factor for chemical weathering of rocks?",
+		"opts": {
+			"q0": "A. Solution",
+			"q1": "B. Hydrolysis",
+			"q2": "C. Freezing",
+			"q3": "D. Hydration",
+			"q4": "E. Carbonation"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following sets of farm operations can use electricity as a source of power?",
+		"opts": {
+			"q0": "A. Clearing, tiling and levelling",
+			"q1": "B. processing, storage and ploughing",
+			"q2": "C. Processing, storage and extraction",
+			"q3": "D. Harrowing, winnowing and storage",
+			"q4": "E. Winnowing, ridging and shelling"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The best source of power for weeding in nursery is",
+		"opts": {
+			"q0": "A. animal",
+			"q1": "B. man",
+			"q2": "C. machine",
+			"q3": "D. wind",
+			"q4": "E. sun"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Shellers are used to remove",
+		"opts": {
+			"q0": "A. bracts from grains",
+			"q1": "B. grains from cobs",
+			"q2": "C. husk from grains",
+			"q3": "D. dirt from grains",
+			"q4": "E. cobs from stalks"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Mechanisation would remain uneconomical in West African countries as long as",
+		"opts": {
+			"q0": "A. farms are small and scattered",
+			"q1": "B. land acquisition remains in the hands of farmers",
+			"q2": "C. basic amenities are inadequate",
+			"q3": "D. machines are not available for farming operations",
+			"q4": "E. extension officers are not provided with transport facilities"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The primary product of ginger is the",
+		"opts": {
+			"q0": "A. rhizome",
+			"q1": "B. fruit",
+			"q2": "C. seed",
+			"q3": "D. flower",
+			"q4": "E. leaf"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The main purpose of including leguminous crops in pastures is to serve as a source of",
+		"opts": {
+			"q0": "A. proteins",
+			"q1": "B. vitamins",
+			"q2": "C. minerals",
+			"q3": "D. carbohydrates",
+			"q4": "E. green vegetables"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following is a primary product of forest trees?",
+		"opts": {
+			"q0": "A. paper",
+			"q1": "B. particle board",
+			"q2": "C. timber",
+			"q3": "D. cardboard",
+			"q4": "E. pulp"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	A fungicide is important in maize production because it",
+		"opts": {
+			"q0": "A. prevents the attack of causative organisms generally",
+			"q1": "B. makes maize seeds more viable",
+			"q2": "C. assists in the control of corn smut",
+			"q3": "D. scares away mammalian pests",
+			"q4": "E. prevents the attack by stem borers"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Yam setts are usually planted with cut surface",
+		"opts": {
+			"q0": "A. downwards and sloping at 45 degrees",
+			"q1": "B. downwards and vertically at 90 degrees",
+			"q2": "C. upwards and vertically at 90 degrees",
+			"q3": "D. upwards and sloping at 45 degrees",
+			"q4": "E. sideways and sloping at 90 degrees"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The National Tree-planting Campaign in Nigeria is an example of",
+		"opts": {
+			"q0": "A. regeneration of forest",
+			"q1": "B. afforestation",
+			"q2": "C. taungya farming",
+			"q3": "D. forest reservation",
+			"q4": "E. forest degeneration"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The most devastating and commonest pests of cassava foliage are",
+		"opts": {
+			"q0": "A. leaf worms",
+			"q1": "B. weaver birds",
+			"q2": "C. rodents",
+			"q3": "D. variegated grasshoppers",
+			"q4": "E. aphids"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following crops is tolerant to both poor and rich friable soils?",
+		"opts": {
+			"q0": "A. Onion",
+			"q1": "B. Cocoa",
+			"q2": "C. Tomato",
+			"q3": "D. Cassava",
+			"q4": "E. Rice"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Which of the following plant parts or modification is not suitable for propagation of pastures?",
+		"opts": {
+			"q0": "A. Stem cuttings",
+			"q1": "B. Seeds",
+			"q2": "C. Leaves",
+			"q3": "D. Stolons",
+			"q4": "E. Rhizomes"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The stages of life cycle of locust are",
+		"opts": {
+			"q0": "A. egg-larva-pupa-adult",
+			"q1": "B. egg-nymph-adult",
+			"q2": "C. egg-caterpillar-pupa-adult",
+			"q3": "D. egg-nymph-pupa-adult",
+			"q4": "E. egg-larva-nymph"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Fertilization in crops leads to the formation of",
+		"opts": {
+			"q0": "A. gamete",
+			"q1": "B. pollen grain",
+			"q2": "C. zygote",
+			"q3": "D. pollen tube",
+			"q4": "E. endosperm"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following is not normally a pasture crop?",
+		"opts": {
+			"q0": "A. Mucuna",
+			"q1": "B. Centrosema",
+			"q2": "C. Stylosanthes",
+			"q3": "D. Giant star grass",
+			"q4": "E. Guinea grass"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The damage to the stems of maize plants resulting in hollowness and lodging is most likely caused by",
+		"opts": {
+			"q0": "A. rodents",
+			"q1": "B. grasscutters",
+			"q2": "C. stem borers",
+			"q3": "D. weevils",
+			"q4": "E. thrips"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	The planting depth of rice grain is about",
+		"opts": {
+			"q0": "A. 2-4 cm",
+			"q1": "B. 6-8 cm",
+			"q2": "C. 8-10 cm",
+			"q3": "D. 10-12 cm",
+			"q4": "E. 12-14 cm"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Which of the following is the botanical name for guinea grass?",
+		"opts": {
+			"q0": "A. Panicum maximum",
+			"q1": "B. Pennisetum pupureum",
+			"q2": "C. Eleusine indica",
+			"q3": "D. Pennisetum maximum",
+			"q4": "E. Panicum pupureum"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The benefits derived from wildlife conservation practices include the following except",
+		"opts": {
+			"q0": "A. preservation of rare species of wild animals",
+			"q1": "B. source of food for man",
+			"q2": "C. tourist attraction",
+			"q3": "D. preservation of land for future use",
+			"q4": "E. source of foreign exchange"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	<img src='agric_1994_sectionb_qst37_41.jpg'> The shell is produced in the part labelled",
+		"opts": {
+			"q0": "A. IV",
+			"q1": "B. V",
+			"q2": "C. VI",
+			"q3": "D. VIII",
+			"q4": "E. IX"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='agric_1994_sectionb_qst37_41.jpg'> The ovaries are labelled",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. II",
+			"q2": "C. III",
+			"q3": "D. IV",
+			"q4": "E. V"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='agric_1994_sectionb_qst37_41.jpg'> In which of the following parts is the yolk covered with a thick layer of albumen?",
+		"opts": {
+			"q0": "A. ",
+			"q1": "B. ",
+			"q2": "C. VII",
+			"q3": "D. VIII",
+			"q4": "E. IX"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='agric_1994_sectionb_qst37_41.jpg'> What is the name of the part labelled VI?",
+		"opts": {
+			"q0": "A. Infundibulum",
+			"q1": "B. Uterus",
+			"q2": "C. Magnum",
+			"q3": "D. Oviduct",
+			"q4": "E. Isthmus"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	<img src='agric_1994_sectionb_qst37_41.jpg'> Egg is voided through the part labelled",
+		"opts": {
+			"q0": "A. I",
+			"q1": "B. III",
+			"q2": "C. V",
+			"q3": "D. VII",
+			"q4": "E. IX"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	What is the effect of applying pressure on a ring inserted through the nostril of a bull?",
+		"opts": {
+			"q0": "A. Breaking of the septum",
+			"q1": "B. Reducing the resistance of the bull",
+			"q2": "C. Easing the flow of mucus",
+			"q3": "D. Facilitating the feeding of the bull",
+			"q4": "E. Detecting cows on heat by the bull"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Which of the following statements on ration is not correct?",
+		"opts": {
+			"q0": "A. Chick ration is used to feed chicks from a day-old to six weeks old",
+			"q1": "B. Growers ration is used to feed growing chicks between the ages of 5 and 17 weeks",
+			"q2": "C. Layer ration is used to feed layers",
+			"q3": "D. Starter ration is used for feeding broiler chicks from day-old to six weeks old",
+			"q4": "E. Finisher ration is for feeding chicks from day-old to market size"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Which of the following is not a pasture legume?",
+		"opts": {
+			"q0": "A. Pueraria",
+			"q1": "B. Calopogonium",
+			"q2": "C. Centrosema",
+			"q3": "D. Andropogon",
+			"q4": "E. Stylosanthes"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	A nutritional deficiency disease of livestock is",
+		"opts": {
+			"q0": "A. rinderpest",
+			"q1": "B. contagious abortion",
+			"q2": "C. oesteomalacia",
+			"q3": "D. coccidiosis",
+			"q4": "E. tuberculosis"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which type of soil is usually preferred in terms of chemical properties in siting fish ponds?",
+		"opts": {
+			"q0": "A. Neutral or alkaline soil",
+			"q1": "B. Very alkaline soil",
+			"q2": "C. Moderately acidic soil",
+			"q3": "D. Peaty soil",
+			"q4": "E. Swampy soil"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The most important advantage of in-breeding is that",
+		"opts": {
+			"q0": "A. offspring show hybrid vigour",
+			"q1": "B. offspring grow more rapidly ",
+			"q2": "C. offspring that can withstand variations of environment is produced",
+			"q3": "D. specific qualities of an animal are preserved and concentrated",
+			"q4": "E. an undesirable recessive character is manifested"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The farm animal whose skin or hide cannot be used for leader production is",
+		"opts": {
+			"q0": "A. goat",
+			"q1": "B. sheep",
+			"q2": "C. chicken",
+			"q3": "D. cattle",
+			"q4": "E. pig"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	An effective way of preventing anaemia in piglets raised under intensive system is to provide them with",
+		"opts": {
+			"q0": "A. milk supplement",
+			"q1": "B. salt lick",
+			"q2": "C. protein supplement",
+			"q3": "D. drugs containing iron",
+			"q4": "E. roughages"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	All the following are components of balance diet except",
+		"opts": {
+			"q0": "A. carbohydrate",
+			"q1": "B. mineral and vitamin",
+			"q2": "C. protein",
+			"q3": "D. fats and oils",
+			"q4": "E. sucrose"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	Natural immunity against diseases is conferred on the newly born young animal through",
+		"opts": {
+			"q0": "A. vaccination",
+			"q1": "B. sanitation",
+			"q2": "C. administration of antibiotics",
+			"q3": "D. feeding with colostrum",
+			"q4": "E. administration of drugs"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	Which of the following is the reason for smoking fish?",
+		"opts": {
+			"q0": "A. Removing parasites",
+			"q1": "B. Preserving it",
+			"q2": "C. Increasing putrefaction",
+			"q3": "D. Increasing its quality",
+			"q4": "E. Decreasing its flavour"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	Using N’dama bull to mate Muturu cow is an example of",
+		"opts": {
+			"q0": "A. inbreeding",
+			"q1": "B. selection",
+			"q2": "C. cross-breeding",
+			"q3": "D. introduction",
+			"q4": "E. artificial insemination"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	The signs of approaching parturition include the following except",
+		"opts": {
+			"q0": "A. preparation of nests by the dam",
+			"q1": "B. swelling of the vulva",
+			"q2": "C. enlargement of the mammary glands",
+			"q3": "D. mounting of other animals",
+			"q4": "E. loss of appetite"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	Farmers can minimise risks associated with farming ousiness by",
+		"opts": {
+			"q0": "A. flexible budgeting",
+			"q1": "B. adopting farm assurance policy",
+			"q2": "C. diversification of farming enterprise",
+			"q3": "D. practising monoculture",
+			"q4": "E. sale of products immediately after harvesting"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	Farmers often find it difficult to obtain loans from banks for agricultural projects because they",
+		"opts": {
+			"q0": "A. have no guarantors",
+			"q1": "B. have no collaterals",
+			"q2": "C. lack information on agricultural loans",
+			"q3": "D. lack technical know- how",
+			"q4": "E. have no tax clearance certificate"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	Which of the following is not correct about market in agriculture? It is",
+		"opts": {
+			"q0": "A. the aggregate of contacts between buyers and sellers",
+			"q1": "B. an arena for organising and facilitating business activities",
+			"q2": "C. a number of people in contact with each other for the purpose of buying and selling",
+			"q3": "D. a place for social activities",
+			"q4": "E. a place for solving basic economic problems"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	<img src='agric_1994_sectionb_qst58.jpg'> The table below shows the profit and loss account of a private farm. Use it to answer question 58. In the table above the amount N1,015 represented by X is",
+		"opts": {
+			"q0": "A. credit",
+			"q1": "B. loss",
+			"q2": "C. depreciation",
+			"q3": "D. loan",
+			"q4": "E. tax"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	The government operates its extension programme by using the following methods except",
+		"opts": {
+			"q0": "A. establishment of demonstration plots",
+			"q1": "B. use of wall poster and handbills",
+			"q2": "C. organisation of agricultural shows and farmers festivals",
+			"q3": "D. provision of in-service training for farmers",
+			"q4": "E. provision of rural infrastructure"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	The assistance given to farmers by government in form of a reduction in price is generally referred to as",
+		"opts": {
+			"q0": "A. input",
+			"q1": "B. loan",
+			"q2": "C. credit",
+			"q3": "D. subsidy",
+			"q4": "E. interest"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

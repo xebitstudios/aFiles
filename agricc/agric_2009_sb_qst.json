@@ -1,0 +1,723 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	The most important contribution of agriculture to mankind is the provision of",
+		"opts": {
+			"q0": "A. shelter",
+			"q1": "B. employment",
+			"q2": "C. foreign exchange",
+			"q3": "D. food",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	An advantage of commercial agriculture is that it",
+		"opts": {
+			"q0": "A. requires small space",
+			"q1": "B. requires skilled labour",
+			"q2": "C. produces high returns",
+			"q3": "D. involves low capital",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	Which of the following statements about communal land tenure system is true?",
+		"opts": {
+			"q0": "A. It gives the owner complete freedom on the land",
+			"q1": "B. The land can be used as collateral for agricultural loans",
+			"q2": "C. The land can be shared by the owner’s children",
+			"q3": "D. Mechanised agriculture can be profitably practised",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	Agricultural land use is negatively affected by",
+		"opts": {
+			"q0": "A. type of soil",
+			"q1": "B. climatic factors",
+			"q2": "C. increase in population",
+			"q3": "D. increase in soil micro-organisms",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	The practice of growing both food and forage crops simultaneously on the same piece of land is called",
+		"opts": {
+			"q0": "A. pastoral farming",
+			"q1": "B. ley farming",
+			"q2": "C. crop rotation",
+			"q3": "D. continuous cropping",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	The use of land for agricultural purpose involves the following except",
+		"opts": {
+			"q0": "A. livestock grazing",
+			"q1": "B. fish farming",
+			"q2": "C. road construction",
+			"q3": "D. crop production",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	The natural grasslands of West Africa are generally located in the",
+		"opts": {
+			"q0": "A. rain forest",
+			"q1": "B. guinea savanna",
+			"q2": "C. mangroves",
+			"q3": "D. equatorial belts",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	The following processes in soil formation are caused bv biotic factors except",
+		"opts": {
+			"q0": "A. bacterial decomposition of plants",
+			"q1": "B. soil mixing and turning by earthworms",
+			"q2": "C. burrowing of rodents",
+			"q3": "D. soil disintegration by dehydration",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	Which of the following rocks is not formed from pre-existing rocks?",
+		"opts": {
+			"q0": "A. Limestone",
+			"q1": "B. Granite",
+			"q2": "C. Shale",
+			"q3": "D. Marble",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	Chemical weathering is fastest in",
+		"opts": {
+			"q0": "A. cool weather",
+			"q1": "B. hot weather",
+			"q2": "C. high altitudes",
+			"q3": "D. low altitudes",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	It is not advisable to apply fresh farmyard manure because",
+		"opts": {
+			"q0": "A. its heat of decomposition may cause scorching of plants",
+			"q1": "B. some micro-organisms in the manure may die",
+			"q2": "C. the manure may increase soil acidity",
+			"q3": "D. the manure may increase soil alkalinity",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Magnesium deficiency in crops can be corrected by the application of",
+		"opts": {
+			"q0": "A. dolomite",
+			"q1": "B. limestone",
+			"q2": "C. quicklime",
+			"q3": "D. urea",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	The atmosphere gains carbon dioxide through the following ways except",
+		"opts": {
+			"q0": "A. burning of fuel such as coal and wood",
+			"q1": "B. respiration by plants and animals",
+			"q2": "C. photosynthesis in plants",
+			"q3": "D. death and decay of plants and animals",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Controlled burning has the advantage of",
+		"opts": {
+			"q0": "A. increasing the number of soil organisms",
+			"q1": "B. inducing re-growth of pasture grasses",
+			"q2": "C. increasing the amount or nutrients in the soil",
+			"q3": "D. improving soil structure",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following fertilizers should be applied for good plant growth after prolonged use of sulphate of ammonia on a neutral soil?",
+		"opts": {
+			"q0": "A. Ammonium nitrate",
+			"q1": "B. Lime",
+			"q2": "C. Urea",
+			"q3": "D. Single superphosphate",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the following statements indicate advantages of sub-surface irrigation? I. Low operating cost once established II. Does not disturb the movement of implements III. Permits efficient use of water IV. Easily floods the field",
+		"opts": {
+			"q0": "A. I, II and III only",
+			"q1": "B. II, III and IV only",
+			"q2": "C. I, III and IV only",
+			"q3": "D. I, II, III and IV",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	The removal of excess water from the sub-soil is known as",
+		"opts": {
+			"q0": "A. irrigation",
+			"q1": "B. drainage",
+			"q2": "C. evaporation",
+			"q3": "D. dehydration",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The best source of farm power for agricultural production is",
+		"opts": {
+			"q0": "A. human power",
+			"q1": "B. animal power",
+			"q2": "C. mechanical power",
+			"q3": "D. solar power",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The greatest disadvantage of using a bulldozer in land clearing is that it",
+		"opts": {
+			"q0": "A. removes the fertile top soil along with the vegetation",
+			"q1": "B. makes the soil lose its texture",
+			"q2": "C. allows the fast growth of weeds after clearing",
+			"q3": "D. increases the incidence of pests",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Mechanization is difficult to practise where the",
+		"opts": {
+			"q0": "A. land is fragmented",
+			"q1": "B. farmer is wealthy",
+			"q2": "C. farm holding is large",
+			"q3": "D. soil fertility is low",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following equipment is not used in farm surveying?",
+		"opts": {
+			"q0": "A. Gunter’s chain",
+			"q1": "B. Measuring tape",
+			"q2": "C. Ranging pole",
+			"q3": "D. Pick axe",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Farm surveying is important because it determines",
+		"opts": {
+			"q0": "A. soil fertility",
+			"q1": "B. size of farmland",
+			"q2": "C. yield of crops",
+			"q3": "D. types of implement to use",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Bush fallowing is necessitated by",
+		"opts": {
+			"q0": "A. population increase",
+			"q1": "B. reduction in soil fertility",
+			"q2": "C. cost consideration",
+			"q3": "D. rural-urban migration",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	A well fermented and dried coffee seed is said to be",
+		"opts": {
+			"q0": "A. parched",
+			"q1": "B. graded",
+			"q2": "C. winnowed",
+			"q3": "D. threshed",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	A bag of fertilizer had a ratio of 0:10:0 written on it. This means that the fertilizer contains",
+		"opts": {
+			"q0": "A. 0 kg of nitrogen, 10 kg of potash and 0 kg of phosphate",
+			"q1": "B. 0 kg of phosphate, 10 kg of nitrogen and 0 kg of potash",
+			"q2": "C. 0 kg of nitrogen, 10 kg of phosphate and 0 kg of potash",
+			"q3": "D. 0 kg of potash, 10 kg of phosphate and 0 kg of nitrogen",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	In crop rotation, deep-rooted crops should follow shallow-rooted crops because deep-rooted crops",
+		"opts": {
+			"q0": "A. are resistant to diseases",
+			"q1": "B. are early-maturing",
+			"q2": "C. feed from different soil layers",
+			"q3": "D. attract different kinds of pests",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	If a crop is planted at a spacing of 100cm x 50cm, calculate the plant population required for an hectare of farm land.",
+		"opts": {
+			"q0": "A. 200",
+			"q1": "B. 2000",
+			"q2": "C. 5000",
+			"q3": "D. 26000",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The term hermetic storage of grains means keeping grains in",
+		"opts": {
+			"q0": "A. air-tight containers",
+			"q1": "B. jute bags",
+			"q2": "C. silos",
+			"q3": "D. rhumbus",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	A disadvantage of vegetatively propagated crops is that they",
+		"opts": {
+			"q0": "A. do not mature on time",
+			"q1": "B. are less resistant to diseases",
+			"q2": "C. do not withstand harsh conditions",
+			"q3": "D. lodge very readily",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following statements about mulches is true? They",
+		"opts": {
+			"q0": "A. include paper and polythene sheets",
+			"q1": "B. encourage weed growth",
+			"q2": "C. facilitate hardpan formation",
+			"q3": "D. decrease soil biotic population",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following crops is best harvested using a combine harvester?",
+		"opts": {
+			"q0": "A. Maize",
+			"q1": "B. Groundnut",
+			"q2": "C. Cassava",
+			"q3": "D. Cotton",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following crops produces latex?",
+		"opts": {
+			"q0": "A. Mango",
+			"q1": "B. Citrus",
+			"q2": "C. Rubber",
+			"q3": "D. Sisal",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	What will be the effect of establishing a grass with cernrosema spp. in a pasture? The",
+		"opts": {
+			"q0": "A. grass will be suppressed",
+			"q1": "B. total yield of herbage will decrease",
+			"q2": "C. pests of centrosema will destroy the grass",
+			"q3": "D. forage yield will be nigh",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following is not an economic importance of forests? They serve as source of",
+		"opts": {
+			"q0": "A. medicinal plants",
+			"q1": "B. game animals",
+			"q2": "C. edible wild fruits",
+			"q3": "D. domestic animals",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The twisting, wrinkling and mottling of leaves are symptoms of",
+		"opts": {
+			"q0": "A. nematode attack",
+			"q1": "B. viral diseases",
+			"q2": "C. water deprivation",
+			"q3": "D. fungal attack",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	An example of biological control of pests is",
+		"opts": {
+			"q0": "A. using lady bird beetles to feed on cytoplasm",
+			"q1": "B. early planting of maize",
+			"q2": "C. harvesting maize when properly dried",
+			"q3": "D. soaking bean seeds in bordeaux mixture",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Edible seeds with sticky covering and hooks are most likely to be dispersed by",
+		"opts": {
+			"q0": "A. wind",
+			"q1": "B. water",
+			"q2": "C. animal",
+			"q3": "D. explosion",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Hereditary characteristics are passed from parents to offspring through the",
+		"opts": {
+			"q0": "A. cytoplasm",
+			"q1": "B. placenta",
+			"q2": "C. gene",
+			"q3": "D. umbilical cord",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Embryonic membranes do not include",
+		"opts": {
+			"q0": "A. uterus",
+			"q1": "B. chorion",
+			"q2": "C. allantois",
+			"q3": "D. amnion",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The digestion of plant fibre in non-ruminant herbivores takes place in the",
+		"opts": {
+			"q0": "A. mouth and rectum",
+			"q1": "B. caecum and colon",
+			"q2": "C. oesophagus and duodenum",
+			"q3": "D. stomach and rectum",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following hormones is responsible for the relaxation of the pelvic ligafnents and cervix during parturition?",
+		"opts": {
+			"q0": "A. Testosterone",
+			"q1": "B. Progesterone",
+			"q2": "C. Oxytocin",
+			"q3": "D. Relaxin",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	The signs of heat in animals include the following except",
+		"opts": {
+			"q0": "A. red and swollen vulva",
+			"q1": "B. restlessness and nervousness",
+			"q2": "C. attempting to mount other animals",
+			"q3": "D. increased appetite",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Which of the following is not an abiotic condition that affects livestock production?",
+		"opts": {
+			"q0": "A. Sunlight",
+			"q1": "B. Rainfall",
+			"q2": "C. Temperature",
+			"q3": "D. Predators",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Cows should not be allowed to eat plenty of young fresh pasture because they will",
+		"opts": {
+			"q0": "A. develop anthrax",
+			"q1": "B. develop bloat",
+			"q2": "C. refuse to eat concentrate",
+			"q3": "D. become infested with worms",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	In commercial egg production, the most effective management system is",
+		"opts": {
+			"q0": "A. deep litter",
+			"q1": "B. free range",
+			"q2": "C. battery",
+			"q3": "D. fold",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of the following statements is true of a pig which has only one testis?",
+		"opts": {
+			"q0": "A. It will be sterile",
+			"q1": "B. It can still produce viable sperm",
+			"q2": "C. All the spermatozoa will be dead",
+			"q3": "D. It will not be able to mate a sow",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The ingredient which is not a major source of minerals in animal feeds is",
+		"opts": {
+			"q0": "A. oyster shell",
+			"q1": "B. fish meal",
+			"q2": "C. bone meal",
+			"q3": "D. palm kernel meal",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	If a soyabean meal contains 45% crude protein, what quantity of it should be provided to laying flock to supply 5.00 kg of protein?",
+		"opts": {
+			"q0": "A. 11.11 kg",
+			"q1": "B. 9.09 kg",
+			"q2": "C. 2.75 kg",
+			"q3": "D. 2.25 kg",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The following are common grasses in the rangeland except",
+		"opts": {
+			"q0": "A. Panicum maximum",
+			"q1": "B. Calopogonium mucunoides",
+			"q2": "C. Cynodon dactylon",
+			"q3": "D. Imperata cylindrical",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Diseases of animals that can also be transferred to humans are",
+		"opts": {
+			"q0": "A. nutritional",
+			"q1": "B. physiological",
+			"q2": "C. zoonotic",
+			"q3": "D. parasitic",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q51": {
+		"qs": "51.	Poultry showing difficulty in breathing and loss of appetite are under the attack of",
+		"opts": {
+			"q0": "A. coccidiosis",
+			"q1": "B. aspergillosis",
+			"q2": "C. foot and mouth disease",
+			"q3": "D. brucellosis",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q52": {
+		"qs": "52.	The major cause of spoilage in fresh fish is",
+		"opts": {
+			"q0": "A. high humidity",
+			"q1": "B. fungal attack",
+			"q2": "C. low moisture content",
+			"q3": "D. bacterial attack",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q53": {
+		"qs": "53.	Which of the following statements about a good fish pond is true?",
+		"opts": {
+			"q0": "A. It must have low pH",
+			"q1": "B. The water must be turbid",
+			"q2": "C. It must have low concentration of dissolved salts",
+			"q3": "D. The level of dissolved oxygen must be low",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q54": {
+		"qs": "54.	The mechanical introduction of semen into the vagina of a female animal is termed",
+		"opts": {
+			"q0": "A. back-crossing",
+			"q1": "B. pen mating",
+			"q2": "C. artificial insemination",
+			"q3": "D. inbreeding",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q55": {
+		"qs": "55.	The most important input contributed by the farm family is",
+		"opts": {
+			"q0": "A. money",
+			"q1": "B. implements",
+			"q2": "C. labour",
+			"q3": "D. fertilizer",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q56": {
+		"qs": "56.	Demand is said to be elastic when a percentage change in price",
+		"opts": {
+			"q0": "A. results in an infinite change in demand",
+			"q1": "B. results in an increase in quantity demanded",
+			"q2": "C. results in an exact change in demand",
+			"q3": "D. is less than one",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q57": {
+		"qs": "57.	The law of diminishing returns helps in",
+		"opts": {
+			"q0": "A. determining the proportion of production factors to combine",
+			"q1": "B. determining the qualities of fixed resources to use in production",
+			"q2": "C. indicating economic wages to pay farm workers",
+			"q3": "D. indicating the quantity of fixed factors to employ",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q58": {
+		"qs": "58.	How would an individual proposing to start a farm obtain estimates of yields, prices and cost needed in preparing a budget?",
+		"opts": {
+			"q0": "A. From his past experience",
+			"q1": "B. By trial and error",
+			"q2": "C. From agricultural officers or local farmers",
+			"q3": "D. From books written about overseas farms",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q59": {
+		"qs": "59.	Farm gate price is the price at which",
+		"opts": {
+			"q0": "A. produce are sold to the government",
+			"q1": "B. produce are sold in the market",
+			"q2": "C. producers sell to the middlemen",
+			"q3": "D. marketing boards sell to the consumers",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q60": {
+		"qs": "60.	The methods of disseminating new farming techniques to farmers include the following except",
+		"opts": {
+			"q0": "A. result demonstration",
+			"q1": "B. use of radio",
+			"q2": "C. use of television",
+			"q3": "D. organising symposia",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};
