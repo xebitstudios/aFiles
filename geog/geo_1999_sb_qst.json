@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_1999_sectionb_qst1_10.jpg'> Use the map of KENECHI DISTRICT below to answer questions 1 -10. What is the scale of the map in representative fraction?",
+		"opts": {
+			"q0": "A. 1 : 200,000",
+			"q1": "B. 1 : 100,000",
+			"q2": "C. 1 : 50,000",
+			"q3": "D. 1 : 20,000",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_1999_sectionb_qst1_10.jpg'> Use the map of KENECHI DISTRICT below to answer questions 1 -10. The actual distance of KENECHI from Abia along the road is approximately",
+		"opts": {
+			"q0": "A. 5.5cm",
+			"q1": "B. 5.5km",
+			"q2": "C. 11.0cm",
+			"q3": "D. 11.0km",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_1999_sectionb_qst1_10.jpg'> Use the map of KENECHI DISTRICT below to answer questions 1 -10. If the map is enlarged to twice its size, what will be the scale of the enlarged map?",
+		"opts": {
+			"q0": "A. 1 : 50,000",
+			"q1": "B. 1 : 100,000",
+			"q2": "C. 1 : 150,000",
+			"q3": "D. 1 : 200,000",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_1999_sectionb_qst1_10.jpg'> Use the map of KENECHI DISTRICT below to answer questions 1 -10. The direction of the plantation of KENECHI from Dabu is",
+		"opts": {
+			"q0": "A. N 10&deg;E",
+			"q1": "B. N 45&deg;E",
+			"q2": "C. S 45&deg;W",
+			"q3": "D. N 50&deg;W",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_1999_sectionb_qst1_10.jpg'> Use the map of KENECHI DISTRICT below to answer questions 1 -10. The feature marked Y near the northern border of the map is called a",
+		"opts": {
+			"q0": "A. spur",
+			"q1": "B. headland",
+			"q2": "C. valley",
+			"q3": "D. bridge",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_1999_sectionb_qst1_10.jpg'> Use the map of KENECHI DISTRICT below to answer questions 1 -10. The feature marked Z on the western part of the map near Vokote is called a",
+		"opts": {
+			"q0": "A. ridge",
+			"q1": "B. scarp",
+			"q2": "C. pass",
+			"q3": "D. gap",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_1999_sectionb_qst1_10.jpg'> Use the map of KENECHI DISTRICT below to answer questions 1 -10. The feature marked A to B represents a",
+		"opts": {
+			"q0": "A. dry valley",
+			"q1": "B. inselberg",
+			"q2": "C. knoll",
+			"q3": "D. watershed",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_1999_sectionb_qst1_10.jpg'> Use the map of KENECHI DISTRICT below to answer questions 1 -10. What is the area of the plantation in Kenechi?",
+		"opts": {
+			"q0": "A. 20 km<sup>2</sup>",
+			"q1": "B. 16 km<sup>2</sup>",
+			"q2": "C. 12 km<sup>2</sup>",
+			"q3": "D. 8 km<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_1999_sectionb_qst1_10.jpg'> Use the map of KENECHI DISTRICT below to answer questions 1 -10. Which crop is best suited in the south-eastern corner of the area shown on the map? ",
+		"opts": {
+			"q0": "A. Cotton",
+			"q1": "B. Tea",
+			"q2": "C. Cocoa",
+			"q3": "D. Rice",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_1999_sectionb_qst1_10.jpg'> Use the map of KENECHI DISTRICT below to answer questions 1 -10. Which of the following pairs of towns are intervisible?",
+		"opts": {
+			"q0": "A. Vokote and Dabu",
+			"q1": "B. Kenechi and Udeze",
+			"q2": "C. Gbagada and Ketu",
+			"q3": "D. Medu and Tiba",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	<img src='geo_1999_sectionb_qst11_14.jpg'> Use the figure 1 above to answer questions 11-14. The figure 1 is a",
+		"opts": {
+			"q0": "A. wind rose",
+			"q1": "B. pie chart",
+			"q2": "C. proportional circle",
+			"q3": "D. divided proportional circle",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='geo_1999_sectionb_qst11_14.jpg'> Use the figure 1 above to answer questions 11-14. The total value of the word’s export commodities represented in Fig 1 is",
+		"opts": {
+			"q0": "A. 1,000,000 metric tons",
+			"q1": "B. 1,250,000 metric tons",
+			"q2": "C. 2,678,000 metric tons",
+			"q3": "D. 2,780,000 metric tons",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	<img src='geo_1999_sectionb_qst11_14.jpg'> Use the figure 1 above to answer questions 11-14. What percentage of the world export commodities in figure 1 is represented by crude oil?",
+		"opts": {
+			"q0": "A. 54.4%",
+			"q1": "B. 42.8%",
+			"q2": "C. 32.47%",
+			"q3": "D. 23.74%",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	<img src='geo_1999_sectionb_qst11_14.jpg'> Use the figure 1 above to answer questions 11-14. In which of the following ways can the data shown in figure 1 be represented?",
+		"opts": {
+			"q0": "A. Simple bar graph",
+			"q1": "B. Proportional circle",
+			"q2": "C. Dot map",
+			"q3": "D. Chloropleth",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Coal and mineral oil are usually found embedded in",
+		"opts": {
+			"q0": "A. crystalline rocks",
+			"q1": "B. igneous rocks",
+			"q2": "C. metamorphic rocks",
+			"q3": "D. sedimentary rocks",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	When the sun is overhead at 23<sup>1</sup>&frasl;<sub>2</sub>&deg;S, all places at 23<sup>1</sup>&frasl;<sub>2</sub>&deg;N experience",
+		"opts": {
+			"q0": "A. total day light",
+			"q1": "B. shorter days and longer nights",
+			"q2": "C. longer days and shorter nights",
+			"q3": "D. equal days and nights",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	The earth lies between",
+		"opts": {
+			"q0": "A. Mercury and Venus",
+			"q1": "B. Mars and Jupiter",
+			"q2": "C. Venus and Mars",
+			"q3": "D. Jupiter and Saturn",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	If A is located on latitude 6&deg;N and B on latitude 12&deg;N, what is the distance between the two places?",
+		"opts": {
+			"q0": "A. 1,998km",
+			"q1": "B. 777km",
+			"q2": "C. 666km",
+			"q3": "D. 66.6km",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The separation of ancient Gondwana land into different land masses was caused mainly by",
+		"opts": {
+			"q0": "A. isostatic shift",
+			"q1": "B. earthquakes",
+			"q2": "C. vulcanicity",
+			"q3": "D. continental drift",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Marble and Schist are examples of",
+		"opts": {
+			"q0": "A. sedimentary rocks",
+			"q1": "B. volcanic rocks",
+			"q2": "C. metamorphic rocks",
+			"q3": "D. plutonic rocks",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	In which of the following regions would exfoliation commonly occur?",
+		"opts": {
+			"q0": "A. Regions with high temperatures and large amount of rainfall",
+			"q1": "B. Semi-arid regions with large diurnal range of temperature",
+			"q2": "C. Regions with large amounts of limestone and chalk",
+			"q3": "D. Regions with luxuriant vegetation cover",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	A steep-sided feature with vertical bands of alternate hard arid soft rocks, aligned in the direction of the prevailing wind is",
+		"opts": {
+			"q0": "A. Mesa",
+			"q1": "B. Zeugen",
+			"q2": "C. Yardang",
+			"q3": "D. Rock pedestal",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	All the following conditions are favourable for the formation of delta except",
+		"opts": {
+			"q0": "A. presence of large lakes in the river course",
+			"q1": "B. availability of adequate sediments",
+			"q2": "C. absence of strong current at the river mouth",
+			"q3": "D. presence of sheltered coast",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Which of the following is responsible for the formation of block mountains?",
+		"opts": {
+			"q0": "A. Faulting",
+			"q1": "B. Sedimentation",
+			"q2": "C. Folding",
+			"q3": "D. Deposition",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The features commonly found along the lower course of a river are",
+		"opts": {
+			"q0": "A. windgaps",
+			"q1": "B. rapids",
+			"q2": "C. waterfalls",
+			"q3": "D. meanders",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following ocean currents lowers the temperature of the adjacent coastland?",
+		"opts": {
+			"q0": "A. Benguela current",
+			"q1": "B. Kuro siwo current",
+			"q2": "C. Brazillian current",
+			"q3": "D. Agulhas current",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Table 1: Temperature and rainfall data for Station Z <img src='geo_1999_sectionb_qst27_29.jpg'> Use the information in the table below to answer Questions 27-29. What is the mean monthly temperature of Station Z?",
+		"opts": {
+			"q0": "A. 25&deg;C",
+			"q1": "B. 27.5&deg;C",
+			"q2": "C. 28.5&deg;C",
+			"q3": "D. 33&deg;C",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Table 1: Temperature and rainfall data for Station Z <img src='geo_1999_sectionb_qst27_29.jpg'> Use the information in the table below to answer Questions 27-29. How many months of dry season has the Station?",
+		"opts": {
+			"q0": "A. 4",
+			"q1": "B. 5",
+			"q2": "C. 7",
+			"q3": "D. 8",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Table 1: Temperature and rainfall data for Station Z <img src='geo_1999_sectionb_qst27_29.jpg'> Use the information in the table below to answer Questions 27-29. The annual rainfall amount for the Station A is",
+		"opts": {
+			"q0": "A. 72.6mm",
+			"q1": "B. 299mm",
+			"q2": "C. 302mm",
+			"q3": "D. 871mm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	If the temperature of sea level is 30&deg;C, the temperature of the air at a height of 2000 metres will be approximately",
+		"opts": {
+			"q0": "A. 25&deg;C",
+			"q1": "B. 20&deg;C",
+			"q2": "C. 18&deg;C",
+			"q3": "D. 10&deg;C",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The instrument used for measuring wind velocity is called",
+		"opts": {
+			"q0": "A. a barometer",
+			"q1": "B. a wind vane",
+			"q2": "C. a hygrometer",
+			"q3": "D. an anemometer",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following soil types supports the tropical rainforest?",
+		"opts": {
+			"q0": "A. Chernozem",
+			"q1": "B. Podsol",
+			"q2": "C. Laterite Terta",
+			"q3": "D. rosa",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The removal of soil or rock particles by wind or running water is called",
+		"opts": {
+			"q0": "A. weathering",
+			"q1": "B. leaching",
+			"q2": "C. denudation",
+			"q3": "D. erosion",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following natural resources is non-renewable?",
+		"opts": {
+			"q0": "A. Soil",
+			"q1": "B. Vegetation",
+			"q2": "C. Wildlife",
+			"q3": "D. Minerals",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Koppen’s wet tropical (AF) type of climate is experienced in West Africa in",
+		"opts": {
+			"q0": "A. Accra",
+			"q1": "B. Monrovia",
+			"q2": "C. Dakar",
+			"q3": "D. Kano",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Equatorial lowlands usually experience",
+		"opts": {
+			"q0": "A. very early morning rains",
+			"q1": "B. heavy thunder rains in the afternoons",
+			"q2": "C. strong winds",
+			"q3": "D. cold nights",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Vegetation resources can be utilized by man for all the following except",
+		"opts": {
+			"q0": "A. food",
+			"q1": "B. habitat",
+			"q2": "C. timber",
+			"q3": "D. medicine",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Which of the following forms of pollution is the least harzardous to man?",
+		"opts": {
+			"q0": "A. Toxic waste disposed in rivers",
+			"q1": "B. The use of chemicals for fishing",
+			"q2": "C. Flaring of gas from refineries",
+			"q3": "D. A sound of 50 decibels in the air",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Industries are classified as",
+		"opts": {
+			"q0": "A. primary, manufacturing and secondary",
+			"q1": "B. cocoa processing, mining and furniture making",
+			"q2": "C. primary, secondary and tertiary",
+			"q3": "D. fishing, mining and food processing",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Atmospheric resources can be used for all the following except",
+		"opts": {
+			"q0": "A. power supply",
+			"q1": "B. sifting of grains",
+			"q2": "C. housing",
+			"q3": "D. communication",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	The manufacturing of textiles and garments is most popular in",
+		"opts": {
+			"q0": "A. South Korea",
+			"q1": "B. Japan",
+			"q2": "C. Taiwan",
+			"q3": "D. Thailand",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	A megalopolis is a",
+		"opts": {
+			"q0": "A. modern town specially developed to accommodate urban people wishing to reside outside the city",
+			"q1": "B. new city developed to accommodate workers from neighbouring industrial centres",
+			"q2": "C. town that has grown to engulf nearby rural settlements",
+			"q3": "D. continuous amalgamation of a series of cities",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The most common environmental problem in the Niger Delta is",
+		"opts": {
+			"q0": "A. deforestation",
+			"q1": "B. aridity",
+			"q2": "C. coastal flooding",
+			"q3": "D. vulcanicity",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The likely hazards to shipping at the North American end of the North Atlantic sea route are",
+		"opts": {
+			"q0": "A. waterfalls and rapids",
+			"q1": "B. fog and iceberg",
+			"q2": "C. submarine ridges and trenches",
+			"q3": "D. shallow inlets and weeds",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The bulk of Nigeria’s timber is exploited from the",
+		"opts": {
+			"q0": "A. mountain vegetation",
+			"q1": "B. rainforest",
+			"q2": "C. Guinea savanna",
+			"q3": "D. fresh water swamp forest",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Nigeria’s major trading partners include",
+		"opts": {
+			"q0": "A. Britain, USA, Germany and Japan",
+			"q1": "B. Britain, Ghana, Japan and South Africa",
+			"q2": "C. Belgium, Germany, Japan and Liberia",
+			"q3": "D. USA, Belgium, The Gambia and Japan",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The Akwapim-Togo Ridge is a continuation of the",
+		"opts": {
+			"q0": "A. Guinea highlands",
+			"q1": "B. Bandiagara escarpment",
+			"q2": "C. Plateau of Burkina Faso",
+			"q3": "D. Uplands of Western Nigeria",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The Lagos-Kano railway crosses the River Niger at",
+		"opts": {
+			"q0": "A. Makurdi",
+			"q1": "B. Kontagora",
+			"q2": "C. Jebba",
+			"q3": "D. Lokoja",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Most of the copper exported from the Democratic Republic of Congo (Zaire) is produced in and around",
+		"opts": {
+			"q0": "A. Kinshasa",
+			"q1": "B. Lubumbashi",
+			"q2": "C. Kabinda",
+			"q3": "D. Kissangani",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The greatest advantage of perennial irrigation is that",
+		"opts": {
+			"q0": "A. two or three crops can be produced in a year from the same piece of land",
+			"q1": "B. it makes it possible to irrigate larger areas",
+			"q2": "C. much silt is trapped and this helps to enrich the soil",
+			"q3": "D. it allows water to be held on the land for several weeks",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

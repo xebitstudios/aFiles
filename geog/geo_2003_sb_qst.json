@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_2003_sectionb_qst1_10.jpg'> Study the Map of MAGOKO DISTRICT and use it to answer questions 1 to 10. The scale of the map is",
+		"opts": {
+			"q0": "A. 1 cm to 8 km",
+			"q1": "B. 1 cm to 3 km",
+			"q2": "C. 1 cm to 2 km",
+			"q3": "D. 1 cm to <sup>1</sup>&frasl;<sub>2</sub> km",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_2003_sectionb_qst1_10.jpg'> Study the Map of MAGOKO DISTRICT and use it to answer questions 1 to 10. What is the approximate distance by road from Ute to Ibara?",
+		"opts": {
+			"q0": "A. 2.25km",
+			"q1": "B. 3.50km",
+			"q2": "C. 5.50km",
+			"q3": "D. 6.00km",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_2003_sectionb_qst1_10.jpg'> Study the Map of MAGOKO DISTRICT and use it to answer questions 1 to 10. The angular bearing of Busa from Abara is approximately",
+		"opts": {
+			"q0": "A. 30&deg;",
+			"q1": "B. 40&deg;",
+			"q2": "C. 60&deg;",
+			"q3": "D. 80&deg;",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_2003_sectionb_qst1_10.jpg'> Study the Map of MAGOKO DISTRICT and use it to answer questions 1 to 10. The relief feature in the North Western part of the map is called a",
+		"opts": {
+			"q0": "A. ridge",
+			"q1": "B. plateau",
+			"q2": "C. conical hill",
+			"q3": "D. dissected highland",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_2003_sectionb_qst1_10.jpg'> Study the Map of MAGOKO DISTRICT and use it to answer questions 1 to 10. The feature marked A-B is called a",
+		"opts": {
+			"q0": "A. headland",
+			"q1": "B. ridge",
+			"q2": "C. spur",
+			"q3": "D. cliff",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_2003_sectionb_qst1_10.jpg'> Study the Map of MAGOKO DISTRICT and use it to answer questions 1 to 10. In which of the following towns is a palm oil processing factory likely to be located?",
+		"opts": {
+			"q0": "A. Abara",
+			"q1": "B. Magoko",
+			"q2": "C. Ute",
+			"q3": "D. Ibara",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_2003_sectionb_qst1_10.jpg'> Study the Map of MAGOKO DISTRICT and use it to answer questions 1 to 10. Ute and Ugbo can best be described as",
+		"opts": {
+			"q0": "A. farm settlements",
+			"q1": "B. mining settlements",
+			"q2": "C. port settlements",
+			"q3": "D. fishing settlements",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_2003_sectionb_qst1_10.jpg'> Study the Map of MAGOKO DISTRICT and use it to answer questions 1 to 10. The highest contour line on the map is",
+		"opts": {
+			"q0": "A. 600m",
+			"q1": "B. 550m",
+			"q2": "C. 500m",
+			"q3": "D. 450m",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_2003_sectionb_qst1_10.jpg'> Study the Map of MAGOKO DISTRICT and use it to answer questions 1 to 10. Which of the following towns is not visible from Ibara?",
+		"opts": {
+			"q0": "A. Ute",
+			"q1": "B. Ugbo",
+			"q2": "C. Magoko",
+			"q3": "D. Abara",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_2003_sectionb_qst1_10.jpg'> Study the Map of MAGOKO DISTRICT and use it to answer questions 1 to 10. The total area covered by the map is approximately",
+		"opts": {
+			"q0": "A. 250.00km<sup>2</sup>",
+			"q1": "B. 120.25km<sup>2</sup>",
+			"q2": "C. 90.45km<sup>2</sup>",
+			"q3": "D. 66.25km<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	<img src='geo_2003_sectionb_qst11_13.jpg'> Study the climatic data for station X below and use it to answer Questions 11 -13. The total annual rainfall for the station is",
+		"opts": {
+			"q0": "A. 210mm",
+			"q1": "B. 300mm",
+			"q2": "C. 2500mm",
+			"q3": "D. 2520mm",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='geo_2003_sectionb_qst11_13.jpg'> Study the climatic data for station X below and use it to answer Questions 11 -13. The mean annual temperature for the station is",
+		"opts": {
+			"q0": "A. 25&deg;C",
+			"q1": "B. 22.0&deg;C",
+			"q2": "C. 20.8&deg;C",
+			"q3": "D. 2.0&deg;C",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	<img src='geo_2003_sectionb_qst11_13.jpg'> Study the climatic data for station X below and use it to answer Questions 11 -13. What is the annual temperature range for station X?",
+		"opts": {
+			"q0": "A. 2&deg;C",
+			"q1": "B. 3&deg;C",
+			"q2": "C. 4&deg;C",
+			"q3": "D. 5&deg;C",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Which of the following planets is closest to the sun?",
+		"opts": {
+			"q0": "A. Pluto",
+			"q1": "B. Neptune",
+			"q2": "C. Uranus",
+			"q3": "D. Saturn",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The combination of Sial and Sima constitute the",
+		"opts": {
+			"q0": "A. hydrosphere",
+			"q1": "B. biosphere",
+			"q2": "C. lithosphere",
+			"q3": "D. atmosphere",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Chalk is a good example of",
+		"opts": {
+			"q0": "A. plutonic igneous rock",
+			"q1": "B. organically formed sedimentary rock",
+			"q2": "C. mechanically formed sedimentary rock",
+			"q3": "D. extrusive igneous rock",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following is not a metamorphic rock?",
+		"opts": {
+			"q0": "A. Grit",
+			"q1": "B. Schist",
+			"q2": "C. Marble",
+			"q3": "D. Slate",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	As a volley ball match was being played in town Y, the referee observed that the local time was noon while the Greenwich Mean Time was 22.00 hours on the same day. What is the longitude of town Y?",
+		"opts": {
+			"q0": "A. 20&deg;E",
+			"q1": "B. 20&deg;W",
+			"q2": "C. 145&deg;E",
+			"q3": "D. 150&deg;W",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The process of weathering in limestone region is mainly",
+		"opts": {
+			"q0": "A. hydration",
+			"q1": "B. exfoliation",
+			"q2": "C. solution",
+			"q3": "D. oxidation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following is true of rocks?",
+		"opts": {
+			"q0": "A. Sedimentary rocks are crystalline",
+			"q1": "B. Igneous rocks are heat formed, fossilized rocks",
+			"q2": "C. Metamorphic rocks are crystalline due to high temperature and pressure",
+			"q3": "D. Sedimentary rocks are non-crystalline and fossilized rocks",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Abrasion, attrition and deflation are processes of",
+		"opts": {
+			"q0": "A. river erosion",
+			"q1": "B. coastal erosion",
+			"q2": "C. wind erosion",
+			"q3": "D. glacial erosion",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	One of the features found in the upper course of a river is",
+		"opts": {
+			"q0": "A. gorge",
+			"q1": "B. u-shaped valley",
+			"q2": "C. meander",
+			"q3": "D. levee",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following is a feature of limestone regions?",
+		"opts": {
+			"q0": "A. Batholith",
+			"q1": "B. Cinder cone",
+			"q2": "C. Crater",
+			"q3": "D. Stalagmite",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	An aquifer can best be described as",
+		"opts": {
+			"q0": "A. water bearing rock in between two impervious layers of rock",
+			"q1": "B. a dammed surface water",
+			"q2": "C. a well sunk below an impervious stratum of rock",
+			"q3": "D. a beheaded river in a limestone region",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Fold mountains are basically formed as a result of",
+		"opts": {
+			"q0": "A. coriolis force",
+			"q1": "B. tensional force",
+			"q2": "C. compressional force",
+			"q3": "D. gravitational force",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following is not a depositional lake?",
+		"opts": {
+			"q0": "A. Flood plain lake",
+			"q1": "B. Ox-bow lake",
+			"q2": "C. Barrier lake",
+			"q3": "D. Crater lake",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Sheet erosion tends to be more serious than other forms of erosion because it",
+		"opts": {
+			"q0": "A. involves more widespread removal of soil from the land surface",
+			"q1": "B. is not controllable",
+			"q2": "C. forms irregular patterned gullies",
+			"q3": "D. forms deep trenches which cut through topsoil and subsoil",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following types of rock is a source of energy?",
+		"opts": {
+			"q0": "A. Sandstone",
+			"q1": "B. Coal",
+			"q2": "C. Granite",
+			"q3": "D. Graphite",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	A feature formed from the solidification of highly fluid basic lava on the earth’s surface is known as a",
+		"opts": {
+			"q0": "A. laccolith",
+			"q1": "B. basalt plateau",
+			"q2": "C. conelet",
+			"q3": "D. vent",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following is not true of Cool Temperate Western Margin Climate?",
+		"opts": {
+			"q0": "A. Mean annual temperature between 5°C and 16°C",
+			"q1": "B. Annual temperature range of 13°C",
+			"q2": "C. Moderately warm summers and fairly mild winters",
+			"q3": "D. Summer rainfall and winter drought",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Inselberg may best be described as",
+		"opts": {
+			"q0": "A. an iceberg left over by moving ice sheet",
+			"q1": "B. a barge left on water by melting ice",
+			"q2": "C. a residual hill with steep sides and usually exposed by denudation",
+			"q3": "D. mountains of deposition",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following statements is not true of dendritic pattern of drainage?",
+		"opts": {
+			"q0": "A. It is characterized by irregular branching of tributaries",
+			"q1": "B. The tributaries are formed at an acute angle",
+			"q2": "C. They develop on homogeneous rock surfaces",
+			"q3": "D. They are formed on heterogeneous rock surfaces",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following is a warm ocean current?",
+		"opts": {
+			"q0": "A. Labrador",
+			"q1": "B. Canaries",
+			"q2": "C. Peruvian",
+			"q3": "D. Mozambique",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	<img src='geo_2004_sectionb_qst34_35.jpg'> Use the figure Y below to answer questions 34 and 35. The area marked A in the diagram above can be described as",
+		"opts": {
+			"q0": "A. Escarpment",
+			"q1": "B. Fault block",
+			"q2": "C. Rift valley",
+			"q3": "D. Block mountain",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	<img src='geo_2004_sectionb_qst34_35.jpg'> Use the figure Y below to answer questions 34 and 35. The area marked B in the diagram is an example of",
+		"opts": {
+			"q0": "A. Cuesta",
+			"q1": "B. Florst",
+			"q2": "C. Embarkment",
+			"q3": "D. Rift valley system",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following is a feature of heavy manufacturing Industries?",
+		"opts": {
+			"q0": "A. Small labour force mainly from the family members",
+			"q1": "B. Articles produced are in small quantities",
+			"q2": "C. A limited space for workshop",
+			"q3": "D. Dependence on electricity",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following countries is the leading producer of petroleum?",
+		"opts": {
+			"q0": "A. Algeria",
+			"q1": "B. Libya",
+			"q2": "C. Egypt",
+			"q3": "D. Gabon",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The ultimate source of energy in the biosphere is",
+		"opts": {
+			"q0": "A. the moon",
+			"q1": "B. the sun",
+			"q2": "C. petroleum",
+			"q3": "D. electricity",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Loamy soils are better for agriculture than other soil types because they",
+		"opts": {
+			"q0": "A. are black in colour",
+			"q1": "B. retain air, moisture and humus",
+			"q2": "C. are rich in mineral nutrients",
+			"q3": "D. are rich in humus only",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The thin layer of unconsolidated mineral particles and organic matter which covers land surfaces is called",
+		"opts": {
+			"q0": "A. Soil",
+			"q1": "B. Sialic rock",
+			"q2": "C. earth’s crust",
+			"q3": "D. biosphere",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	In which of the following ways is soil important to man? I Serves as a medium for plant seeds to germinate II Provides support for growing plants III Brings water to the roots IV Supplies minerals to the plants",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. I and IV only",
+			"q2": "C. I, III and IV only",
+			"q3": "D. I, II, III and IV",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Which of the following does not cause coastal erosion?",
+		"opts": {
+			"q0": "A. Solvent action",
+			"q1": "B. Corrasion",
+			"q2": "C. Hydraulic action",
+			"q3": "D. Deflation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Which of the following factors least affects the location of manufacturing industries?",
+		"opts": {
+			"q0": "A. Availability of capital",
+			"q1": "B. Supply of labour",
+			"q2": "C. Nearness to market",
+			"q3": "D. Availability of transport",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Flooding can be prevented by",
+		"opts": {
+			"q0": "A. building houses and embarked roads in flood plains to prevent overflow of river water",
+			"q1": "B. dumping of refuse in drainage channels for onward transportation to ocean deeps",
+			"q2": "C. building strong fence round residential houses, office blocks and school compounds",
+			"q3": "D. planning towns and cities, especially in humid regions",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The mode of transport that is best suited for the distribution of petroleum products is",
+		"opts": {
+			"q0": "A. road",
+			"q1": "B. water",
+			"q2": "C. rail",
+			"q3": "D. pipeline",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of the following transport systems is most affected by climatic factors?",
+		"opts": {
+			"q0": "A. Water transport",
+			"q1": "B. Rail transport",
+			"q2": "C. Road transport",
+			"q3": "D. Air transport",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Pastoral nomadism is practised in the Savanna areas of West Africa by the",
+		"opts": {
+			"q0": "A. Fulani",
+			"q1": "B. Masai",
+			"q2": "C. Turkana",
+			"q3": "D. Tuareg",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following is a major trading sea route between Nigeria and Western Europe?",
+		"opts": {
+			"q0": "A. The North Atlantic",
+			"q1": "B. The Trans-Pacific",
+			"q2": "C. The Cape",
+			"q3": "D. The Panama Canal",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The low level of trade among African countries is due to",
+		"opts": {
+			"q0": "A. the high level of technology in the countries",
+			"q1": "B. similarity of products",
+			"q2": "C. the high demand for home-made products",
+			"q3": "D. liberalization of trade",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following countries is not a member of the Economic Community of West African States (ECOWAS)?",
+		"opts": {
+			"q0": "A. Cameroun",
+			"q1": "B. Mali",
+			"q2": "C. Niger",
+			"q3": "D. Burkina Faso",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

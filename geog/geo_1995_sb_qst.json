@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_1995_sectionb_qst1_10.jpg'> Use the map of DOBA DISTRICT below to answer questions 1 -10. The scale of the map is?",
+		"opts": {
+			"q0": "A. 1:2,000",
+			"q1": "B. 1:5,000",
+			"q2": "C. 1:50,000",
+			"q3": "D. 1:100,000",
+			"q4": "E. 1:200,000"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_1995_sectionb_qst1_10.jpg'> Use the map of DOBA DISTRICT below to answer questions 1 -10. The feature running north-south in the central part of the map is best described as a",
+		"opts": {
+			"q0": "A. conical hill",
+			"q1": "B. pyramidal peak",
+			"q2": "C. knoll",
+			"q3": "D. plateau",
+			"q4": "E. ridge"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_1995_sectionb_qst1_10.jpg'> Use the map of DOBA DISTRICT below to answer questions 1 -10. The angular bearing of Baku from Ase is approximately",
+		"opts": {
+			"q0": "A. 045&deg;",
+			"q1": "B. 060&deg;",
+			"q2": "C. 135&deg;",
+			"q3": "D. 225&deg;",
+			"q4": "E. 315&deg;"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_1995_sectionb_qst1_10.jpg'> Use the map of DOBA DISTRICT below to answer questions 1 -10. The feature marked X is best described as a",
+		"opts": {
+			"q0": "A. pass",
+			"q1": "B. depression",
+			"q2": "C. spur",
+			"q3": "D. valley",
+			"q4": "E. plateau"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_1995_sectionb_qst1_10.jpg'> Use the map of DOBA DISTRICT below to answer questions 1 -10. The distance from Baku to Ibaga along the secondary road is",
+		"opts": {
+			"q0": "A. 2.4km",
+			"q1": "B. 4.8km",
+			"q2": "C. 9.6km",
+			"q3": "D. 10.5km",
+			"q4": "E. 19.2km"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_1995_sectionb_qst1_10.jpg'> Use the map of DOBA DISTRICT below to answer questions 1 -10. The drainage pattern on the map is",
+		"opts": {
+			"q0": "A. antecedent",
+			"q1": "B. consequent",
+			"q2": "C. dendritic",
+			"q3": "D. trellis",
+			"q4": "E. radial"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_1995_sectionb_qst1_10.jpg'> Use the map of DOBA DISTRICT below to answer questions 1 -10. The direction of flow of River Bidol is",
+		"opts": {
+			"q0": "A. south-eastward",
+			"q1": "B. northwards",
+			"q2": "C. westwards",
+			"q3": "D. north-eastwards",
+			"q4": "E. south-westwards"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_1995_sectionb_qst1_10.jpg'> Use the map of DOBA DISTRICT below to answer questions 1 -10. Which of the following statements about the com-munication network on the map is correct? The routes",
+		"opts": {
+			"q0": "A. link mineral producing areas",
+			"q1": "B. run from north to south",
+			"q2": "C. take advantage of low relief",
+			"q3": "D. are predominant in the north",
+			"q4": "E. are located on mountain tops"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_1995_sectionb_qst1_10.jpg'> Use the map of DOBA DISTRICT below to answer questions 1 -10. Which of the following settlements is linear?",
+		"opts": {
+			"q0": "A. Baku",
+			"q1": "B. Ase",
+			"q2": "C. Chonda",
+			"q3": "D. Doba",
+			"q4": "E. Ibaga"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_1995_sectionb_qst1_10.jpg'> Use the map of DOBA DISTRICT below to answer questions 1 -10. A crop likely to be produced in the lower valley of River Bidol is",
+		"opts": {
+			"q0": "A. wheat",
+			"q1": "B. rubber",
+			"q2": "C. rice",
+			"q3": "D. yam",
+			"q4": "E. cocoyam"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The satellite of the earth is",
+		"opts": {
+			"q0": "A. the sun",
+			"q1": "B. Jupiter",
+			"q2": "C. the moon",
+			"q3": "D. Saturn",
+			"q4": "E. Mars"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The commentary of a football match which started at 1600 hours GMT in a town P(45&deg;W) was heard in town Q at 2200 hours GMT. What is the longitude of Q?",
+		"opts": {
+			"q0": "A. 39&deg;W",
+			"q1": "B. 45&deg;E",
+			"q2": "C. 51&deg;E",
+			"q3": "D. 90&deg;W",
+			"q4": "E. 135&deg;E"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Which of the following statements about Jupiter is not true? it",
+		"opts": {
+			"q0": "A. is the next planet to the Earth",
+			"q1": "B. revolves round the sun",
+			"q2": "C. is the only planet with twelve satellites",
+			"q3": "D. is the largest planet in the solar system",
+			"q4": "E. is about 773 million kms away from the sun"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Igneous rocks contain",
+		"opts": {
+			"q0": "A. humus",
+			"q1": "B. fossils",
+			"q2": "C. strata",
+			"q3": "D. polyps",
+			"q4": "E. crystals"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	An active valcano is one that",
+		"opts": {
+			"q0": "A. has not erupted recently",
+			"q1": "B. will not erupt",
+			"q2": "C. had earlier erupted violently",
+			"q3": "D. erupts periodically",
+			"q4": "E. has been very destructive"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The principal agents in soil erosion are",
+		"opts": {
+			"q0": "A. wind and waves",
+			"q1": "B. water and wind",
+			"q2": "C. air and water",
+			"q3": "D. water and dust",
+			"q4": "E. drought and wind"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Soil erosion leads to all the following except the",
+		"opts": {
+			"q0": "A. loss of available plant nutrients",
+			"q1": "B. loss of cultivable land",
+			"q2": "C. loss of water reservoirs such as dams",
+			"q3": "D. increasing drought condition",
+			"q4": "E. increase in yield per hectare"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The term watershed refers to the",
+		"opts": {
+			"q0": "A. direction of flow of a river from its source to the sea",
+			"q1": "B. volume of load carried by a river",
+			"q2": "C. crestlines from which two or more rivers flow in opposite directions",
+			"q3": "D. area drained by the main river and all its tributaries",
+			"q4": "E. entire area flooded by a river during the wet season"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Aspring is an outlet for",
+		"opts": {
+			"q0": "A. rivers",
+			"q1": "B. streams in Karst regions",
+			"q2": "C. underground water",
+			"q3": "D. rain water in limestone regions",
+			"q4": "E. volcanic lakes"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following represents the correct sequence in which denudation occurs?",
+		"opts": {
+			"q0": "A. Weathering....Erosion....Deposition",
+			"q1": "B. Deposition....Weathering....Erosion",
+			"q2": "C. Erosion....Weathering....Deposition",
+			"q3": "D. Weathering....Deposition....Erosion",
+			"q4": "E. Deposition....Erosion....Weathering"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following is a feature of erosion in arid regions?",
+		"opts": {
+			"q0": "A. Caldera",
+			"q1": "B. Barchan",
+			"q2": "C. Yardang",
+			"q3": "D. Pediment",
+			"q4": "E. Outwash plain"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The water which is thrown against the beach by a breaking wave is called",
+		"opts": {
+			"q0": "A. an undertow",
+			"q1": "B. a backwash",
+			"q2": "C. a fetch",
+			"q3": "D. a swash",
+			"q4": "E. a surf"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following features is not associated with coastal erosion?",
+		"opts": {
+			"q0": "A. Bay",
+			"q1": "B. Wave-cut platform",
+			"q2": "C. Stack",
+			"q3": "D. Geo",
+			"q4": "E. Marine dune"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	A slender, downward growing pinnacle that hangs from a cave roof is a",
+		"opts": {
+			"q0": "A. stalagmite",
+			"q1": "B. grike",
+			"q2": "C. stalactite",
+			"q3": "D. clint",
+			"q4": "E. doline"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Lacustrine plains are formed",
+		"opts": {
+			"q0": "A. on the bed of an old lake",
+			"q1": "B. at the foot of a mountain",
+			"q2": "C. in a rift valley",
+			"q3": "D. on top of a plateau",
+			"q4": "E. at the mouth of a river"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	All the following are ways in which rivers are useful to man except the",
+		"opts": {
+			"q0": "A. formation of political boundaries between countries",
+			"q1": "B. provision of rich agricultural land",
+			"q2": "C. generation of hydro-electricity",
+			"q3": "D. relocation of settlement after flooding",
+			"q4": "E. promotion of trade and commerce"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Which of the following is not a characteristic of the tropical desert climate?",
+		"opts": {
+			"q0": "A. Low humidity",
+			"q1": "B. Cloudless skies",
+			"q2": "C. Dust haze",
+			"q3": "D. Very high diurnal range of temperature",
+			"q4": "E. Very low annual range of temperature"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following factors is least important in determining the temperature of a place? The",
+		"opts": {
+			"q0": "A. angle at which the sun’s rays strike the earth’s surface",
+			"q1": "B. rate of transpiration",
+			"q2": "C. number of hours of sunshine",
+			"q3": "D. altitude above sea level",
+			"q4": "E. amount of cloud cover"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The ancient Greeks classified the climates of the world into",
+		"opts": {
+			"q0": "A. torrid, temperate and frigid zones",
+			"q1": "B. hot, cold and medium zones",
+			"q2": "C. torrid, equatorial and polar zones",
+			"q3": "D. hot, mild and cool zones",
+			"q4": "E. hot, moist and dry zones"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The tropical rainforest is characterised by all the following except",
+		"opts": {
+			"q0": "A. a distinct layered arrangement",
+			"q1": "B. multiple plant species",
+			"q2": "C. evergreen trees",
+			"q3": "D. little undergrowth",
+			"q4": "E. tree with thorny leaves"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Oak and cedar are good examples of commercial trees common in the",
+		"opts": {
+			"q0": "A. equatorial vegetation",
+			"q1": "B. Mediterranean vegetation",
+			"q2": "C. Monsoon vegetation",
+			"q3": "D. Tundra vegetation",
+			"q4": "E. Desert vegetation"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The effect of humus in the soil is to make the soil",
+		"opts": {
+			"q0": "A. retain more air",
+			"q1": "B. retain more moisture",
+			"q2": "C. sparkle",
+			"q3": "D. very soft",
+			"q4": "E. hard"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Local farmers determine the change in fertility of any tropical soil through the",
+		"opts": {
+			"q0": "A. nature of the surface",
+			"q1": "B. amount of water in the soil",
+			"q2": "C. variation in yield from crops growth",
+			"q3": "D. colour of the soil",
+			"q4": "E. the mineral composition of the soil"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Heavy rainfall favours the formation of acid soils because it",
+		"opts": {
+			"q0": "A. results in greater weathering of minerals",
+			"q1": "B. causes more leaching of base elements",
+			"q2": "C. results in capillary rise of base elements from deep below",
+			"q3": "D. results in thicker vegetation cover",
+			"q4": "E. increases bacterial activity in the soil"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The relationship between organisms in the ecosystem implies that the components",
+		"opts": {
+			"q0": "A. are Interdependent",
+			"q1": "B. share common ideas",
+			"q2": "C. give birth to one another",
+			"q3": "D. are enemies",
+			"q4": "E. build one another"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	All the following are major pollutants of the environment except",
+		"opts": {
+			"q0": "A. the flaring of gas in oil wells",
+			"q1": "B. oil spillage",
+			"q2": "C. industrial waste products",
+			"q3": "D. domestic cooking",
+			"q4": "E. combustion from vehicles"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Settlements can be classified according to all the following except the",
+		"opts": {
+			"q0": "A. arrangement of the buildings",
+			"q1": "B. number of people per settlement",
+			"q2": "C. main occupation of the inhabitants",
+			"q3": "D. number of buildings per unit area of land",
+			"q4": "E. the type of people that live in the area"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	When two separate towns grow and merge into one, the new settlement formed is called a",
+		"opts": {
+			"q0": "A. conurbation",
+			"q1": "B. megalopolis",
+			"q2": "C. dormitory town",
+			"q3": "D. metropolis",
+			"q4": "E. satellite town"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	All the following are examples of heavy industries except",
+		"opts": {
+			"q0": "A. furniture making",
+			"q1": "B. ship building",
+			"q2": "C. refining of petroleum",
+			"q3": "D. iron and steel",
+			"q4": "E. aluminum smelting"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Which of the following is not a major problem of economic development in developing countries? Inadequate",
+		"opts": {
+			"q0": "A. capital",
+			"q1": "B. natural resources",
+			"q2": "C. technical know-how",
+			"q3": "D. transportation facilities",
+			"q4": "E. infrastructure"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Jos has a heavier rainfall than the other towns on the same latitude in Nigeria because it",
+		"opts": {
+			"q0": "A. has lower temperatures",
+			"q1": "B. is located on the windward side of a plateau",
+			"q2": "C. is located near the coast",
+			"q3": "D. is located on the path of descending winds",
+			"q4": "E. is located in the equatorial region"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	The most important area for lumbering in Nigeria is found in the",
+		"opts": {
+			"q0": "A. Benin-Obudu-Yola region",
+			"q1": "B. Ibadan-Benin-Port Harcourt region",
+			"q2": "C. Lagos-Port Harcourt-Calabar region",
+			"q3": "D. Minna-Lokoja-Makurdi region",
+			"q4": "E. Chad Basin"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Jebba, Lokoja and Onitsha are examples of",
+		"opts": {
+			"q0": "A. packet stations",
+			"q1": "B. railway stations",
+			"q2": "C. sea ports",
+			"q3": "D. river ports",
+			"q4": "E. entrepots"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Which of the following is true of manufacturing industries in Nigeria?",
+		"opts": {
+			"q0": "A. Most of them produce consumer goods",
+			"q1": "B. Large quantities of their products are exported",
+			"q2": "C. They depend totally on local raw materials",
+			"q3": "D. They were established in pre-colonial times",
+			"q4": "E. They are evenly distributed throughout the country"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The low-level of economic development of the Eastern Scarplands of Nigeria is due to its",
+		"opts": {
+			"q0": "A. rugged topography",
+			"q1": "B. over-population",
+			"q2": "C. high temperature",
+			"q3": "D. thick vegetation",
+			"q4": "E. low rainfall"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of the following is the characteristic pattern of rural settlements in the Western Highlands of Nigeria?",
+		"opts": {
+			"q0": "A. Linear",
+			"q1": "B. Dispersed",
+			"q2": "C. Satellite",
+			"q3": "D. Elongated",
+			"q4": "E. Nucleated"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Africa is threatened today by serious soil erosion because the",
+		"opts": {
+			"q0": "A. soils are porous",
+			"q1": "B. landscape is characterised by mountains",
+			"q2": "C. rainfall is heavy all over Africa",
+			"q3": "D. soils are recklessly exposed",
+			"q4": "E. agents of erosion are very active"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The largest irrigation scheme in Africa is served by the",
+		"opts": {
+			"q0": "A. Sennar Dam",
+			"q1": "B. Kanji Dam",
+			"q2": "C. Akosombo Dam",
+			"q3": "D. Tiga Dam",
+			"q4": "E. Kariba Dam"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following vegetation belts in Africa is usually associated with the tropical continental climate?",
+		"opts": {
+			"q0": "A. Tropical desert",
+			"q1": "B. Sudan Savanna",
+			"q2": "C. Guinea Savanna",
+			"q3": "D. Tropical rainforest",
+			"q4": "E. Tropical monsoon forest"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following lakes is not found in the East African Rift Valley?",
+		"opts": {
+			"q0": "A. Lake Turkana",
+			"q1": "B. Lake Tanganyika",
+			"q2": "C. Lake Mweru",
+			"q3": "D. Lake Mobutu",
+			"q4": "E. Lake Tana"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_2010_sectionb_qst1_10.jpg'> Study the Map of OFOT DISTRICT and use it to answer questions 1 to 10. The feature marked X-Y is a/an",
+		"opts": {
+			"q0": "A. dry valley",
+			"q1": "B. crater lake",
+			"q2": "C. plateau",
+			"q3": "D. alluvial fan",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_2010_sectionb_qst1_10.jpg'> Study the Map of OFOT DISTRICT and use it to answer questions 1 to 10. River Owen is a/an",
+		"opts": {
+			"q0": "A. distributary of River Oshe",
+			"q1": "B. tributary of River Oshe",
+			"q2": "C. delta",
+			"q3": "D. estuary",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_2010_sectionb_qst1_10.jpg'> Study the Map of OFOT DISTRICT and use it to answer questions 1 to 10. Sugar cane can easily be grown in the",
+		"opts": {
+			"q0": "A. eastern part of the map",
+			"q1": "B. south eastern part of the map",
+			"q2": "C. northern part of the map",
+			"q3": "D. south western part of the ma'p",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_2010_sectionb_qst1_10.jpg'> Study the Map of OFOT DISTRICT and use it to answer questions 1 to 10. OFOT is a",
+		"opts": {
+			"q0": "A. nodal town",
+			"q1": "B. port town",
+			"q2": "C. defense town",
+			"q3": "D. fishing town",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_2010_sectionb_qst1_10.jpg'> Study the Map of OFOT DISTRICT and use it to answer questions 1 to 10. The long stretch of highland in the northern part of the map is",
+		"opts": {
+			"q0": "A. caldera",
+			"q1": "B. geyser",
+			"q2": "C. ridge",
+			"q3": "D. plateau",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_2010_sectionb_qst1_10.jpg'> Study the Map of OFOT DISTRICT and use it to answer questions 1 to 10. The bearing of Agaba from Deog is about",
+		"opts": {
+			"q0": "A. 110&deg;",
+			"q1": "B. 140&deg;",
+			"q2": "C. 160&deg;",
+			"q3": "D. 190&deg;",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_2010_sectionb_qst1_10.jpg'> Study the Map of OFOT DISTRICT and use it to answer questions 1 to 10. The road network on the map",
+		"opts": {
+			"q0": "A. avoids lowlands",
+			"q1": "B. avoids highlands",
+			"q2": "C. moves through valleys",
+			"q3": "D. moves along the plateau",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_2010_sectionb_qst1_10.jpg'> Study the Map of OFOT DISTRICT and use it to answer questions 1 to 10. Which of these statements is true about the relief of the map?",
+		"opts": {
+			"q0": "A. The central area is higher than other areas",
+			"q1": "B. The northern area is generally low in elevation",
+			"q2": "C. The central area is lower than other areas",
+			"q3": "D. The southern area is generally low in elevation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_2010_sectionb_qst1_10.jpg'> Study the Map of OFOT DISTRICT and use it to answer questions 1 to 10. Which of the following is not a likely occupation of the people in Agaba?",
+		"opts": {
+			"q0": "A. Farming",
+			"q1": "B. Mining",
+			"q2": "C. Trading",
+			"q3": "D. Cattle rearing",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_2010_sectionb_qst1_10.jpg'> Study the Map of OFOT DISTRICT and use it to answer questions 1 to 10. OFOT can be described as a",
+		"opts": {
+			"q0": "A. fishing town",
+			"q1": "B. recreational centre",
+			"q2": "C. mining settlement",
+			"q3": "D. ship building centre",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	<img src='geo_2010_sectionb_qst11_13.jpg'> Use the climatic data below to answer question 11-13. The annual temperature range for the station is",
+		"opts": {
+			"q0": "A. 5.5&deg;C",
+			"q1": "B. 11&deg;C",
+			"q2": "C. 26&deg;C",
+			"q3": "D. 27&deg;C",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='geo_2010_sectionb_qst11_13.jpg'> Use the climatic data below to answer question 11-13. The climatic data above can best be represented by",
+		"opts": {
+			"q0": "A. divided circles",
+			"q1": "B. chloropleth maps",
+			"q2": "C. flow line maps",
+			"q3": "D. bar and line graphs",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	<img src='geo_2010_sectionb_qst11_13.jpg'> Use the climatic data below to answer question 11-13. The climatic data above most probably represents",
+		"opts": {
+			"q0": "A. Hot desert climate",
+			"q1": "B. Mediterranean climate",
+			"q2": "C. Tropical continental climate",
+			"q3": "D. Warm temperate climate",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	A true bearing is the angle which a line makes from the observer’s position to an object with the line pointing to",
+		"opts": {
+			"q0": "A. Magnetic North",
+			"q1": "B. Magnetic Variation",
+			"q2": "C. True North",
+			"q3": "D. Southern Hemisphere",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	It is noon at Point X (longitude 0&deg;), while it is 10.00 p.m at Point Y. What is the longtitude of point Y?",
+		"opts": {
+			"q0": "A. 150&deg;E",
+			"q1": "B. 140&deg;W",
+			"q2": "C. 130&deg;E",
+			"q3": "D. 120&deg;W",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The part of the lithosphere which forms the ocean floor is",
+		"opts": {
+			"q0": "A. sial",
+			"q1": "B. sima",
+			"q2": "C. nikel",
+			"q3": "D. nife",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following lines could be described as a Great Circle? The",
+		"opts": {
+			"q0": "A. Tropic of Cancer",
+			"q1": "B. Tropic of Capricorn",
+			"q2": "C. Equator",
+			"q3": "D. Arctic Circle",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The northern and southern limits of the apparent movement of the Sun is marked by the",
+		"opts": {
+			"q0": "A. Tropic of Capricorn and Equator",
+			"q1": "B. Tropics of Cancer and Capricorn",
+			"q2": "C. Horse Latitudes",
+			"q3": "D. North pole and South pole",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following is a true characteristic of sedimentary rocks? They",
+		"opts": {
+			"q0": "A. are laid down in strata",
+			"q1": "B. are crystalline",
+			"q2": "C. have high resistance to erosion",
+			"q3": "D. are basaltic in nature",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following fold mountains is found in Africa?",
+		"opts": {
+			"q0": "A. Himalayas",
+			"q1": "B. Alps",
+			"q2": "C. Atlas",
+			"q3": "D. Rockies",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Resurgent springs usually occur in",
+		"opts": {
+			"q0": "A. rift valleys",
+			"q1": "B. u-shaped valleys",
+			"q2": "C. limestone areas",
+			"q3": "D. glaciated areas",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following landforms is not produced by faulting?",
+		"opts": {
+			"q0": "A. Fault Scarp",
+			"q1": "B. Rift Valley",
+			"q2": "C. Sill",
+			"q3": "D. Horst",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The process of removing soluble substance such as mineral salt into lower layers of the soil is called",
+		"opts": {
+			"q0": "A. translocation",
+			"q1": "B. leaching",
+			"q2": "C. eluviation",
+			"q3": "D. illuviation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Which of the following is not a process of chemical weathering?",
+		"opts": {
+			"q0": "A. Oxidation",
+			"q1": "B. Attrition",
+			"q2": "C. Hydration",
+			"q3": "D. Carbonation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Sea tides are caused mainly by the influence off",
+		"opts": {
+			"q0": "A. earth's rotation",
+			"q1": "B. asteroids",
+			"q2": "C. the stars",
+			"q3": "D. the sun",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The most important active factor of soil formation is",
+		"opts": {
+			"q0": "A. time",
+			"q1": "B. relief",
+			"q2": "C. slope",
+			"q3": "D. climate",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Which of the following has the highest level of salinity?",
+		"opts": {
+			"q0": "A. Baltic sea",
+			"q1": "B. Antarctic ocean",
+			"q2": "C. Mediterranean sea",
+			"q3": "D. Atlantic ocean",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following is not a form of precipitation?",
+		"opts": {
+			"q0": "A. Hail",
+			"q1": "B. Dust",
+			"q2": "C. Dew",
+			"q3": "D. Snow",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	“It has humidity of over 90%, with rainfall in all months." The statement describes the",
+		"opts": {
+			"q0": "A. Equatorial climate",
+			"q1": "B. Desert climate",
+			"q2": "C. Warm temperate climate",
+			"q3": "D. Mediterranean climate",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	"The forest is both dense and luxuriant and contains a great variety of plants with broad leaved trees”. This statement describes the",
+		"opts": {
+			"q0": "A. Savannah",
+			"q1": "B. Tropical rain forest",
+			"q2": "C. Mediterranean woodland",
+			"q3": "D. Warm temperate forest",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following is not a major benefit of Savanna vegetation?",
+		"opts": {
+			"q0": "A. Livestock farming",
+			"q1": "B. Arable crop cultivation",
+			"q2": "C. Aqua culture",
+			"q3": "D. Game reserves",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The study of the continuous interaction between living things and their environments is known as",
+		"opts": {
+			"q0": "A. Ecology",
+			"q1": "B. Energy cycle",
+			"q2": "C. Biology",
+			"q3": "D. Geology",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following has very dense population?",
+		"opts": {
+			"q0": "A. The equatorial lowland of South America",
+			"q1": "B. The northern region of Canada",
+			"q2": "C. The north eastern seaboard of U.S.A",
+			"q3": "D. The western region of Australia",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following represents an increasing order in the size of settlement?",
+		"opts": {
+			"q0": "A. Isolated farmstead -> hamlet -> village -> town",
+			"q1": "B. Town -> village -> hamlet -> Isolated farmstead",
+			"q2": "C. Isolated farmstead -> village -> hamlet -> town",
+			"q3": "D. Hamlet -> village -> town -> isolated farmstead",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	"lt is an area of great industrial and agricultural activities and hence supports great concentration of people." This statement best describes",
+		"opts": {
+			"q0": "A. the Amazon basin",
+			"q1": "B. the North East of U.S.A",
+			"q2": "C. the Niger valley",
+			"q3": "D. North Africa",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	“It is the slowest and cheapest means of transport and is used for transporting bulky goods over long distances amcng nations". This statement best describes",
+		"opts": {
+			"q0": "A. road transport",
+			"q1": "B. rail transport",
+			"q2": "C. air transport",
+			"q3": "D. sea transport",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The role of transport in economic development of any nation include all except",
+		"opts": {
+			"q0": "A. national disintegration",
+			"q1": "B. movement of goods and services",
+			"q2": "C. opening up new lands and areas",
+			"q3": "D. provision of employment",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	All the following are benefits of irrigation farming except",
+		"opts": {
+			"q0": "A. provision of employment",
+			"q1": "B. making early planting possible",
+			"q2": "C. making farmers depend.solely on rainfall",
+			"q3": "D. bumper harvest",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	It is possible to harness solar energy in all the following countries except",
+		"opts": {
+			"q0": "A. Angola",
+			"q1": "B. Australia",
+			"q2": "C. Greenland",
+			"q3": "D. Thailand",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The most important trading partner of Anglophone West African countries is",
+		"opts": {
+			"q0": "A. Canada",
+			"q1": "B. Korea",
+			"q2": "C. France",
+			"q3": "D. United Kingdom",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	The smallest ocean in the world is the",
+		"opts": {
+			"q0": "A. Indian ocean",
+			"q1": "B. Pacific ocean",
+			"q2": "C. Arctic ocean",
+			"q3": "D. Atlantic ocean",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	One of the major problems of manufacturing industries in Tropical Africa is",
+		"opts": {
+			"q0": "A. high demand for manufactured products",
+			"q1": "B. inadequate raw materials",
+			"q2": "C. high quality of industrial labour",
+			"q3": "D. high cost of labour",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Man made distribution of water to farmlands in areas which suffer from inadequate rainfall is called",
+		"opts": {
+			"q0": "A. water resource management",
+			"q1": "B. irrigation",
+			"q2": "C. mulching",
+			"q3": "D. arable farming",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	In which of the following vegetation belts is lumbering an important economic activity?",
+		"opts": {
+			"q0": "A. Sahel savanna",
+			"q1": "B. Tundra",
+			"q2": "C. Sudan savanna",
+			"q3": "D. Tropical rainforest",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Lumbering is a very important activity in",
+		"opts": {
+			"q0": "A. Libya",
+			"q1": "B. Namibia",
+			"q2": "C. Liberia",
+			"q3": "D. Algeria",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	All the following countries lie on the Equator except",
+		"opts": {
+			"q0": "A. Kenya",
+			"q1": "B. Ghana",
+			"q2": "C. Somalia",
+			"q3": "D. Gabon",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Nature mostly intervenes in the state of balance in land ecosystem through",
+		"opts": {
+			"q0": "A. Earth’s revolution",
+			"q1": "B. Climatic change",
+			"q2": "C. Earth equilibrium",
+			"q3": "D. Earth rotation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following best explains the influx of refuges from Liberia to Ghana?",
+		"opts": {
+			"q0": "A. Wages are higher in Ghana than in Liberia",
+			"q1": "B. Loss of markets in Liberia for products",
+			"q2": "C. Food shortage in Liberia caused by over population",
+			"q3": "D. Great suffering in Liberia from ethnic tensions and civil war",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	One outstanding benefit of lumbering to an economy is that it",
+		"opts": {
+			"q0": "A. leads to depletion of forest",
+			"q1": "B. earns foreign exchange",
+			"q2": "C. leads to soil erosion",
+			"q3": "D. causes flooding",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following is not a member country of ECOWAS?",
+		"opts": {
+			"q0": "A. Nigeria",
+			"q1": "B. Ghana",
+			"q2": "C. Cameroun",
+			"q3": "D. Liberia",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

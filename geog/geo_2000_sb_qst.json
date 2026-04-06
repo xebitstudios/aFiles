@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_2000_sectionb_qst1_10.jpg'> Use the map of OBANTA DISTRICT below to answer questions 1 -10. What is the scale of the map in representative fraction?",
+		"opts": {
+			"q0": "A. 1:50,000",
+			"q1": "B. 1:100,000",
+			"q2": "C. 1:200,000",
+			"q3": "D. 1:400,000",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_2000_sectionb_qst1_10.jpg'> Use the map of OBANTA DISTRICT below to answer questions 1 -10. The actual distance by road between points A and B is approximately",
+		"opts": {
+			"q0": "A. 76km",
+			"q1": "B. 34km",
+			"q2": "C. 19.5km",
+			"q3": "D. 9.5km",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_2000_sectionb_qst1_10.jpg'> Use the map of OBANTA DISTRICT below to answer questions 1 -10. The direction of Aboh from Afonta is",
+		"opts": {
+			"q0": "A. north-east",
+			"q1": "B. south-east",
+			"q2": "C. south-west",
+			"q3": "D. north",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_2000_sectionb_qst1_10.jpg'> Use the map of OBANTA DISTRICT below to answer questions 1 -10. The feature marked C is an example of",
+		"opts": {
+			"q0": "A. an inselberg",
+			"q1": "B. a col",
+			"q2": "C. a peak",
+			"q3": "D. a valley",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_2000_sectionb_qst1_10.jpg'> Use the map of OBANTA DISTRICT below to answer questions 1 -10. In which of the following settlements will secondary industries be located?",
+		"opts": {
+			"q0": "A. Aboh",
+			"q1": "B. Udensi",
+			"q2": "C. Obanta",
+			"q3": "D. Afonta",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_2000_sectionb_qst1_10.jpg'> Use the map of OBANTA DISTRICT below to answer questions 1 -10. The difference in height between two contour lines in the map is",
+		"opts": {
+			"q0": "A. 500m",
+			"q1": "B. 400m",
+			"q2": "C. 100m",
+			"q3": "D. 50m",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_2000_sectionb_qst1_10.jpg'> Use the map of OBANTA DISTRICT below to answer questions 1 -10. The natural vegetation of the north-eastern part of the map is most likely to be",
+		"opts": {
+			"q0": "A. desert",
+			"q1": "B. mangrove forest",
+			"q2": "C. rainforest",
+			"q3": "D. swamp forest",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_2000_sectionb_qst1_10.jpg'> Use the map of OBANTA DISTRICT below to answer questions 1 -10. River Apama can be described as being at the",
+		"opts": {
+			"q0": "A. old staqe",
+			"q1": "B. maturity stage",
+			"q2": "C. receding stage",
+			"q3": "D. torrent stage",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_2000_sectionb_qst1_10.jpg'> Use the map of OBANTA DISTRICT below to answer questions 1 -10. The major occupation of the people of Obanta District is",
+		"opts": {
+			"q0": "A. fishing",
+			"q1": "B. mining",
+			"q2": "C. lumbering",
+			"q3": "D. farming",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_2000_sectionb_qst1_10.jpg'> Use the map of OBANTA DISTRICT below to answer questions 1 -10. The footpaths are mainly",
+		"opts": {
+			"q0": "A. mining",
+			"q1": "B. lumbering",
+			"q2": "C. farming",
+			"q3": "D. hunting",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The planet with rights of circular light and dark bands is the",
+		"opts": {
+			"q0": "A. Mars",
+			"q1": "B. Mercury",
+			"q2": "C. Jupiter",
+			"q3": "D. Neptune",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The earth rotates on its axis from",
+		"opts": {
+			"q0": "A. east to west",
+			"q1": "B. west to east",
+			"q2": "C. north to east",
+			"q3": "D. south to north",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	The longitude of London is 0&deg; while that of Sydney, Australia, is about 150&deg;E The time at Sydney would therefore be",
+		"opts": {
+			"q0": "A. 20 hours ahead of that of London",
+			"q1": "B. 10 hours ahead of that of London",
+			"q2": "C. 16 hours behind that of London",
+			"q3": "D. 10 hours behind that of London",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	The solar system comprises the sun and",
+		"opts": {
+			"q0": "A. six planets",
+			"q1": "B. seven planets",
+			"q2": "C. eight planets",
+			"q3": "D. nine planets",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The outer layer of the earth is called the",
+		"opts": {
+			"q0": "A. barysphere",
+			"q1": "B. crust",
+			"q2": "C. mantle",
+			"q3": "D. hemisphere",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Granitic rocks contain",
+		"opts": {
+			"q0": "A. silica, aluminium and iron",
+			"q1": "B. silica, iron and magnesium",
+			"q2": "C. iron and manganese",
+			"q3": "D. silica and bauxite",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Denudation involves",
+		"opts": {
+			"q0": "A. reshaping of the earth by agents of transportation",
+			"q1": "B. reshaping of the earth by agents of deposition",
+			"q2": "C. reshaping of the earth by agents of evolution",
+			"q3": "D. destruction wastages and loss of earth’s surface",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	In the desert region the most prominent agent of erosion is",
+		"opts": {
+			"q0": "A. thunderstorms",
+			"q1": "B. rainfall",
+			"q2": "C. rivers",
+			"q3": "D. wind",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Residual mountains occur when",
+		"opts": {
+			"q0": "A. there are faults on the earth’s crust",
+			"q1": "B. the earth’s crust bends due to compression",
+			"q2": "C. the general level of land is lowered by agents of denudation",
+			"q3": "D. materials are ejected from the interior of the earth and deposited on the earth’s surface",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The lower course of a river is usually associated with the formation of",
+		"opts": {
+			"q0": "A. rapids and waterfalls",
+			"q1": "B. meanders and interlocking spurs",
+			"q2": "C. v-shaped valleys",
+			"q3": "D. ox-bow lakes",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Ventifacts are products of",
+		"opts": {
+			"q0": "A. sand blasting",
+			"q1": "B. wind abrasion",
+			"q2": "C. sheet erosion",
+			"q3": "D. wind depression",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The middle course of a river normally shows",
+		"opts": {
+			"q0": "A. waterfall",
+			"q1": "B. levee",
+			"q2": "C. meanders",
+			"q3": "D. ox-bow lakes",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The Shiroro gorge can be found on River",
+		"opts": {
+			"q0": "A. Imo",
+			"q1": "B. Sokoto",
+			"q2": "C. Benue",
+			"q3": "D. Kaduna",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	One of the advantages of solar energy is that",
+		"opts": {
+			"q0": "A. it is available 24 hours of the day",
+			"q1": "B. it is natural and does not require periodic maintenance",
+			"q2": "C. it is harnessed with the aid of technology",
+			"q3": "D. it is generally abundant in all parts of the world",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	A major characteristic feature that distinguishes heavy industry from light industry is the",
+		"opts": {
+			"q0": "A. location",
+			"q1": "B. ownership",
+			"q2": "C. level of industrial waste",
+			"q3": "D. complexity of the processing technique",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following statements are true of air transport? I. Weather conditions impose a great limitation II. It can be used to carry a great deal of freight per trip III. It is most suitable for passengers and articles of high value IV. Heavy non-perishable goods can be transported more quickly",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. II and IV only",
+			"q2": "C. I and III only",
+			"q3": "D. II and III only",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	One of the advantages of water transport is that it",
+		"opts": {
+			"q0": "A. causes atmospheric pollution",
+			"q1": "B. is used for carrying agricultural commodities only",
+			"q2": "C. is not flexible",
+			"q3": "D. cannot carry bulky goods",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	A very important advantage of roads over railways in Africa is that",
+		"opts": {
+			"q0": "A. roads are easier to construct than railways",
+			"q1": "B. movement of goods by road is faster than by rail",
+			"q2": "C. more goods can be carried on roads than on railways",
+			"q3": "D. transport by railway attracts higher fares",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Which of the following is not a sea route?",
+		"opts": {
+			"q0": "A. London-Moscow-Baghdad",
+			"q1": "B. London-Capetown-Melbourne",
+			"q2": "C. New York-London-Rotterdam",
+			"q3": "D. Sydney-Suez-London",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The world’s busiest shipping routes are on the",
+		"opts": {
+			"q0": "A. Antartic Ocean",
+			"q1": "B. Indian Ocean",
+			"q2": "C. Pacific Ocean",
+			"q3": "D. Atlantic Ocean",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The major problem facing the railway transport compared to road transport is",
+		"opts": {
+			"q0": "A. inadequate manpower",
+			"q1": "B. low partronage",
+			"q2": "C. excessive speed",
+			"q3": "D. lack of flexibility",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The tourist centre of Ogbunike cave is located near",
+		"opts": {
+			"q0": "A. Kainji in Niger State",
+			"q1": "B. Yankari in Bauchi State",
+			"q2": "C. Ikeja in Lagos State",
+			"q3": "D. Onitsha in Anambra State",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Lateritization is a soil forming process characteristic of",
+		"opts": {
+			"q0": "A. humid, cool temperate latitudes",
+			"q1": "B. wet regions where precipitation exceeds evaporation",
+			"q2": "C. humid tropics where rainfall and temperatures are high thoughout the year",
+			"q3": "D. Sub-humid grasslands of the continental interiors of cool temperate regions",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Nigeria is located between longitudes",
+		"opts": {
+			"q0": "A. 3&deg;E and 15&deg;E",
+			"q1": "B. 2&deg;E and 15&deg;E",
+			"q2": "C. 1&deg;E and 10&deg;E",
+			"q3": "D. 3&deg;E and 10&deg;E",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Import tariffs are imposed on goods entering a country in order to",
+		"opts": {
+			"q0": "A. encourage importation of goods from abroad",
+			"q1": "B. protect the growth of local industries",
+			"q2": "C. discourage the growth of local industries",
+			"q3": "D. save a lot of money in foreign accounts",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	All the major industrial zones of Nigeria owe their origin mainly to",
+		"opts": {
+			"q0": "A. self-help projects",
+			"q1": "B. influx of migrant labour",
+			"q2": "C. the presence of cash crops",
+			"q3": "D. the abundance of water resources",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	A major problem in agricultural development in Nigeria is",
+		"opts": {
+			"q0": "A. insufficient labour",
+			"q1": "B. the presence of equatorial forest",
+			"q2": "C. insufficient storage facilities",
+			"q3": "D. the application of fertilizer instead of manure",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Which of the following is notan element of climate?",
+		"opts": {
+			"q0": "A. Altitude",
+			"q1": "B. Temperature",
+			"q2": "C. Air Pressure",
+			"q3": "D. Precipitation",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Which of the following climatic types is found on the western margins of continents between altitudes 30&deg; and 40&deg; North and South of the Equator?",
+		"opts": {
+			"q0": "A. Monsoon",
+			"q1": "B. Mediterranean",
+			"q2": "C. Sudan Savanna",
+			"q3": "D. China type",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Cement factory is usually located near",
+		"opts": {
+			"q0": "A. source of capital",
+			"q1": "B. source of labour",
+			"q2": "C. source of raw materials",
+			"q3": "D. the market",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Desert encroachment can best be controlled by",
+		"opts": {
+			"q0": "A. erecting barriers",
+			"q1": "B. slopewise cultivation",
+			"q2": "C. afforestation",
+			"q3": "D. over-grazing",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	In northern Nigeria, the most common type of vegetation is",
+		"opts": {
+			"q0": "A. cool temperate forest",
+			"q1": "B. temperate grassland",
+			"q2": "C. tropical rainforest",
+			"q3": "D. tropical grassland",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The coastline of West Africa in Liberia and Ghana especially near Monrovia and Sekondi respectively is an example of",
+		"opts": {
+			"q0": "A. delta",
+			"q1": "B. low cliff",
+			"q2": "C. rias",
+			"q3": "D. estuary",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Which of the following countries is located in North Africa?",
+		"opts": {
+			"q0": "A. Zaire",
+			"q1": "B. Rwanda",
+			"q2": "C. Namibia",
+			"q3": "D. Algeria",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The bulk of Nigerian timber is obtained from the",
+		"opts": {
+			"q0": "A. Sudan savanna",
+			"q1": "B. Rain-forest",
+			"q2": "C. Guinea savanna",
+			"q3": "D. Salt water swamp forest",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The major problem facing the utilization of human resources in West Africa is",
+		"opts": {
+			"q0": "A. soil infertility",
+			"q1": "B. housing for all by the year 2000",
+			"q2": "C. unemployment",
+			"q3": "D. emigration",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Roads constructed to span long distance and across continents are called",
+		"opts": {
+			"q0": "A. expressways",
+			"q1": "B. ropeways",
+			"q2": "C. trans-continental highways",
+			"q3": "D. inter-regional major roads",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The most limiting factor in the establishment of manufacturing industries in Tropical Africa is",
+		"opts": {
+			"q0": "A. climate",
+			"q1": "B. capital",
+			"q2": "C. land",
+			"q3": "D. market",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following best explains the presence of the Namib Desert in South-West Africa?",
+		"opts": {
+			"q0": "A. The area is too far from sea",
+			"q1": "B. The coast is washed by the Westerlies",
+			"q2": "C. The area is far from Kalahari desert",
+			"q3": "D. The coast is washed by the cool Benguele current",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The best solution to the rapid depletion of forest resources in West Africa is to",
+		"opts": {
+			"q0": "A. reserve hectares of land for plantations",
+			"q1": "B. introduce forest conservation tenchniques",
+			"q2": "C. import wood from other countries",
+			"q3": "D. employ more forest guards",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

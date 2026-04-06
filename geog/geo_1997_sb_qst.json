@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_1997_sectionb_qst1_10.jpg'> Use the map of ORANGE DISTRICT below to answer questions 1 -10. The scale of the map is?",
+		"opts": {
+			"q0": "A. 1 : 10,000",
+			"q1": "B. 1 : 50,000",
+			"q2": "C. 1 : 100,000",
+			"q3": "D. 1 : 150,000",
+			"q4": "E. 1 : 200,000"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_1997_sectionb_qst1_10.jpg'> Use the map of ORANGE DISTRICT below to answer questions 1 -10. The actual distance by road from Ogba to Ajigba is about",
+		"opts": {
+			"q0": "A. 8cm",
+			"q1": "B. 11.4cm",
+			"q2": "C. 5km",
+			"q3": "D. 8km",
+			"q4": "E. 11.4km"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_1997_sectionb_qst1_10.jpg'> Use the map of ORANGE DISTRICT below to answer questions 1 -10. The area of the map is approximately",
+		"opts": {
+			"q0": "A. 18km<sup>2</sup>",
+			"q1": "B. 36km<sup>2</sup>",
+			"q2": "C. 81m<sup>2</sup>",
+			"q3": "D. 267km<sup>2</sup>",
+			"q4": "E. 421km<sup>2</sup>"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_1997_sectionb_qst1_10.jpg'> Use the map of ORANGE DISTRICT below to answer questions 1 -10. The gradient of the river Ohun between points X and Y is approximately",
+		"opts": {
+			"q0": "A. 1 : 10",
+			"q1": "B. 1 : 12",
+			"q2": "C. 1 : 16",
+			"q3": "D. 1 : 20",
+			"q4": "E. 1 : 40"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_1997_sectionb_qst1_10.jpg'> Use the map of ORANGE DISTRICT below to answer questions 1 -10. The angular bearing of Ogba from Oranre is",
+		"opts": {
+			"q0": "A. 310&deg;",
+			"q1": "B. 230&deg;",
+			"q2": "C. 130&deg;",
+			"q3": "D. 050&deg;",
+			"q4": "E. 040&deg;"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_1997_sectionb_qst1_10.jpg'> Use the map of ORANGE DISTRICT below to answer questions 1 -10. The highest point above sea level on the map is over",
+		"opts": {
+			"q0": "A. 1,000mm",
+			"q1": "B. 900m",
+			"q2": "C. 800m",
+			"q3": "D. 700m",
+			"q4": "E. 600m"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_1997_sectionb_qst1_10.jpg'> Use the map of ORANGE DISTRICT below to answer questions 1 -10. Which of the following is not true of the drainage network on the map?",
+		"opts": {
+			"q0": "A. River Ohun is a right hand tributary of River Oyi",
+			"q1": "B. The drainage pattern in the central part is radial",
+			"q2": "C. River Oyi is flowing north-eastward",
+			"q3": "D. The rivers are flowing over impervious rocks",
+			"q4": "E. Most of the rivers are seasonal"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_1997_sectionb_qst1_10.jpg'> Use the map of ORANGE DISTRICT below to answer questions 1 -10. Orile is located on a",
+		"opts": {
+			"q0": "A. valley",
+			"q1": "B. spur",
+			"q2": "C. headland",
+			"q3": "D. flood plain",
+			"q4": "E. scarp"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_1997_sectionb_qst1_10.jpg'> Use the map of ORANGE DISTRICT below to answer questions 1 -10. The feature marked Z can best be described as",
+		"opts": {
+			"q0": "A. an island",
+			"q1": "B. a depression",
+			"q2": "C. an-ox-bow lake",
+			"q3": "D. a knoll",
+			"q4": "E. a gap"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_1997_sectionb_qst1_10.jpg'> Use the map of ORANGE DISTRICT below to answer questions 1 -10. Which of the following is most likely to be obtained from the quary ataru?",
+		"opts": {
+			"q0": "A. Gravel",
+			"q1": "B. Laterite",
+			"q2": "C. Limestone",
+			"q3": "D. Sand",
+			"q4": "E. Clay"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The planet with the shortest orbit round the sun is",
+		"opts": {
+			"q0": "A. Mars",
+			"q1": "B. Venus",
+			"q2": "C. Mercury",
+			"q3": "D. Saturn",
+			"q4": "E. Uranus"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Which of the following statements is true?",
+		"opts": {
+			"q0": "A. Any two opposite lines of latitudes make a Great Circle",
+			"q1": "B. Local time in places west of the Greenwich is ahead of the local time in the east",
+			"q2": "C. A time difference of 4 minutes exists for every 24&deg; of longitude",
+			"q3": "D. The distance of one degree of latitude is constant at approximately 111 km",
+			"q4": "E. Angular distances east and west of the equator are measured in degrees of latitude"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Because of its shape, the earth is best described as a",
+		"opts": {
+			"q0": "A. geosphere",
+			"q1": "B. geoid",
+			"q2": "C. spheroid",
+			"q3": "D. sphere",
+			"q4": "E. circle"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Which of the following statements is not correct?",
+		"opts": {
+			"q0": "A. Igneous rocks do not contain fossils",
+			"q1": "B. Rocks that are changed by great heat and pressure are called sedimentary rocks",
+			"q2": "C. Basalt and granite are examples of igneous rocks",
+			"q3": "D. Marble and gneiss are examples of metamorphic rocks",
+			"q4": "E. Rocks that are formed through the extrusion of molten magma are called volcanic rocks"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	A plateau has all the following characteristics except that",
+		"opts": {
+			"q0": "A. it sometimes serves as a watershed",
+			"q1": "B. it is higher than the surrounding areas",
+			"q2": "C. it is an elevated stretch of land",
+			"q3": "D. it has a uniformly flat unbroken surface",
+			"q4": "E. rivers draining it flow swiftly at its edges"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The process by which the earth’s surface is generally reshaped and lowered is known as",
+		"opts": {
+			"q0": "A. pediplanation",
+			"q1": "B. denudation",
+			"q2": "C. synclination",
+			"q3": "D. subsidence",
+			"q4": "E. weathering"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Braiding on the lower course of a river is caused by",
+		"opts": {
+			"q0": "A. a reduction of the volume load carried by the river",
+			"q1": "B. deposition of a large volume of materials on the level plain",
+			"q2": "C. Erosion on the concave slope and deposition on the convex slope",
+			"q3": "D. the raising of the general level of the flood plain",
+			"q4": "E. deposition of shingle on the slip-off slope"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Exfoliation is weathering process associated with",
+		"opts": {
+			"q0": "A. hot, arid regions",
+			"q1": "B. hot, humid regions",
+			"q2": "C. cold dry regions",
+			"q3": "D. cold wet regions",
+			"q4": "E. polar regions"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following is not a feature of river erosion?",
+		"opts": {
+			"q0": "A. Waterfalls",
+			"q1": "B. Gorges",
+			"q2": "C. V-shaped valleys",
+			"q3": "D. Deltas",
+			"q4": "E. Interlocking spurs"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	In which of the following do fishes thrive best?",
+		"opts": {
+			"q0": "A. Ocean deeps",
+			"q1": "B. Continental shelf",
+			"q2": "C. Deep sea plains",
+			"q3": "D. Continental slopes",
+			"q4": "E. Ocean trenches"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following best explains the decrease in temperature with height within the lower layers of the atmosphere?",
+		"opts": {
+			"q0": "A. The air receives its heat directly from the sun’s rays",
+			"q1": "B. The earth is the main source of the heat given up to the air",
+			"q2": "C. An increase in height is associated with increase in rainfall",
+			"q3": "D. There are always water particles in the air at high altitudes",
+			"q4": "E. There is little mixing of air at higher altitudes"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The mean annual range of temperature of a place is obtained by",
+		"opts": {
+			"q0": "A. adding the monthly mean temperatures for one year and dividing them by 12",
+			"q1": "B. adding the lowest temperature for one year to the highest for the year",
+			"q2": "C. adding the mean daily temperatures for one year and dividing by 365",
+			"q3": "D. subtracting the lowest mean daily temperature from the highest mean daily temperature for the year",
+			"q4": "E. subtracting the lowest mean monthly temperature from the highest mean monthly temperature for the year"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The energy received from the sun at a particular place is called",
+		"opts": {
+			"q0": "A. insolation",
+			"q1": "B. convection",
+			"q2": "C. conduction",
+			"q3": "D. heatwave",
+			"q4": "E. advection"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	A radiation fog is likely to develop when there is",
+		"opts": {
+			"q0": "A. gradual gain in heat by radiation on clear, calm nights",
+			"q1": "B. rapid gain of humidity by insolation on calm days",
+			"q2": "C. rapid loss of heat by radiation on clear, calm nights",
+			"q3": "D. rapid gain of heat by radiation on clear calm days",
+			"q4": "E. gradual loss of humidity by evaporation on calm days"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	The climate is characterised by an alternate hot, rainy season and cool, dry season. The vegetation consists mostly of tall grass and short trees which are mostly deciduous”. The climate being described is the",
+		"opts": {
+			"q0": "A. savanna",
+			"q1": "B. cool temperate (British type)",
+			"q2": "C. warm temperate (China type)",
+			"q3": "D. tropical monsoon",
+			"q4": "E. desert"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	"Long, very cold winters, low annual rainfall with 24 hours of darkness in the middle of winter” The climate being described is the",
+		"opts": {
+			"q0": "A. montane type",
+			"q1": "B. cool temperate western margin type",
+			"q2": "C. tundra type",
+			"q3": "D. cool temperate, interior type",
+			"q4": "E. warm temperate western margin type"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Sheet erosion can best be described as the",
+		"opts": {
+			"q0": "A. uniform removal of soil from every part of a slope",
+			"q1": "B. scattering of small soil particles by raindrops",
+			"q2": "C. removal of soils in concentrated channels",
+			"q3": "D. detachment and transportation of soil particles",
+			"q4": "E. blowing away of surface soil"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	A vertical cross section of soil layers differing in colour, texture and other characteristics is called",
+		"opts": {
+			"q0": "A. podzol",
+			"q1": "B. soil profile",
+			"q2": "C. laterite",
+			"q3": "D. soil slump",
+			"q4": "E. soil horizon"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	A major characteristic of tropical savanna woodland vegetation is that",
+		"opts": {
+			"q0": "A. it consists of tall grass only",
+			"q1": "B. it is thickly forested",
+			"q2": "C. tall grasses and scattered trees predominate",
+			"q3": "D. trees are predominant",
+			"q4": "E. the trees form a continuous canopy"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following activities will lead to deterioration of the environment?",
+		"opts": {
+			"q0": "A. Planting of trees",
+			"q1": "B. Contour ploughing",
+			"q2": "C. Afforestation",
+			"q3": "D. Creation of shelter belts",
+			"q4": "E. Overgrazing"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Carnivores are important in the food chain because they",
+		"opts": {
+			"q0": "A. depend on sunlight for energy",
+			"q1": "B. feed on both plants and animals",
+			"q2": "C. feed on animals only",
+			"q3": "D. feed on plants only",
+			"q4": "E. bring about microbial action"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	All the following are associated with mining except",
+		"opts": {
+			"q0": "A. Pollution",
+			"q1": "B. Erosion",
+			"q2": "C. Dumps",
+			"q3": "D. Deforestation",
+			"q4": "E. Exfoliation"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Urban population growth problems include all the following except",
+		"opts": {
+			"q0": "A. Birth control",
+			"q1": "B. Unemployment",
+			"q2": "C. Poor housing",
+			"q3": "D. Insufficient food supply",
+			"q4": "E. Inadequate health facilities"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	The world population is estimated at about",
+		"opts": {
+			"q0": "A. 2.0 billion",
+			"q1": "B. 4.0 billion",
+			"q2": "C. 6.0 billion",
+			"q3": "D. 8.0 billion",
+			"q4": "E. 10.0 billion"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Which of the following countries is noted for its problem of population pressure?",
+		"opts": {
+			"q0": "A. Canada",
+			"q1": "B. India",
+			"q2": "C. Nigeria",
+			"q3": "D. Libya",
+			"q4": "E. USA"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	All the following are characteristics of a nucleated settlement except that",
+		"opts": {
+			"q0": "A. social amenities are provided there",
+			"q1": "B. it has a compact pattern",
+			"q2": "C. its inhabitants are heterogenous",
+			"q3": "D. it is served by a good transport system",
+			"q4": "E. it is self-sufficient"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	A continuous urban or industrial stretch resulting from the merging of cities is called",
+		"opts": {
+			"q0": "A. a satellite town",
+			"q1": "B. a squatter settlement",
+			"q2": "C. a conurbation",
+			"q3": "D. a holiday resort",
+			"q4": "E. an urban centre"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Which of the following factors least explains the variations in the natural vegetation cover in Nigeria?",
+		"opts": {
+			"q0": "A. Temperature",
+			"q1": "B. Rain",
+			"q2": "C. Relief",
+			"q3": "D. Soil",
+			"q4": "E. Man"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The major effect of flooding in Nigeria is the",
+		"opts": {
+			"q0": "A. increase in the volume of water available for domestic use",
+			"q1": "B. high yield per hectare of agricultural land",
+			"q2": "C. cooling of adjacent areas",
+			"q3": "D. detruction of farms and houses",
+			"q4": "E. dumping of refuse along river channels"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Which of the following zones in Nigeria has the least concentration of manufacturing industries?",
+		"opts": {
+			"q0": "A. North-Central",
+			"q1": "B. Western",
+			"q2": "C. Mid-Western",
+			"q3": "D. South-Eastern",
+			"q4": "E. North-Western"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	The Niger-Benue trough of Nigeria is underlain mainly by",
+		"opts": {
+			"q0": "A. crystalline rocks",
+			"q1": "B. younger sedimentary rocks",
+			"q2": "C. older sedimentary rocks",
+			"q3": "D. basement complex rocks",
+			"q4": "E. volcanic rocks"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Which of the following towns is paired with wrong environmental hazard?",
+		"opts": {
+			"q0": "A. Kano-Earthquake",
+			"q1": "B. Enugu-Gully erosion",
+			"q2": "C. Akure-Deforestation",
+			"q3": "D. Maiduguri-Desert encroachment",
+			"q4": "E. Lagos-flooding"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Which of the following peoples can be found in most parts of West Africa? The",
+		"opts": {
+			"q0": "A. Wollof",
+			"q1": "B. Ewe",
+			"q2": "C. Mandingo",
+			"q3": "D. Gola",
+			"q4": "E. Hausa"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The sparse population of the Middle Belt of West Africa could be traced to all the following factors except",
+		"opts": {
+			"q0": "A. inter-ethnic wars",
+			"q1": "B. Arab slave trade in the north",
+			"q2": "C. the swamps created by rivers Niger and Benue",
+			"q3": "D. European slave trade in the south",
+			"q4": "E. the presence of pests and diseases"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The savanna lands of East Africa are best known for their",
+		"opts": {
+			"q0": "A. wild life",
+			"q1": "B. rich mineral resources",
+			"q2": "C. inter-ethnic wars",
+			"q3": "D. large rivers",
+			"q4": "E. industries"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The membership of the ECOWAS consists of",
+		"opts": {
+			"q0": "A. 12 states",
+			"q1": "B. 14 states",
+			"q2": "C. 16 states",
+			"q3": "D. 18 states",
+			"q4": "E. 20 states"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	In Southern Africa, the Mediterranean vegetation can be found in the areas around",
+		"opts": {
+			"q0": "A. Durban",
+			"q1": "B. Natal",
+			"q2": "C. Cape Town",
+			"q3": "D. Pretoria",
+			"q4": "E. Johannesburg"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The Kabora Bassa dam is located on River",
+		"opts": {
+			"q0": "A. Senegal",
+			"q1": "B. Volta",
+			"q2": "C. Orange",
+			"q3": "D. Zambesi",
+			"q4": "E. Limpopo"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	One of the major threats to fruit farming in the Mediterranean regions of Africa is the",
+		"opts": {
+			"q0": "A. dominance of European settlers",
+			"q1": "B. fluctuations in prices of the products",
+			"q2": "C. heavy rains that flood the farms",
+			"q3": "D. damaging effect of strong winds on fruits",
+			"q4": "E. perishable nature of the fruits"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following is a major irrigation scheme on the Nile Valley?",
+		"opts": {
+			"q0": "A. Hadeija-Jama’are",
+			"q1": "B. Richard Toll",
+			"q2": "C. Managil extension",
+			"q3": "D. Shabelle",
+			"q4": "E. Juba extension"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

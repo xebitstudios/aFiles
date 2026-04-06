@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_2002_sectionb_qst1_10.jpg'> Study the Map of AKWU DISTRICT and use it to answer questions 1 to 10. The scale of the map in Representative Fraction is",
+		"opts": {
+			"q0": "A. 1:300,000",
+			"q1": "B. 1:200,000",
+			"q2": "C. 1:150,000",
+			"q3": "D. 1:50,000",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_2002_sectionb_qst1_10.jpg'> Study the Map of AKWU DISTRICT and use it to answer questions 1 to 10. If the map is enlarged to twice its size, the new scale will",
+		"opts": {
+			"q0": "A. 1:100,000",
+			"q1": "B. 1:200,000",
+			"q2": "C. 1:300,000",
+			"q3": "D. 1:400,000",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_2002_sectionb_qst1_10.jpg'> Study the Map of AKWU DISTRICT and use it to answer questions 1 to 10. The total area covered by the map is",
+		"opts": {
+			"q0": "A. 1010km<sup>2</sup>",
+			"q1": "B. 1020km<sup>2</sup>",
+			"q2": "C. 1045km<sup>2</sup>",
+			"q3": "D. 1055km<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_2002_sectionb_qst1_10.jpg'> Study the Map of AKWU DISTRICT and use it to answer questions 1 to 10. The feature marked K in the south eastern part of the map is a",
+		"opts": {
+			"q0": "A. ridge",
+			"q1": "B. cuesta",
+			"q2": "C. conical hill",
+			"q3": "D. dissected hill",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_2002_sectionb_qst1_10.jpg'> Study the Map of AKWU DISTRICT and use it to answer questions 1 to 10. Which of the following is a likely economic activity in the mapped area?",
+		"opts": {
+			"q0": "A. Lumbering",
+			"q1": "B. Animal rearing",
+			"q2": "C. Mining",
+			"q3": "D. Wood carving",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_2002_sectionb_qst1_10.jpg'> Study the Map of AKWU DISTRICT and use it to answer questions 1 to 10. The highest contour line on the map is",
+		"opts": {
+			"q0": "A. 250m",
+			"q1": "B. 350m",
+			"q2": "C. 550m",
+			"q3": "D. 650m",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_2002_sectionb_qst1_10.jpg'> Study the Map of AKWU DISTRICT and use it to answer questions 1 to 10. Akwu is an example of a",
+		"opts": {
+			"q0": "A. linear settlement",
+			"q1": "B. nodal settlement",
+			"q2": "C. scattered settlement",
+			"q3": "D. hill-slope settlement",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_2002_sectionb_qst1_10.jpg'> Study the Map of AKWU DISTRICT and use it to answer questions 1 to 10. The reduced bearing of lloakwu from the road junction at Akwu is approximately",
+		"opts": {
+			"q0": "A. N45&deg;E",
+			"q1": "B. N60&deg;W",
+			"q2": "C. S30&deg;N",
+			"q3": "D. S50&deg;E",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_2002_sectionb_qst1_10.jpg'> Study the Map of AKWU DISTRICT and use it to answer questions 1 to 10. All the following pairs of settlements are intervisible except",
+		"opts": {
+			"q0": "A. Akwu and Idumuegbu",
+			"q1": "B. lloakwu and Akwu",
+			"q2": "C. Umuije and Akwu",
+			"q3": "D. Umuogene and Umuije",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_2002_sectionb_qst1_10.jpg'> Study the Map of AKWU DISTRICT and use it to answer questions 1 to 10. Akwu is likely to be the most important settlement in the area because it is",
+		"opts": {
+			"q0": "A. both an administrative and a commercial centre",
+			"q1": "B. a nucleated settlement",
+			"q2": "C. on a road junction",
+			"q3": "D. at the centre of the map",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Temperature statistics can best be represented with",
+		"opts": {
+			"q0": "A. line graphs",
+			"q1": "B. pie graphs",
+			"q2": "C. dot maps",
+			"q3": "D. density maps",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The earth’s movement from west to east on its own axis is known as",
+		"opts": {
+			"q0": "A. rotation",
+			"q1": "B. revolution",
+			"q2": "C. friction",
+			"q3": "D. gravitation",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	The tilting of the earth's axis and the revolution of the earth cause",
+		"opts": {
+			"q0": "A. differences in the length of day and night",
+			"q1": "B. differences in time between places on different longitudes",
+			"q2": "C. the deflection of ocean currents and winds",
+			"q3": "D. low tides and high tides",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Lines of longitude can best be described as",
+		"opts": {
+			"q0": "A. parallel lines that show the angular distance of a place north or south of the equator",
+			"q1": "B. imaginary lines on the earth’s surface running from the north pole to the south pole and at right angles to the parallels",
+			"q2": "C. semi-circles on the globe",
+			"q3": "D. the distance of a place east or west of the prime meridian",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	If it is 3pm GMT on Sunday at Accra, what will be the local time in town X located on longitude 165&deg;E?",
+		"opts": {
+			"q0": "A. 2.00am on Saturday",
+			"q1": "B. 10.00pm on Sunday",
+			"q2": "C. 11.00pm on Sunday",
+			"q3": "D. 2.00am on Monday",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The shortest flying route between any two points on the earth’s surface lies along the",
+		"opts": {
+			"q0": "A. Tropic of Capricorn",
+			"q1": "B. Tropic of Cancer",
+			"q2": "C. Great Circle",
+			"q3": "D. South Pole",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following planets has a single satellite?",
+		"opts": {
+			"q0": "A. Jupiter",
+			"q1": "B. Saturn",
+			"q2": "C. Uranus",
+			"q3": "D. Earth",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	When granite is subjected to intense heat or pressure, it forms",
+		"opts": {
+			"q0": "A. quartzite",
+			"q1": "B. slate",
+			"q2": "C. graphite",
+			"q3": "D. gneiss",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following rocks is most likely to be weathered by the process of solution?",
+		"opts": {
+			"q0": "A. Slate",
+			"q1": "B. Graphite",
+			"q2": "C. Limestone",
+			"q3": "D. Granite",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	When magma solidifies at the crest of an anticline or at the bottom of a syncline, the feature formed is called",
+		"opts": {
+			"q0": "A. batholith",
+			"q1": "B. laccolith",
+			"q2": "C. phacolith",
+			"q3": "D. lapolith",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Physical weathering is expected to be most active in the",
+		"opts": {
+			"q0": "A. tropical continental region",
+			"q1": "B. hot desert region",
+			"q2": "C. warm temperate region",
+			"q3": "D. arctic region",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following is a feature of extrusive vulcanicity?",
+		"opts": {
+			"q0": "A. Lopolith",
+			"q1": "B. Sill",
+			"q2": "C. Composite cone",
+			"q3": "D. Batholith",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The correct sequence in the process of denudation is",
+		"opts": {
+			"q0": "A. weathering—transportation—erosion—deposition",
+			"q1": "B. weathering—erosion—deposition—transportation",
+			"q2": "C. erosion—weathering—transportation—deposition",
+			"q3": "D. weathering—erosion—transportation—deposition",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	The movement and direction of ocean currents are affected by the",
+		"opts": {
+			"q0": "A. rate of evaporation of sea water",
+			"q1": "B. rotation of the earth",
+			"q2": "C. volume of ocean water",
+			"q3": "D. relief of the ocean bed",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Temperatures are high throughout the year in equatorial areas mainly because",
+		"opts": {
+			"q0": "A. insolation is constantly high",
+			"q1": "B. of permanent cloud cover",
+			"q2": "C. equatorial areas are influenced by currents",
+			"q3": "D. there are few highlands to reduce temperature",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The difference in the readings on the wet and dry-bulb thermometers is used to determine",
+		"opts": {
+			"q0": "A. atmospheric pressure",
+			"q1": "B. precipitation",
+			"q2": "C. evaporation",
+			"q3": "D. relative humidity",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The instrument used for measuring atmospheric pressure is known as",
+		"opts": {
+			"q0": "A. rain guage",
+			"q1": "B. thermometer",
+			"q2": "C. barometer",
+			"q3": "D. sundial",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	The variation in salinity of sea water depends on all the following factors except the",
+		"opts": {
+			"q0": "A. rate of evaporation",
+			"q1": "B. amount of fresh water supplied by rivers",
+			"q2": "C. rate of water mixing by ocean currents",
+			"q3": "D. slope of the land",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Heavy rainfall is often associated with high temperatures because",
+		"opts": {
+			"q0": "A. areas of higt temperature are always influenced by cold winds",
+			"q1": "B. cold air cools down slowly to make condensation possible",
+			"q2": "C. cold air retains moisture better than warm air",
+			"q3": "D. warm air is capable of holding more moisture than cold air",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Downward-growing pinnacles that hang from the roofs of caves in limestone regions are called",
+		"opts": {
+			"q0": "A. stalactites",
+			"q1": "B. dints",
+			"q2": "C. zeugen",
+			"q3": "D. grikes",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following does not favour the formation of deltas?",
+		"opts": {
+			"q0": "A. A long upper course of a river",
+			"q1": "B. A reduction in river velocity at its lower course",
+			"q2": "C. A lot of sediments in the lower course of a river",
+			"q3": "D. The existence of large lakes in the middle and lower portions of a river",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Environmental controls include all the following except",
+		"opts": {
+			"q0": "A. afforestation",
+			"q1": "B. preservation",
+			"q2": "C. conservation",
+			"q3": "D. degradation",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following is not a characteristic of the rain-forest?",
+		"opts": {
+			"q0": "A. There is a great variety of tree",
+			"q1": "B. Many of the trees have large buttresses",
+			"q2": "C. There are many climbing plants",
+			"q3": "D. Absence of epiphytes",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	The largest concentration of human population is in",
+		"opts": {
+			"q0": "A. North America",
+			"q1": "B. Western Europe",
+			"q2": "C. West Africa",
+			"q3": "D. South East Asia",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The population of India is mainly characterised by",
+		"opts": {
+			"q0": "A. low birth rate",
+			"q1": "B. high death rate",
+			"q2": "C. balance in age and sex structure",
+			"q3": "D. high growth rate",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	If the total population of a country is 25,000,000 and her total land area is 100,000 square kilometres, what is her population density?",
+		"opts": {
+			"q0": "A. 500 persons per sq. km",
+			"q1": "B. 450 persons per sq. km",
+			"q2": "C. 350 persons per sq. km",
+			"q3": "D. 250 persons per sq. km",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following features promote the development of nucleated settlements?",
+		"opts": {
+			"q0": "A. Nodal centres and natural harbours",
+			"q1": "B. Narrow valleys and rugged highlands",
+			"q2": "C. Dissected plains and nodal centres",
+			"q3": "D. Extensive fertile plains and steep valleys",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The main difference between towns and villages is that",
+		"opts": {
+			"q0": "A. towns contain more women",
+			"q1": "B. villages have more occupations",
+			"q2": "C. towns perform more tertiary functions",
+			"q3": "D. villages have more food",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Most of the industries located in rural areas are",
+		"opts": {
+			"q0": "A. market-oriented",
+			"q1": "B. high energy-oriented ",
+			"q2": "C. raw material-oriented",
+			"q3": "D. transport-oriented",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Which of the following is a service industry?",
+		"opts": {
+			"q0": "A. Leather processing",
+			"q1": "B. Farming",
+			"q2": "C. Petroleum refining",
+			"q3": "D. Banking",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	One characteristic of intensive farming is that it is usually practised in urban centres with",
+		"opts": {
+			"q0": "A. inadequate water supply",
+			"q1": "B. large population",
+			"q2": "C. low population",
+			"q3": "D. mineral deposits",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	The most important method of mining tin in Nigeria is the",
+		"opts": {
+			"q0": "A. shaft",
+			"q1": "B. open cast",
+			"q2": "C. drilling",
+			"q3": "D. adit",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Trade among West African countries is low mainly because they",
+		"opts": {
+			"q0": "A. are generally poor",
+			"q1": "B. have different currencies",
+			"q2": "C. produce different goods",
+			"q3": "D. produce similar goods",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	In which of the following order is copper produced?",
+		"opts": {
+			"q0": "A. Blasting-grinding-crushing-floting-smelting",
+			"q1": "B. Blasting-crushing-floting-grinding-smelting",
+			"q2": "C. Blasting-crushing-grinding-floting-smelting",
+			"q3": "D. Crushing-blasting-grinding-smelting-floting",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The major difference between the tropical rain-forest and the savanna is that savanna vegetation",
+		"opts": {
+			"q0": "A. and the rain-forest never occur on the same continent",
+			"q1": "B. is natural while the rain-forest is derived",
+			"q2": "C. grows in layers while the rain-forest does not",
+			"q3": "D. has less species of plants while the rain-forest has diverse species of plants",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The vegetation type characterised by short grasses and stunted trees is the",
+		"opts": {
+			"q0": "A. warm temperate grassland",
+			"q1": "B. Sudan savanna",
+			"q2": "C. Guinea savanna",
+			"q3": "D. cool temperate grassland",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following is not a cause of desertification in West Africa?",
+		"opts": {
+			"q0": "A. Constant high temperature",
+			"q1": "B. Deforestation",
+			"q2": "C. Overcultivation",
+			"q3": "D. Overgrazing",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The most critical element in an ecosystem is the",
+		"opts": {
+			"q0": "A. growth per day",
+			"q1": "B. energy flow within the system",
+			"q2": "C. number of organisms in the system",
+			"q3": "D. location of the system",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The most important cash crop grown in the Nile Basin is",
+		"opts": {
+			"q0": "A. barley",
+			"q1": "B. cotton",
+			"q2": "C. groundnut",
+			"q3": "D. sugar cane",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The leading producer of diamond in Africa is",
+		"opts": {
+			"q0": "A. Zaire (Democratic Republic of Congo)",
+			"q1": "B. Nigeria",
+			"q2": "C. Tanzania",
+			"q3": "D. The Gambia",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

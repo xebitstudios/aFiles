@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_2006_sectionb_qst1_10.jpg'> Study the Map of TARKWA DISTRICT and use it to answer questions 1 to 10. What is the approximate distance by road between Toab and Oboli?",
+		"opts": {
+			"q0": "A. 4.0 kilometres",
+			"q1": "B. 5.0 kilometres",
+			"q2": "C. 6.0 kilometres",
+			"q3": "D. 7.0 kilometres",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_2006_sectionb_qst1_10.jpg'> Study the Map of TARKWA DISTRICT and use it to answer questions 1 to 10. The angular bearing of Shoe from Oboli is approximately",
+		"opts": {
+			"q0": "A. 300&deg;",
+			"q1": "B. 243&deg;",
+			"q2": "C. 207&deg;",
+			"q3": "D. 27&deg;",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_2006_sectionb_qst1_10.jpg'> Study the Map of TARKWA DISTRICT and use it to answer questions 1 to 10. Which of the following settlements is not visible from Koma?",
+		"opts": {
+			"q0": "A. Tarkwa",
+			"q1": "B. Oboli",
+			"q2": "C. Shoe",
+			"q3": "D. Awow",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_2006_sectionb_qst1_10.jpg'> Study the Map of TARKWA DISTRICT and use it to answer questions 1 to 10. The major activity of people in Shoe is likely to br",
+		"opts": {
+			"q0": "A. Mining",
+			"q1": "B. Farming",
+			"q2": "C. Lumbering",
+			"q3": "D. Fishing",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_2006_sectionb_qst1_10.jpg'> Study the Map of TARKWA DISTRICT and use it to answer questions 1 to 10. Which of the following crops can be successfully cultivated around Y?",
+		"opts": {
+			"q0": "A. Millet",
+			"q1": "B. Wheat",
+			"q2": "C. Coffee",
+			"q3": "D. Rice",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_2006_sectionb_qst1_10.jpg'> Study the Map of TARKWA DISTRICT and use it to answer questions 1 to 10. Tunpani is important for",
+		"opts": {
+			"q0": "A. rice cultivation",
+			"q1": "B. mining",
+			"q2": "C. lumbering",
+			"q3": "D. cattle rearing",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_2006_sectionb_qst1_10.jpg'> Study the Map of TARKWA DISTRICT and use it to answer questions 1 to 10. There are few settlements to the east because of the",
+		"opts": {
+			"q0": "A. absence of roads",
+			"q1": "B. presence of a forest reserve",
+			"q2": "C. absence of water resources",
+			"q3": "D. predominance of rugged landscape",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	} ,
+	"Q8": {
+		"qs": "8.	<img src='geo_2006_sectionb_qst1_10.jpg'> Study the Map of TARKWA DISTRICT and use it to answer questions 1 to 10. The feature marked X is a",
+		"opts": {
+			"q0": "A. spur",
+			"q1": "B. ridge",
+			"q2": "C. cliff",
+			"q3": "D. plateau",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_2006_sectionb_qst1_10.jpg'> Study the Map of TARKWA DISTRICT and use it to answer questions 1 to 10. The area covered by the map is approximately",
+		"opts": {
+			"q0": "A. 294 km<sup>2</sup>",
+			"q1": "B. 256 km<sup>2</sup>",
+			"q2": "C. 190 km<sup>2</sup>",
+			"q3": "D. 180 km<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_2006_sectionb_qst1_10.jpg'> Study the Map of TARKWA DISTRICT and use it to answer questions 1 to 10. The distance between Tunpani and Awow ‘as the crow flies’ is",
+		"opts": {
+			"q0": "A. 2.50 km",
+			"q1": "B. 4.25 km",
+			"q2": "C. 6.45 km",
+			"q3": "D. 8.25 km",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The farthest planet from the sun in the solar system is the",
+		"opts": {
+			"q0": "A. Mercury",
+			"q1": "B. Earth",
+			"q2": "C. Saturn",
+			"q3": "D. Pluto",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	Which of the following is not a proof to show that the earth is spherical in shape?",
+		"opts": {
+			"q0": "A. Sunrise and sunset",
+			"q1": "B. Aerial photograph",
+			"q2": "C. Lunar eclipse",
+			"q3": "D. Twilight and dawn",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	Latitude 66<sup>1</sup>&frasl;<sub>2</sub> &deg;S marks the",
+		"opts": {
+			"q0": "A. Antarctic circle",
+			"q1": "B. Arctic circle",
+			"q2": "C. Tropic of Cancer",
+			"q3": "D. Tropic of Capricorn",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	What is the distance along a great circle between Latitudes 27&deg;S and 23.5&deg;N of the equator?",
+		"opts": {
+			"q0": "A. 5,705.5 km",
+			"q1": "B. 5,610.5 km",
+			"q2": "C. 5,500.5 km",
+			"q3": "D. 5,405.5 km",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The direction of wind is recorded by an instrument called",
+		"opts": {
+			"q0": "A. anemometer",
+			"q1": "B. wind vane",
+			"q2": "C. hygrometer",
+			"q3": "D. barometer",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Diurnal range of temperature is obtained by",
+		"opts": {
+			"q0": "A. adding all temperature readings for the day",
+			"q1": "B. adding all temperature readings for the month",
+			"q2": "C. subtracting the minimum temperature of the day from the maximum temperature of the same day",
+			"q3": "D. subtracting the minimum temperature for the month from the maximum temperature for the same month",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Koppen’s climatic classification was based on",
+		"opts": {
+			"q0": "A. rainfall only",
+			"q1": "B. the longitude of a place",
+			"q2": "C. both rainfall and temperature",
+			"q3": "D. the latitude of a place",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The dust particles over which moisture settles when condensation takes place is known as",
+		"opts": {
+			"q0": "A. atmospheric nuclei",
+			"q1": "B. hydrocarbon",
+			"q2": "C. smoke",
+			"q3": "D. nitrogen",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	An example of organically formed sedimentary rock is",
+		"opts": {
+			"q0": "A. sandstone",
+			"q1": "B. rock salt",
+			"q2": "C. grit",
+			"q3": "D. limestone",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	A river transports its load through the following processes except",
+		"opts": {
+			"q0": "A. solution",
+			"q1": "B. suspension",
+			"q2": "C. traction",
+			"q3": "D. plucking",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The difference between high tide and low tide is referred to as",
+		"opts": {
+			"q0": "A. tidal gauge",
+			"q1": "B. tidal height",
+			"q2": "C. tidal range",
+			"q3": "D. tidal flow",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	All the following are found in the upper course of a river except",
+		"opts": {
+			"q0": "A. v-shaped valleys",
+			"q1": "B. ox-bow lakes",
+			"q2": "C. interlocking spurs",
+			"q3": "D. waterfalls",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The typical red tropical soil is",
+		"opts": {
+			"q0": "A. deeply weathered in nature, with marked A horizon and little humus",
+			"q1": "B. rich in humus, with healthy overhead vegetation and high temperature",
+			"q2": "C. deeply weathered in nature and rich in humus",
+			"q3": "D. rich in humus with high temperature",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Plung pool is a feature of",
+		"opts": {
+			"q0": "A. river meanders",
+			"q1": "B. interlocking spurs",
+			"q2": "C. waterfalls",
+			"q3": "D. water rapids",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	All the following are examples of intrusive volcanic features except",
+		"opts": {
+			"q0": "A. dykes",
+			"q1": "B. sills",
+			"q2": "C. lava plateaux",
+			"q3": "D. batholiths",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The formation of metamorphic rocks normally involves the change of other rocks through",
+		"opts": {
+			"q0": "A. solution",
+			"q1": "B. heat",
+			"q2": "C. folding",
+			"q3": "D. tension",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Which of the following rocks is used for fuel?",
+		"opts": {
+			"q0": "A. Lignite",
+			"q1": "B. Granite",
+			"q2": "C. Diorite",
+			"q3": "D. Mica",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	A basin where rock layers have been down folded and in which permeable rock which has trapped water is sandwiched between impermeable layers is referred to as",
+		"opts": {
+			"q0": "A. drainage basin",
+			"q1": "B. river basin",
+			"q2": "C. water basin",
+			"q3": "D. artesian basin",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Which of the following mountains is not a fold mountain?",
+		"opts": {
+			"q0": "A. The Atlas",
+			"q1": "B. The Andes",
+			"q2": "C. The Vosges",
+			"q3": "D. The Himalayas",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	All the following are features produced by wind erosion except",
+		"opts": {
+			"q0": "A. rock pedestals",
+			"q1": "B. zeugens",
+			"q2": "C. rift valleys",
+			"q3": "D. yardangs",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The mediterranean type of climate is best favoured for",
+		"opts": {
+			"q0": "A. yam cultivation",
+			"q1": "B. fruit growing",
+			"q2": "C. cotton cultivation",
+			"q3": "D. wheat production",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following is a north-easterly wind from the Sahara blowing towards the Gulf of Guinea?",
+		"opts": {
+			"q0": "A. The Sirocco",
+			"q1": "B. The Fohn",
+			"q2": "C. The Harmattan",
+			"q3": "D. The Chinook",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Continental shelves are important for all the following except",
+		"opts": {
+			"q0": "A. fishing",
+			"q1": "B. sea piracy",
+			"q2": "C. development of harbour",
+			"q3": "D. recreation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Spits and bars are formed by",
+		"opts": {
+			"q0": "A. river erosion",
+			"q1": "B. wind deposition",
+			"q2": "C. wave erosion",
+			"q3": "D. wave deposition",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	All the following constitute environmental hazards except",
+		"opts": {
+			"q0": "A. urbanization",
+			"q1": "B. mass wasting",
+			"q2": "C. earthquakes",
+			"q3": "D. drought",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The Equatorial forests of the Amazon basin is generally referred to as the",
+		"opts": {
+			"q0": "A. Campos",
+			"q1": "B. Selvas",
+			"q2": "C. Pampas",
+			"q3": "D. Llanos",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Xerophytic plants are usually associated with",
+		"opts": {
+			"q0": "A. regions of heavy rainfall",
+			"q1": "B. waterlogging",
+			"q2": "C. areas of low rainfall",
+			"q3": "D. windward part of a highland",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	<img src='geo_2006_sectionb_qst38_40.jpg'> Use the figure below to answer questions 38 to 40. The total population of the inhabitants of region B above is",
+		"opts": {
+			"q0": "A. 300,000",
+			"q1": "B. 290,000",
+			"q2": "C. 280,000",
+			"q3": "D. 270,000",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	<img src='geo_2006_sectionb_qst38_40.jpg'> Use the figure below to answer questions 38 to 40. The difference between the population of region A and region C is",
+		"opts": {
+			"q0": "A. 15,000",
+			"q1": "B. 20,000",
+			"q2": "C. 25,000",
+			"q3": "D. 30,000",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	<img src='geo_2006_sectionb_qst38_40.jpg'> Use the figure below to answer questions 38 to 40. What is the total population of regions A, B and C?",
+		"opts": {
+			"q0": "A. 680,000",
+			"q1": "B. 550,000",
+			"q2": "C. 530,000",
+			"q3": "D. 500,000",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	“Houses are far apart from one another. They are commonly connected by foot path”. This description refers to",
+		"opts": {
+			"q0": "A. ribbon settlement",
+			"q1": "B. dispersed settlement",
+			"q2": "C. nucleated settlement",
+			"q3": "D. urban settlement",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Ports that specialize in receiving and redistributing goods to neighbouring countries are called",
+		"opts": {
+			"q0": "A. river ports",
+			"q1": "B. entrepots",
+			"q2": "C. outports",
+			"q3": "D. inland ports",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	An area is said to be over-populated if",
+		"opts": {
+			"q0": "A. there is not enough food to cater for the population",
+			"q1": "B. its inhabitants are not using birth control methods",
+			"q2": "C. it has more people than its developed physical and human resources can support",
+			"q3": "D. there is massive rural-urban migration",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The greatest problem associated with cattle rearing in West Africa is",
+		"opts": {
+			"q0": "A. inadequate capital",
+			"q1": "B. the absence of high quality cattle",
+			"q2": "C. insufficient market",
+			"q3": "D. the presence of tse-tse fly",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following is a major benefit of international trade?",
+		"opts": {
+			"q0": "A. Total dependence on other countries for essential goods",
+			"q1": "B. Revenue generation",
+			"q2": "C. Stabilization of prices",
+			"q3": "D. Free movement of people across borders",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Perishable goods; items of high unit value (gold, diamond) are best transported by",
+		"opts": {
+			"q0": "A. road",
+			"q1": "B. rail",
+			"q2": "C. air",
+			"q3": "D. sea",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	One of the functions performed by rural settlements for urban settlements is the provision of",
+		"opts": {
+			"q0": "A. employment",
+			"q1": "B. agricultural products",
+			"q2": "C. manufactured goods",
+			"q3": "D. ideas and innovations",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following is not a contribution of land transport to the economic development of any country?",
+		"opts": {
+			"q0": "A. Generation of income",
+			"q1": "B. Employment opportunities",
+			"q2": "C. Depopulation of urban centres",
+			"q3": "D. Diffusion of ideas and innovations",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of these African countries is noted for lumbering?",
+		"opts": {
+			"q0": "A. Chad",
+			"q1": "B. Uganda",
+			"q2": "C. Zaire (Now Democratic Republic of Congo (DRC)",
+			"q3": "D. Kenya",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The major causes of change in population size are",
+		"opts": {
+			"q0": "A. births, deaths and migration",
+			"q1": "B. births, marriage and deaths",
+			"q2": "C. births, accidents and deaths",
+			"q3": "D. migration, fertility and marriage",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

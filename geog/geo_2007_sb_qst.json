@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_2007_sectionb_qst1_10.jpg'> Study the Map of SERA DISTRICT and use it to answer questions 1 to 10. The feature marked G on the map represents a",
+		"opts": {
+			"q0": "A. cuesta",
+			"q1": "B. mountain",
+			"q2": "C. slope",
+			"q3": "D. saddle",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_2007_sectionb_qst1_10.jpg'> Study the Map of SERA DISTRICT and use it to answer questions 1 to 10. The feature marked Y-Z is known as",
+		"opts": {
+			"q0": "A. plateau",
+			"q1": "B. hanging valley",
+			"q2": "C. convex slope",
+			"q3": "D. dip slope",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_2007_sectionb_qst1_10.jpg'> Study the Map of SERA DISTRICT and use it to answer questions 1 to 10. What is the approximate length of River Tui?",
+		"opts": {
+			"q0": "A. 2.5 km",
+			"q1": "B. 3.6 km",
+			"q2": "C. 4.5 km",
+			"q3": "D. 5.5 km",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_2007_sectionb_qst1_10.jpg'> Study the Map of SERA DISTRICT and use it to answer questions 1 to 10. The highest point on the map is a little above",
+		"opts": {
+			"q0": "A. 250 m",
+			"q1": "B. 300 m",
+			"q2": "C. 400 m",
+			"q3": "D. 500 m",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_2007_sectionb_qst1_10.jpg'> Study the Map of SERA DISTRICT and use it to answer questions 1 to 10. River Lep flows from",
+		"opts": {
+			"q0": "A. West to South East",
+			"q1": "B. North West to South West",
+			"q2": "C. South to West",
+			"q3": "D. North East to South West",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_2007_sectionb_qst1_10.jpg'> Study the Map of SERA DISTRICT and use it to answer questions 1 to 10. SERA may be described as a",
+		"opts": {
+			"q0": "A. fishing town",
+			"q1": "B. coastal town",
+			"q2": "C. nodal town",
+			"q3": "D. gap town",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_2007_sectionb_qst1_10.jpg'> Study the Map of SERA DISTRICT and use it to answer questions 1 to 10. Which of the following towns are not intervisible?",
+		"opts": {
+			"q0": "A. Labe and Mongo",
+			"q1": "B. Sera and Tafu",
+			"q2": "C. Sera and Pita",
+			"q3": "D. Ta and Pita",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_2007_sectionb_qst1_10.jpg'> Study the Map of SERA DISTRICT and use it to answer questions 1 to 10. What is the approximate bearing of Labe from Mongo?",
+		"opts": {
+			"q0": "A. 20&deg;",
+			"q1": "B. 40&deg;",
+			"q2": "C. 190&deg;",
+			"q3": "D. 270&deg;",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_2007_sectionb_qst1_10.jpg'> Study the Map of SERA DISTRICT and use it to answer questions 1 to 10. The feature marked Q is a",
+		"opts": {
+			"q0": "A. conical hill",
+			"q1": "B. cliff",
+			"q2": "C. knoll",
+			"q3": "D. spur",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_2007_sectionb_qst1_10.jpg'> Study the Map of SERA DISTRICT and use it to answer questions 1 to 10. The relief feature marked P is a",
+		"opts": {
+			"q0": "A. meander",
+			"q1": "B. Cliff",
+			"q2": "C. confluence",
+			"q3": "D. broad valley",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following does not prove that the earth is spherical in shape?",
+		"opts": {
+			"q0": "A. Tilting of the earth on its axis",
+			"q1": "B. The curved horizon of the earth",
+			"q2": "C. The eclipse of the moon",
+			"q3": "D. Aerial photographs of the earth taken by astronauts",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	During the equinoxes",
+		"opts": {
+			"q0": "A. there are 6 hours of darkness and 18 hours of daylight in the Northern Hemisphere",
+			"q1": "B. there is complete darkness for 24 hours at the North Pole",
+			"q2": "C. there is continuous daylight for 24 hours at the South Pole",
+			"q3": "D. days and nights are equal in length for all places throughout the world",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	The movement of the earth round the sun is termed the earth’s",
+		"opts": {
+			"q0": "A. evolution",
+			"q1": "B. revolution",
+			"q2": "C. rotation",
+			"q3": "D. orbit",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Seasonal changes in weather and climate are caused by",
+		"opts": {
+			"q0": "A. rotation of the earth on its axis",
+			"q1": "B. direct overhead sun on the Tropic of Cancer",
+			"q2": "C. direct overhead sun on the Tropic of Capricorn",
+			"q3": "D. revolution of the earth round the sun",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	What is the distance between Accra, Latitude 5&deg;30 N and London, Latitude 51&deg;30 N?",
+		"opts": {
+			"q0": "A. 5,406 km",
+			"q1": "B. 5,306 km",
+			"q2": "C. 5,216 km",
+			"q3": "D. 5,106 km",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The annual rainfall data of a particular station can best be represented with a",
+		"opts": {
+			"q0": "A. simple line graph",
+			"q1": "B. simple bar graph",
+			"q2": "C. compound line graph",
+			"q3": "D. cumulative bar graph",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Density maps are most appropriate for showing",
+		"opts": {
+			"q0": "A. the distribution of people in a place",
+			"q1": "B. movement of crude oil to refineries",
+			"q2": "C. relief features of a place",
+			"q3": "D. temperature variation of a country",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The area of low pressure around the Equator is the",
+		"opts": {
+			"q0": "A. Doldrums",
+			"q1": "B. Horse latitudes",
+			"q2": "C. Sub-tropical low",
+			"q3": "D. Sub-tropical high",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Rocks of the core of the earth are rich in",
+		"opts": {
+			"q0": "A. iron and nickel",
+			"q1": "B. silicon and magnesia",
+			"q2": "C. iron and magnesia",
+			"q3": "D. silica and nickel",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following is an intrusive igneous rock?",
+		"opts": {
+			"q0": "A. Shale",
+			"q1": "B. Granite",
+			"q2": "C. Sandstone",
+			"q3": "D. Marble",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following is not a metamorphic rock?",
+		"opts": {
+			"q0": "A. Slate",
+			"q1": "B. Marble",
+			"q2": "C. Loess",
+			"q3": "D. Gneiss",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Chemical weathering takes place most effectively where it is",
+		"opts": {
+			"q0": "A. dry all the time",
+			"q1": "B. cold and wet",
+			"q2": "C. warm and dry",
+			"q3": "D. hot and wet",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	<img src='geo_2007_sectionb_qst22_23.jpg'> Use Figure 1 below to answer questions 23 and 24. The Figure 1 represents",
+		"opts": {
+			"q0": "A. an overthrust fold",
+			"q1": "B. a simple fold",
+			"q2": "C. an asymmetrical fold",
+			"q3": "D. a symmetrical fold",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	<img src='geo_2007_sectionb_qst22_23.jpg'> Use Figure 1 below to answer questions 23 and 24. The line FF is called",
+		"opts": {
+			"q0": "A. an isoline",
+			"q1": "B. a line of fracture",
+			"q2": "C. a syncline",
+			"q3": "D. an anticline",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Which of the following is a feature of river deposition?",
+		"opts": {
+			"q0": "A. Levee",
+			"q1": "B. Scree",
+			"q2": "C. Barchan",
+			"q3": "D. Morraine",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The swash of a wave is more powerful than the backwash because it",
+		"opts": {
+			"q0": "A. carries more sand",
+			"q1": "B. has the force of the breaking wave behind it",
+			"q2": "C. brings more water",
+			"q3": "D. has a long length",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Which of the following favours the formation of rift valleys? I. Tensional forces in the earth’s crust II. Compressional forces in the earth’s crust III. Lateral forces in the earth’s crust IV. The subsidence of the rift valley floor",
+		"opts": {
+			"q0": "A. I and III only",
+			"q1": "B. I, II and IV only",
+			"q2": "C. I and II only",
+			"q3": "D. II and III only",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	A fog is most likely to develop when a",
+		"opts": {
+			"q0": "A. cold dry wind blows over a cold current",
+			"q1": "B. warm moist wind blows over a cold current",
+			"q2": "C. cold dry wind blows over a warm current",
+			"q3": "D. warm moist wind blows over a warm current",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The instrument used for measuring atmospheric pressure is",
+		"opts": {
+			"q0": "A. wind vane",
+			"q1": "B. anemometer",
+			"q2": "C. barometer",
+			"q3": "D. wet bulb thermometer",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Humidity is the amount of",
+		"opts": {
+			"q0": "A. cloud cover in the sky",
+			"q1": "B. water vapour in the atmosphere",
+			"q2": "C. moisture needed to cause condensation",
+			"q3": "D. mist in the atmosphere",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Convectional rains are most common in",
+		"opts": {
+			"q0": "A. Equatorial regions and Tropical Monsoon climates",
+			"q1": "B. Polar regions and Mediterranean climates",
+			"q2": "C. Temperate regions",
+			"q3": "D. Temperate and Mediterranean regions",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The instrument used for measuring relative humidity is called",
+		"opts": {
+			"q0": "A. hygrometer",
+			"q1": "B. wind vane",
+			"q2": "C. anemometer",
+			"q3": "D. thermometer",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Equal degree of cloudiness is represented by",
+		"opts": {
+			"q0": "A. isoneph",
+			"q1": "B. isobar",
+			"q2": "C. choropleth map",
+			"q3": "D. pie chart",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following is not a problem of overpopulation?",
+		"opts": {
+			"q0": "A. Widespread unemployment",
+			"q1": "B. Inadequate workforce",
+			"q2": "C. A rapid increase in population",
+			"q3": "D. A decline in standard of health",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The largest man-made lake in Africa is",
+		"opts": {
+			"q0": "A. Volta",
+			"q1": "B. Tana",
+			"q2": "C. Malawi",
+			"q3": "D. Kainji",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Africa’s exploitation of solar energy will result in the following except",
+		"opts": {
+			"q0": "A. less amount of solar energy received by plants for photosynthesis",
+			"q1": "B. savings in liquid fuel",
+			"q2": "C. savings on electricity cost",
+			"q3": "D. reduction in the use of fuel wood",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following mountains is not in Africa?",
+		"opts": {
+			"q0": "A. Tibesti",
+			"q1": "B. Atlas",
+			"q2": "C. Andes",
+			"q3": "D. Ruwenzori",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	All the following are associated with rainfall in Africa except",
+		"opts": {
+			"q0": "A. movement of the ITCZ",
+			"q1": "B. convectional nature of hot tropical air",
+			"q2": "C. movement of moist air masses over higher ground",
+			"q3": "D. on-shore movement of cold air",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Which of the following is a landlocked country?",
+		"opts": {
+			"q0": "A. Ghana",
+			"q1": "B. Tunisia",
+			"q2": "C. Burundi",
+			"q3": "D. South Africa",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Which of the following countries is a major producer of copper?",
+		"opts": {
+			"q0": "A. Chad",
+			"q1": "B. Zambia",
+			"q2": "C. Burundi",
+			"q3": "D. Morocco",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "40.	The dominant climatic elements that control soil development are",
+		"opts": {
+			"q0": "A. temperature and pressure",
+			"q1": "B. precipitation and wind",
+			"q2": "C. temperature and precipitation",
+			"q3": "D. precipitation and humidity",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	<img src='geo_2007_sectionb_qst42_43.jpg'> Figure 2 above shows a feeding relationship in an ecosystem. Use it to answer questions 42 and 43. The feeding relationship above shows a",
+		"opts": {
+			"q0": "A. symbiotic relationship",
+			"q1": "B. parasitic relationship",
+			"q2": "C. food chain",
+			"q3": "D. food web",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	<img src='geo_2007_sectionb_qst42_43.jpg'> Figure 2 above shows a feeding relationship in an ecosystem. Use it to answer questions 42 and 43. Which of the following is a primary producer?",
+		"opts": {
+			"q0": "A. Snake",
+			"q1": "B. Lizard",
+			"q2": "C. Grass",
+			"q3": "D. Grasshopper",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The relationship between the elements of an ecosystem is best described as",
+		"opts": {
+			"q0": "A. parasitic",
+			"q1": "B. symbiotic",
+			"q2": "C. multidirectional",
+			"q3": "D. interdependent",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following is not a characteristic of warm currents?",
+		"opts": {
+			"q0": "A. They flow mostly along the east coast of continents",
+			"q1": "B. They flow from the polar region to the equatorial region",
+			"q2": "C. They have a high surface temperature",
+			"q3": "D. They flow from the equatorial to the polar region",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of the following African countries does not export petroleum?",
+		"opts": {
+			"q0": "A. Niqeria",
+			"q1": "B. Libya",
+			"q2": "C. Kenya",
+			"q3": "D. Botswana",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The Sahel savanna vegetation is predominantly found in",
+		"opts": {
+			"q0": "A. Cote d’Ivoire",
+			"q1": "B. Mauritania",
+			"q2": "C. Morocco",
+			"q3": "D. Sierra Leone",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following is not a problem of timber exploitation in Tropical Africa?",
+		"opts": {
+			"q0": "A. Inadequate transport facilities",
+			"q1": "B. Trees not in pure stand",
+			"q2": "C. Difficult terrain",
+			"q3": "D. Heavy rainfall",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The largest off-shore island in Africa is the",
+		"opts": {
+			"q0": "A. Island of Madagascar",
+			"q1": "B. Canary Island",
+			"q2": "C. St. Helena Island",
+			"q3": "D. Cape Verde Island",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following is not a capital city of an ECOWAS state?",
+		"opts": {
+			"q0": "A. Nairobi",
+			"q1": "B. Lome",
+			"q2": "C. Dakar",
+			"q3": "D. Bissau",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

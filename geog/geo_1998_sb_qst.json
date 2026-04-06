@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_1998_sectionb_qst1_10.jpg'> Use the map of DlKWA DISTRICT to answer Questions 1-10. Dikwa’s growth can best be explained by its importance as a",
+		"opts": {
+			"q0": "A. fishing port",
+			"q1": "B. nodal town",
+			"q2": "C. mining town",
+			"q3": "D. river port",
+			"q4": "E. tourist centre"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_1998_sectionb_qst1_10.jpg'> Answer all the questions. Use the map of DlKWA DISTRICT to answer Questions 1-10. The feature marked Y is a",
+		"opts": {
+			"q0": "A. ridge",
+			"q1": "B. hill",
+			"q2": "C. col",
+			"q3": "D. plain",
+			"q4": "E. cliff"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_1998_sectionb_qst1_10.jpg'> Use the map of DlKWA DISTRICT to answer Questions 1-10. The contour interval is",
+		"opts": {
+			"q0": "A. 50m",
+			"q1": "B. 100m",
+			"q2": "C. 500m",
+			"q3": "D. 700m",
+			"q4": "E. 900m"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_1998_sectionb_qst1_10.jpg'> Use the map of DlKWA DISTRICT to answer Questions 1-10. How many tributaries has River Maira?",
+		"opts": {
+			"q0": "A. One",
+			"q1": "B. Two",
+			"q2": "C. Three",
+			"q3": "D. Four",
+			"q4": "E. Five"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_1998_sectionb_qst1_10.jpg'> Use the map of DlKWA DISTRICT to answer Questions 1-10. If a cross profile is drawn from M to N which of the following shapes will it take",
+		"opts": {
+			"q0": "A. <img src='geo_1998_sectionb_qst5_1.jpg'>",
+			"q1": "B. <img src='geo_1998_sectionb_qst5_2.jpg'>",
+			"q2": "C. <img src='geo_1998_sectionb_qst5_3.jpg'>",
+			"q3": "D. <img src='geo_1998_sectionb_qst5_4.jpg'>",
+			"q4": "E. <img src='geo_1998_sectionb_qst5_5.jpg'>"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_1998_sectionb_qst1_10.jpg'> Use the map of DlKWA DISTRICT to answer Questions 1-10. The natural vegetation in the north-western part of the map is most likely to be",
+		"opts": {
+			"q0": "A. Mediterranean forest",
+			"q1": "B. Montane forest",
+			"q2": "C. Rainforest",
+			"q3": "D. Mangrove forest",
+			"q4": "E. Savanna"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_1998_sectionb_qst1_10.jpg'> Use the map of DlKWA DISTRICT to answer Questions 1-10. Which of the following settlements will be visible from Takwa?",
+		"opts": {
+			"q0": "A. Dawa",
+			"q1": "B. Dikwa",
+			"q2": "C. Kauna",
+			"q3": "D. Yilam",
+			"q4": "E. Jodu"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_1998_sectionb_qst1_10.jpg'> Use the map of DlKWA DISTRICT to answer Questions 1-10. The approximate bearing of Bundu from Tasima",
+		"opts": {
+			"q0": "A. 045&deg;",
+			"q1": "B. 065&deg;",
+			"q2": "C. 133&deg;",
+			"q3": "D. 227&deg;",
+			"q4": "E. 315&deg;"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_1998_sectionb_qst1_10.jpg'> Use the map of DlKWA DISTRICT to answer Questions 1-10. The predominant occupation of the people at Koras is likely to be",
+		"opts": {
+			"q0": "A. rice cultivation",
+			"q1": "B. lumbering",
+			"q2": "C. mining",
+			"q3": "D. livestock farming",
+			"q4": "E. fishing"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_1998_sectionb_qst1_10.jpg'> Use the map of DlKWA DISTRICT to answer Questions 1-10. Which of the following is true of the River Maira? It",
+		"opts": {
+			"q0": "A. flows into the ocean",
+			"q1": "B. has meanders",
+			"q2": "C. is seasonal",
+			"q3": "D. is barded and has many cataracts",
+			"q4": "E. flows from the north-eastern highlands"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Stars tend to form clusters known as",
+		"opts": {
+			"q0": "A. satellites",
+			"q1": "B. Adromeda spiral",
+			"q2": "C. planets",
+			"q3": "D. galaxies",
+			"q4": "E. solar system"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	The earth’s axis is inclined to the plane of the ecliptic at an angle of",
+		"opts": {
+			"q0": "A. 90&deg;",
+			"q1": "B. 66<sup>1</sup>&frasl;<sub>2</sub>&deg;",
+			"q2": "C. 50&deg;",
+			"q3": "D. 23<sup>1</sup>&frasl;<sub>2</sub>&deg;",
+			"q4": "E. 15&deg;"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	When molten magma solidifies along bedding planes the feature formed is known as",
+		"opts": {
+			"q0": "A. sill",
+			"q1": "B. basalt",
+			"q2": "C. lava",
+			"q3": "D. batnoiith",
+			"q4": "E. ash cone"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Standard time zones are created because",
+		"opts": {
+			"q0": "A. of the inconvenience of adjusting watches by travellers",
+			"q1": "B. of the peculiar shapes and locations of some countries",
+			"q2": "C. of the great east west stretch",
+			"q3": "D. all countries on the same meridian agreed to keep the same time",
+			"q4": "E. the local time is advanced by one hour"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	All the following rocks are metamorphic except",
+		"opts": {
+			"q0": "A. gneiss",
+			"q1": "B. marble",
+			"q2": "C. gabbro",
+			"q3": "D. slate",
+			"q4": "E. quartzite"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the statements is not correct about sedimentary rocks? They",
+		"opts": {
+			"q0": "A. could be formed by water",
+			"q1": "B. are usually in layers",
+			"q2": "C. are non-crystalline",
+			"q3": "D. often contain fossils",
+			"q4": "E. are formed in upland areas"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	A composite coe is a volcano having successive layers of",
+		"opts": {
+			"q0": "A. ash and cinder only",
+			"q1": "B. cinder, ash and pyroclasts",
+			"q2": "C. ash, acid lava and parasitic cones",
+			"q3": "D. pyroclasts and parasitic cones",
+			"q4": "E. pyroclasts, ash and gases"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	A mountain that has been denuded is called",
+		"opts": {
+			"q0": "A. a horst",
+			"q1": "B. a fold mountain",
+			"q2": "C. an intermontane",
+			"q3": "D. a volcanic mountain",
+			"q4": "E. a residual mountain"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following affects the flow of ocean currents?",
+		"opts": {
+			"q0": "A. Latitude",
+			"q1": "B. Humidity",
+			"q2": "C. Longitude",
+			"q3": "D. Earth’s rotation",
+			"q4": "E. Ocean depth"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	A wave which retreats after hiting the coast is called",
+		"opts": {
+			"q0": "A. backwash",
+			"q1": "B. swash",
+			"q2": "C. underlow",
+			"q3": "D. trough",
+			"q4": "E. wavelength"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The atmospheric condition of a place over a long period of time refers to its",
+		"opts": {
+			"q0": "A. temperature",
+			"q1": "B. weather",
+			"q2": "C. pressure",
+			"q3": "D. climate",
+			"q4": "E. rainfall"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	Which of the following weather elements is paired with the wrong instrument?",
+		"opts": {
+			"q0": "A. Atmospheric pressure and barometer ",
+			"q1": "B. Humidity and anemometer",
+			"q2": "C. Rainfall and rain gauge",
+			"q3": "D. Wind direction and wind vane",
+			"q4": "E. Minimum and maximum temperature and the Six’s Thermometer"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The major useful component of the atmosphere is",
+		"opts": {
+			"q0": "A. neon",
+			"q1": "B. air",
+			"q2": "C. dust particles",
+			"q3": "D. carbon dioxide",
+			"q4": "E. oxygen"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	The sunshine duration of a place is recorded by a",
+		"opts": {
+			"q0": "A. cup anemometer",
+			"q1": "B. sundial",
+			"q2": "C. sunshine recorder",
+			"q3": "D. thermometer",
+			"q4": "E. barometer"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	In humid climates, the process by which dissolved minerals in a horizon of the soil are transported downwards is known as",
+		"opts": {
+			"q0": "A. leaching",
+			"q1": "B. calcification",
+			"q2": "C. oxidation",
+			"q3": "D. transpiration",
+			"q4": "E. percolation"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Which of the following crops requires sandy porous and well aerated soils for growth?",
+		"opts": {
+			"q0": "A. Tea",
+			"q1": "B. Coffee",
+			"q2": "C. Rice",
+			"q3": "D. Cocoa",
+			"q4": "E. Groundnut"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The substance that cements soil particles together is",
+		"opts": {
+			"q0": "A. air",
+			"q1": "B. nutrients",
+			"q2": "C. sand",
+			"q3": "D. colloid",
+			"q4": "E. loam"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Soils of the rainforest are rich in humus because of the",
+		"opts": {
+			"q0": "A. multiple species of trees",
+			"q1": "B. dense vegetation cover",
+			"q2": "C. large quantity of decayed leaves",
+			"q3": "D. absence of sunlight at the surface",
+			"q4": "E. heavy rainfall"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The vegetation belt associated with valuable hard wood is the",
+		"opts": {
+			"q0": "A. Sahel Savanna",
+			"q1": "B. Tropical rainforest",
+			"q2": "C. Coniferous forest",
+			"q3": "D. Mediterranean forest",
+			"q4": "E. Montane forest"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Temperate grasslands are generally important for",
+		"opts": {
+			"q0": "A. mining",
+			"q1": "B. floating of logs",
+			"q2": "C. animal grazing",
+			"q3": "D. processing of meat and cheese",
+			"q4": "E. burning of grass for fuel"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	The greatest problem in the use of solar energy is",
+		"opts": {
+			"q0": "A. the high risk in its usage",
+			"q1": "B. its unreliability from day to day and season to season",
+			"q2": "C. the high intensity associated with the sun",
+			"q3": "D. the high cost of transporting it for domestic use",
+			"q4": "E. its frequency of power failure"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	The sparse population in the Amazon Basin is best explained by the",
+		"opts": {
+			"q0": "A. very high temperature all the year round",
+			"q1": "B. low range of temperature for agriculture",
+			"q2": "C. thick vegetation for settlements and agriculture",
+			"q3": "D. high relief and rugged terrain",
+			"q4": "E. high humidity and moist conditions"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	One danger about the present rate of increase in world population is",
+		"opts": {
+			"q0": "A. an improved standard of living",
+			"q1": "B. the fear of submergence of the earth",
+			"q2": "C. the high ratio of adults to children",
+			"q3": "D. decline in the supply of labour",
+			"q4": "E. an acute food shortage"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	A rapid population growth in a region can be caused by",
+		"opts": {
+			"q0": "A. more deaths than births",
+			"q1": "B. high emigration",
+			"q2": "C. the use of family planning methods",
+			"q3": "D. improved medical care",
+			"q4": "E. natural hazards"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Which of the following represents an urban-rural migration?",
+		"opts": {
+			"q0": "A. A student from the village school gains admission to the university in the town",
+			"q1": "B. Moving to the urban centre for medical service",
+			"q2": "C. Travelling from Lagos to the village on retirement",
+			"q3": "D. A civil servant gets transfered from one town to another",
+			"q4": "E. A parent from the village visits his son in the town"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	A rural settlement is a settlement classified by",
+		"opts": {
+			"q0": "A. age",
+			"q1": "B. site",
+			"q2": "C. altitude",
+			"q3": "D. function",
+			"q4": "E. shape"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following settlement types is strongly associated with tourism?",
+		"opts": {
+			"q0": "A. Rural settlement",
+			"q1": "B. Commercial centre",
+			"q2": "C. Port town",
+			"q3": "D. Holiday resort",
+			"q4": "E. Confluence town"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Air transportation has a low patronage because it",
+		"opts": {
+			"q0": "A. is fast",
+			"q1": "B. is irregular",
+			"q2": "C. is useful in war time only",
+			"q3": "D. opens up remote areas",
+			"q4": "E. is costly"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	All the following are light industries except",
+		"opts": {
+			"q0": "A. ship building, locomotives and chemicals",
+			"q1": "B. printing, flour-milling and furniture-making",
+			"q2": "C. locomotives, electronics and textiles",
+			"q3": "D. paper, furniture and electronics",
+			"q4": "E. electronics, furniture and ship-building"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	One major problem of development in the Niger-Benue trough is",
+		"opts": {
+			"q0": "A. inadequate rainfall",
+			"q1": "B. very high relief",
+			"q2": "C. desert encroachment",
+			"q3": "D. inadequate water supply",
+			"q4": "E. excessive flooding"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following modes of transportation in Nigeria is limited by weather?",
+		"opts": {
+			"q0": "A. Water",
+			"q1": "B. Pipeline",
+			"q2": "C. Road",
+			"q3": "D. Air",
+			"q4": "E. Rail"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Irrigation farming is highly practiced in Northern Nigeria because of the",
+		"opts": {
+			"q0": "A. abundant plains for the cultivation",
+			"q1": "B. limited market for its products",
+			"q2": "C. inadequate rainfall and presence of many rivers",
+			"q3": "D. good roads and abundant capital",
+			"q4": "E. skilled labour and love for vegetation"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	One important consequence of the location of Nigeria between latitudes 4&deg; and 14&deg; north of the Equator is that she",
+		"opts": {
+			"q0": "A. enjoys a hot, wet, tropical climate",
+			"q1": "B. has the north easterly winds prevailing throughout the year",
+			"q2": "C. receives rainfall throughout the year",
+			"q3": "D. has a luxuriant vegetation",
+			"q4": "E. enjoys land and sea breeze"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Which of the following is true of manufacturing industries in Nigeria?",
+		"opts": {
+			"q0": "A. Most of them produce consumer goods",
+			"q1": "B. Large quantities of their products are exported",
+			"q2": "C. They depend entirely on local raw materials",
+			"q3": "D. They were established in pre-colonial times",
+			"q4": "E. They are evenly distributed throughout the country"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Trade among west African countries is less developed mainly because",
+		"opts": {
+			"q0": "A. they were ruled by different colonial powers which created a barrier to communication",
+			"q1": "B. the products of one country are basically similar to those of the others",
+			"q2": "C. there are no international railway lines to transport the bulky items of trade across the borders",
+			"q3": "D. of ethnic sentiments of people in one country against the other",
+			"q4": "E. no west African country has surpluses of commodities to export to the other countries"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The southernmost latitude in Africa is approximately",
+		"opts": {
+			"q0": "A. 20&deg;S",
+			"q1": "B. 30&deg;S",
+			"q2": "C. 35&deg;S",
+			"q3": "D. 40&deg;S",
+			"q4": "E. 45&deg;S"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following does not explain the poor development of inland waterways in Africa?",
+		"opts": {
+			"q0": "A. Lack of goods to carry along the routes",
+			"q1": "B. Presence of rapids and waterfalls",
+			"q2": "C. Obstruction by floating vegetation",
+			"q3": "D. High seasonality of the rivers",
+			"q4": "E. Crossing of many political boundaries by the rivers"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The savanna lands of East Africa are best known for their",
+		"opts": {
+			"q0": "A. wildlife",
+			"q1": "B. rich mineral resources",
+			"q2": "C. inter-ethnic wars",
+			"q3": "D. large rivers",
+			"q4": "E. industries"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The rampant famine in some parts of Africa is caused by all the following except",
+		"opts": {
+			"q0": "A. Unstable prices paid to farmers for their products",
+			"q1": "B. Unreliable rainfall",
+			"q2": "C. Civil strife and unrest",
+			"q3": "D. Ravage of crops by pests",
+			"q4": "E. Infertile soil and soil erosion"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following West African countries is the largest producer of groundnut?",
+		"opts": {
+			"q0": "A. Burkina Faso",
+			"q1": "B. Mali",
+			"q2": "C. Guinea Bissau",
+			"q3": "D. Senegal",
+			"q4": "E. Liberia"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

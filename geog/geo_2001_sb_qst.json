@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_2001_sectionb_qst1_10.jpg'> Study the Map of AGIDI DISTRICT and use it to answer questions 1 to 10. The scale of the map expressed as a representative fraction is",
+		"opts": {
+			"q0": "A. 1 : 50,000",
+			"q1": "B. 1 : 120,000",
+			"q2": "C. 1 : 150,000",
+			"q3": "D. 1 : 250,000",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_2001_sectionb_qst1_10.jpg'> Study the Map of AGIDI DISTRICT and use it to answer questions 1 to 10. The direction of Ebie from Oze is",
+		"opts": {
+			"q0": "A. 035&deg;",
+			"q1": "B. 085&deg;",
+			"q2": "C. 127&deg;",
+			"q3": "D. 305&deg;",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_2001_sectionb_qst1_10.jpg'> Study the Map of AGIDI DISTRICT and use it to answer questions 1 to 10. The featured marked X - Y is a",
+		"opts": {
+			"q0": "A. cuesta",
+			"q1": "B. cliff",
+			"q2": "C. spur",
+			"q3": "D. ridge",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_2001_sectionb_qst1_10.jpg'> Study the Map of AGIDI DISTRICT and use it to answer questions 1 to 10. How many tributaries has river Momi?",
+		"opts": {
+			"q0": "A. 1",
+			"q1": "B. 2",
+			"q2": "C. 5",
+			"q3": "D. 6",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_2001_sectionb_qst1_10.jpg'> Study the Map of AGIDI DISTRICT and use it to answer questions 1 to 10. What is the likely occupation of the people of Agidi District?",
+		"opts": {
+			"q0": "A. Mining",
+			"q1": "B. Trading",
+			"q2": "C. Agriculture",
+			"q3": "D. Boat building",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_2001_sectionb_qst1_10.jpg'> Study the Map of AGIDI DISTRICT and use it to answer questions 1 to 10. The highest contour line on the map is",
+		"opts": {
+			"q0": "A. 850m",
+			"q1": "B. 800m",
+			"q2": "C. 600m",
+			"q3": "D. 500m",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_2001_sectionb_qst1_10.jpg'> Study the Map of AGIDI DISTRICT and use it to answer questions 1 to 10. The actual distance from Ofia to Yot as the ‘crow flies’ is ",
+		"opts": {
+			"q0": "A. 15km",
+			"q1": "B. 12km",
+			"q2": "C. 7km",
+			"q3": "D. 3km",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_2001_sectionb_qst1_10.jpg'> Study the Map of AGIDI DISTRICT and use it to answer questions 1 to 10. The second largest settlement on the map is",
+		"opts": {
+			"q0": "A. Oze",
+			"q1": "B. Agidi",
+			"q2": "C. Asebe",
+			"q3": "D. Fada",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_2001_sectionb_qst1_10.jpg'> Study the Map of AGIDI DISTRICT and use it to answer questions 1 to 10. Which of the following towns are not intervisible?",
+		"opts": {
+			"q0": "A. Agidi and Fada",
+			"q1": "B. Oze and Asebe",
+			"q2": "C. Ebie and Yot",
+			"q3": "D. Ofia and Ego",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_2001_sectionb_qst1_10.jpg'> Study the Map of AGIDI DISTRICT and use it to answer questions 1 to 10. The symbol »845 in the North eastern part of the map is known as",
+		"opts": {
+			"q0": "A. trigonometrical station",
+			"q1": "B. contour line",
+			"q2": "C. spot height",
+			"q3": "D. hachures",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	<img src='geo_2001_sectionb_qst11_14.jpg'> Use Figure 1 below to answer Questions 11-14. The Figure 1 is known as",
+		"opts": {
+			"q0": "A. simple bar graph",
+			"q1": "B. divided bar graph",
+			"q2": "C. percentage bar graph",
+			"q3": "D. group bar graph",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='geo_2001_sectionb_qst11_14.jpg'> Use Figure 1 below to answer Questions 11-14. The greatest advantage of the Figure 1 is that it",
+		"opts": {
+			"q0": "A. makes for easy comparison of the data represented",
+			"q1": "B. shows the total value of the data represented",
+			"q2": "C. shows the percentage decrease in the value of the data represented",
+			"q3": "D. is very easy to construct",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	<img src='geo_2001_sectionb_qst11_14.jpg'> Use Figure 1 below to answer Questions 11-14. Which of the following countries produced the least number of motor cars in 1963?",
+		"opts": {
+			"q0": "A. Britain",
+			"q1": "B. America",
+			"q2": "C. Italy",
+			"q3": "D. Japan",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	<img src='geo_2001_sectionb_qst11_14.jpg'> Use Figure 1 below to answer Questions 11-14. The difference between the number of motor cars produced by Britain and Italy is 1960 is",
+		"opts": {
+			"q0": "A. 92 million",
+			"q1": "B. 83 million",
+			"q2": "C. 63 million",
+			"q3": "D. 43 million",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The biggest member of the solar system is",
+		"opts": {
+			"q0": "A. Mars",
+			"q1": "B. the moon",
+			"q2": "C. the sun",
+			"q3": "D. Neptune",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Which of the following planets revolves round the sun in clockwise direction?",
+		"opts": {
+			"q0": "A. Mercury",
+			"q1": "B. Jupiter",
+			"q2": "C. Uranus",
+			"q3": "D. Pluto",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	The latitude which marks the limits of the sun’s apparent movement north and south of the equator is",
+		"opts": {
+			"q0": "A. 23<sup>1</sup>&frasl;<sub>2</sub>&deg;",
+			"q1": "B. 45<sup>1</sup>&frasl;<sub>2</sub>&deg;",
+			"q2": "C. 65<sup>1</sup>&frasl;<sub>2</sub>&deg;",
+			"q3": "D. 90&deg;",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The average density of Sima is",
+		"opts": {
+			"q0": "A. 2.0",
+			"q1": "B. 2.9",
+			"q2": "C. 3.0",
+			"q3": "D. 3.7",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	An example of a crystalline rock is",
+		"opts": {
+			"q0": "A. peat",
+			"q1": "B. limestone",
+			"q2": "C. granite",
+			"q3": "D. sandstone",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	When plateaux are enclosed by fold mountains they are known as",
+		"opts": {
+			"q0": "A. intermontplateaux",
+			"q1": "B. lava plateaux",
+			"q2": "C. volcanic plateaux",
+			"q3": "D. dissected plateaux",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Which of the following is formed by coastal erosion?",
+		"opts": {
+			"q0": "A. Spit",
+			"q1": "B. Bay",
+			"q2": "C. Lagoon",
+			"q3": "D. Tombolo",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	A horizontal intrusion of molten magma into the bedding plane of sedimentary rocks is called",
+		"opts": {
+			"q0": "A. Phacolith",
+			"q1": "B. Lacolith",
+			"q2": "C. Sill",
+			"q3": "D. Batholith",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following ocean currents enhances rainfall in its immediate hinterland?",
+		"opts": {
+			"q0": "A. Canaries current",
+			"q1": "B. Mozambique current",
+			"q2": "C. Californian current",
+			"q3": "D. West Australian current",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Which of the following is not an element of climate?",
+		"opts": {
+			"q0": "A. Rainfall",
+			"q1": "B. Humidity",
+			"q2": "C. Temperature",
+			"q3": "D. Fog",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Given that the temperature of Station X (at sea-level) is 80&deg;F (26.7&deg;C) at a particular time, what would be the temperature of Y [1300 ft (400 m) above sea level] at the same time? (Both stations are on the same latitude)",
+		"opts": {
+			"q0": "A. 68&deg;F (20&deg;C)",
+			"q1": "B. 70&deg;F (21&deg;C)",
+			"q2": "C. 76&deg;F (24.4&deg;C)",
+			"q3": "D. 80&deg;F (26.7&deg;C)",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Environmental lapse rate is",
+		"opts": {
+			"q0": "A. 1&deg;C for every 300m ascent",
+			"q1": "B. 2&deg;C for every 100m ascent",
+			"q2": "C. 0.6&deg;C for every 100m ascent",
+			"q3": "D. 0.8&deg;C for every 1000m ascent",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Dark clouds extending to height of about 15,000 metres which bring a lot of rain to tropical lands are known as",
+		"opts": {
+			"q0": "A. cirrocumulus",
+			"q1": "B. cirrus",
+			"q2": "C. cumulonimbus",
+			"q3": "D. cumulus",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following is not an element of weather?",
+		"opts": {
+			"q0": "A. Condensation",
+			"q1": "B. Cloud cover",
+			"q2": "C. Rainfall",
+			"q3": "D. Sunshine",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Which of the following is not true about a clayey soil?",
+		"opts": {
+			"q0": "A. It is heavy",
+			"q1": "B. It has relatively small particle sizes",
+			"q2": "C. It has relatively small tiny air spaces",
+			"q3": "D. It is characterized by high capilarity",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	The type of rainfall characterized by torrential downpour in the tropics or during summers in the temperate interiors is called",
+		"opts": {
+			"q0": "A. convectional rainfall",
+			"q1": "B. frontal rainfall",
+			"q2": "C. orographic rainfall",
+			"q3": "D. cyclonic rainfall",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following settlement types is the largest in size?",
+		"opts": {
+			"q0": "A. Megalopolis",
+			"q1": "B. Village",
+			"q2": "C. Town",
+			"q3": "D. City",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	A plant which is adapted to living in a region where little moisture is available is called",
+		"opts": {
+			"q0": "A. helophyte",
+			"q1": "B. hygrophyte",
+			"q2": "C. xerophyte",
+			"q3": "D. hydrophyte",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	All the following minerals are found in Nigeria except",
+		"opts": {
+			"q0": "A. coal",
+			"q1": "B. bauxite",
+			"q2": "C. tin ore",
+			"q3": "D. columbite",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following occupations is not common among the peoples of Southern coastlands of Nigeria?",
+		"opts": {
+			"q0": "A. Fishing",
+			"q1": "B. Lumbering",
+			"q2": "C. Trading",
+			"q3": "D. Cattle rearing",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Which of the following factors is least necessary for the development of hydro-electric power?",
+		"opts": {
+			"q0": "A. High domestic demand",
+			"q1": "B. Natural reservoirs and falls",
+			"q2": "C. Rain-fed rivers",
+			"q3": "D. Heavy capital outlay",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	A major hazard to both human and aquatic life in some coastal areas of Nigeria is",
+		"opts": {
+			"q0": "A. air pollution",
+			"q1": "B. overfishing",
+			"q2": "C. desalination of sea water",
+			"q3": "D. oil spillage",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	The intensity of erosion by a river is determined by the",
+		"opts": {
+			"q0": "A. volume of water only",
+			"q1": "B. gradient of the valley only",
+			"q2": "C. gradient and width of.the.valley",
+			"q3": "D. volume of water, gradient of the valley and the load carried",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Transhumance involves the movement of",
+		"opts": {
+			"q0": "A. people from rural to urban areas",
+			"q1": "B. migrant labour from source to receiving regions",
+			"q2": "C. settlers from highlands to lowlands for farming",
+			"q3": "D. cattle up and down mountains for pasture",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The vegetation type which is found only in the Northern Hemisphere is the",
+		"opts": {
+			"q0": "A. Mediterranean woodland",
+			"q1": "B. Tundra vegetation",
+			"q2": "C. Tropical rainforest",
+			"q3": "D. Coniferous forest",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	Deforestation can be caused by",
+		"opts": {
+			"q0": "A. an increase in population",
+			"q1": "B. re-afforestation",
+			"q2": "C. the establishment of forest reserves",
+			"q3": "D. a decrease in the use of fuel wood",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Man has interferred with the ecosystem through. I. farming II. modification of weather and climate III. overgrazing.",
+		"opts": {
+			"q0": "A. I only",
+			"q1": "B. II only",
+			"q2": "C. II and III only",
+			"q3": "D. I, II and III",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Good transportation network promotes all the following except",
+		"opts": {
+			"q0": "A. national disintegration",
+			"q1": "B. international trade",
+			"q2": "C. movement of people and goods",
+			"q3": "D. spread of ideas and technology",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	The most ideal location for an iron and steel industry is one that has I. a large population II. an adequate supply of iron ore. III. a good transport network. IV. an abundant supply of coal.",
+		"opts": {
+			"q0": "A. I and II only",
+			"q1": "B. I, II and IV",
+			"q2": "C. I, III and IV",
+			"q3": "D. II, III and IV",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	A net population growth is the",
+		"opts": {
+			"q0": "A. surplus of emigrants over immigrants plus total death",
+			"q1": "B. actual population inhabiting a place",
+			"q2": "C. surplus of birth over death plus net migration",
+			"q3": "D. surplus of immigrants plus total birth",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following is the cheapest source of power for a large scale industry?",
+		"opts": {
+			"q0": "A. Coal",
+			"q1": "B. Gas",
+			"q2": "C. Water",
+			"q3": "D. Petroleum",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The climate of Nigeria is characterized by",
+		"opts": {
+			"q0": "A. continuous seasons",
+			"q1": "B. two seasons",
+			"q2": "C. three seasons",
+			"q3": "D. four seasons",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	The largest producer of gold in West Africa is",
+		"opts": {
+			"q0": "A. Nigeria",
+			"q1": "B. The Gambia",
+			"q2": "C. Sierra Leone",
+			"q3": "D. Ghana",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The initial problems of rail and road development in Africa were due primarily to the",
+		"opts": {
+			"q0": "A. dense population",
+			"q1": "B. inadequate mineral resources",
+			"q2": "C. difficult physical environment",
+			"q3": "D. insufficient agricultural resources",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The largest city in Africa South of the Sahara is",
+		"opts": {
+			"q0": "A. Ibadan",
+			"q1": "B. Accra",
+			"q2": "C. Lusaka",
+			"q3": "D. Johannesburg",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	The benefits to be derived by ECOWAS member countries include all the following except",
+		"opts": {
+			"q0": "A. free movement of people across member countries",
+			"q1": "B. territorial expansion",
+			"q2": "C. free flow of capital",
+			"q3": "D. the creation of large market",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

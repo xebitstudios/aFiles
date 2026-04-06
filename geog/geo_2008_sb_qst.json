@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_2008_sectionb_qst1_10.jpg'> Study the Map of IDUMUEGBU DISTRICT and use it to answer questions 1 to 10. The scale of the map as a linear scale is",
+		"opts": {
+			"q0": "A. <img src='geo_2008_sectionb_qst1_10a.jpg'>",
+			"q1": "B. <img src='geo_2008_sectionb_qst1_10b.jpg'>",
+			"q2": "C. <img src='geo_2008_sectionb_qst1_10c.jpg'>",
+			"q3": "D. <img src='geo_2008_sectionb_qst1_10d.jpg'>",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_2008_sectionb_qst1_10.jpg'> Study the Map of IDUMUEGBU DISTRICT and use it to answer questions 1 to 10. If the map is reduced to half its size the new scale will be:",
+		"opts": {
+			"q0": "A. 1:600,000",
+			"q1": "B. 1:400,000",
+			"q2": "C. 1:200,000",
+			"q3": "D. 1:100,000",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_2008_sectionb_qst1_10.jpg'> Study the Map of IDUMUEGBU DISTRICT and use it to answer questions 1 to 10. The distance from Idumuegbu junction to Asa ‘as the crow flies’ is approximately",
+		"opts": {
+			"q0": "A. 16 km",
+			"q1": "B. 18 km",
+			"q2": "C. 26 km",
+			"q3": "D. 28 km",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_2008_sectionb_qst1_10.jpg'> Study the Map of IDUMUEGBU DISTRICT and use it to answer questions 1 to 10. The area covered by Idumuegbu Housing Estate is approximately",
+		"opts": {
+			"q0": "A. 73 km<sup>2</sup>",
+			"q1": "B. 62 km<sup>2</sup>",
+			"q2": "C. 50 km<sup>2</sup>",
+			"q3": "D. 38 km<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_2008_sectionb_qst1_10.jpg'> Study the Map of IDUMUEGBU DISTRICT and use it to answer questions 1 to 10. The feature 580 on the map represents",
+		"opts": {
+			"q0": "A. knick point",
+			"q1": "B. confluence point",
+			"q2": "C. packet station",
+			"q3": "D. spot height",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_2008_sectionb_qst1_10.jpg'> Study the Map of IDUMUEGBU DISTRICT and use it to answer questions 1 to 10. The highest contour line on the map is",
+		"opts": {
+			"q0": "A. 500 m",
+			"q1": "B. 600 m",
+			"q2": "C. 650 m",
+			"q3": "D. 700 m",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_2008_sectionb_qst1_10.jpg'> Study the Map of IDUMUEGBU DISTRICT and use it to answer questions 1 to 10. The main occupation of the people living in the south eastern part of the map is mainly",
+		"opts": {
+			"q0": "A. trading",
+			"q1": "B. fishing",
+			"q2": "C. farming",
+			"q3": "D. mining",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_2008_sectionb_qst1_10.jpg'> Study the Map of IDUMUEGBU DISTRICT and use it to answer questions 1 to 10. The direction of Umudibiokwu from Tapa is",
+		"opts": {
+			"q0": "A. South-east",
+			"q1": "B. South-west",
+			"q2": "C. North-wards",
+			"q3": "D. East-wards",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_2008_sectionb_qst1_10.jpg'> Study the Map of IDUMUEGBU DISTRICT and use it to answer questions 1 to 10. The feature marked Y can best be described as a/an",
+		"opts": {
+			"q0": "A. saddle",
+			"q1": "B. knoll",
+			"q2": "C. escarpment",
+			"q3": "D. ridge",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_2008_sectionb_qst1_10.jpg'> Study the Map of IDUMUEGBU DISTRICT and use it to answer questions 1 to 10. The bearing of Osu from Umuogene is",
+		"opts": {
+			"q0": "A. 288&deg;",
+			"q1": "B. 280&deg;",
+			"q2": "C. 266&deg;",
+			"q3": "D. 252&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The earth lies between the",
+		"opts": {
+			"q0": "A. Mercury and the Venus",
+			"q1": "B. Mars and the Jupiter",
+			"q2": "C. Venus and the Mars",
+			"q3": "D. Jupiter and the Pluto",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	When the moon comes in between the earth and the sun",
+		"opts": {
+			"q0": "A. eclipse of the moon occurs",
+			"q1": "B. the length of the day varies",
+			"q2": "C. a solar eclipse occurs",
+			"q3": "D. the length of day increases",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	How long does it take the Mercury to make a complete revolution?",
+		"opts": {
+			"q0": "A. 88 days",
+			"q1": "B. 225 days",
+			"q2": "C. 365 <sup>1</sup>&frasl;<sub>4</sub> days",
+			"q3": "D. 687 days",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	Which of the following is not a proof of the earth’s sphericity?",
+		"opts": {
+			"q0": "A. Circumnavigation of the earth",
+			"q1": "B. Deflection of winds",
+			"q2": "C. Ship’s visibility",
+			"q3": "D. The circular horizon",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following is not a characteristic of lines of longitude? They",
+		"opts": {
+			"q0": "A. run from East to West",
+			"q1": "B. converge at the poles",
+			"q2": "C. run from north to south",
+			"q3": "D. are used in calculating local time",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	If the time at the Greenwich Meridian is 11.00 a.m., what would the local time be at a place 75&deg;W?",
+		"opts": {
+			"q0": "A. 6.00 p.m.",
+			"q1": "B. 5.00 p.m.",
+			"q2": "C. 6.00 a.m.",
+			"q3": "D. 5.00 a.m.",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	<img src='geo_2008_sectionb_qst17_19.jpg'> 1 dot represents 10,000 persons. The map above shows the population of regions A,B,C and D. Use it to answer questions 17 to 19. What is the total population of Region A?",
+		"opts": {
+			"q0": "A. 10,000",
+			"q1": "B. 15,000",
+			"q2": "C. 40,000",
+			"q3": "D. 45,000",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	<img src='geo_2008_sectionb_qst17_19.jpg'> 1 dot represents 10,000 persons. The map above shows the population of regions A,B,C and D. Use it to answer questions 17 to 19. What is the total population of Regions B and C?",
+		"opts": {
+			"q0": "A. 100,000",
+			"q1": "B. 150,000",
+			"q2": "C. 160,000",
+			"q3": "D. 200,000",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	<img src='geo_2008_sectionb_qst17_19.jpg'> 1 dot represents 10,000 persons. The map above shows the population of regions A,B,C and D. Use it to answer questions 17 to 19. What type of statistical method was used to represent the population in map X above?",
+		"opts": {
+			"q0": "A. Histogram",
+			"q1": "B. Pie chart",
+			"q2": "C. Proportional circle",
+			"q3": "D. Dot map",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The part of the earth where life exists is the",
+		"opts": {
+			"q0": "A. hydrosphere",
+			"q1": "B. barysphere",
+			"q2": "C. biosphere",
+			"q3": "D. atmosphere",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	A relative humidity of 100 per cent means that air is",
+		"opts": {
+			"q0": "A. unsaturated",
+			"q1": "B. saturated",
+			"q2": "C. dry",
+			"q3": "D. moist",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The region on the earth’s surface popularly referred to as the land of midnight sun is the",
+		"opts": {
+			"q0": "A. north of the Equator",
+			"q1": "B. south of the Equator",
+			"q2": "C. north of the Arctic circle",
+			"q3": "D. north of the Tropic of Capricorn",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	The earth is enveloped by a mixture of gases referred to as the",
+		"opts": {
+			"q0": "A. biosphere",
+			"q1": "B. lithosphere",
+			"q2": "C. mesosphere",
+			"q3": "D. atmosphere",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Another name for the core of the earth is",
+		"opts": {
+			"q0": "A. lithosphere",
+			"q1": "B. barysphere",
+			"q2": "C. troposphere",
+			"q3": "D. endosphere",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Sedimentary rocks are usually",
+		"opts": {
+			"q0": "A. crystalline",
+			"q1": "B. impervious",
+			"q2": "C. stratified",
+			"q3": "D. brittle",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	All the following are processes of physical weathering except alternate",
+		"opts": {
+			"q0": "A. heating and cooling",
+			"q1": "B. freezing and thawing",
+			"q2": "C. wetting and drying",
+			"q3": "D. oxidation and hydrolysis",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	One of the features of a fold mountain is",
+		"opts": {
+			"q0": "A. graben",
+			"q1": "B. anticline",
+			"q2": "C. dyke",
+			"q3": "D. horst",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following are water pollutants?",
+		"opts": {
+			"q0": "A. Aquatic animals",
+			"q1": "B. Shrimps",
+			"q2": "C. Dissolved fertilizers",
+			"q3": "D. Water plants",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Which of these features is associated with wind erosion in the deserts?",
+		"opts": {
+			"q0": "A. Zeugen",
+			"q1": "B. Barchan",
+			"q2": "C. Ripples",
+			"q3": "D. Dunes",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following is not a possible cause of soil erosion?",
+		"opts": {
+			"q0": "A. Afforestation",
+			"q1": "B. Deforestation",
+			"q2": "C. Bush burning",
+			"q3": "D. Over-grazing",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following is not a form of mass movement?",
+		"opts": {
+			"q0": "A. landslide",
+			"q1": "B. Earthquake",
+			"q2": "C. Rockslide",
+			"q3": "D. Talus creep",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	In the upper course of a river, all the following features can be found except",
+		"opts": {
+			"q0": "A. waterfall",
+			"q1": "B. gorge",
+			"q2": "C. ox-bow lake",
+			"q3": "D. cataracts",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	A place where water issues out from the ground naturally is called a",
+		"opts": {
+			"q0": "A. pond",
+			"q1": "B. spring",
+			"q2": "C. stream",
+			"q3": "D. river",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	A stalagmite differs from a stalactite in that a stalagmite",
+		"opts": {
+			"q0": "A. is thinner and longer than a stalactite",
+			"q1": "B. starts from the roof of a cave",
+			"q2": "C. is evaporated calcium carbonate",
+			"q3": "D. starts from the floor of a cave",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	“It is crescentic or moon-shaped and occurs transversely to the direction of the prevailing wind.” The above statement is a description of a",
+		"opts": {
+			"q0": "A. yardang",
+			"q1": "B. barchan",
+			"q2": "C. zeugen",
+			"q3": "D. rock pedestal",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Isotherm is to temperature as ___________ is to pressure",
+		"opts": {
+			"q0": "A. isohaline",
+			"q1": "B. isohel",
+			"q2": "C. isoneph",
+			"q3": "D. isobar",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following did Koppen use to classify the climates of the world?",
+		"opts": {
+			"q0": "A. Temperature and humidity",
+			"q1": "B. Temperature and wind",
+			"q2": "C. Temperature and rainfall",
+			"q3": "D. Rainfall and humidity",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	All the following are environmental hazards except",
+		"opts": {
+			"q0": "A. flooding",
+			"q1": "B. vulcanicity",
+			"q2": "C. afforestation",
+			"q3": "D. deforestation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	The resources of the atmosphere include all the following except",
+		"opts": {
+			"q0": "A. vegetation",
+			"q1": "B. rain",
+			"q2": "C. wind",
+			"q3": "D. gases",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	If the total land area of a country is 24,000 square kilometres, and the population is 7,200,000, what is the population density of the country?",
+		"opts": {
+			"q0": "A. 200 persons per km<sup>2</sup>",
+			"q1": "B. 300 persons per km<sup>2</sup>",
+			"q2": "C. 2000 persons per km<sup>2</sup>",
+			"q3": "D. 3000 persons per km<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which if the following is not a major type of migration?",
+		"opts": {
+			"q0": "A. Rural-urban",
+			"q1": "B. Internationa",
+			"q2": "C. Inter-community",
+			"q3": "D. Urban-rural",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Rural settlement types include all the following except",
+		"opts": {
+			"q0": "A. linear",
+			"q1": "B. dormitory",
+			"q2": "C. nucleated",
+			"q3": "D. dispersed",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	All the following activities belong to primary industries except",
+		"opts": {
+			"q0": "A. lumbering",
+			"q1": "B. quarrying",
+			"q2": "C. processing",
+			"q3": "D. fishing",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	“It is universal, and can reach almost every where.” Which transport mode is being referred to?",
+		"opts": {
+			"q0": "A. Road",
+			"q1": "B. Railway",
+			"q2": "C. Ocean",
+			"q3": "D. Ropeways",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The busiest and most important ocean route in the world is the",
+		"opts": {
+			"q0": "A. Trans-pacific",
+			"q1": "B. North Atlantic",
+			"q2": "C. Cape route",
+			"q3": "D. South Atlantic",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of the following is not a contribution of transportation to economic development?",
+		"opts": {
+			"q0": "A. Decreased production",
+			"q1": "B. Movement of people and commodities",
+			"q2": "C. Diffusion of ideas",
+			"q3": "D. National integration",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following is not a favourable factor for tourism development in West Africa?",
+		"opts": {
+			"q0": "A. Highlands, rocks and beaches",
+			"q1": "B. Abundance of wildlife",
+			"q2": "C. Ineffective publicity",
+			"q3": "D. Improved communication facilities",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following is not a feature of wave erosion?",
+		"opts": {
+			"q0": "A. Beach",
+			"q1": "B. Arch",
+			"q2": "C. Cliff",
+			"q3": "D. Wave-cut platform",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Trees in a savanna region develop the following adaptations to enable them survive the long dry season except",
+		"opts": {
+			"q0": "A. shallow roots",
+			"q1": "B. long taproots",
+			"q2": "C. thick barks",
+			"q3": "D. thin leaves",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	One of the major problems of manufacturing industries in Tropical Africa is",
+		"opts": {
+			"q0": "A. high demand for manufactured products",
+			"q1": "B. inadequate raw materials",
+			"q2": "C. high quality of industrial labour",
+			"q3": "D. high cost of labour",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+};

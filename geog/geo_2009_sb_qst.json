@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_2009_sectionb_qst1_10.jpg'> Study the Map of ALELE DISTRICT and use it to answer questions 1 to 10. The scale of the map is",
+		"opts": {
+			"q0": "A. 1:50,000",
+			"q1": "B. 1:100,000",
+			"q2": "C. 1:150,000",
+			"q3": "D. 1:200,000",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_2009_sectionb_qst1_10.jpg'> Study the Map of ALELE DISTRICT and use it to answer questions 1 to 10. The approximate distance ‘as the crow flies’ from Iso to Julo is",
+		"opts": {
+			"q0": "A. 3.0 km",
+			"q1": "B. 4.0 km",
+			"q2": "C. 5.0 km",
+			"q3": "D. 6.0 km",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_2009_sectionb_qst1_10.jpg'> Study the Map of ALELE DISTRICT and use it to answer questions 1 to 10. The major activity of the people in the southern part of the map is likely to be",
+		"opts": {
+			"q0": "A. lumbering",
+			"q1": "B. farming",
+			"q2": "C. animal rearing",
+			"q3": "D. mining",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_2009_sectionb_qst1_10.jpg'> Study the Map of ALELE DISTRICT and use it to answer questions 1 to 10. Oka can best be described as a",
+		"opts": {
+			"q0": "A. mining town",
+			"q1": "B. gap town",
+			"q2": "C. confluence town",
+			"q3": "D. nodal town",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_2009_sectionb_qst1_10.jpg'> Study the Map of ALELE DISTRICT and use it to answer questions 1 to 10. The feature marked X is a",
+		"opts": {
+			"q0": "A. dam",
+			"q1": "B. hydro-electric power station",
+			"q2": "C. man¬made lake",
+			"q3": "D. pond",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_2009_sectionb_qst1_10.jpg'> Study the Map of ALELE DISTRICT and use it to answer questions 1 to 10. The symbol 912 on the map is a",
+		"opts": {
+			"q0": "A. telegraph office",
+			"q1": "B. trigonometrical station",
+			"q2": "C. bench mark",
+			"q3": "D. boundary pillar",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_2009_sectionb_qst1_10.jpg'> Study the Map of ALELE DISTRICT and use it to answer questions 1 to 10. The contour interval on the map is",
+		"opts": {
+			"q0": "A. 50 m",
+			"q1": "B. 100 m",
+			"q2": "C. 150 m",
+			"q3": "D. 200 m",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_2009_sectionb_qst1_10.jpg'> Study the Map of ALELE DISTRICT and use it to answer questions 1 to 10. The highest point on the map is slightly above ",
+		"opts": {
+			"q0": "A. 600 m",
+			"q1": "B. 800 m",
+			"q2": "C. 900 m",
+			"q3": "D. 1000 m",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_2009_sectionb_qst1_10.jpg'> Study the Map of ALELE DISTRICT and use it to answer questions 1 to 10. Which of the following is most likely to be a major problem confronting the mining industry in the mapped area?",
+		"opts": {
+			"q0": "A. Availability of labour",
+			"q1": "B. Inadequate transportation facilities",
+			"q2": "C. Depth of the mines",
+			"q3": "D. Insufficient spare parts",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_2009_sectionb_qst1_10.jpg'> Study the Map of ALELE DISTRICT and use it to answer questions 1 to 10. The area covered by ALELE DISTRICT is approximately",
+		"opts": {
+			"q0": "A. 205 km<sup>2</sup>",
+			"q1": "B. 230 km<sup>2</sup>",
+			"q2": "C. 235 km<sup>2</sup>",
+			"q3": "D. 248 km<sup>2</sup>",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which two planets lie between the sun and the earth?",
+		"opts": {
+			"q0": "A. Venus and Mars",
+			"q1": "B. Venus and Jupiter",
+			"q2": "C. Mercury and Venus",
+			"q3": "D. Mercury and Saturn",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	On June 21st, when the sun is overhead at the Tropic of Cancer, places in the Northern Hemisphere experience",
+		"opts": {
+			"q0": "A. longer day and shorter night",
+			"q1": "B. twilight",
+			"q2": "C. shorter day and longer night",
+			"q3": "D. longer day and night",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	When a ship appears over the distant horizon the",
+		"opts": {
+			"q0": "A. hull is seen before the cabin",
+			"q1": "B. hull and the mast are seen together",
+			"q2": "C. mast is seen before the hull",
+			"q3": "D. cabin is seen before the mast",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	The innermost section of the Earth is the",
+		"opts": {
+			"q0": "A. core",
+			"q1": "B. mantle",
+			"q2": "C. crust",
+			"q3": "D. sial",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following is not a characteristic of sedimentary rocks? They",
+		"opts": {
+			"q0": "A. contain fossils",
+			"q1": "B. are crystalline",
+			"q2": "C. are usually laid down in layers",
+			"q3": "D. are porous",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Rocks which have been formed by the cooling and solidification of molten magma are called",
+		"opts": {
+			"q0": "A. igneous rocks",
+			"q1": "B. sedimentary rocks",
+			"q2": "C. conglomerates",
+			"q3": "D. metamorphic rocks",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following is not a type of mountain?",
+		"opts": {
+			"q0": "A. Conical mountain",
+			"q1": "B. Block mountain",
+			"q2": "C. Fold mountain",
+			"q3": "D. Mountain of accumulation",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Which of the following is not true of stalagmites and stalactites?",
+		"opts": {
+			"q0": "A. Stalagmites are upward growing pillars while stalactites are downward growing",
+			"q1": "B. Stalagmites are short and wide while stafactites are long and narrow",
+			"q2": "C. Stalacties are formed on the floor orlimestone caves while stalagmites are formed on roofs of limestone caves",
+			"q3": "D. Stalactites are longer than stalagmites",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following pairs are desert landforms?",
+		"opts": {
+			"q0": "A. Wave-cut platforms and self dunes",
+			"q1": "B. Sandbars and sandspits",
+			"q2": "C. Yardangs and zeugens",
+			"q3": "D. Barchans and tombolos",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Most of the world’s lakes are fresh water lakes which are ",
+		"opts": {
+			"q0": "A. fed by rivers with outlets to the sea",
+			"q1": "B. fed by melting glaciers",
+			"q2": "C. fairly saline due to excessive evaporation",
+			"q3": "D. constant in volume",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	A geyser is best described as a/an",
+		"opts": {
+			"q0": "A. pool of hot water",
+			"q1": "B. explosion of volcano",
+			"q2": "C. thermal stream",
+			"q3": "D. fountain of super heated stream",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	<img src='geo_2009_sectionb_qst22_24.jpg'> Use figure 1 above to answer questions 22 to 24. Figure 1 above represents a",
+		"opts": {
+			"q0": "A. pie chart",
+			"q1": "B. flow line map",
+			"q2": "C. dot map",
+			"q3": "D. simple graph",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	<img src='geo_2009_sectionb_qst22_24.jpg'> Use figure 1 above to answer questions 22 to 24. What is the volume of passenger traffic between IZABU and Ashama?",
+		"opts": {
+			"q0": "A. 12,000",
+			"q1": "B. 10,000",
+			"q2": "C. 8,000",
+			"q3": "D. 6,000",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	<img src='geo_2009_sectionb_qst22_24.jpg'> Use figure 1 above to answer questions 22 to 24. By how much is the traffic between IZABU and Anikpu more than the traffic between IZABU and Ugba?",
+		"opts": {
+			"q0": "A. 1,800",
+			"q1": "B. 1,700",
+			"q2": "C. 1,500",
+			"q3": "D. 1,200",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Which of the following is not true of pie charts?",
+		"opts": {
+			"q0": "A. Statistics of various items can be represented on a single diagram",
+			"q1": "B. It is often difficult to compare the component parts",
+			"q2": "C. Data with wide extremes can be conveniently represented in a pie chart",
+			"q3": "D. It is easy to draw",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The climatic belts recognized by the Greek were",
+		"opts": {
+			"q0": "A. torrid, temperate and frigid",
+			"q1": "B. hot, cold and medium",
+			"q2": "C. hot, mild and cool",
+			"q3": "D. equatorial, polar and torrid",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	A mercury barometer is used for measuring",
+		"opts": {
+			"q0": "A. wind speed",
+			"q1": "B. temperature",
+			"q2": "C. sunshine",
+			"q3": "D. atmospheric pressure",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Lines joining places with same mean annual rainfall are called",
+		"opts": {
+			"q0": "A. isohyets",
+			"q1": "B. isohels",
+			"q2": "C. isohalines",
+			"q3": "D. isotherms",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	A line joining places having an equal degree of cloudiness is an",
+		"opts": {
+			"q0": "A. isotherm",
+			"q1": "B. isohyet",
+			"q2": "C. isobar",
+			"q3": "D. isoneph",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following winds affects the West Indian Islands of the Caribbean?",
+		"opts": {
+			"q0": "A. Hurricanes",
+			"q1": "B. Mistral",
+			"q2": "C. Chinook",
+			"q3": "D. Tornadoes",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Loess is an example of",
+		"opts": {
+			"q0": "A. clayey soil",
+			"q1": "B. loamy soil",
+			"q2": "C. wind deposited soil",
+			"q3": "D. montane soil",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	A soil profile refers to the",
+		"opts": {
+			"q0": "A. shape of the soil",
+			"q1": "B. vertical section of the soil",
+			"q2": "C. mineral composition of the soil",
+			"q3": "D. zone of eluviation",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	“The trees are evergreen, forming a canopy with buttress roots, climbers and creepers”. Which of the following vegetation types does this statement refer to?",
+		"opts": {
+			"q0": "A. Savanna",
+			"q1": "B. Equatorial",
+			"q2": "C. Tropical desert",
+			"q3": "D. Mediterranean",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following environmental hazards is due primarily to human activities?",
+		"opts": {
+			"q0": "A. Earthquake",
+			"q1": "B. Volcanic eruption",
+			"q2": "C. Hurricane",
+			"q3": "D. Ozone depletion",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Life expectancy refers to the",
+		"opts": {
+			"q0": "A. age at which people receive their pension",
+			"q1": "B. average age at which people die",
+			"q2": "C. achievement one makes in life",
+			"q3": "D. age at which people retire from their jobs",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	The term over-population is best defined as the situation where",
+		"opts": {
+			"q0": "A. there is high population density",
+			"q1": "B. birth rate is equal to death rate",
+			"q2": "C. the population exceeds available resources",
+			"q3": "D. there is an increasing birth rate and a descreasing infant mortality rate",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following features is shared by Hong Kong, Java and Manhattan?",
+		"opts": {
+			"q0": "A. High military technology",
+			"q1": "B. High population density",
+			"q2": "C. Multi-racial communities",
+			"q3": "D. Rapid industrial growth",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	A conurbation can best be described as",
+		"opts": {
+			"q0": "A. a large village with thousands of people",
+			"q1": "B. two or more towns joined together, each town maintaining its own identity",
+			"q2": "C. a large area with big cities",
+			"q3": "D. a big area of land with few settlements",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	A settlement developed at the meeting point of roads is known as a",
+		"opts": {
+			"q0": "A. port town",
+			"q1": "B. nodal town",
+			"q2": "C. gap town",
+			"q3": "D. confluence town",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	"It is a port that specializes in receiving and redistributing goods to the neighbouring countries”. Which of the following ports is described in the preceding statement?",
+		"opts": {
+			"q0": "A. Ferry port",
+			"q1": "B. Outport",
+			"q2": "C. River port",
+			"q3": "D. Entrepot",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	The ocean that connects Europe and America is the",
+		"opts": {
+			"q0": "A. Indian Ocean",
+			"q1": "B. Antarctic Ocean",
+			"q2": "C. Atlantic Ocean",
+			"q3": "D. Arctic Ocean",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Copper is an important raw material in the",
+		"opts": {
+			"q0": "A. chemical industry",
+			"q1": "B. oil refining industry",
+			"q2": "C. pharmaceutical industry",
+			"q3": "D. electrical industry",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Which activity requires the following? I. Large area of land usually in thousands of hectares II. Availability of water either in the form of rain or irrigation III. High capital outlay",
+		"opts": {
+			"q0": "A. Plantation Agriculture",
+			"q1": "B. Mining",
+			"q2": "C. Lumbering",
+			"q3": "D. Tourism Industry",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	A great advantage of Basin irrigation is that",
+		"opts": {
+			"q0": "A. it makes it possible to irrigate larger areas",
+			"q1": "B. the basin helps to trap much alluvium to enrich the soil",
+			"q2": "C. it is an expensive means of irrigation",
+			"q3": "D. water is not wasted",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The Gezira Scheme and the Manaquil Extension are famous for the cultivation of",
+		"opts": {
+			"q0": "A. kolanuts",
+			"q1": "B. cotton",
+			"q2": "C. sugarcane",
+			"q3": "D. beans and other legumes",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The system of cultivation of tropical commercial crops on large estates is known as",
+		"opts": {
+			"q0": "A. plantation agriculture",
+			"q1": "B. bush fallowing",
+			"q2": "C. mixed cropping",
+			"q3": "D. intensive farming",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	All the following are problems of mining in Africa except",
+		"opts": {
+			"q0": "A. use of obsolete technology",
+			"q1": "B. inadequate foreign capital",
+			"q2": "C. shortage of power",
+			"q3": "D. inadequate unskilled labour",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The most common mode of transportation in Africa is",
+		"opts": {
+			"q0": "A. air",
+			"q1": "B. soil",
+			"q2": "C. ocean",
+			"q3": "D. road",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	The longest river in Africa is River",
+		"opts": {
+			"q0": "A. Congo",
+			"q1": "B. Zambezi",
+			"q2": "C. Senegal",
+			"q3": "D. Nile",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Africa’s largest timber producer is",
+		"opts": {
+			"q0": "A. Zaire",
+			"q1": "B. Ghana",
+			"q2": "C. Nigeria",
+			"q3": "D. Malawi",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+};

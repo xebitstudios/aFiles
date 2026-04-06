@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_1996_sectionb_qst1_10.jpg'> Use the map of GOMA DISTRICT below to answer questions 1 -10. The scale of the map, expressed as a statement is?",
+		"opts": {
+			"q0": "A. 1cm represents <sup>1</sup>&frasl;<sub>4</sub> km",
+			"q1": "B. 1cm represents <sup>1</sup>&frasl;<sub>2</sub> km",
+			"q2": "C. 1cm represents 50mm",
+			"q3": "D. 1cm represents 50m",
+			"q4": "E. 1cm represents 2km"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_1996_sectionb_qst1_10.jpg'> Use the map of GOMA DISTRICT below to answer questions 1 -10. The actual distance as the crow flies from Bo to Abe is",
+		"opts": {
+			"q0": "A. 2.5km",
+			"q1": "B. 3.5km",
+			"q2": "C. 5.0km",
+			"q3": "D. 5.5km",
+			"q4": "E. 6.0km"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_1996_sectionb_qst1_10.jpg'> Use the map of GOMA DISTRICT below to answer questions 1 -10. The feature marked S is",
+		"opts": {
+			"q0": "A. a lagoon",
+			"q1": "B. a cliff",
+			"q2": "C. a ria",
+			"q3": "D. a cave",
+			"q4": "E. an estuary"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_1996_sectionb_qst1_10.jpg'> Use the map of GOMA DISTRICT below to answer questions 1 -10. The feature X can best be described as",
+		"opts": {
+			"q0": "A. an inselberg",
+			"q1": "B. a knoll",
+			"q2": "C. a promontory",
+			"q3": "D. a spur",
+			"q4": "E. a levee"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_1996_sectionb_qst1_10.jpg'> Use the map of GOMA DISTRICT below to answer questions 1 -10. The eastern ridge may best be described as a",
+		"opts": {
+			"q0": "A. conical hill",
+			"q1": "B. plateau",
+			"q2": "C. watershed",
+			"q3": "D. river capture",
+			"q4": "E. river basin"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_1996_sectionb_qst1_10.jpg'> Use the map of GOMA DISTRICT below to answer questions 1 -10. The direction of flow of River Buba is",
+		"opts": {
+			"q0": "A. North-west",
+			"q1": "B. South-west",
+			"q2": "C. North",
+			"q3": "D. South",
+			"q4": "E. South-east"
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_1996_sectionb_qst1_10.jpg'> Use the map of GOMA DISTRICT below to answer questions 1 -10. The predominant occupation of the people in the southwest of the map area is most likely to be",
+		"opts": {
+			"q0": "A. lumbering",
+			"q1": "B. farming",
+			"q2": "C. mining",
+			"q3": "D. fishing",
+			"q4": "E. hunting"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_1996_sectionb_qst1_10.jpg'> Use the map of GOMA DISTRICT below to answer questions 1 -10. Fode may best be described as",
+		"opts": {
+			"q0": "A. a ferry point",
+			"q1": "B. a river port",
+			"q2": "C. a confluence town",
+			"q3": "D. a route terminus",
+			"q4": "E. an administrative capital"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_1996_sectionb_qst1_10.jpg'> Use the map of GOMA DISTRICT below to answer questions 1 -10. Which of the following factors best explains the presence of marsh in the north-western part of the area?",
+		"opts": {
+			"q0": "A. Heavy rainfall",
+			"q1": "B. River erosion",
+			"q2": "C. Poor drainage",
+			"q3": "D. Rise in sea level",
+			"q4": "E. Presence of impervious rocks"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_1996_sectionb_qst1_10.jpg'> Use the map of GOMA DISTRICT below to answer questions 1 -10. The importance of Oje is best explained by its",
+		"opts": {
+			"q0": "A. location in a defensive site",
+			"q1": "B. flood-free location",
+			"q2": "C. trading activities",
+			"q3": "D. mineral workings",
+			"q4": "E. being a focus of routes"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	Which of the following planets has the longest orbit around the sun?",
+		"opts": {
+			"q0": "A. Saturn",
+			"q1": "B. Venus",
+			"q2": "C. Mars",
+			"q3": "D. Neptune",
+			"q4": "E. Jupiter"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	A Great Circle can be described as",
+		"opts": {
+			"q0": "A. a line of longitude",
+			"q1": "B. the equator",
+			"q2": "C. a circle on the globe whose plane passes through the poles",
+			"q3": "D. the shortest distance between two points",
+			"q4": "E. a circle whose plane passes through centre of the globe"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	The axis of the earth is inclined to the plane of the ecliptic at an angle of",
+		"opts": {
+			"q0": "A. 23<sup>1</sup>&frasl;<sub>2</sub>&deg;",
+			"q1": "B. 66<sup>1</sup>&frasl;<sub>2</sub>&deg;",
+			"q2": "C. 90&deg;",
+			"q3": "D. 180&deg;",
+			"q4": "E. 360&deg;"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	On September 23, all towns in the northern hemisphere experience",
+		"opts": {
+			"q0": "A. equal length of day and night",
+			"q1": "B. longer days and shorter rights",
+			"q2": "C. longer nights and shorter days",
+			"q3": "D. complete darkness",
+			"q4": "E. complete daylight"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The density of the upper part of the lithosphere is",
+		"opts": {
+			"q0": "A. 1.2",
+			"q1": "B. 1.7",
+			"q2": "C. 2.0",
+			"q3": "D. 2.7",
+			"q4": "E. 3.0"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	Grit is a good example of",
+		"opts": {
+			"q0": "A. plutonic igneous rock",
+			"q1": "B. volcanic igneous rock",
+			"q2": "C. organically formed sedimentary rock",
+			"q3": "D. mechanically formed sedimen¬tary rock",
+			"q4": "E. metarmorphic rock"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Crater lakes are most likely to occur in",
+		"opts": {
+			"q0": "A. areas of active erosion",
+			"q1": "B. regions where subsidence is taking place",
+			"q2": "C. regions of extinct volcanoes",
+			"q3": "D. heavily faulted regions",
+			"q4": "E. areas of fold mountains"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	Yardangs are best described as",
+		"opts": {
+			"q0": "A. long narrow ridges of sand lying parallel to the direction of the prevailing winds",
+			"q1": "B. steep-sided vertical bands of alternate hard and soft rocks aligned in the direction of the prevailing winds",
+			"q2": "C. flat, table-like masses with very resistant horizontal top layers and very steep sides",
+			"q3": "D. tabular, horizontal strata of alternate hard and soft rocks sculptured into a ridge and furrow landscape by wind",
+			"q4": "E. hills of sand formed by the accumulation of sand and shaped by the movement of winds"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	The seasonal variation in the volume of water in a river is known as its",
+		"opts": {
+			"q0": "A. direction",
+			"q1": "B. load",
+			"q2": "C. velocity",
+			"q3": "D. system",
+			"q4": "E. regime"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	The predominant action at the upper course of a river is",
+		"opts": {
+			"q0": "A. saltation",
+			"q1": "B. transportation",
+			"q2": "C. deposition",
+			"q3": "D. corrosion",
+			"q4": "E. corrasion"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	The word shore is best described as the zone",
+		"opts": {
+			"q0": "A. which extends from the coastline to the sea",
+			"q1": "B. between high and low water levels at the coast",
+			"q2": "C. that marks the seaward limit of the coast",
+			"q3": "D. extending under the shallow waters of the sea ",
+			"q4": "E. covered by mangroves and lagoons"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The delta of the River Nile is best described as",
+		"opts": {
+			"q0": "A. bird’s foot",
+			"q1": "B. estuarine",
+			"q2": "C. arcuate",
+			"q3": "D. cuspate",
+			"q4": "E. lacustrine"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Which of the following soils is easily water-logged?",
+		"opts": {
+			"q0": "A. Sandy soil",
+			"q1": "B. Clayey soil",
+			"q2": "C. Loamy soil",
+			"q3": "D. Lateritic soil",
+			"q4": "E. Alluvial soil"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	The green plants which serve as producer to other organisms in the ecosystem are called",
+		"opts": {
+			"q0": "A. autotrophs",
+			"q1": "B. heterotrophs",
+			"q2": "C. decomposers",
+			"q3": "D. biota",
+			"q4": "E. components"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	A major characteristic of the tropical woodland vegetation is that",
+		"opts": {
+			"q0": "A. it consists of grass and shrubs only",
+			"q1": "B. the forest consists of scattered trees only",
+			"q2": "C. it consists mainly of mangroves",
+			"q3": "D. the forest is too closely spaced to permit any undergrowth",
+			"q4": "E. its open forest permits the growth of grass"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The Westerlies and the North-East Trade Winds are similar because they both",
+		"opts": {
+			"q0": "A. originate from the Horse Latitudes of the northern hemisphere",
+			"q1": "B. blow towards the temperate low pressure belt of the northern hemisphere",
+			"q2": "C. converge at the doldrums in summer",
+			"q3": "D. carry moisture to the coasts of Europe in summer",
+			"q4": "E. blow towards the Horse Latitudes"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	If left in the open, wet clothes take a longer time to dry when",
+		"opts": {
+			"q0": "A. relative humidity is high",
+			"q1": "B. pressure is low",
+			"q2": "C. relative humidity is low",
+			"q3": "D. clouds are slow-moving",
+			"q4": "E. the wind blows from the south"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Visibility usually decreases when a",
+		"opts": {
+			"q0": "A. cold, dry wind blows over a cold current",
+			"q1": "B. body of fresh water mingles with salty water",
+			"q2": "C. warm wind blows over a warm current",
+			"q3": "D. warm dry wind rises over a high mountain",
+			"q4": "E. warm current meets a cold current"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Diurnal range of temperature is the difference between the",
+		"opts": {
+			"q0": "A. highest and the lowest temperature recorded in a station every year",
+			"q1": "B. highest and the lowest temperature recorded in a station everyday",
+			"q2": "C. highest and the lowest temperatures recorded in a station every month",
+			"q3": "D. readings of the wet bulb and the dry bulb thermometers",
+			"q4": "E. maximum and the minimum temperatures at any time of the year"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	They are tropical and subtropical storms, occuring over land, they are funnel-shaped and violent, with winds of high velocity reaching up to 330kmph. Which of the following winds is described above?",
+		"opts": {
+			"q0": "A. Chinook",
+			"q1": "B. Hurricane",
+			"q2": "C. Typhoon",
+			"q3": "D. Fohn",
+			"q4": "E. Tornado"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Which of the following population variable is not calculated in unit per thousand?",
+		"opts": {
+			"q0": "A. Birth rate",
+			"q1": "B. Death rate",
+			"q2": "C. Fertility rate",
+			"q3": "D. Growth rate",
+			"q4": "E. Migration rate"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Which of the following least influences the growth of settlements?",
+		"opts": {
+			"q0": "A. Age",
+			"q1": "B. Climate",
+			"q2": "C. Mineral resources",
+			"q3": "D. Relief",
+			"q4": "E. Manufacturing industries"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	Which of the following industries is always located at the source of its major raw material?",
+		"opts": {
+			"q0": "A. Automobile",
+			"q1": "B. Cement",
+			"q2": "C. Brewery",
+			"q3": "D. Textile",
+			"q4": "E. Leather"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	Which of the following is a disadvantage of water transport?",
+		"opts": {
+			"q0": "A. causes atmospheric pollution",
+			"q1": "B. is used for carrying agricultural commodities only",
+			"q2": "C. is not flexible",
+			"q3": "D. is not suitable for international trade",
+			"q4": "E. cannot carry bulky goods"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	One important consequence of the location of Nigeria between latitudes 4&deg; and 14&deg; North of the equator is that",
+		"opts": {
+			"q0": "A. some parts of the country enjoy a hot, wet, tropical climate throughout the year",
+			"q1": "B. the south westerly winds blow only across the coastal areas",
+			"q2": "C. all parts of the country receive rainfall throughout the year",
+			"q3": "D. all parts of the country have a luxuriant vegetation",
+			"q4": "E. the northern part of the country enjoys land and sea breezes"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Aspecialized mode of transportation used in carrying coal from Enugu to Oji River is the",
+		"opts": {
+			"q0": "A. pipeline",
+			"q1": "B. transmission line",
+			"q2": "C. rope way",
+			"q3": "D. rail cart",
+			"q4": "E. jumbo plane"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the geographical regions of Nigeria contains volcanic plugs, inselbergs and crater lake?",
+		"opts": {
+			"q0": "A. Eastern scarplands",
+			"q1": "B. Western highlands",
+			"q2": "C. North-central highland",
+			"q3": "D. Eastern highlands",
+			"q4": "E. Chad Basin"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The location of the oil refinery at Kaduna is best explained by the",
+		"opts": {
+			"q0": "A. deliberate government policy and market",
+			"q1": "B. presence of power supply and market",
+			"q2": "C. availability of raw material and capital",
+			"q3": "D. adequate transportation and labour",
+			"q4": "E. presence of raw material and government policy"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	All the following statements are true.of the savanna vegetation in Nigeria except that the",
+		"opts": {
+			"q0": "A. trees are deciduous",
+			"q1": "B. trees have thick water-storing trunks",
+			"q2": "C. trees have long tap root systems",
+			"q3": "D. grasses are tall and luxuriant in the wet season",
+			"q4": "E. trees occur in the pure stands"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	A major characteristic of local craft industry is that",
+		"opts": {
+			"q0": "A. it requires a specially built factory",
+			"q1": "B. it is mainly hereditry",
+			"q2": "C. it requires a large labour force",
+			"q3": "D. its products are used by other industries",
+			"q4": "E. its raw materials are imported"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	In Africa coral reef coasts are largely located in the",
+		"opts": {
+			"q0": "A. north-west",
+			"q1": "B. south-west",
+			"q2": "C. west",
+			"q3": "D. south",
+			"q4": "E. south-east"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Which of the following vegetation types is most common in Africa?",
+		"opts": {
+			"q0": "A. Steppe",
+			"q1": "B. Campos",
+			"q2": "C. Selvas",
+			"q3": "D. Savanna",
+			"q4": "E. Prairies"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	In Africa, the veldt is located in the",
+		"opts": {
+			"q0": "A. western coastland",
+			"q1": "B. eastern coastland",
+			"q2": "C. continental interior",
+			"q3": "D. extreme north and south",
+			"q4": "E. southern part"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	Africa has the largest potential reserves of hydro-electric power in the world due to",
+		"opts": {
+			"q0": "A. its many plateaus",
+			"q1": "B. its high demand for power",
+			"q2": "C. the abundant rainfall and waterfalls there",
+			"q3": "D. the presence of very long rivers",
+			"q4": "E. the high growth of industrial development"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	The low level of trade among West African countries is mainly because",
+		"opts": {
+			"q0": "A. of mistrust among them",
+			"q1": "B. of the language barrier",
+			"q2": "C. there is a well developed transport network",
+			"q3": "D. they produce similar goods",
+			"q4": "E. they have different currencies"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	The basin system of irrigation in the Nile Basin is not reliable because",
+		"opts": {
+			"q0": "A. too much of the water percolates into the ground",
+			"q1": "B. only a few crops can be grown",
+			"q2": "C. it is not considered suitable by some farmers",
+			"q3": "D. too much labour is involved in making the basins",
+			"q4": "E. it depends on the flow of the Nile in a particular year"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the following represents the first stage in the lumbering process?",
+		"opts": {
+			"q0": "A. Trees are felled",
+			"q1": "B. Platforms are built for buttress trees",
+			"q2": "C. Particular species are identified",
+			"q3": "D. Trees are cut into logs",
+			"q4": "E. Logs are transported by road to sawmills"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The Muturu type of cattle is reared mainly in the westerm highland region of Nigeria because",
+		"opts": {
+			"q0": "A. it has no hump",
+			"q1": "B. of the harsh weather of the North-Central highlands",
+			"q2": "C. it is resistant to tsetse flies",
+			"q3": "D. of the luxuriant pasture there",
+			"q4": "E. it produces a lot of milk"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Monoculture is a term associated with",
+		"opts": {
+			"q0": "A. livestock farming",
+			"q1": "B. arable farming",
+			"q2": "C. mixed farming",
+			"q3": "D. plantation agriculture",
+			"q4": "E. shifting cultivation"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Some plant diseases are checked during the fallow periods in the bush fallowing system of agriculture because the",
+		"opts": {
+			"q0": "A. humus accumulates over time",
+			"q1": "B. fires used in clearing the bush destroy them",
+			"q2": "C. plant species resist the diseases",
+			"q3": "D. disease organisms lose their hosts and die",
+			"q4": "E. land is heavily fragmented"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};

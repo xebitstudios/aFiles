@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_2005_sectionb_qst1_10.jpg'> Study the Map of ADUM DISTRICT and use it to answer questions 1 to 10. The scale of the map in representative fraction is",
+		"opts": {
+			"q0": "A. 1:25,000",
+			"q1": "B. 1:50,000",
+			"q2": "C. 1:100,000",
+			"q3": "D. 1:200,000",
+			"q4": "E. "
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_2005_sectionb_qst1_10.jpg'> Study the Map of ADUM DISTRICT and use it to answer questions 1 to 10. The direction of Ohewo from Ipiga is",
+		"opts": {
+			"q0": "A. North-East",
+			"q1": "B. South-West",
+			"q2": "C. North-West",
+			"q3": "D. South-East",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_2005_sectionb_qst1_10.jpg'> Study the Map of ADUM DISTRICT and use it to answer questions 1 to 10. Which of the following is a confluence town?",
+		"opts": {
+			"q0": "A. Ohewo",
+			"q1": "B. Oju",
+			"q2": "C. Ipoya",
+			"q3": "D. Ipiga",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_2005_sectionb_qst1_10.jpg'> Study the Map of ADUM DISTRICT and use it to answer questions 1 to 10. Which of the following crops is likely to be cultivated in the are liable to flooding?",
+		"opts": {
+			"q0": "A. Rice",
+			"q1": "B. Yam",
+			"q2": "C. Cocoa",
+			"q3": "D. Groundnut",
+			"q4": "E. "
+		},
+		"ans": "A", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_2005_sectionb_qst1_10.jpg'> Study the Map of ADUM DISTRICT and use it to answer questions 1 to 10. The feature marked X can be described as",
+		"opts": {
+			"q0": "A. an ox-bow lake",
+			"q1": "B. a meander",
+			"q2": "C. a spur",
+			"q3": "D. a col",
+			"q4": "E. "
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_2005_sectionb_qst1_10.jpg'> Study the Map of ADUM DISTRICT and use it to answer questions 1 to 10. The direction of flow of River Pam is",
+		"opts": {
+			"q0": "A. North-West",
+			"q1": "B. North-East",
+			"q2": "C. South-West",
+			"q3": "D. South-East",
+			"q4": "E. "
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_2005_sectionb_qst1_10.jpg'> Study the Map of ADUM DISTRICT and use it to answer questions 1 to 10. Then likely occupation of the people in Ipiga is",
+		"opts": {
+			"q0": "A. fishing",
+			"q1": "B. farming",
+			"q2": "C. mining",
+			"q3": "D. lumbering",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_2005_sectionb_qst1_10.jpg'> Study the Map of ADUM DISTRICT and use it to answer questions 1 to 10. The settlement of Ipoya can be described as",
+		"opts": {
+			"q0": "A. linear",
+			"q1": "B. clustered",
+			"q2": "C. mucleated",
+			"q3": "D. dispersed",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_2005_sectionb_qst1_10.jpg'> Study the Map of ADUM DISTRICT and use it to answer questions 1 to 10. The feature marked A-Bean best be described as",
+		"opts": {
+			"q0": "A. concave slope",
+			"q1": "B. scarp slope",
+			"q2": "C. dip slope",
+			"q3": "D. convex slope",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_2005_sectionb_qst1_10.jpg'> Study the Map of ADUM DISTRICT and use it to answer questions 1 to 10. The bearing of Ohewo from Adum is approximately",
+		"opts": {
+			"q0": "A. 225&deg;",
+			"q1": "B. 265&deg;",
+			"q2": "C. 270&deg;",
+			"q3": "D. 275&deg;",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	<img src='geo_2005_sectionb_qst11_12.jpg'> Use the above Table to answer questions 11-12. The annual range of temperature for the station is",
+		"opts": {
+			"q0": "A. 6&deg;C",
+			"q1": "B. 9&deg;C",
+			"q2": "C. 11&deg;C",
+			"q3": "D. 12&deg;C",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	<img src='geo_2005_sectionb_qst11_12.jpg'> Use the above Table to answer questions 11-12. Which of the following pairs of weather instruments were used to collect the data for the station?",
+		"opts": {
+			"q0": "A. A rain gauge and an anemometer",
+			"q1": "B. A wind vane and a thermometer",
+			"q2": "C. A thermometer and a rain gauge",
+			"q3": "D. A barometer and a rain gauge",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	What is the approximate distance of town X from the equator, if it is located on latitude 14&deg;N?",
+		"opts": {
+			"q0": "A. 1555 km",
+			"q1": "B. 1232 km ",
+			"q2": "C. 441 km",
+			"q3": "D. 42 km",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	When a warm ocean current meets a cold ocean current, they produce",
+		"opts": {
+			"q0": "A. mist",
+			"q1": "B. line squall",
+			"q2": "C. fog",
+			"q3": "D. hail",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	The distance of Planet Mercury from the sun is about",
+		"opts": {
+			"q0": "A. 40 million km",
+			"q1": "B. 50 million km",
+			"q2": "C. 57 million km",
+			"q3": "D. 60 million km",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	The most distant planet from us is",
+		"opts": {
+			"q0": "A. Neptune",
+			"q1": "B. Mars",
+			"q2": "C. Earth",
+			"q3": "D. Pluto",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Which of the following is not a proof that the earth is spherical?",
+		"opts": {
+			"q0": "A. The circular horizon",
+			"q1": "B. Sunrise and sunset",
+			"q2": "C. Varying lengths of day and night",
+			"q3": "D. Driving poles on a level ground",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	The latitudes which mark the limits of the apparent movement of the overhead sun are the",
+		"opts": {
+			"q0": "A. Tropic of Cancer and the Arctic Circle",
+			"q1": "B. Arctic and Antartic Circles",
+			"q2": "C. Tropics of Cancer and Capricorn",
+			"q3": "D. Equator and the Arctic circle",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Weathering, erosion, transportation and deposition are processes of",
+		"opts": {
+			"q0": "A. mass wasting",
+			"q1": "B. vulcanicity",
+			"q2": "C. denudation",
+			"q3": "D. exfoliation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	Which of the following factors does not affect the salinity of the oceans?",
+		"opts": {
+			"q0": "A. Rate of evaporation",
+			"q1": "B. Degree of water mixing by currents",
+			"q2": "C. Amount of fresh water added by rain",
+			"q3": "D. Shape of the ocean floor",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	Six’s thermometer is used to measure",
+		"opts": {
+			"q0": "A. maximum temperature",
+			"q1": "B. minimum temperature",
+			"q2": "C. minimum and maximum temperature",
+			"q3": "D. average temperature",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	The maximum temperature recorded for Station X in a particular day was 14&deg;C while the minimum temperature was -4&deg;C. The diural range of temperature for the day was",
+		"opts": {
+			"q0": "A. 5&deg;C",
+			"q1": "B. 9&deg;C",
+			"q2": "C. 12&deg;C",
+			"q3": "D. 18&deg;C",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	“It is warm and dusty, originates from the Sabara and reaches its lowest southard extent in the January" The above best describes the",
+		"opts": {
+			"q0": "A. Tropical Maritime airmass",
+			"q1": "B. Tropical Continental airmass",
+			"q2": "C. South Westerlies",
+			"q3": "D. Equatorial Easterlies",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Heavy rainfalls are often associated with",
+		"opts": {
+			"q0": "A. cirrus clouds",
+			"q1": "B. cumulonimbus clouds",
+			"q2": "C. nimbostratus clouds",
+			"q3": "D. alto-stratus clouds",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Which of the following gases is most abundant in the atmosphere?",
+		"opts": {
+			"q0": "A. Oxygen",
+			"q1": "B. Hydrogen",
+			"q2": "C. Argon",
+			"q3": "D. Nitrogen",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	Marble, slate and gneiss are",
+		"opts": {
+			"q0": "A. metamorphic rocks",
+			"q1": "B. sedimentary rocks",
+			"q2": "C. plutonic rocks",
+			"q3": "D. volcanic rocks",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	Which of the following is not a process of wind erosion?",
+		"opts": {
+			"q0": "A. Abrasion",
+			"q1": "B. Attrition",
+			"q2": "C. Hydraulic action",
+			"q3": "D. Deflation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Compressional forces are mainly responsible for the formation of",
+		"opts": {
+			"q0": "A. fold mountains",
+			"q1": "B. volcanic mountians and lava plateau",
+			"q2": "C. residual mountains and plains",
+			"q3": "D. block mountains",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	The instrument used for measuring the speed of wind is called",
+		"opts": {
+			"q0": "A. cup anemometer",
+			"q1": "B. speedometer",
+			"q2": "C. wind vane",
+			"q3": "D. prismatic compass",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Coastal erosion can be prevented by",
+		"opts": {
+			"q0": "A. increasing the volume of water in the ocean",
+			"q1": "B. increasing the volume of water around the coast",
+			"q2": "C. the stabilization of sandy and muddy beaches by coastal vegetation",
+			"q3": "D. the removal of sandy and muddy beaches along the coast",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	Coastlines washed by cold currents normally have",
+		"opts": {
+			"q0": "A. high temperatures",
+			"q1": "B. scanty rainfall",
+			"q2": "C. excessive rainfall",
+			"q3": "D. moderate rainfall",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	A continental shelf is economically important because it",
+		"opts": {
+			"q0": "A. is a good fishing ground",
+			"q1": "B. is good for irrigation",
+			"q2": "C. is very deep",
+			"q3": "D. constains little salt",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	The most important action in the A horizon of a soil profile is",
+		"opts": {
+			"q0": "A. eluviation",
+			"q1": "B. deposition",
+			"q2": "C. weathering",
+			"q3": "D. illuviation",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	All the following farming practices result in soil erosion except",
+		"opts": {
+			"q0": "A. ploughing of land up and down slope",
+			"q1": "B. persistent cultivation of crops in regions of inadequate rainfall",
+			"q2": "C. over-cropping",
+			"q3": "D. mixed cropping",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	Which of the following features are associated with a river capture? I Misfit river II River terrances III Elbow of capture IV Wind gap",
+		"opts": {
+			"q0": "A. I, III and IV",
+			"q1": "B. I, II, III and IV",
+			"q2": "C. I, II and IV",
+			"q3": "D. II, III and IV",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following is not a method by which rivers transport their eroded materials?",
+		"opts": {
+			"q0": "A. Suspension",
+			"q1": "B. Traction",
+			"q2": "C. Attrition",
+			"q3": "D. Solution",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following sea routes carries the heaviest traffic?",
+		"opts": {
+			"q0": "A. The Size Canal route",
+			"q1": "B. The North Atlantic sea route",
+			"q2": "C. The Capre route",
+			"q3": "D. The Panama Canal route",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	The biosphere contains all the following except",
+		"opts": {
+			"q0": "A. man",
+			"q1": "B. rocks",
+			"q2": "C. animals",
+			"q3": "D. micro-organisms",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	Land and sea breezes on a continental scale are called",
+		"opts": {
+			"q0": "A. typhoons",
+			"q1": "B. monsoons",
+			"q2": "C. the Fohn",
+			"q3": "D. the Chinook",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	The Mediterranean type of climate is best suited for",
+		"opts": {
+			"q0": "A. cattle rearing",
+			"q1": "B. fruit growing",
+			"q2": "C. rice cultivation",
+			"q3": "D. vegetable gardening",
+			"q4": "E. "
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Which of the following vegetation types is associated with the sub-equatorial type of climate?",
+		"opts": {
+			"q0": "A. Rain forest",
+			"q1": "B. Steppe",
+			"q2": "C. Montane",
+			"q3": "D. Pampas",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	Which of the following shows the correct sequence in food chain?",
+		"opts": {
+			"q0": "A. Herbivores-> carnivores-> decomposers-> plants",
+			"q1": "B. Carnivores-> decomposers-> herbivores-> plants",
+			"q2": "C. Plants-> herbivores-> carnivores-> decomposers",
+			"q3": "D. Decomposers-> herbivores-> plants-> carnivores",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	One of the major characteristics of heavy industries is that they",
+		"opts": {
+			"q0": "A. need low skilled man power",
+			"q1": "B. are mainly concentrated in the rural areas",
+			"q2": "C. need mainly female labour force",
+			"q3": "D. require high capital outlay",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	A country is said to be land-locked when",
+		"opts": {
+			"q0": "A. she experiences a free flow of traffic",
+			"q1": "B. her waterways are frozen in winter",
+			"q2": "C. she experiences a lot of traffic congestion",
+			"q3": "D. she has no direct access to the sea",
+			"q4": "E. "
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following is a major hinderance to HEP production in Africa?",
+		"opts": {
+			"q0": "A. Inadequate capital",
+			"q1": "B. Unavailibity of good sites",
+			"q2": "C. Absence of a domestic market",
+			"q3": "D. Sufficient volume of water",
+			"q4": "E. "
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	One advantage of inland water-ways is that",
+		"opts": {
+			"q0": "A. they are flexible",
+			"q1": "B. they are fast",
+			"q2": "C. goods are transported eneaply",
+			"q3": "D. river, at time, flow through areas of limited commerical value",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	Which of the folloiwng is a demerit of low population density?",
+		"opts": {
+			"q0": "A. Low crime rate",
+			"q1": "B. High per capita income",
+			"q2": "C. Inadequate labour force",
+			"q3": "D. Low pressure on social amenities",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	The most difficult problem facing lumbering in Zaire is that the",
+		"opts": {
+			"q0": "A. woods are too hard and difficult to process",
+			"q1": "B. logs are too heavy to be moved to the sawmills",
+			"q2": "C. economic trees are not found in pure stands",
+			"q3": "D. other countries are competing with Zaire in lumbering activities",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	Which of the following vegetation types is found only in the Northern hemisphere?",
+		"opts": {
+			"q0": "A. Tropical grassland",
+			"q1": "B. Equatorial forest",
+			"q2": "C. Tundra",
+			"q3": "D. Mediterranean",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	One effects of rural-urban migration on the source region is",
+		"opts": {
+			"q0": "A. rapid urbanization",
+			"q1": "B. intensive pressure on land use in rural areas",
+			"q2": "C. rural depopulation",
+			"q3": "D. urban depopulation",
+			"q4": "E. "
+		},
+		"ans": "C",
+		"sel": ""
+	},
+};

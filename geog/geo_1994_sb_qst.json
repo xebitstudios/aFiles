@@ -1,0 +1,603 @@
+"qst": {
+	"headd": "Answer all the questions",
+	"Q1": {
+		"qs": "1.	<img src='geo_1994_sectionb_qst1_10.jpg'> Use the map of GOGO DISTRICT below to answer questions 1 -10. The scale of the map expressed as a representative fraction is?",
+		"opts": {
+			"q0": "A. <sup>1</sup>&frasl;<sub>4</sub>",
+			"q1": "B. <sup>1</sup>&frasl;<sub>100</sub>",
+			"q2": "C. <sup>1</sup>&frasl;<sub>1000</sub>",
+			"q3": "D. <sup>1</sup>&frasl;<sub>10000</sub>",
+			"q4": "E. <sup>1</sup>&frasl;<sub>100000</sub>"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q2": {
+		"qs": "2.	<img src='geo_1994_sectionb_qst1_10.jpg'> Use the map of GOGO DISTRICT below to answer questions 1 -10. The actual distance as the crow flies between Finite and Ayiranis",
+		"opts": {
+			"q0": "A. 14cm",
+			"q1": "B. 15cm",
+			"q2": "C. 14km",
+			"q3": "D. 15km",
+			"q4": "E. 17km"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q3": {
+		"qs": "3.	<img src='geo_1994_sectionb_qst1_10.jpg'> Use the map of GOGO DISTRICT below to answer questions 1 -10. The compass direction of Ayiran from Gbadasi is",
+		"opts": {
+			"q0": "A. south",
+			"q1": "B. north",
+			"q2": "C. south-west",
+			"q3": "D. north-east",
+			"q4": "E. west"
+		},
+		"ans": "C", 
+		"sel": ""
+	},
+	"Q4": {
+		"qs": "4.	<img src='geo_1994_sectionb_qst1_10.jpg'> Use the map of GOGO DISTRICT below to answer questions 1 -10. Which of the following settlements is located at the highest altitude?",
+		"opts": {
+			"q0": "A. Kaib",
+			"q1": "B. Ayiran",
+			"q2": "C. Finite",
+			"q3": "D. Wusu",
+			"q4": "E. Abo"
+		},
+		"ans": "D", 
+		"sel": ""
+	},
+	"Q5": {
+		"qs": "5.	<img src='geo_1994_sectionb_qst1_10.jpg'> Use the map of GOGO DISTRICT below to answer questions 1 -10. Wusu is located on",
+		"opts": {
+			"q0": "A. an isolated cliff",
+			"q1": "B. a steep sided highland",
+			"q2": "C. a gently slopping ridge",
+			"q3": "D. a dissected plateau",
+			"q4": "E. a hanging valley"
+		},
+		"ans": "B", 
+		"sel": ""
+	},
+	"Q6": {
+		"qs": "6.	<img src='geo_1994_sectionb_qst1_10.jpg'> Use the map of GOGO DISTRICT below to answer questions 1 -10. Bubu is not likely to be visible from",
+		"opts": {
+			"q0": "A. Kaib",
+			"q1": "B. Abo",
+			"q2": "C. Wusu",
+			"q3": "D. Gbadasi",
+			"q4": "E. Ket"
+		},
+		"ans": "E", 
+		"sel": ""
+	},
+	"Q7": {
+		"qs": "7.	<img src='geo_1994_sectionb_qst1_10.jpg'> Use the map of GOGO DISTRICT below to answer questions 1 -10. The feature marked Y on the map is",
+		"opts": {
+			"q0": "A. an oxbow lake",
+			"q1": "B. a lagoon",
+			"q2": "C. a sand bar",
+			"q3": "D. a meander",
+			"q4": "E. a barchan"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q8": {
+		"qs": "8.	<img src='geo_1994_sectionb_qst1_10.jpg'> Use the map of GOGO DISTRICT below to answer questions 1 -10. The pattern of communication lines in the map is most influenced by",
+		"opts": {
+			"q0": "A. vegetation and climate",
+			"q1": "B. drainage and climate",
+			"q2": "C. relief and drainage",
+			"q3": "D. climate and relief",
+			"q4": "E. vegetation and drainage"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q9": {
+		"qs": "9.	<img src='geo_1994_sectionb_qst1_10.jpg'> Use the map of GOGO DISTRICT below to answer questions 1 -10. The main economic activity of the people around Gogo is most likely to be",
+		"opts": {
+			"q0": "A. mining",
+			"q1": "B. fishing",
+			"q2": "C. lumbering",
+			"q3": "D. animal rearing",
+			"q4": "E. Farming"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q10": {
+		"qs": "10.	<img src='geo_1994_sectionb_qst1_10.jpg'> Use the map of GOGO DISTRICT below to answer questions 1 -10. A traveller going to Gogo from the south by road is most likely to pass through a",
+		"opts": {
+			"q0": "A. floodplain",
+			"q1": "B. river port",
+			"q2": "C. bridge",
+			"q3": "D. forest reserve",
+			"q4": "E. gap"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q11": {
+		"qs": "11.	The equatorial diameter of the earth is approximately",
+		"opts": {
+			"q0": "A. 6.760km",
+			"q1": "B. 8.760km",
+			"q2": "C. 10.760km",
+			"q3": "D. 12.760km",
+			"q4": "E. 14.760km"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q12": {
+		"qs": "12.	When the sun is directly overhead at the tropic of Capricorn (23<sup>1</sup>&frasl;<sub>2</sub>&deg;S) on 22nd December, the Northern Hemisphere experiences its",
+		"opts": {
+			"q0": "A. twilight",
+			"q1": "B. winter solstice",
+			"q2": "C. summer solstice",
+			"q3": "D. spring equinox",
+			"q4": "E. autumn equinox"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q13": {
+		"qs": "13.	If the local time at a place X is 12.00 noon when the G.M.T is 5.00a.m then X is located on longitude",
+		"opts": {
+			"q0": "A. 105&deg;E",
+			"q1": "B. 105&deg;W",
+			"q2": "C. 75&deg;W",
+			"q3": "D. 75&deg;E",
+			"q4": "E. 180&deg;E"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q14": {
+		"qs": "14.	They are formed in layers and derived from old rocks and the remains of dead organic materials. This description refers to",
+		"opts": {
+			"q0": "A. metamorphic rocks",
+			"q1": "B. igneous rocks",
+			"q2": "C. intrusive rocks",
+			"q3": "D. crystalline rocks",
+			"q4": "E. sedimentary rocks"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q15": {
+		"qs": "15.	Which of the following rock types is coal associated with?",
+		"opts": {
+			"q0": "A. Mechanically-formed sedimentary rocks",
+			"q1": "B. Hard crystalline rocks",
+			"q2": "C. Organically-formed sedimentary rocks",
+			"q3": "D. Pultonic igneous rocks",
+			"q4": "E. Volcanic igneous rocks"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q16": {
+		"qs": "16.	A large expanse of low, level land, formed due to an uplift of part of the sea floor bordering a continent is called",
+		"opts": {
+			"q0": "A. a flood plain",
+			"q1": "B. an outwash plain",
+			"q2": "C. a deltaic plain",
+			"q3": "D. a high plain",
+			"q4": "E. a coastal plain"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q17": {
+		"qs": "17.	Mountains formed as a result of compressional forces in the earth’s crust are",
+		"opts": {
+			"q0": "A. block mountains",
+			"q1": "B. fold mountains",
+			"q2": "C. volcanic mountains",
+			"q3": "D. residual mountains",
+			"q4": "E. dissected mountains"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q18": {
+		"qs": "18.	All the following are causes of mechanical weathering except",
+		"opts": {
+			"q0": "A. temperature changes",
+			"q1": "B. rain action",
+			"q2": "C. alternate wetting and drying",
+			"q3": "D. frost action",
+			"q4": "E. action of plants and animals"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q19": {
+		"qs": "19.	Which of the following best explains why wind action is more predominant in Arid regions than in Humid regions?",
+		"opts": {
+			"q0": "A. Loose surface materials and the absence of vegetation cover",
+			"q1": "B. Excessively high temperature during the day and night",
+			"q2": "C. Insufficient and unreliable rainfall",
+			"q3": "D. Lack of surface drainage and the presence of strong winds",
+			"q4": "E. Gently rolling terrain and fast-flowing rivers"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q20": {
+		"qs": "20.	<img src='geo_1994_sectionb_qst20_22.jpg'> Use the climatic chart below to answer questions 20-22. The annual range of temperature for the station is",
+		"opts": {
+			"q0": "A. 15&deg;C",
+			"q1": "B. 14&deg;C",
+			"q2": "C. 13&deg;C",
+			"q3": "D. 12&deg;C",
+			"q4": "E. 11&deg;C"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q21": {
+		"qs": "21.	<img src='geo_1994_sectionb_qst20_22.jpg'> Use the climatic chart below to answer questions 20-22. The mean monthly temperature is",
+		"opts": {
+			"q0": "A. 15.55&deg;C",
+			"q1": "B. 16.61&deg;C",
+			"q2": "C. 17.67&deg;C",
+			"q3": "D. 18.88&deg;C",
+			"q4": "E. 19.56&deg;C"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q22": {
+		"qs": "22.	<img src='geo_1994_sectionb_qst20_22.jpg'> Use the climatic chart below to answer questions 20-22. The annual rainfall in millimeters is",
+		"opts": {
+			"q0": "A. 687",
+			"q1": "B. 786",
+			"q2": "C. 867",
+			"q3": "D. 887",
+			"q4": "E. 975"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q23": {
+		"qs": "23.	Temperatures of adjacent coastlands are reduced when on-shore winds blow over cold currents because the",
+		"opts": {
+			"q0": "A. rainfall in such areas is usually heavy",
+			"q1": "B. current influences the air pressure",
+			"q2": "C. current influences the temperature of the prevailing winds",
+			"q3": "D. temperature influences the speed of the wind",
+			"q4": "E. current increases the total rainfall in such areas"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q24": {
+		"qs": "24.	Winds whose direction is reversed from one season to the other are called the",
+		"opts": {
+			"q0": "A. Harmattan",
+			"q1": "B. Mistral",
+			"q2": "C. Fohn",
+			"q3": "D. Monsoon",
+			"q4": "E. Chinook"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q25": {
+		"qs": "25.	Koppen’s classification of climate is based on",
+		"opts": {
+			"q0": "A. temperature and pressure",
+			"q1": "B. pressure only",
+			"q2": "C. winds and humidity",
+			"q3": "D. precipitation and temperature",
+			"q4": "E. rainfall only"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q26": {
+		"qs": "26.	The dry adiabatic lapse rate refers to the fall in temperature with height of",
+		"opts": {
+			"q0": "A. 0.0065&deg;C per 1000m",
+			"q1": "B. 0.065&deg;C per 1000m",
+			"q2": "C. 0.65&deg;C per 1000m",
+			"q3": "D. 6.5&deg;C per 1000m",
+			"q4": "E. 65.0&deg;C per 1000m"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q27": {
+		"qs": "27.	The size of the individual grains of soil is referred to as the",
+		"opts": {
+			"q0": "A. profile",
+			"q1": "B. porosity",
+			"q2": "C. density",
+			"q3": "D. colloid",
+			"q4": "E. texture"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q28": {
+		"qs": "28.	Which of the following soil types is the most permeable?",
+		"opts": {
+			"q0": "A. Loam",
+			"q1": "B. Clay",
+			"q2": "C. Sand",
+			"q3": "D. Laterite",
+			"q4": "E. Peat"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q29": {
+		"qs": "29.	Trees in Sudan savanna adapt to the climate of their environment by",
+		"opts": {
+			"q0": "A. having large lateral roots with waxy hairy and broad leaves",
+			"q1": "B. developed thick, succulent stems to store up water",
+			"q2": "C. shedding leaves in the dry seasons and having long tap roots with umbrella-shaped crowns",
+			"q3": "D. producing seeds which lie dormant during the dry season",
+			"q4": "E. developing broad, lateral root system for support"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q30": {
+		"qs": "30.	Which of the following names refers to temperate grasslands?",
+		"opts": {
+			"q0": "A. Lianos",
+			"q1": "B. Campos",
+			"q2": "C. Montane",
+			"q3": "D. Steppes",
+			"q4": "E. Alpine"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q31": {
+		"qs": "31.	In which of the following natural vegetation belts are greenheart, mahogany and ebony commonly found?",
+		"opts": {
+			"q0": "A. Selvas",
+			"q1": "B. Marguis",
+			"q2": "C. Taiga",
+			"q3": "D. Veldt",
+			"q4": "E. Campos"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q32": {
+		"qs": "32.	Desert encroachment can best be controlled by",
+		"opts": {
+			"q0": "A. erecting barriers",
+			"q1": "B. deforestation",
+			"q2": "C. overgrazing",
+			"q3": "D. slopewise cultivation",
+			"q4": "E. afforestation"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q33": {
+		"qs": "33.	A state of inter-dependence within the ecosystem is best achieved where the components",
+		"opts": {
+			"q0": "A. compete with each other",
+			"q1": "B. are undisturbed",
+			"q2": "C. are controlled",
+			"q3": "D. are independent",
+			"q4": "E. are similar in nature"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q34": {
+		"qs": "34.	An aquifer is",
+		"opts": {
+			"q0": "A. a permeable rock layer in which water is stored",
+			"q1": "B. a non-porous rock",
+			"q2": "C. an impermeable rock layer in a desert",
+			"q3": "D. an impervious and impermeable rock",
+			"q4": "E. a well-jointed rock layer"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q35": {
+		"qs": "35.	The best example of a non-renewable resource among the following is",
+		"opts": {
+			"q0": "A. water",
+			"q1": "B. man",
+			"q2": "C. minerals",
+			"q3": "D. air",
+			"q4": "E. vegetation"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q36": {
+		"qs": "36.	Which of the following factors least affects population concentration in the North-east of USA?",
+		"opts": {
+			"q0": "A. Mineral resources",
+			"q1": "B. Climate",
+			"q2": "C. Employment opportunities",
+			"q3": "D. Accessibility",
+			"q4": "E. Flood"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q37": {
+		"qs": "37.	Which of the following has the highest population concentration?",
+		"opts": {
+			"q0": "A. Tropical Asia",
+			"q1": "B. Peninsular Europe",
+			"q2": "C. Temperate interior of North America",
+			"q3": "D. Temperate coastland of South America",
+			"q4": "E. Tropical interior of Africa"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q38": {
+		"qs": "38.	Which of the following is an effect of rural-urban migration on the source region?",
+		"opts": {
+			"q0": "A. Rural depopulation",
+			"q1": "B. Urban depopulation",
+			"q2": "C. Rural congestion",
+			"q3": "D. Rural unemployment",
+			"q4": "E. Urban congestion"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q39": {
+		"qs": "39.	One characteristic that distinguishes urban settlements from rural settlements is that",
+		"opts": {
+			"q0": "A. rural settlements are areas of secondary activities",
+			"q1": "B. urban settlements are areas of primary activities",
+			"q2": "C. both primary and tertiary activities predominate in urban settlements",
+			"q3": "D. rural settlements are areas of tertiary activities",
+			"q4": "E. urban settlements are areas of secondary and tertiary activities"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q40": {
+		"qs": "40.	A conurbation is a settlement",
+		"opts": {
+			"q0": "A. with about 500,000 people",
+			"q1": "B. whose people are predominantly farmers",
+			"q2": "C. in which two or more towns have joined together with each retaining its identity",
+			"q3": "D. where a large number of towns join together over a considerable area",
+			"q4": "E. whose industrial and residential suburbs have expanded to give an urban sprawl"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q41": {
+		"qs": "41.	Urbanisation can be described as the",
+		"opts": {
+			"q0": "A. growth of towns, especially in terms of human population and physical size",
+			"q1": "B. eventual merging of two urban centres to form a single, sprawling city",
+			"q2": "C. migration of people from urban to rural areas",
+			"q3": "D. migration of people from one urban centre to another",
+			"q4": "E. merging of two or more cities to form a continuous settlement"
+		},
+		"ans": "A",
+		"sel": ""
+	},
+	"Q42": {
+		"qs": "42.	One relative advantage of water transport over road transport is its",
+		"opts": {
+			"q0": "A. capacity for passenger traffic only",
+			"q1": "B. ability to link all parts of any country",
+			"q2": "C. suitability for bulky and heavy cargo",
+			"q3": "D. great speed overlong distances",
+			"q4": "E. being less affected by bad weather"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q43": {
+		"qs": "43.	Which of the following regions in Nigeria has an average height of over 100 metres above sea level?",
+		"opts": {
+			"q0": "A. Biu Plateau",
+			"q1": "B. North-Central Highlands",
+			"q2": "C. Adamawa Highlands",
+			"q3": "D. Udi Plateau",
+			"q4": "E. Western Highlands"
+		},
+		"ans": "E",
+		"sel": ""
+	},
+	"Q44": {
+		"qs": "44.	The development of hydro-electric power in Nigeria is least affected by the",
+		"opts": {
+			"q0": "A. rapid increase in demand for electricity",
+			"q1": "B. a regular supply of water",
+			"q2": "C. availability of suitable sites for dams",
+			"q3": "D. presence of high mountains",
+			"q4": "E. high cost of construction"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q45": {
+		"qs": "45.	Which of the following best explains the drift of population from rural areas to the cities in Nigeria?",
+		"opts": {
+			"q0": "A. The cost of living in the cities is very high",
+			"q1": "B. There are more job opportunities in the cities",
+			"q2": "C. There is food scarcity in the rural areas",
+			"q3": "D. Better recreational facilities are available in the cities",
+			"q4": "E. Opportunities for higher education are only available in the cities"
+		},
+		"ans": "B",
+		"sel": ""
+	},
+	"Q46": {
+		"qs": "46.	Which of the following least influences population density in Nigeria?",
+		"opts": {
+			"q0": "A. Mining",
+			"q1": "B. Fertile agricultural land",
+			"q2": "C. Thick forest vegetation",
+			"q3": "D. Tsetsefly infestation",
+			"q4": "E. Industrialisation"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q47": {
+		"qs": "47.	All the following are advantages of the bush fallowing system in West Africa except that it",
+		"opts": {
+			"q0": "A. allows land to regain its fertility during fallow",
+			"q1": "B. is very economical in the use of land",
+			"q2": "C. reduces the need for the use of artificial fertilizers",
+			"q3": "D. could lead to soil erosion",
+			"q4": "E. requires little technological input"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q48": {
+		"qs": "48.	Which of the following best accounts for the decline in the importance of rail transport in Africa?",
+		"opts": {
+			"q0": "A. Low volume of goods available for transportation",
+			"q1": "B. Threat of retrenchment of railway workers",
+			"q2": "C. High competition from road transport",
+			"q3": "D. Short distances covered by railways",
+			"q4": "E. Frequent accidents recorded on railways"
+		},
+		"ans": "C",
+		"sel": ""
+	},
+	"Q49": {
+		"qs": "49.	All the following are members of the ECOWAS except",
+		"opts": {
+			"q0": "A. Cote d’Ivoire",
+			"q1": "B. Senegal",
+			"q2": "C. Burkina Faso",
+			"q3": "D. Cameroun",
+			"q4": "E. Guinea Bissau"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+	"Q50": {
+		"qs": "50.	Which of the following dams in Africa provides both irrigation water and hydro-electricity?",
+		"opts": {
+			"q0": "A. Gezira",
+			"q1": "B. Kanji",
+			"q2": "C. Cabora Bassa",
+			"q3": "D. Aswan",
+			"q4": "E. Akosombo"
+		},
+		"ans": "D",
+		"sel": ""
+	},
+};
